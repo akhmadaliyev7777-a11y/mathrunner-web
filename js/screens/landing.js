@@ -29,7 +29,7 @@ export function render(root, _params) {
       el('div', { class: 'kcard__go', style: `color:${g.color.accentDark}` }, 'Kirish',
         el('span', { style: 'width:16px;height:16px', html: ICON.arrowRight }))));
 
-  const gchip = (icon, label) => el('div', { class: 'gchip' },
+  const gchip = (icon, label) => el('a', { class: 'gchip', href: '#/games' },
     el('span', { style: 'width:30px;height:30px;color:var(--violet)', html: icon }),
     el('div', { html: label }));
 
@@ -38,7 +38,7 @@ export function render(root, _params) {
     el('h3', {}, title), el('p', {}, body));
 
   root.replaceChildren(
-    nav(null),
+    nav('mavzular'),
     el('main', { class: 'wrap' },
       // hero
       el('div', { class: 'hero' },
@@ -66,7 +66,10 @@ export function render(root, _params) {
         el('div', { class: 'kingdoms' }, ...cur.grades.map(kcard))),
       // games
       el('section', { class: 'section' },
-        el('h2', {}, 'Fikrlash o\'yinlari'),
+        el('div', { class: 'section__head' },
+          el('h2', {}, 'Fikrlash o\'yinlari'),
+          el('a', { class: 'section__more', href: '#/games' }, 'Barchasini ochish',
+            el('span', { style: 'width:16px;height:16px', html: ICON.arrowRight }))),
         el('p', { class: 'section__lead' }, 'Yugurish va zarba o\'yinlari bu yerda yo\'q — faqat brauzerda silliq ishlaydigan jumboqlar.'),
         el('div', { class: 'games-strip' },
           gchip(ICON.venn, 'To\'plamlar<br>(Venn)'),
