@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok39_level1_yak_01", "question": "Mashina 60 km/soat tezlikda 3 soat yurdi. Necha km yo'l bosdi?", "correctAnswer": 180, "wrongAnswers": [20, 63]},
+  {"id": "sinf4_chorak2_blok39_level1_yak_02", "question": "Sonli nurda A nuqta 4 da, B nuqta 11 da. Ular orasidagi masofa necha birlik?", "correctAnswer": 7, "wrongAnswers": [15, 4]},
+  {"id": "sinf4_chorak2_blok39_level1_yak_03", "question": "374 ni o'nliklargacha yaxlitlang.", "correctAnswer": 370, "wrongAnswers": [380, 400]},
+  {"id": "sinf4_chorak2_blok39_level1_yak_04", "question": "Uchburchakning tomonlari 6, 8, 10 sm. Perimetri necha sm?", "correctAnswer": 24, "wrongAnswers": [48, 14]},
+  {"id": "sinf4_chorak2_blok39_level1_yak_05", "question": "Chamalang: 41 × 19 taxminan qancha?", "correctAnswer": 800, "wrongAnswers": [60, 8000]},
+  {"id": "sinf4_chorak2_blok39_level1_yak_06", "question": "Shakl 10 ta to'liq katakni egallagan. Har katak 1 sm². Yuzasi necha sm²?", "correctAnswer": 10, "wrongAnswers": [1, 20]},
+  {"id": "sinf4_chorak2_blok39_level1_yak_07", "question": "Rost yoki yolg'on: \"Sinfda 27 o'quvchi bor\" — bu aniq qiymat.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak2_blok39_level1_yak_08", "question": "Qulay usulda hisoblang: 998 + 5 = ?", "correctAnswer": 1003, "wrongAnswers": [1000, 993]},
+  {"id": "sinf4_chorak2_blok39_level1_yak_09", "question": "Ikki mashina bir-biriga qarab keladi (30 va 20 km/soat). Yaqinlashish tezligi qancha?", "correctAnswer": 50, "wrongAnswers": [10, 600]},
+  {"id": "sinf4_chorak2_blok39_level1_yak_10", "question": "820 ni yuzliklargacha ORTIG'I bilan yaxlitlang.", "correctAnswer": 900, "wrongAnswers": [800, 820]}
+]

@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok1_level1_joy_01", "question": "34 507 sonida 3 raqami qaysi xonada turibdi?", "correctAnswer": "o'n minglar", "wrongAnswers": ["minglar", "yuzlar"]},
+  {"id": "sinf4_chorak1_blok1_level1_joy_02", "question": "72 065 sonining o'nlar xonasidagi raqam qaysi?", "correctAnswer": 6, "wrongAnswers": [0, 2]},
+  {"id": "sinf4_chorak1_blok1_level1_joy_03", "question": "805 302 sonida yuz minglar xonasida qaysi raqam turibdi?", "correctAnswer": 8, "wrongAnswers": [5, 0]},
+  {"id": "sinf4_chorak1_blok1_level1_joy_04", "question": "\"Qirq besh ming uch yuz\" soni raqamlar bilan qanday yoziladi?", "correctAnswer": 45300, "wrongAnswers": [45030, 4530]},
+  {"id": "sinf4_chorak1_blok1_level1_joy_05", "question": "60 004 soni qanday o'qiladi?", "correctAnswer": "oltmish ming to'rt", "wrongAnswers": ["oltmish ming qirq", "olti ming to'rt"]},
+  {"id": "sinf4_chorak1_blok1_level1_joy_06", "question": "50 000 soni nechta xonadan iborat?", "correctAnswer": 5, "wrongAnswers": [4, 6]},
+  {"id": "sinf4_chorak1_blok1_level1_joy_07", "question": "9 999 soniga 1 ni qo'shsak nechi bo'ladi?", "correctAnswer": 10000, "wrongAnswers": [9998, 100000]},
+  {"id": "sinf4_chorak1_blok1_level1_joy_08", "question": "\"Yetti yuz ming\" soni raqamlar bilan qanday yoziladi?", "correctAnswer": 700000, "wrongAnswers": [70000, 7000000]},
+  {"id": "sinf4_chorak1_blok1_level1_joy_09", "question": "48 500 sonida minglar xonasidagi raqam qaysi?", "correctAnswer": 8, "wrongAnswers": [4, 5]},
+  {"id": "sinf4_chorak1_blok1_level1_joy_10", "question": "1 000 000 soni necha xonali?", "correctAnswer": 7, "wrongAnswers": [6, 8]}
+]

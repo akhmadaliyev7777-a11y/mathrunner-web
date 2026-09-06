@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok29_level2_quvlama_01", "question": "Yuk mashinasi 40 km/soat, avtobus 60 km/soat tezlikda bir tomonga ketmoqda. Avtobus yuk mashinasiga soatiga qancha yaqinlashadi?", "correctAnswer": 20, "wrongAnswers": [100, 24]},
+  {"id": "sinf4_chorak2_blok29_level2_quvlama_02", "question": "Piyoda 5 km/soat, velosipedchi 15 km/soat. Velosipedchi 30 km orqada. Necha soatda quvib yetadi?", "correctAnswer": 3, "wrongAnswers": [45, 10]},
+  {"id": "sinf4_chorak2_blok29_level2_quvlama_03", "question": "Mashina A 30 km/soat, mashina B 50 km/soat. B, A dan 40 km orqada. Necha soatda yetib oladi?", "correctAnswer": 2, "wrongAnswers": [20, 80]},
+  {"id": "sinf4_chorak2_blok29_level2_quvlama_04", "question": "Ali: \"Quvlama harakatda yaqinlashish tezligi = 60 + 40 = 100 km/soat\" dedi. Xatosi nimada?", "correctAnswer": "Quvlama harakatda tezliklar AYIRILADI: 60 − 40 = 20", "wrongAnswers": ["Xato yo'q", "Bo'lish kerak edi"]},
+  {"id": "sinf4_chorak2_blok29_level2_quvlama_05", "question": "Ikki poyezd bir yo'nalishda: 70 va 90 km/soat. Sekini 80 km oldinda. Necha soatda tezi yetib oladi?", "correctAnswer": 4, "wrongAnswers": [20, 8]},
+  {"id": "sinf4_chorak2_blok29_level2_quvlama_06", "question": "Quvib yetish tezligi 15 km/soat. Orqadagi jism 4 soatda oldingi jismgacha bo'lgan masofani qancha kamaytiradi?", "correctAnswer": 60, "wrongAnswers": [19, 11]},
+  {"id": "sinf4_chorak2_blok29_level2_quvlama_07", "question": "Ot 20 km/soat, mashina 60 km/soat. Ot 80 km oldinda. Mashina otni necha soatda quvib yetadi?", "correctAnswer": 2, "wrongAnswers": [40, 4]},
+  {"id": "sinf4_chorak2_blok29_level2_quvlama_08", "question": "Ikki velosipedchi bir yo'nalishda 12 va 18 km/soat. Ular orasida 24 km. Tezrogi ikkinchisini necha soatda quvib yetadi?", "correctAnswer": 4, "wrongAnswers": [6, 2]},
+  {"id": "sinf4_chorak2_blok29_level2_quvlama_09", "question": "Sekin mashina tez mashinadan 45 km oldinda. Tez mashina uni 3 soatda quvib yetdi. Quvib yetish tezligi qancha edi?", "correctAnswer": 15, "wrongAnswers": [48, 42]},
+  {"id": "sinf4_chorak2_blok29_level2_quvlama_10", "question": "Bo'ri 12 km/soat, kiyik 8 km/soat. Kiyik 12 km oldinda. Bo'ri kiyikni necha soatda quvib yetadi?", "correctAnswer": 3, "wrongAnswers": [4, 1]}
+]

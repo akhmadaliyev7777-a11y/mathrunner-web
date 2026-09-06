@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b17l3_01",
+    "question": "□ - 3 = 4. □ qancha?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": "s1c1b17l3_02",
+    "question": "□ - 5 = 2. □ qancha?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      3,
+      8
+    ]
+  },
+  {
+    "id": "s1c1b17l3_03",
+    "question": "10 - □ = 6. □ qancha?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      16,
+      5
+    ]
+  },
+  {
+    "id": "s1c1b17l3_04",
+    "question": "9 - □ = 2. □ qancha?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      11,
+      6
+    ]
+  },
+  {
+    "id": "s1c1b17l3_05",
+    "question": "Noma'lum kamayuvchini topish uchun ayirma bilan ayriluvchini ...",
+    "correctAnswer": "qo'shamiz",
+    "wrongAnswers": [
+      "ayiramiz",
+      "taqqoslaymiz"
+    ]
+  },
+  {
+    "id": "s1c1b17l3_06",
+    "question": "Noma'lum ayriluvchini topish uchun kamayuvchidan ayirmani ...",
+    "correctAnswer": "ayiramiz",
+    "wrongAnswers": [
+      "qo'shamiz",
+      "taqqoslaymiz"
+    ]
+  },
+  {
+    "id": "s1c1b17l3_07",
+    "question": "□ - 1 = 9. □ qancha?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      8,
+      1
+    ]
+  },
+  {
+    "id": "s1c1b17l3_08",
+    "question": "8 - □ = 8. □ qancha?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      8,
+      16
+    ]
+  },
+  {
+    "id": "s1c1b17l3_09",
+    "question": "□ - 2 = 5 tenglamada □ = 7.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b17l3_10",
+    "question": "Xato: \"10 - □ = 3\" uchun □ = 13 deyildi. To'g'ri □ qancha?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      13,
+      6
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok26_level2_yvt_01", "question": "300 km yo'lni mashina 5 soatda bosdi. Uning tezligi qancha (km/soat)?", "correctAnswer": 60, "wrongAnswers": [305, 15]},
+  {"id": "sinf4_chorak2_blok26_level2_yvt_02", "question": "Mashina 80 km/soat tezlik bilan 240 km ni necha soatda bosadi?", "correctAnswer": 3, "wrongAnswers": [160, 320]},
+  {"id": "sinf4_chorak2_blok26_level2_yvt_03", "question": "Poyezd 4 soatda 320 km yurdi. Uning tezligi qancha?", "correctAnswer": 80, "wrongAnswers": [324, 20]},
+  {"id": "sinf4_chorak2_blok26_level2_yvt_04", "question": "Aziz: \"150 km yo'l, 3 soat. Tezlik = 150 + 3 = 153 km/soat\" dedi. Xatosi nimada?", "correctAnswer": "Bo'lish kerak: 150 : 3 = 50 km/soat", "wrongAnswers": ["Qo'shish to'g'ri", "Ko'paytirish kerak edi"]},
+  {"id": "sinf4_chorak2_blok26_level2_yvt_05", "question": "Velosipedchi 60 km ni 12 km/soat tezlikda necha soatda bosadi?", "correctAnswer": 5, "wrongAnswers": [72, 48]},
+  {"id": "sinf4_chorak2_blok26_level2_yvt_06", "question": "Piyoda 5 soatda 20 km yurdi. Uning o'rtacha tezligi qancha?", "correctAnswer": 4, "wrongAnswers": [25, 15]},
+  {"id": "sinf4_chorak2_blok26_level2_yvt_07", "question": "Mashina 90 km/soat tezlikda yuradi. 2 soat va yana yarim soatda necha km yo'l bosadi?", "correctAnswer": 225, "wrongAnswers": [180, 270]},
+  {"id": "sinf4_chorak2_blok26_level2_yvt_08", "question": "500 km masofani 100 km/soat tezlikdagi mashina necha soatda bosadi?", "correctAnswer": 5, "wrongAnswers": [50, 400]},
+  {"id": "sinf4_chorak2_blok26_level2_yvt_09", "question": "Chamalang: 78 km/soat × 4 soat taxminan qancha? Eng yaqin javob.", "correctAnswer": 320, "wrongAnswers": [80, 3200]},
+  {"id": "sinf4_chorak2_blok26_level2_yvt_10", "question": "Ikki shahar orasi 360 km. Mashina 60 km/soat tezlikda yo'lga chiqdi. 4 soatdan keyin yana necha km qoladi?", "correctAnswer": 120, "wrongAnswers": [240, 300]}
+]

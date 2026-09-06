@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b52l1_01",
+    "question": "Kesma chizishni qaysi sondan boshlaymiz (chizg'ichda)?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      1,
+      10
+    ]
+  },
+  {
+    "id": "s1c4b52l1_02",
+    "question": "AB kesma 6 sm, BC kesma 3 sm. AC kesma (bir to'g'ri chiziqda) necha sm?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      3,
+      18
+    ]
+  },
+  {
+    "id": "s1c4b52l1_03",
+    "question": "10 sm li kesmadan 4 sm kesib olindi. Necha sm qoldi?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      14,
+      5
+    ]
+  },
+  {
+    "id": "s1c4b52l1_04",
+    "question": "Kesmaning nechta uchi bor?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "s1c4b52l1_05",
+    "question": "Kesma 7 sm edi, 5 sm ga uzaytirdik. Necha sm bo'ldi?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      2,
+      35
+    ]
+  },
+  {
+    "id": "s1c4b52l1_06",
+    "question": "Siniq chiziq bo'g'inlari: 4 sm, 3 sm, 5 sm. Uzunligi necha sm?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      7,
+      9
+    ]
+  },
+  {
+    "id": "s1c4b52l1_07",
+    "question": "Berilgan uzunlikda kesma chizish uchun qaysi asbob kerak?",
+    "correctAnswer": "chizg'ich",
+    "wrongAnswers": [
+      "tarozi",
+      "sirkul"
+    ]
+  },
+  {
+    "id": "s1c4b52l1_08",
+    "question": "Kesma uzunligini o'lchab bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b52l1_09",
+    "question": "AB = 8 sm, CD = 8 sm. Bu kesmalar ...",
+    "correctAnswer": "teng",
+    "wrongAnswers": [
+      "har xil",
+      "biri uzun"
+    ]
+  },
+  {
+    "id": "s1c4b52l1_10",
+    "question": "5 bo'g'inli siniq chiziq, har bo'g'ini 2 sm. Uzunligi necha sm?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      7,
+      12
+    ]
+  }
+]

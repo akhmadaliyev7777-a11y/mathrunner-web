@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak4_blok61_level2_yuza_01", "question": "Nostandart shaklni 5×4 = 20 katakli to'g'ri to'rtburchakkacha to'ldirdik, qo'shilgan katak 6 ta. Shaklning yuzasi necha katak?", "correctAnswer": 14, "wrongAnswers": [26, 20]},
+  {"id": "sinf4_chorak4_blok61_level2_yuza_02", "question": "6×3 = 18 katakli to'g'ri to'rtburchak. Shaklga yetmaydigan qism 4 katak. Shaklning yuzasi necha katak?", "correctAnswer": 14, "wrongAnswers": [22, 18]},
+  {"id": "sinf4_chorak4_blok61_level2_yuza_03", "question": "Serpinskiy uchburchagida bitta uchburchakni 4 ta kichik uchburchakka bo'lsak, nechtasini olib tashlaymiz?", "correctAnswer": 1, "wrongAnswers": [3, 4]},
+  {"id": "sinf4_chorak4_blok61_level2_yuza_04", "question": "Serpinskiy uchburchagida 1-qadamdan keyin nechta kichik (rangli) uchburchak qoladi?", "correctAnswer": 3, "wrongAnswers": [1, 4]},
+  {"id": "sinf4_chorak4_blok61_level2_yuza_05", "question": "Aziz nostandart shakl yuzasini faqat to'liq kataklarni sanab 10 sm² dedi (yarim kataklarni hisobga olmadi). Xatosi nimada?", "correctAnswer": "Yarim kataklarni ham hisobga olish kerak (2 tasi 1 sm² beradi)", "wrongAnswers": ["Xato yo'q", "Yarim kataklar sanalmaydi"]},
+  {"id": "sinf4_chorak4_blok61_level2_yuza_06", "question": "Shaklni to'g'ri to'rtburchakkacha to'ldirib yuzani topish usuli qachon qulay?", "correctAnswer": "Shakl to'g'ri to'rtburchakka yaqin bo'lganda", "wrongAnswers": ["Har doim", "Hech qachon"]},
+  {"id": "sinf4_chorak4_blok61_level2_yuza_07", "question": "8×5 = 40 katakli to'rtburchakdan 12 katak ortiqcha. Shaklning yuzasi necha katak?", "correctAnswer": 28, "wrongAnswers": [52, 40]},
+  {"id": "sinf4_chorak4_blok61_level2_yuza_08", "question": "Fraktal nima?", "correctAnswer": "O'zini takrorlovchi (o'z-o'ziga o'xshash) shakl", "wrongAnswers": ["Faqat uchburchaklar", "Katta doira"]},
+  {"id": "sinf4_chorak4_blok61_level2_yuza_09", "question": "Serpinskiy uchburchagida 2-qadamdan keyin nechta rangli kichik uchburchak bo'ladi?", "correctAnswer": 9, "wrongAnswers": [6, 3]},
+  {"id": "sinf4_chorak4_blok61_level2_yuza_10", "question": "Nostandart shakl 22 ta to'liq va 10 ta yarim katak. Yuza necha sm²?", "correctAnswer": 27, "wrongAnswers": [32, 22]}
+]

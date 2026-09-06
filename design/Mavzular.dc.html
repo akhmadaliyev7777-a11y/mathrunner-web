@@ -1,0 +1,207 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Nunito:wght@600;700;800&display=swap');
+    body { margin: 0; }
+    * { box-sizing: border-box; }
+    a { color: #8055EE; text-decoration: none; }
+    a:hover { color: #5C7FF5; }
+  </style>
+</helmet>
+
+<div style="width: 1440px; font-family: 'Nunito', system-ui, sans-serif; color: #161240; background: #FFF6E6;">
+
+  <!-- top nav (compact) -->
+  <div style="display: flex; align-items: center; justify-content: space-between; padding: 16px 48px; background: #FFF6E6; border-bottom: 2px solid rgba(22,18,64,.10);">
+    <div style="display: flex; align-items: center; gap: 12px;">
+      <div style="width: 34px; height: 34px; border-radius: 10px; background: #8055EE; box-shadow: 0 4px 0 #5b3bbf; display: flex; align-items: center; justify-content: center;">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#FFF6E6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M4 18 L10 6 L14 14 L20 4"/></svg>
+      </div>
+      <span style="font-family: 'Baloo 2', system-ui; font-weight: 800; font-size: 19px;">MathRunner</span>
+    </div>
+    <div style="display: flex; align-items: center; gap: 24px; font-weight: 700;">
+      <a href="#" style="color: #161240; border-bottom: 3px solid #8055EE; padding-bottom: 4px;">Mavzular</a>
+      <a href="#">Fikrlash o'yinlari</a>
+      <a href="#">Loyiha haqida</a>
+    </div>
+  </div>
+
+  <!-- breadcrumb -->
+  <div style="padding: 18px 48px 0; font-weight: 700; font-size: 14px; color: rgba(22,18,64,.55); display: flex; align-items: center; gap: 8px;">
+    <a href="#">Bosh sahifa</a><span>/</span><a href="#">1-sinf</a><span>/</span><span style="color: #161240;">I chorak</span>
+  </div>
+
+  <div style="display: flex; gap: 32px; padding: 24px 48px 56px;">
+
+    <!-- LEFT: grade rail -->
+    <div style="width: 190px; flex-shrink: 0;">
+      <div style="font-weight: 800; font-size: 12px; text-transform: uppercase; letter-spacing: 1px; color: rgba(22,18,64,.45); margin-bottom: 12px;">Sinf</div>
+      <div style="display: flex; flex-direction: column; gap: 12px;">
+        <div style="display: flex; align-items: center; gap: 12px; padding: 14px 16px; border-radius: 18px; background: linear-gradient(160deg,#7FD6FF,#4FC0F7 60%,#2F8A55); color: #06351c; font-family: 'Baloo 2'; font-weight: 800; box-shadow: 0 5px 0 rgba(22,18,64,.18);">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#06351c" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M11 20A7 7 0 0 1 4 13c0-5 4-9 7-11 3 2 7 6 7 11a7 7 0 0 1-7 7Z"/></svg>
+          1-sinf
+        </div>
+        <div style="display: flex; align-items: center; gap: 12px; padding: 14px 16px; border-radius: 18px; background: #fff; border: 2px solid rgba(22,18,64,.12); font-family: 'Baloo 2'; font-weight: 800; color: rgba(22,18,64,.7);">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#8055EE" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9h16l-1-4H5L4 9Z"/><path d="M5 9v10h14V9"/></svg>
+          2-sinf
+        </div>
+        <div style="display: flex; align-items: center; gap: 12px; padding: 14px 16px; border-radius: 18px; background: #fff; border: 2px solid rgba(22,18,64,.12); font-family: 'Baloo 2'; font-weight: 800; color: rgba(22,18,64,.7);">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#4FC0F7" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M3 19l6-9 4 5 3-4 5 8H3Z"/></svg>
+          3-sinf
+        </div>
+        <div style="display: flex; align-items: center; gap: 12px; padding: 14px 16px; border-radius: 18px; background: #fff; border: 2px solid rgba(22,18,64,.12); font-family: 'Baloo 2'; font-weight: 800; color: rgba(22,18,64,.7);">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#F8912F" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l2.4 5.6L20 11l-5.6 2.4L12 19l-2.4-5.6L4 11l5.6-2.4L12 3Z"/></svg>
+          4-sinf
+        </div>
+      </div>
+      <div style="margin-top: 24px; padding: 14px 16px; border-radius: 16px; background: #FFDF6E; font-weight: 700; font-size: 13px; line-height: 1.45;">
+        Barcha 135 dars boshidanoq ochiq — istalgan tartibda o'ting.
+      </div>
+    </div>
+
+    <!-- RIGHT: chorak tabs + block grid -->
+    <div style="flex: 1;">
+      <h1 style="font-family: 'Baloo 2', system-ui; font-weight: 800; font-size: 30px; margin: 0 0 4px;">1-sinf · Mavzular</h1>
+      <p style="font-weight: 600; color: rgba(22,18,64,.62); margin: 0 0 20px;">Chorakni tanlang, so'ng blok ustidagi bosqichni oching.</p>
+
+      <!-- chorak tabs -->
+      <div style="display: flex; gap: 10px; margin-bottom: 24px;">
+        <div style="padding: 10px 22px; border-radius: 14px; background: #161240; color: #FFF6E6; font-family: 'Baloo 2'; font-weight: 800; box-shadow: 0 4px 0 rgba(22,18,64,.35);">I chorak</div>
+        <div style="padding: 10px 22px; border-radius: 14px; background: #fff; border: 2px solid rgba(22,18,64,.14); font-family: 'Baloo 2'; font-weight: 800; color: rgba(22,18,64,.6);">II chorak</div>
+        <div style="padding: 10px 22px; border-radius: 14px; background: #fff; border: 2px solid rgba(22,18,64,.14); font-family: 'Baloo 2'; font-weight: 800; color: rgba(22,18,64,.6);">III chorak</div>
+        <div style="padding: 10px 22px; border-radius: 14px; background: #fff; border: 2px solid rgba(22,18,64,.14); font-family: 'Baloo 2'; font-weight: 800; color: rgba(22,18,64,.6);">IV chorak</div>
+      </div>
+
+      <!-- block grid -->
+      <div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px;">
+
+        <!-- block card: test -->
+        <div style="border-radius: 20px; background: #fff; border: 2px solid rgba(22,18,64,.12); box-shadow: 0 6px 0 rgba(22,18,64,.10); padding: 18px;">
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <div style="width: 30px; height: 30px; border-radius: 9px; background: #FFDF6E; display: flex; align-items: center; justify-content: center; font-family: 'Baloo 2'; font-weight: 800; font-size: 14px;">1</div>
+            <span style="font-weight: 800; font-size: 11px; padding: 3px 8px; border-radius: 999px; background: rgba(22,18,64,.06); color: rgba(22,18,64,.55);">TEST</span>
+          </div>
+          <div style="font-family: 'Baloo 2'; font-weight: 800; font-size: 15px; margin: 12px 0 4px; line-height: 1.25;">Belgilar: shakl, rang, o'lcham</div>
+          <div style="font-weight: 700; font-size: 12px; color: rgba(22,18,64,.5); margin-bottom: 14px;">Dars 1–3 · 2 bosqich</div>
+          <div style="display: flex; gap: 8px;">
+            <div style="flex: 1; text-align: center; padding: 8px; border-radius: 12px; background: #4AD07A; color: #06351c; font-family: 'Baloo 2'; font-weight: 800; font-size: 13px; box-shadow: 0 4px 0 #2f9d57;">1-daraja</div>
+            <div style="flex: 1; text-align: center; padding: 8px; border-radius: 12px; background: #eef6f1; color: #2f9d57; font-family: 'Baloo 2'; font-weight: 800; font-size: 13px;">2-daraja</div>
+          </div>
+        </div>
+
+        <!-- block card: game -->
+        <div style="border-radius: 20px; background: #fff; border: 2px solid rgba(22,18,64,.12); box-shadow: 0 6px 0 rgba(22,18,64,.10); padding: 18px;">
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <div style="width: 30px; height: 30px; border-radius: 9px; background: #7FD4FF; display: flex; align-items: center; justify-content: center; font-family: 'Baloo 2'; font-weight: 800; font-size: 14px;">6</div>
+            <span style="font-weight: 800; font-size: 11px; padding: 3px 8px; border-radius: 999px; background: rgba(128,85,238,.12); color: #8055EE; display: flex; align-items: center; gap: 4px;">
+              <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#8055EE" stroke-width="3"><path d="M7 4v16M7 20l-3-3M7 20l3-3M17 20V4M17 4l-3 3M17 4l3 3"/></svg>
+              O'YIN
+            </span>
+          </div>
+          <div style="font-family: 'Baloo 2'; font-weight: 800; font-size: 15px; margin: 12px 0 4px; line-height: 1.25;">1–10 sonlar, sanoq tartibi</div>
+          <div style="font-weight: 700; font-size: 12px; color: rgba(22,18,64,.5); margin-bottom: 14px;">Dars 9–10 · Tartiblash o'yini + test</div>
+          <div style="display: flex; gap: 8px;">
+            <div style="flex: 1; text-align: center; padding: 8px; border-radius: 12px; background: #8055EE; color: #FFF6E6; font-family: 'Baloo 2'; font-weight: 800; font-size: 13px; box-shadow: 0 4px 0 #5b3bbf;">O'yin</div>
+            <div style="flex: 1; text-align: center; padding: 8px; border-radius: 12px; background: #eef6f1; color: #2f9d57; font-family: 'Baloo 2'; font-weight: 800; font-size: 13px;">Test</div>
+          </div>
+        </div>
+
+        <!-- more test blocks -->
+        <div style="border-radius: 20px; background: #fff; border: 2px solid rgba(22,18,64,.12); box-shadow: 0 6px 0 rgba(22,18,64,.10); padding: 18px;">
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <div style="width: 30px; height: 30px; border-radius: 9px; background: #4AD07A; display: flex; align-items: center; justify-content: center; font-family: 'Baloo 2'; font-weight: 800; font-size: 14px;">7</div>
+            <span style="font-weight: 800; font-size: 11px; padding: 3px 8px; border-radius: 999px; background: rgba(22,18,64,.06); color: rgba(22,18,64,.55);">TEST</span>
+          </div>
+          <div style="font-family: 'Baloo 2'; font-weight: 800; font-size: 15px; margin: 12px 0 4px; line-height: 1.25;">Qo'shish va ayirish (10 ichida)</div>
+          <div style="font-weight: 700; font-size: 12px; color: rgba(22,18,64,.5); margin-bottom: 14px;">Dars 11–12 · 2 bosqich</div>
+          <div style="display: flex; gap: 8px;">
+            <div style="flex: 1; text-align: center; padding: 8px; border-radius: 12px; background: #4AD07A; color: #06351c; font-family: 'Baloo 2'; font-weight: 800; font-size: 13px; box-shadow: 0 4px 0 #2f9d57;">1-daraja</div>
+            <div style="flex: 1; text-align: center; padding: 8px; border-radius: 12px; background: #eef6f1; color: #2f9d57; font-family: 'Baloo 2'; font-weight: 800; font-size: 13px;">2-daraja</div>
+          </div>
+        </div>
+
+        <div style="border-radius: 20px; background: #fff; border: 2px solid rgba(22,18,64,.12); box-shadow: 0 6px 0 rgba(22,18,64,.10); padding: 18px;">
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <div style="width: 30px; height: 30px; border-radius: 9px; background: #FF5CD0; display: flex; align-items: center; justify-content: center; font-family: 'Baloo 2'; font-weight: 800; font-size: 14px;">13</div>
+            <span style="font-weight: 800; font-size: 11px; padding: 3px 8px; border-radius: 999px; background: rgba(79,192,247,.14); color: #2f7fb0; display: flex; align-items: center; gap: 4px;">
+              <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#2f7fb0" stroke-width="3" stroke-linecap="round"><path d="M7 4v16M17 20V4"/></svg>O'YIN</span>
+          </div>
+          <div style="font-family: 'Baloo 2'; font-weight: 800; font-size: 15px; margin: 12px 0 4px; line-height: 1.25;">1–10 taqqoslash, natural sonlar</div>
+          <div style="font-weight: 700; font-size: 12px; color: rgba(22,18,64,.5); margin-bottom: 14px;">Dars 27–28 · Tartiblash o'yini + test</div>
+          <div style="display: flex; gap: 8px;">
+            <div style="flex: 1; text-align: center; padding: 8px; border-radius: 12px; background: #4FC0F7; color: #06313f; font-family: 'Baloo 2'; font-weight: 800; font-size: 13px; box-shadow: 0 4px 0 #2f9dcf;">O'yin</div>
+            <div style="flex: 1; text-align: center; padding: 8px; border-radius: 12px; background: #eef6f1; color: #2f9d57; font-family: 'Baloo 2'; font-weight: 800; font-size: 13px;">Test</div>
+          </div>
+        </div>
+
+        <div style="border-radius: 20px; background: #fff; border: 2px solid rgba(22,18,64,.12); box-shadow: 0 6px 0 rgba(22,18,64,.10); padding: 18px;">
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <div style="width: 30px; height: 30px; border-radius: 9px; background: #FFDF6E; display: flex; align-items: center; justify-content: center; font-family: 'Baloo 2'; font-weight: 800; font-size: 14px;">14</div>
+            <span style="font-weight: 800; font-size: 11px; padding: 3px 8px; border-radius: 999px; background: rgba(74,208,122,.16); color: #2f9d57; display: flex; align-items: center; gap: 4px;">
+              <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#2f9d57" stroke-width="2.6"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 12h18"/></svg>O'YIN</span>
+          </div>
+          <div style="font-family: 'Baloo 2'; font-weight: 800; font-size: 15px; margin: 12px 0 4px; line-height: 1.25;">Juft va toq sonlar</div>
+          <div style="font-weight: 700; font-size: 12px; color: rgba(22,18,64,.5); margin-bottom: 14px;">Dars 29 · Saralash o'yini + test</div>
+          <div style="display: flex; gap: 8px;">
+            <div style="flex: 1; text-align: center; padding: 8px; border-radius: 12px; background: #4AD07A; color: #06351c; font-family: 'Baloo 2'; font-weight: 800; font-size: 13px; box-shadow: 0 4px 0 #2f9d57;">O'yin</div>
+            <div style="flex: 1; text-align: center; padding: 8px; border-radius: 12px; background: #eef6f1; color: #2f9d57; font-family: 'Baloo 2'; font-weight: 800; font-size: 13px;">Test</div>
+          </div>
+        </div>
+
+        <div style="border-radius: 20px; background: #fff; border: 2px solid rgba(22,18,64,.12); box-shadow: 0 6px 0 rgba(22,18,64,.10); padding: 18px;">
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <div style="width: 30px; height: 30px; border-radius: 9px; background: #4AD07A; display: flex; align-items: center; justify-content: center; font-family: 'Baloo 2'; font-weight: 800; font-size: 14px;">17</div>
+            <span style="font-weight: 800; font-size: 11px; padding: 3px 8px; border-radius: 999px; background: rgba(128,85,238,.12); color: #8055EE; display: flex; align-items: center; gap: 4px;">
+              <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#8055EE" stroke-width="3" stroke-linecap="round"><path d="M12 4v16M4 12h16M6 7l-2 5M18 7l2 5"/></svg>O'YIN</span>
+          </div>
+          <div style="font-family: 'Baloo 2'; font-weight: 800; font-size: 15px; margin: 12px 0 4px; line-height: 1.25;">Noma'lum qo'shiluvchini topish</div>
+          <div style="font-weight: 700; font-size: 12px; color: rgba(22,18,64,.5); margin-bottom: 14px;">Dars 34–36 · Tarozi o'yini + 2 test</div>
+          <div style="display: flex; gap: 8px;">
+            <div style="flex: 1; text-align: center; padding: 8px; border-radius: 12px; background: #8055EE; color: #FFF6E6; font-family: 'Baloo 2'; font-weight: 800; font-size: 13px; box-shadow: 0 4px 0 #5b3bbf;">O'yin</div>
+            <div style="flex: 1; text-align: center; padding: 8px; border-radius: 12px; background: #eef6f1; color: #2f9d57; font-family: 'Baloo 2'; font-weight: 800; font-size: 12px;">Test 1–2</div>
+          </div>
+        </div>
+
+        <div style="border-radius: 20px; background: #fff; border: 2px solid rgba(22,18,64,.12); box-shadow: 0 6px 0 rgba(22,18,64,.10); padding: 18px;">
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <div style="width: 30px; height: 30px; border-radius: 9px; background: #7FD4FF; display: flex; align-items: center; justify-content: center; font-family: 'Baloo 2'; font-weight: 800; font-size: 14px;">18</div>
+            <span style="font-weight: 800; font-size: 11px; padding: 3px 8px; border-radius: 999px; background: rgba(22,18,64,.06); color: rgba(22,18,64,.55);">TEST</span>
+          </div>
+          <div style="font-family: 'Baloo 2'; font-weight: 800; font-size: 15px; margin: 12px 0 4px; line-height: 1.25;">Qo'shish/ayirish bog'liqligi</div>
+          <div style="font-weight: 700; font-size: 12px; color: rgba(22,18,64,.5); margin-bottom: 14px;">Dars 37–38 · 2 bosqich</div>
+          <div style="display: flex; gap: 8px;">
+            <div style="flex: 1; text-align: center; padding: 8px; border-radius: 12px; background: #4AD07A; color: #06351c; font-family: 'Baloo 2'; font-weight: 800; font-size: 13px; box-shadow: 0 4px 0 #2f9d57;">1-daraja</div>
+            <div style="flex: 1; text-align: center; padding: 8px; border-radius: 12px; background: #eef6f1; color: #2f9d57; font-family: 'Baloo 2'; font-weight: 800; font-size: 13px;">2-daraja</div>
+          </div>
+        </div>
+
+        <div style="border-radius: 20px; background: #fff; border: 2px solid rgba(22,18,64,.12); box-shadow: 0 6px 0 rgba(22,18,64,.10); padding: 18px;">
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <div style="width: 30px; height: 30px; border-radius: 9px; background: #FF5CD0; display: flex; align-items: center; justify-content: center; font-family: 'Baloo 2'; font-weight: 800; font-size: 14px;">19</div>
+            <span style="font-weight: 800; font-size: 11px; padding: 3px 8px; border-radius: 999px; background: rgba(22,18,64,.06); color: rgba(22,18,64,.55);">CHORAK YAKUNI</span>
+          </div>
+          <div style="font-family: 'Baloo 2'; font-weight: 800; font-size: 15px; margin: 12px 0 4px; line-height: 1.25;">I chorak yakuniy testi</div>
+          <div style="font-weight: 700; font-size: 12px; color: rgba(22,18,64,.5); margin-bottom: 14px;">Aralash · 2 bosqich</div>
+          <div style="display: flex; gap: 8px;">
+            <div style="flex: 1; text-align: center; padding: 8px; border-radius: 12px; background: #F8912F; color: #3a2200; font-family: 'Baloo 2'; font-weight: 800; font-size: 13px; box-shadow: 0 4px 0 #c47a12;">1-daraja</div>
+            <div style="flex: 1; text-align: center; padding: 8px; border-radius: 12px; background: #fdf0e3; color: #c47a12; font-family: 'Baloo 2'; font-weight: 800; font-size: 13px;">2-daraja</div>
+          </div>
+        </div>
+
+      </div>
+
+      <div style="margin-top: 22px; text-align: center; font-weight: 700; font-size: 13px; color: rgba(22,18,64,.45);">I chorakda jami 19 blok · 39 bosqich</div>
+    </div>
+  </div>
+
+</div>
+</x-dc>
+</body>
+</html>

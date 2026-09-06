@@ -1,0 +1,8 @@
+[
+  {"id": "sinf4_chorak1_blok20_level2_tart_01", "prompt": "Algoritm natijalarini o'sish tartibida joylashtiring", "numbers": [3, 9, 27, 1], "ascending": true},
+  {"id": "sinf4_chorak1_blok20_level2_tart_02", "prompt": "Sonlarni kamayish tartibida joylashtiring", "numbers": [45, 12, 78, 30, 6], "ascending": false},
+  {"id": "sinf4_chorak1_blok20_level2_tart_03", "prompt": "Sonlarni o'sish tartibida joylashtiring", "numbers": [100, 25, 50, 75], "ascending": true},
+  {"id": "sinf4_chorak1_blok20_level2_tart_04", "prompt": "Yarimlash algoritmi natijalarini kamayish tartibida joylashtiring", "numbers": [64, 8, 32, 16, 4], "ascending": false},
+  {"id": "sinf4_chorak1_blok20_level2_tart_05", "prompt": "Sonlarni o'sish tartibida joylashtiring", "numbers": [7, 3, 11, 5, 9], "ascending": true},
+  {"id": "sinf4_chorak1_blok20_level2_tart_06", "prompt": "Sonlarni kamayish tartibida joylashtiring", "numbers": [90, 60, 120, 30], "ascending": false}
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b46l1_01",
+    "question": "4 * 7 = ?",
+    "correctAnswer": 28,
+    "wrongAnswers": [
+      24,
+      32
+    ]
+  },
+  {
+    "id": "s2c3b46l1_02",
+    "question": "4 * ? = 24",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      7,
+      5
+    ]
+  },
+  {
+    "id": "s2c3b46l1_03",
+    "question": "4 * 5 = ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      16,
+      24
+    ]
+  },
+  {
+    "id": "s2c3b46l1_04",
+    "question": "4 * ? = 32",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      9,
+      7
+    ]
+  },
+  {
+    "id": "s2c3b46l1_05",
+    "question": "4 * ? = 8",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      3,
+      1
+    ]
+  },
+  {
+    "id": "s2c3b46l1_06",
+    "question": "4 * ? = 16",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      5,
+      3
+    ]
+  },
+  {
+    "id": "s2c3b46l1_07",
+    "question": "4 * ? = 4",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s2c3b46l1_08",
+    "question": "9 * 4 = ?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      27,
+      45
+    ]
+  },
+  {
+    "id": "s2c3b46l1_09",
+    "question": "4 * 3 = ?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      8,
+      16
+    ]
+  },
+  {
+    "id": "s2c3b46l1_10",
+    "question": "10 * 4 = ?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      30,
+      50
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok36_level1_yuza_01", "question": "Shakl 15 ta to'liq katakni egallagan. Har katak 1 sm². Yuzasi necha sm²?", "correctAnswer": 15, "wrongAnswers": [1, 30]},
+  {"id": "sinf4_chorak2_blok36_level1_yuza_02", "question": "Katakli qog'ozda to'g'ri to'rtburchak 7×4 katak. Uning yuzasi necha katak?", "correctAnswer": 28, "wrongAnswers": [11, 22]},
+  {"id": "sinf4_chorak2_blok36_level1_yuza_03", "question": "Shakl 8 ta to'liq va 6 ta yarim katakni egallagan. Har katak 1 sm². Yuzasi necha sm²?", "correctAnswer": 11, "wrongAnswers": [14, 8]},
+  {"id": "sinf4_chorak2_blok36_level1_yuza_04", "question": "Kvadrat 25 katakni egallagan. Uning bir tomoni necha katak?", "correctAnswer": 5, "wrongAnswers": [10, 25]},
+  {"id": "sinf4_chorak2_blok36_level1_yuza_05", "question": "Shakl 20 ta to'liq katakni egallagan, har katak 4 sm². Yuzasi necha sm²?", "correctAnswer": 80, "wrongAnswers": [24, 20]},
+  {"id": "sinf4_chorak2_blok36_level1_yuza_06", "question": "Uchburchak 5 ta to'liq va 4 ta yarim katakni egallagan. Har katak 1 sm². Yuzasi necha sm²?", "correctAnswer": 7, "wrongAnswers": [9, 5]},
+  {"id": "sinf4_chorak2_blok36_level1_yuza_07", "question": "To'g'ri to'rtburchak 6 katak bo'yi, 5 katak eni. Yuzasi necha katak?", "correctAnswer": 30, "wrongAnswers": [11, 22]},
+  {"id": "sinf4_chorak2_blok36_level1_yuza_08", "question": "Shakl 12 ta to'liq va 8 ta yarim katakni egallagan. Har katak 1 sm². Yuzasi necha sm²?", "correctAnswer": 16, "wrongAnswers": [20, 12]},
+  {"id": "sinf4_chorak2_blok36_level1_yuza_09", "question": "Palletka (shaffof katakli plyonka) nima uchun ishlatiladi?", "correctAnswer": "Nostandart shaklning yuzasini taxminan o'lchash uchun", "wrongAnswers": ["Faqat perimetrni o'lchash uchun", "Burchaklarni o'lchash uchun"]},
+  {"id": "sinf4_chorak2_blok36_level1_yuza_10", "question": "3 katak eni, 3 katak bo'yi bo'lgan kvadrat necha katakni egallaydi?", "correctAnswer": 9, "wrongAnswers": [6, 12]}
+]

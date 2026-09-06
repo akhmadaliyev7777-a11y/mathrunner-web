@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b56l2_01",
+    "question": "To'g'ri to'rtburchak: eni 12 cm, bo'yi 8 cm. Yuzi necha cm2?  (S = a * b)",
+    "correctAnswer": 96,
+    "wrongAnswers": [
+      20,
+      40
+    ]
+  },
+  {
+    "id": "s3c4b56l2_02",
+    "question": "To'g'ri to'rtburchak: eni 15 cm, bo'yi 6 cm. Yuzi necha cm2?  (S = a * b)",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      21,
+      42
+    ]
+  },
+  {
+    "id": "s3c4b56l2_03",
+    "question": "To'g'ri to'rtburchak: eni 25 cm, bo'yi 4 cm. Yuzi necha cm2?  (S = a * b)",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      29,
+      58
+    ]
+  },
+  {
+    "id": "s3c4b56l2_04",
+    "question": "To'g'ri to'rtburchak: eni 30 cm, bo'yi 10 cm. Yuzi necha cm2?  (S = a * b)",
+    "correctAnswer": 300,
+    "wrongAnswers": [
+      40,
+      80
+    ]
+  },
+  {
+    "id": "s3c4b56l2_05",
+    "question": "To'g'ri burchakli uchburchak: katetlari 8 cm va 6 cm. Yuzi necha cm2?  (S = a * b : 2)",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      48,
+      14
+    ]
+  },
+  {
+    "id": "s3c4b56l2_06",
+    "question": "To'g'ri burchakli uchburchak: katetlari 10 cm va 4 cm. Yuzi necha cm2?  (S = a * b : 2)",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      40,
+      14
+    ]
+  },
+  {
+    "id": "s3c4b56l2_07",
+    "question": "To'g'ri burchakli uchburchak: katetlari 12 cm va 10 cm. Yuzi necha cm2?  (S = a * b : 2)",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      120,
+      22
+    ]
+  },
+  {
+    "id": "s3c4b56l2_08",
+    "question": "To'g'ri to'rtburchakning yuzi 60 cm2, eni 12 cm. Bo'yi necha cm?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      6,
+      4
+    ]
+  },
+  {
+    "id": "s3c4b56l2_09",
+    "question": "Kvadratning yuzi 49 cm2. Tomoni necha cm?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      6,
+      8
+    ]
+  },
+  {
+    "id": "s3c4b56l2_10",
+    "question": "To'g'ri burchakli uchburchakning yuzi 24 cm2, bir kateti 6 cm. Ikkinchi kateti necha cm?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      4,
+      12
+    ]
+  }
+]

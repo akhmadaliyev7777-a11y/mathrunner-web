@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b44l2_01",
+    "question": "Juft son 2 ga qoldiqsiz bo'linadimi?",
+    "correctAnswer": "ha, bo'linadi",
+    "wrongAnswers": [
+      "yo'q, bo'linmaydi",
+      "ba'zan"
+    ]
+  },
+  {
+    "id": "s2c3b44l2_02",
+    "question": "Qaysi son toq: 12, 14, 15, 16?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      12,
+      14
+    ]
+  },
+  {
+    "id": "s2c3b44l2_03",
+    "question": "Qaysi son juft: 21, 23, 24, 25?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      21,
+      23
+    ]
+  },
+  {
+    "id": "s2c3b44l2_04",
+    "question": "Juft sonlar qaysi raqamlar bilan tugaydi?",
+    "correctAnswer": "0, 2, 4, 6, 8",
+    "wrongAnswers": [
+      "1, 3, 5, 7, 9",
+      "faqat 0"
+    ]
+  },
+  {
+    "id": "s2c3b44l2_05",
+    "question": "8  va 5 sonlaridan qaysi biri toq?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      8,
+      13
+    ]
+  },
+  {
+    "id": "s2c3b44l2_06",
+    "question": "17 juft sonmi yoki toqmi? (juft = 1, toq = 2)",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "s2c3b44l2_07",
+    "question": "0 dan 10 gacha nechta juft son bor (0 va 10 ni qo'shib)?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      5,
+      4
+    ]
+  },
+  {
+    "id": "s2c3b44l2_08",
+    "question": "Toq songa 1 qo'shsak, juft son hosil bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b44l2_09",
+    "question": "Barcha juft sonlar 5 ga tugaydi.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b44l2_10",
+    "question": "Xato: \"9 — juft son\" deyildi. 9 aslida qanday son?",
+    "correctAnswer": "toq",
+    "wrongAnswers": [
+      "juft",
+      "ikkalasi"
+    ]
+  }
+]

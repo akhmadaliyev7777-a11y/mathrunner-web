@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b20l2_01",
+    "question": "\"3 + 5\" — bu nima?",
+    "correctAnswer": "sonli ifoda",
+    "wrongAnswers": [
+      "harfiy ifoda",
+      "tenglama"
+    ]
+  },
+  {
+    "id": "s1c1b20l2_02",
+    "question": "3 + 5 sonli ifodaning qiymati qancha?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      2,
+      15
+    ]
+  },
+  {
+    "id": "s1c1b20l2_03",
+    "question": "9 - 4 sonli ifodaning qiymati qancha?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      13,
+      4
+    ]
+  },
+  {
+    "id": "s1c1b20l2_04",
+    "question": "2 + 3 + 1 ifodaning qiymati qancha?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": "s1c1b20l2_05",
+    "question": "10 - 2 - 3 ifodaning qiymati qancha?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      6,
+      4
+    ]
+  },
+  {
+    "id": "s1c1b20l2_06",
+    "question": "\"7 va 2 sonlarining yig'indisi\" ifodasini yozing va qiymatini toping.",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      5,
+      14
+    ]
+  },
+  {
+    "id": "s1c1b20l2_07",
+    "question": "\"10 dan 6 ni ayirish\" ifodasi qiymati qancha?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      16,
+      6
+    ]
+  },
+  {
+    "id": "s1c1b20l2_08",
+    "question": "Taqqoslang: 3 + 4 __ 9 - 1",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c1b20l2_09",
+    "question": "6 + 0 sonli ifodaning qiymati qancha?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      0,
+      60
+    ]
+  },
+  {
+    "id": "s1c1b20l2_10",
+    "question": "Xato: \"8 - 3\" ifodaning qiymati 6 deyildi. To'g'ri qiymat qancha?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      6,
+      4
+    ]
+  }
+]

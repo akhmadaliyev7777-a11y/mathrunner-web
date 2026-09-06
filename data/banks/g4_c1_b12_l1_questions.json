@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok12_level1_ort_01", "question": "4 va 8 sonlarining o'rta arifmetigi nechi?", "correctAnswer": 6, "wrongAnswers": [12, 4]},
+  {"id": "sinf4_chorak1_blok12_level1_ort_02", "question": "10 va 20 sonlarining o'rta arifmetigi nechi?", "correctAnswer": 15, "wrongAnswers": [30, 10]},
+  {"id": "sinf4_chorak1_blok12_level1_ort_03", "question": "3, 5, 7 sonlarining o'rta arifmetigi nechi?", "correctAnswer": 5, "wrongAnswers": [15, 7]},
+  {"id": "sinf4_chorak1_blok12_level1_ort_04", "question": "2 va 6 sonlarining o'rta arifmetigi nechi?", "correctAnswer": 4, "wrongAnswers": [8, 3]},
+  {"id": "sinf4_chorak1_blok12_level1_ort_05", "question": "0 va 10 sonlarining o'rta arifmetigi nechi?", "correctAnswer": 5, "wrongAnswers": [10, 0]},
+  {"id": "sinf4_chorak1_blok12_level1_ort_06", "question": "6, 6, 6 sonlarining o'rta arifmetigi nechi?", "correctAnswer": 6, "wrongAnswers": [18, 3]},
+  {"id": "sinf4_chorak1_blok12_level1_ort_07", "question": "12 va 8 sonlarining o'rta arifmetigi nechi?", "correctAnswer": 10, "wrongAnswers": [20, 4]},
+  {"id": "sinf4_chorak1_blok12_level1_ort_08", "question": "5, 10, 15 sonlarining o'rta arifmetigi nechi?", "correctAnswer": 10, "wrongAnswers": [30, 15]},
+  {"id": "sinf4_chorak1_blok12_level1_ort_09", "question": "O'rta arifmetikni topish uchun eng avval nima qilinadi?", "correctAnswer": "Barcha sonlar qo'shiladi", "wrongAnswers": ["Sonlar ko'paytiriladi", "Eng katta son tanlanadi"]},
+  {"id": "sinf4_chorak1_blok12_level1_ort_10", "question": "2, 4, 6 sonlarining o'rta arifmetigi nechi?", "correctAnswer": 4, "wrongAnswers": [12, 6]}
+]

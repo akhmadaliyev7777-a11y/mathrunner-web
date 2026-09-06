@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b63l1_01",
+    "question": "AB = 5 sm, BC = 7 sm bo'lsa, AB + BC necha sm?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      2,
+      35
+    ]
+  },
+  {
+    "id": "s1c4b63l1_02",
+    "question": "F + A = S. F = 6, A = 8 bo'lsa, S qancha?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      2,
+      48
+    ]
+  },
+  {
+    "id": "s1c4b63l1_03",
+    "question": "AB + BC = AC. AB = 10 sm, AC = 18 sm bo'lsa, BC necha sm?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      28,
+      7
+    ]
+  },
+  {
+    "id": "s1c4b63l1_04",
+    "question": "Ikki kesma yig'indisi 20 sm. Biri 12 sm. Ikkinchisi necha sm?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      32,
+      7
+    ]
+  },
+  {
+    "id": "s1c4b63l1_05",
+    "question": "F + A = S da S har doim F va A dan ...",
+    "correctAnswer": "katta yoki teng",
+    "wrongAnswers": [
+      "kichik",
+      "teng emas"
+    ]
+  },
+  {
+    "id": "s1c4b63l1_06",
+    "question": "AB = 9 sm, CD = 9 sm. AB __ CD (qaysi belgi?)",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s1c4b63l1_07",
+    "question": "AB = 15 sm, CD = 11 sm. AB __ CD (qaysi belgi?)",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s1c4b63l1_08",
+    "question": "Kesmalar: 4 sm, 6 sm, 5 sm. Yig'indisi necha sm?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      11,
+      14
+    ]
+  },
+  {
+    "id": "s1c4b63l1_09",
+    "question": "Bir kesmani ikki bo'lakka bo'lsak, bo'laklar yig'indisi butun kesmaga teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b63l1_10",
+    "question": "Xato: 8 sm va 7 sm li kesmalar yig'indisi 1 sm deyildi. To'g'ri javob necha sm?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      1,
+      16
+    ]
+  }
+]

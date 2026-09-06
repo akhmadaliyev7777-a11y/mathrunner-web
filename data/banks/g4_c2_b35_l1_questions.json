@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok35_level1_qulay_01", "question": "Qulay usulda hisoblang: 4 998 + 2 003 = ?", "correctAnswer": 7001, "wrongAnswers": [7000, 6995]},
+  {"id": "sinf4_chorak2_blok35_level1_qulay_02", "question": "Qulay usulda hisoblang: 199 + 199 + 199 = ?", "correctAnswer": 597, "wrongAnswers": [600, 300]},
+  {"id": "sinf4_chorak2_blok35_level1_qulay_03", "question": "Qulay usulda hisoblang: 350 + 275 + 50 = ?", "correctAnswer": 675, "wrongAnswers": [625, 700]},
+  {"id": "sinf4_chorak2_blok35_level1_qulay_04", "question": "Qulay usulda hisoblang: 1 000 − 348 = ?", "correctAnswer": 652, "wrongAnswers": [748, 662]},
+  {"id": "sinf4_chorak2_blok35_level1_qulay_05", "question": "Qulay usulda hisoblang: 25 × 4 × 7 = ?", "correctAnswer": 700, "wrongAnswers": [175, 100]},
+  {"id": "sinf4_chorak2_blok35_level1_qulay_06", "question": "Qulay usulda hisoblang: 47 + 98 = ?", "correctAnswer": 145, "wrongAnswers": [135, 155]},
+  {"id": "sinf4_chorak2_blok35_level1_qulay_07", "question": "Qulay usulda hisoblang: 600 − 199 = ?", "correctAnswer": 401, "wrongAnswers": [399, 501]},
+  {"id": "sinf4_chorak2_blok35_level1_qulay_08", "question": "Qulay usulda hisoblang: 8 × 125 = ?", "correctAnswer": 1000, "wrongAnswers": [800, 1025]},
+  {"id": "sinf4_chorak2_blok35_level1_qulay_09", "question": "Qulay usulda hisoblang: (60 + 40) + (35 + 65) = ?", "correctAnswer": 200, "wrongAnswers": [100, 190]},
+  {"id": "sinf4_chorak2_blok35_level1_qulay_10", "question": "Aziz 502 − 199 ni hisoblash uchun: 502 − 200 = 302, keyin 302 − 1 = 301 dedi. Xatosi nimada?", "correctAnswer": "200 ni ayirgach, 1 ni QO'SHISH kerak: 302 + 1 = 303", "wrongAnswers": ["Xato yo'q, 301 to'g'ri", "302 dan 2 ayirish kerak"]}
+]

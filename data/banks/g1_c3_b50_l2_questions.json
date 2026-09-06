@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b50l2_01",
+    "question": "□ + 15 = 40. □ qancha?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      55,
+      24
+    ]
+  },
+  {
+    "id": "s1c3b50l2_02",
+    "question": "20 + □ = 50. □ qancha?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      70,
+      29
+    ]
+  },
+  {
+    "id": "s1c3b50l2_03",
+    "question": "□ + 8 = 20. □ qancha?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      28,
+      11
+    ]
+  },
+  {
+    "id": "s1c3b50l2_04",
+    "question": "Noma'lum qo'shiluvchini topish uchun yig'indidan ma'lum qo'shiluvchini ...",
+    "correctAnswer": "ayiramiz",
+    "wrongAnswers": [
+      "qo'shamiz",
+      "taqqoslaymiz"
+    ]
+  },
+  {
+    "id": "s1c3b50l2_05",
+    "question": "Qopda bir necha kg un bor edi, 10 kg qo'shilgach 35 kg bo'ldi. Boshda necha kg edi?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      45,
+      24
+    ]
+  },
+  {
+    "id": "s1c3b50l2_06",
+    "question": "Chelakda bir necha litr suv bor edi, 5 l quyilgach 12 l bo'ldi. Boshda necha litr edi?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      17,
+      6
+    ]
+  },
+  {
+    "id": "s1c3b50l2_07",
+    "question": "□ + 30 = 30. □ qancha?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      30,
+      60
+    ]
+  },
+  {
+    "id": "s1c3b50l2_08",
+    "question": "□ + 12 = 20 tenglamada □ = 8.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b50l2_09",
+    "question": "Xato: \"□ + 10 = 25\" uchun □ = 35 deyildi. To'g'ri □ qancha?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      35,
+      14
+    ]
+  },
+  {
+    "id": "s1c3b50l2_10",
+    "question": "17 + □ = 17. □ qancha?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      17,
+      34
+    ]
+  }
+]

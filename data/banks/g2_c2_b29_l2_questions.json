@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b29l2_01",
+    "question": "260 + 340 = 600. Bu amalni qaysi ayirish tekshiradi?",
+    "correctAnswer": "600 - 340 = 260",
+    "wrongAnswers": [
+      "600 + 340 = 940",
+      "340 - 260 = 80"
+    ]
+  },
+  {
+    "id": "s2c2b29l2_02",
+    "question": "x + 175 = 500. x ni toping.",
+    "correctAnswer": 325,
+    "wrongAnswers": [
+      675,
+      425
+    ]
+  },
+  {
+    "id": "s2c2b29l2_03",
+    "question": "900 - x = 350. x ni toping.",
+    "correctAnswer": 550,
+    "wrongAnswers": [
+      1250,
+      450
+    ]
+  },
+  {
+    "id": "s2c2b29l2_04",
+    "question": "Bir sonni o'yladim, unga 240 qo'shsam 610 bo'ldi. Qaysi son?",
+    "correctAnswer": 370,
+    "wrongAnswers": [
+      850,
+      470
+    ]
+  },
+  {
+    "id": "s2c2b29l2_05",
+    "question": "x - 260 = 240. x ni toping.",
+    "correctAnswer": 500,
+    "wrongAnswers": [
+      20,
+      400
+    ]
+  },
+  {
+    "id": "s2c2b29l2_06",
+    "question": "Anvar 480 - 260 = 220 deb hisobladi. Tekshiring: 220 + 260 nechaga teng?",
+    "correctAnswer": 480,
+    "wrongAnswers": [
+      220,
+      260
+    ]
+  },
+  {
+    "id": "s2c2b29l2_07",
+    "question": "Ikki qo'shiluvchi: biri 315, yig'indi 700. Ikkinchi qo'shiluvchi qancha?",
+    "correctAnswer": 385,
+    "wrongAnswers": [
+      1015,
+      485
+    ]
+  },
+  {
+    "id": "s2c2b29l2_08",
+    "question": "Kamayuvchi 540, ayirma 190. Ayriluvchi qancha?",
+    "correctAnswer": 350,
+    "wrongAnswers": [
+      730,
+      450
+    ]
+  },
+  {
+    "id": "s2c2b29l2_09",
+    "question": "Taqqoslang: (x + 100 = 450) dagi x __ 400",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s2c2b29l2_10",
+    "question": "Xatoni toping: x + 220 = 500 uchun x = 720 deyildi. To'g'ri x qancha?",
+    "correctAnswer": 280,
+    "wrongAnswers": [
+      720,
+      380
+    ]
+  }
+]

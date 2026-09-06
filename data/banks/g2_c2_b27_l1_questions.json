@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b27l1_01",
+    "question": "1 m necha dm?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      100,
+      1
+    ]
+  },
+  {
+    "id": "s2c2b27l1_02",
+    "question": "1 m necha sm?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      10,
+      1000
+    ]
+  },
+  {
+    "id": "s2c2b27l1_03",
+    "question": "1 dm necha sm?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      100,
+      1
+    ]
+  },
+  {
+    "id": "s2c2b27l1_04",
+    "question": "3 m necha dm?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      3,
+      300
+    ]
+  },
+  {
+    "id": "s2c2b27l1_05",
+    "question": "5 m necha sm?",
+    "correctAnswer": 500,
+    "wrongAnswers": [
+      50,
+      5000
+    ]
+  },
+  {
+    "id": "s2c2b27l1_06",
+    "question": "40 dm necha m?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      40,
+      400
+    ]
+  },
+  {
+    "id": "s2c2b27l1_07",
+    "question": "200 sm necha m?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      20,
+      2000
+    ]
+  },
+  {
+    "id": "s2c2b27l1_08",
+    "question": "7 dm necha sm?",
+    "correctAnswer": 70,
+    "wrongAnswers": [
+      7,
+      700
+    ]
+  },
+  {
+    "id": "s2c2b27l1_09",
+    "question": "Taqqoslang: 1 m __ 90 sm",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s2c2b27l1_10",
+    "question": "Taqqoslang: 5 dm __ 50 sm",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  }
+]

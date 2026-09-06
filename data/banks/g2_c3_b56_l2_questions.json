@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b56l2_01",
+    "question": "Kvadrat perimetri 28 sm. Tomoni necha sm?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      4,
+      14
+    ]
+  },
+  {
+    "id": "s2c3b56l2_02",
+    "question": "6 * 9 = ?",
+    "correctAnswer": 54,
+    "wrongAnswers": [
+      45,
+      63
+    ]
+  },
+  {
+    "id": "s2c3b56l2_03",
+    "question": "72 : 8 = ?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      7
+    ]
+  },
+  {
+    "id": "s2c3b56l2_04",
+    "question": "To'g'ri to'rtburchak eni 4 sm, bo'yi 6 sm. Yuzi necha cm2?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      10,
+      20
+    ]
+  },
+  {
+    "id": "s2c3b56l2_05",
+    "question": "9 ni 4 marta orttiring.",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      13,
+      5
+    ]
+  },
+  {
+    "id": "s2c3b56l2_06",
+    "question": "1 m2 necha dm2?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      10,
+      1000
+    ]
+  },
+  {
+    "id": "s2c3b56l2_07",
+    "question": "Qaysi son toq: 24, 26, 27, 28?",
+    "correctAnswer": 27,
+    "wrongAnswers": [
+      24,
+      26
+    ]
+  },
+  {
+    "id": "s2c3b56l2_08",
+    "question": "3 * ? = 27",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      6
+    ]
+  },
+  {
+    "id": "s2c3b56l2_09",
+    "question": "Xato: \"6 * 7 = 42\" emas deyildi. 6 * 7 aslida nechaga teng?",
+    "correctAnswer": 42,
+    "wrongAnswers": [
+      36,
+      48
+    ]
+  },
+  {
+    "id": "s2c3b56l2_10",
+    "question": "Taqqoslang: 8 * 4 __ 5 * 6",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  }
+]

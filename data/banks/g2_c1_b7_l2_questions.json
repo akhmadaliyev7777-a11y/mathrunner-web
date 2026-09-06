@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b7l2_01",
+    "question": "28 + 32 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      50,
+      70
+    ]
+  },
+  {
+    "id": "s2c1b7l2_02",
+    "question": "47 + 23 = ?",
+    "correctAnswer": 70,
+    "wrongAnswers": [
+      60,
+      80
+    ]
+  },
+  {
+    "id": "s2c1b7l2_03",
+    "question": "56 + 14 = ?",
+    "correctAnswer": 70,
+    "wrongAnswers": [
+      60,
+      80
+    ]
+  },
+  {
+    "id": "s2c1b7l2_04",
+    "question": "39 + 41 = ?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      70,
+      90
+    ]
+  },
+  {
+    "id": "s2c1b7l2_05",
+    "question": "65 + 15 = ?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      70,
+      90
+    ]
+  },
+  {
+    "id": "s2c1b7l2_06",
+    "question": "33 + 27 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      50,
+      70
+    ]
+  },
+  {
+    "id": "s2c1b7l2_07",
+    "question": "12 + 18 + 25 = ?",
+    "correctAnswer": 55,
+    "wrongAnswers": [
+      45,
+      65
+    ]
+  },
+  {
+    "id": "s2c1b7l2_08",
+    "question": "24 + 16 + 33 = ?",
+    "correctAnswer": 73,
+    "wrongAnswers": [
+      63,
+      83
+    ]
+  },
+  {
+    "id": "s2c1b7l2_09",
+    "question": "Taqqoslang: 37 + 13 __ 45",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s2c1b7l2_10",
+    "question": "Bir qutida 26 ta, ikkinchisida 24 ta qalam. Uchinchisida 30 ta. Jami nechta?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      70,
+      90
+    ]
+  }
+]

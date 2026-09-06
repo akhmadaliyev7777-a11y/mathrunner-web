@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b52l2_01",
+    "question": "Koordinata burchagida (tekislikda) nuqtaning o'rni nechta son bilan beriladi?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b52l2_02",
+    "question": "Koordinata burchagidagi gorizontal o'q qanday belgilanadi?  (OX = 1, OY = 2, OZ = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b52l2_03",
+    "question": "Koordinata burchagidagi vertikal o'q qanday belgilanadi?  (OY = 1, OX = 2, OZ = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b52l2_04",
+    "question": "(2, 3) nuqtadan o'ngga qarab 3 birlik yursak, qaysi nuqtaga kelamiz?  (x koordinatasini yozing)",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b52l2_05",
+    "question": "(4, 1) nuqtadan yuqoriga 3 birlik yursak, y koordinatasi qancha bo'ladi?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      1,
+      7
+    ]
+  },
+  {
+    "id": "s3c3b52l2_06",
+    "question": "Nuqta koordinatasi (X, Y) da X nimani bildiradi?  (gorizontal o'rin = 1, vertikal o'rin = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b52l2_07",
+    "question": "Koordinata burchagida ikki o'q O nuqtada kesishadi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c3b52l2_08",
+    "question": "(0, 0) nuqta koordinata burchagida qayerda joylashgan?  (sanoq boshida (O nuqta) = 1, o'ng chekkada = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b52l2_09",
+    "question": "(3, 2) va (3, 5) nuqtalar bir xil o'qqa nisbatan bir xil o'rinda. Qaysi son bir xil?  (X = 1, Y = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b52l2_10",
+    "question": "(5, 4) nuqtadan chapga 2 birlik yursak, x koordinatasi qancha bo'ladi?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      7,
+      2
+    ]
+  }
+]

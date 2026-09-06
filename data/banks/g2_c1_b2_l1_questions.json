@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b2l1_01",
+    "question": "To'g'ri chiziqning boshi va oxiri yo'q — u cheksiz davom etadi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c1b2l1_02",
+    "question": "Kesmaning ikkita uchi bor.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c1b2l1_03",
+    "question": "Nurning boshi bor, lekin oxiri yo'q.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c1b2l1_04",
+    "question": "Siniq chiziq bir nechta kesmadan tuziladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c1b2l1_05",
+    "question": "Ikki nuqta orqali faqat bitta to'g'ri chiziq o'tkazish mumkin.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c1b2l1_06",
+    "question": "Kesmani ikkala tomonga cheksiz uzaytirsa bo'ladi.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c1b2l1_07",
+    "question": "Egri chiziqda burchaklar (sinishlar) bo'ladi.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c1b2l1_08",
+    "question": "3 ta kesmadan tuzilgan yopiq siniq chiziq qanday shakl hosil qiladi?",
+    "correctAnswer": "uchburchak",
+    "wrongAnswers": [
+      "to'rtburchak",
+      "kesma"
+    ]
+  },
+  {
+    "id": "s2c1b2l1_09",
+    "question": "Bitta uchi bor, ikkinchi tomoni cheksiz — bu qanday chiziq?",
+    "correctAnswer": "nur",
+    "wrongAnswers": [
+      "kesma",
+      "to'g'ri chiziq"
+    ]
+  },
+  {
+    "id": "s2c1b2l1_10",
+    "question": "AB kesmaning uzunligi 8 sm, BC kesmaning uzunligi 5 sm. ABC siniq chiziq uzunligi qancha sm?",
+    "correctAnswer": 13,
+    "wrongAnswers": [
+      3,
+      40
+    ]
+  }
+]

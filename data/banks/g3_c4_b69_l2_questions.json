@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b69l2_01",
+    "question": "(3 978 : 3 + 9 731) * 14 : 7 = ?",
+    "correctAnswer": 22114,
+    "wrongAnswers": [
+      22214,
+      22110
+    ]
+  },
+  {
+    "id": "s3c4b69l2_02",
+    "question": "(11 108 + 3 921) - 22 545 : 9 = ?",
+    "correctAnswer": 12524,
+    "wrongAnswers": [
+      12624,
+      12424
+    ]
+  },
+  {
+    "id": "s3c4b69l2_03",
+    "question": "89 083 - 47 500 : 50 = ?",
+    "correctAnswer": 88133,
+    "wrongAnswers": [
+      87183,
+      41583
+    ]
+  },
+  {
+    "id": "s3c4b69l2_04",
+    "question": "760 102 - (63 000 : 70 + 45 * 3 546) = ?  (63000:70=900, 45*3546=159570)",
+    "correctAnswer": 599632,
+    "wrongAnswers": [
+      599532,
+      600632
+    ]
+  },
+  {
+    "id": "s3c4b69l2_05",
+    "question": "Amallar tartibi: 500 000 - 250 * 300 - 100 000 = ?",
+    "correctAnswer": 325000,
+    "wrongAnswers": [
+      324000,
+      326000
+    ]
+  },
+  {
+    "id": "s3c4b69l2_06",
+    "question": "27 810 : 270 = ?",
+    "correctAnswer": 103,
+    "wrongAnswers": [
+      93,
+      113
+    ]
+  },
+  {
+    "id": "s3c4b69l2_07",
+    "question": "(5 000 - 87 * 39) * 2 = ?  (87*39=3393)",
+    "correctAnswer": 3214,
+    "wrongAnswers": [
+      3114,
+      3314
+    ]
+  },
+  {
+    "id": "s3c4b69l2_08",
+    "question": "12 million - 5 million 400 ming = ? (raqamlarda)",
+    "correctAnswer": 6600000,
+    "wrongAnswers": [
+      6400000,
+      7600000
+    ]
+  },
+  {
+    "id": "s3c4b69l2_09",
+    "question": "Amallar tartibi: 90 000 : (63 000 : 70 + 100) = ?  (900 + 100 = 1000)",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      9,
+      900
+    ]
+  },
+  {
+    "id": "s3c4b69l2_10",
+    "question": "Hisoblamasdan:  456 * 20 __ 456 * 30",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  }
+]

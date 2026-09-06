@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b5l1_01",
+    "question": "34 = ? o'nlik va 4 birlik",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      4,
+      34
+    ]
+  },
+  {
+    "id": "s2c1b5l1_02",
+    "question": "70 = ? o'nlik va 0 birlik",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      8,
+      0
+    ]
+  },
+  {
+    "id": "s2c1b5l1_03",
+    "question": "8 = ? o'nlik va 8 birlik",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      1,
+      8
+    ]
+  },
+  {
+    "id": "s2c1b5l1_04",
+    "question": "56 = ? o'nlik va 6 birlik",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      6,
+      56
+    ]
+  },
+  {
+    "id": "s2c1b5l1_05",
+    "question": "91 = ? o'nlik va 1 birlik",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      10,
+      1
+    ]
+  },
+  {
+    "id": "s2c1b5l1_06",
+    "question": "100 sonida nechta o'nlik bor?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      1,
+      100
+    ]
+  },
+  {
+    "id": "s2c1b5l1_07",
+    "question": "45 sonini xona qo'shiluvchilari yig'indisi ko'rinishida yozing: 45 = ? + 5",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      4,
+      45
+    ]
+  },
+  {
+    "id": "s2c1b5l1_08",
+    "question": "82 sonini xona qo'shiluvchilari yig'indisi ko'rinishida yozing: 82 = ? + 2",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      8,
+      82
+    ]
+  },
+  {
+    "id": "s2c1b5l1_09",
+    "question": "60 sonini xona qo'shiluvchilari yig'indisi ko'rinishida yozing: 60 = ? + 0",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      6,
+      70
+    ]
+  },
+  {
+    "id": "s2c1b5l1_10",
+    "question": "7 sonini xona qo'shiluvchilari yig'indisi ko'rinishida yozing: 7 = ? + 7",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      7,
+      10
+    ]
+  }
+]

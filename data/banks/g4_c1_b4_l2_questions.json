@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok4_level2_teng_01", "question": "x < 5 tengsizligini qanoatlantiruvchi eng katta natural son qaysi?", "correctAnswer": 4, "wrongAnswers": [5, 6]},
+  {"id": "sinf4_chorak1_blok4_level2_teng_02", "question": "x > 10 tengsizligini qanoatlantiruvchi eng kichik natural son qaysi?", "correctAnswer": 11, "wrongAnswers": [10, 9]},
+  {"id": "sinf4_chorak1_blok4_level2_teng_03", "question": "Rost yoki yolg'on: 7 soni 2·x < 20 tengsizligini qanoatlantiradi.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak1_blok4_level2_teng_04", "question": "Rost yoki yolg'on: 10 soni x − 3 > 8 tengsizligini qanoatlantiradi.", "correctAnswer": "Yolg'on", "wrongAnswers": ["Rost", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak1_blok4_level2_teng_05", "question": "x + 4 = 12 tenglamaning ildizi (yechimi) nechi?", "correctAnswer": 8, "wrongAnswers": [16, 3]},
+  {"id": "sinf4_chorak1_blok4_level2_teng_06", "question": "Quyidagi sonlardan qaysi biri x < 3 tengsizligining yechimi EMAS?", "correctAnswer": 3, "wrongAnswers": [1, 2]},
+  {"id": "sinf4_chorak1_blok4_level2_teng_07", "question": "50 − x = 30 tenglamaning yechimi nechi?", "correctAnswer": 20, "wrongAnswers": [80, 15]},
+  {"id": "sinf4_chorak1_blok4_level2_teng_08", "question": "Rost yoki yolg'on: x · 0 = 5 tenglamaning yechimi bor.", "correctAnswer": "Yolg'on", "wrongAnswers": ["Rost", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak1_blok4_level2_teng_09", "question": "x − 100 = 100 tenglamaning yechimi nechi?", "correctAnswer": 200, "wrongAnswers": [0, 50]},
+  {"id": "sinf4_chorak1_blok4_level2_teng_10", "question": "Olim: \"x + 8 = 20, demak x = 20 + 8 = 28\" dedi. To'g'ri yechim qaysi?", "correctAnswer": 12, "wrongAnswers": [28, 160]}
+]

@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak4_blok64_level1_pir_01", "question": "Piramidaning asosi qanday shaklda bo'lishi mumkin?", "correctAnswer": "Ko'pburchak (uchburchak, kvadrat...)", "wrongAnswers": ["Faqat doira", "Faqat uchburchak"]},
+  {"id": "sinf4_chorak4_blok64_level1_pir_02", "question": "Uchburchakli piramidaning nechta yoqi bor?", "correctAnswer": 4, "wrongAnswers": [3, 5]},
+  {"id": "sinf4_chorak4_blok64_level1_pir_03", "question": "Kvadrat asosli piramidaning nechta yon yoqi bor?", "correctAnswer": 4, "wrongAnswers": [3, 5]},
+  {"id": "sinf4_chorak4_blok64_level1_pir_04", "question": "Piramidaning yon yoqlari qanday shaklda?", "correctAnswer": "uchburchak", "wrongAnswers": ["kvadrat", "doira"]},
+  {"id": "sinf4_chorak4_blok64_level1_pir_05", "question": "Piramidaning nechta cho'qqisi (barcha yon qirralar birlashadigan uchi) bor?", "correctAnswer": 1, "wrongAnswers": [2, 4]},
+  {"id": "sinf4_chorak4_blok64_level1_pir_06", "question": "Kvadrat asosli piramidaning jami nechta yoqi bor?", "correctAnswer": 5, "wrongAnswers": [4, 6]},
+  {"id": "sinf4_chorak4_blok64_level1_pir_07", "question": "Uchburchakli piramidaning nechta uchi bor?", "correctAnswer": 4, "wrongAnswers": [3, 5]},
+  {"id": "sinf4_chorak4_blok64_level1_pir_08", "question": "Kvadrat asosli piramidaning nechta qirrasi bor?", "correctAnswer": 8, "wrongAnswers": [6, 5]},
+  {"id": "sinf4_chorak4_blok64_level1_pir_09", "question": "Piramida nomi qanday aniqlanadi?", "correctAnswer": "Asosining shakliga qarab", "wrongAnswers": ["Balandligiga qarab", "Yon yoqlar rangiga qarab"]},
+  {"id": "sinf4_chorak4_blok64_level1_pir_10", "question": "Uchburchakli piramidaning nechta qirrasi bor?", "correctAnswer": 6, "wrongAnswers": [4, 5]}
+]

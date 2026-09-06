@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok22_level3_yak_01", "question": "Mashina 50 km/soat tezlikda 3 soat yurgach, 2 soat to'xtadi, keyin yana 1 soat yurdi. Jami necha km yo'l bosdi?", "correctAnswer": 200, "wrongAnswers": [300, 150]},
+  {"id": "sinf4_chorak1_blok22_level3_yak_02", "question": "Aziz: \"8, 8, 2 sonlarining o'rta arifmetigi = (8 + 8 + 2) : 2 = 9\" dedi. Xatosi nimada?", "correctAnswer": "3 taga bo'lish kerak: 18 : 3 = 6", "wrongAnswers": ["Ayirish kerak edi", "Javob to'g'ri, 9"]},
+  {"id": "sinf4_chorak1_blok22_level3_yak_03", "question": "5 ta javonda har birida 30 ta kitob bor. 40 ta kitob berib yuborildi. Nechta kitob qoldi?", "correctAnswer": 110, "wrongAnswers": [150, 190]},
+  {"id": "sinf4_chorak1_blok22_level3_yak_04", "question": "☐7 ko'rinishidagi son 3 ga bo'linsin. ☐ ning eng kichik qiymati (0 dan boshqa) qaysi?", "correctAnswer": 2, "wrongAnswers": [1, 5]},
+  {"id": "sinf4_chorak1_blok22_level3_yak_05", "question": "Kvadratning perimetri 24 sm. Uning yuzasi necha sm²?", "correctAnswer": 36, "wrongAnswers": [24, 12]},
+  {"id": "sinf4_chorak1_blok22_level3_yak_06", "question": "Do'kon 4 kunda: 20, 30, 25, 25 dona non sotdi. Kuniga o'rtacha nechta non sotgan?", "correctAnswer": 25, "wrongAnswers": [100, 30]},
+  {"id": "sinf4_chorak1_blok22_level3_yak_07", "question": "3 ta daftar 9 000 so'mdan va 5 000 so'mlik ruchka to'plami olindi. 40 000 so'm berilsa, qaytim qancha?", "correctAnswer": 8000, "wrongAnswers": [26000, 12000]},
+  {"id": "sinf4_chorak1_blok22_level3_yak_08", "question": "Har doim / ba'zan / hech qachon to'g'ri: \"5 ga karrali son 0 yoki 5 bilan tugaydi.\"", "correctAnswer": "Har doim", "wrongAnswers": ["Ba'zan", "Hech qachon"]},
+  {"id": "sinf4_chorak1_blok22_level3_yak_09", "question": "A(1, 2) va B(1, 6) nuqtalar berilgan. AB kesma uzunligi necha birlik?", "correctAnswer": 4, "wrongAnswers": [5, 6]},
+  {"id": "sinf4_chorak1_blok22_level3_yak_10", "question": "24 o'quvchini 4 tadan guruhlab, har guruhga 3 tadan olma berilsa, jami nechta olma kerak?", "correctAnswer": 18, "wrongAnswers": [72, 12]}
+]

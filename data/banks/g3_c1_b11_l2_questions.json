@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b11l2_01",
+    "question": "(5 000 + 3 000) : 100 = ?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      8,
+      800
+    ]
+  },
+  {
+    "id": "s3c1b11l2_02",
+    "question": "Hisoblamasdan taqqoslang: 64 * 9 __ 64 * 11",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s3c1b11l2_03",
+    "question": "320 mln - 45 mln = ? mln",
+    "correctAnswer": 275,
+    "wrongAnswers": [
+      285,
+      265
+    ]
+  },
+  {
+    "id": "s3c1b11l2_04",
+    "question": "1 ha necha m2?",
+    "correctAnswer": 10000,
+    "wrongAnswers": [
+      1000,
+      100000
+    ]
+  },
+  {
+    "id": "s3c1b11l2_05",
+    "question": "Bir sonni o'yladim, 2 ga ko'paytirdim, 500 chiqdi. O'ylagan son qancha?",
+    "correctAnswer": 250,
+    "wrongAnswers": [
+      1000,
+      505
+    ]
+  },
+  {
+    "id": "s3c1b11l2_06",
+    "question": "Anvar 700 - 6 * 50 ni hisoblab, 400 deb yozdi. To'g'ri javob qancha?",
+    "correctAnswer": 400,
+    "wrongAnswers": [
+      3500,
+      350
+    ]
+  },
+  {
+    "id": "s3c1b11l2_07",
+    "question": "Yozing: 200 000 + 40 000 + 5 = ?",
+    "correctAnswer": 240005,
+    "wrongAnswers": [
+      24005,
+      2040005
+    ]
+  },
+  {
+    "id": "s3c1b11l2_08",
+    "question": "Taqqoslang: 1 km 200 m __ 1 200 m",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s3c1b11l2_09",
+    "question": "85 000 + 15 000 - 40 000 = ?",
+    "correctAnswer": 60000,
+    "wrongAnswers": [
+      50000,
+      70000
+    ]
+  },
+  {
+    "id": "s3c1b11l2_10",
+    "question": "Do'konda 5 ta sumka bor, har biri 42 000 so'm. Barcha sumkalar qiymati qancha?",
+    "correctAnswer": 210000,
+    "wrongAnswers": [
+      200000,
+      215000
+    ]
+  }
+]

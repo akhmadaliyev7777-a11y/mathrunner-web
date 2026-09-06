@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b52l2_01",
+    "question": "AB = 15 sm, BC = 12 sm. ABC siniq chiziq uzunligi necha sm?",
+    "correctAnswer": 27,
+    "wrongAnswers": [
+      3,
+      45
+    ]
+  },
+  {
+    "id": "s1c4b52l2_02",
+    "question": "Kesma 20 sm edi, 8 sm kesildi. Necha sm qoldi?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      28,
+      11
+    ]
+  },
+  {
+    "id": "s1c4b52l2_03",
+    "question": "3 ta kesma: 10 sm, 15 sm, 5 sm. Jami necha sm?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      20,
+      25
+    ]
+  },
+  {
+    "id": "s1c4b52l2_04",
+    "question": "MN = 18 sm. Uni ikkiga bo'ldik: bir qismi 7 sm. Ikkinchi qismi necha sm?",
+    "correctAnswer": 11,
+    "wrongAnswers": [
+      25,
+      10
+    ]
+  },
+  {
+    "id": "s1c4b52l2_05",
+    "question": "Siniq chiziq: 8 sm, 8 sm, 8 sm bo'g'inlar. Uzunligi necha sm?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      16,
+      32
+    ]
+  },
+  {
+    "id": "s1c4b52l2_06",
+    "question": "Bir kesma 25 sm, boshqasi 25 sm qisqa emas, balki 10 sm qisqa. Boshqasi necha sm?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      35,
+      14
+    ]
+  },
+  {
+    "id": "s1c4b52l2_07",
+    "question": "Taqqoslang: 12 sm + 9 sm __ 20 sm",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s1c4b52l2_08",
+    "question": "AB kesma 30 sm. 3 ta teng bo'lakka bo'lsak, har bo'lak necha sm? (masala shartidan)",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      27,
+      33
+    ]
+  },
+  {
+    "id": "s1c4b52l2_09",
+    "question": "Siniq chiziq uzunligi bo'g'inlari uzunligining yig'indisiga teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b52l2_10",
+    "question": "Xato: 10 sm va 12 sm li kesmalar yig'indisi 2 sm deyildi. To'g'ri javob necha sm?",
+    "correctAnswer": 22,
+    "wrongAnswers": [
+      2,
+      24
+    ]
+  }
+]

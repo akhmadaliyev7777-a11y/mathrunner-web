@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok31_level1_aniq_01", "question": "Kitobda 297 bet bor, lekin \"taxminan 300 bet\" deyildi. Bu qanday qiymat?", "correctAnswer": "taqribiy", "wrongAnswers": ["aniq", "noto'g'ri"]},
+  {"id": "sinf4_chorak2_blok31_level1_aniq_02", "question": "Sinfda 25 o'quvchi sanab chiqildi. Bu qanday qiymat?", "correctAnswer": "aniq", "wrongAnswers": ["taqribiy", "noto'g'ri"]},
+  {"id": "sinf4_chorak2_blok31_level1_aniq_03", "question": "Rost yoki yolg'on: \"Sayohat taxminan 3 soat davom etadi\" — bu taqribiy qiymat.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak2_blok31_level1_aniq_04", "question": "Rost yoki yolg'on: Sanab chiqilgan narsa har doim taqribiy qiymat beradi.", "correctAnswer": "Yolg'on", "wrongAnswers": ["Rost", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak2_blok31_level1_aniq_05", "question": "Bir odamning bo'yi \"175 sm ga yaqin\" deyildi. Bu qanday qiymat?", "correctAnswer": "taqribiy", "wrongAnswers": ["aniq", "xato"]},
+  {"id": "sinf4_chorak2_blok31_level1_aniq_06", "question": "Olma tarozida o'lchandi. O'lchash natijasi odatda qanday bo'ladi?", "correctAnswer": "taqribiy", "wrongAnswers": ["har doim aniq", "har doim xato"]},
+  {"id": "sinf4_chorak2_blok31_level1_aniq_07", "question": "Rost yoki yolg'on: \"Bir yilda 12 oy bor\" — bu aniq qiymat.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak2_blok31_level1_aniq_08", "question": "487 ni yaxlitlab \"taxminan 500\" desak, bu son endi qanday bo'ladi?", "correctAnswer": "taqribiy", "wrongAnswers": ["aniq", "o'zgarmagan"]},
+  {"id": "sinf4_chorak2_blok31_level1_aniq_09", "question": "Rost yoki yolg'on: Taqribiy qiymat aniq qiymatga yaqin bo'ladi, lekin unga teng bo'lishi shart emas.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak2_blok31_level1_aniq_10", "question": "Quyidagilardan qaysi biri ANIQ qiymatga misol?", "correctAnswer": "Bir haftada 7 kun", "wrongAnswers": ["Yo'l taxminan 400 km", "Vazn taxminan 60 kg"]}
+]

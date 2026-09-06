@@ -1,0 +1,17 @@
+[
+  {"id": "sinf4_chorak1_blok11_level1_top_01", "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring", "setAName": "Juft sonlar", "setBName": "10 dan katta sonlar", "elements": [
+    {"value": "4", "zone": "onlyA"}, {"value": "12", "zone": "both"}, {"value": "15", "zone": "onlyB"}, {"value": "7", "zone": "neither"}
+  ]},
+  {"id": "sinf4_chorak1_blok11_level1_top_02", "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring", "setAName": "Uch xonali sonlar", "setBName": "5 ga karrali sonlar", "elements": [
+    {"value": "120", "zone": "both"}, {"value": "45", "zone": "onlyB"}, {"value": "300", "zone": "both"}, {"value": "78", "zone": "onlyA"}, {"value": "9", "zone": "neither"}, {"value": "250", "zone": "both"}
+  ]},
+  {"id": "sinf4_chorak1_blok11_level1_top_03", "prompt": "Har bir shaklni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring", "setAName": "To'g'ri to'rtburchaklar", "setBName": "Kvadratlar", "elements": [
+    {"value": "Kvadrat 5×5", "zone": "both"}, {"value": "To'rtburchak 6×3", "zone": "onlyA"}, {"value": "To'rtburchak 4×4", "zone": "both"}, {"value": "Uchburchak", "zone": "neither"}
+  ]},
+  {"id": "sinf4_chorak1_blok11_level1_top_04", "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring", "setAName": "100 dan kichik sonlar", "setBName": "Toq sonlar", "elements": [
+    {"value": "50", "zone": "onlyA"}, {"value": "35", "zone": "both"}, {"value": "101", "zone": "neither"}, {"value": "77", "zone": "both"}, {"value": "88", "zone": "onlyA"}, {"value": "205", "zone": "neither"}
+  ]},
+  {"id": "sinf4_chorak1_blok11_level1_top_05", "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring", "setAName": "3 ga bo'linadigan sonlar", "setBName": "9 ga bo'linadigan sonlar", "elements": [
+    {"value": "9", "zone": "both"}, {"value": "12", "zone": "onlyA"}, {"value": "18", "zone": "both"}, {"value": "15", "zone": "onlyA"}, {"value": "27", "zone": "both"}, {"value": "10", "zone": "neither"}, {"value": "6", "zone": "onlyA"}, {"value": "45", "zone": "both"}
+  ]}
+]

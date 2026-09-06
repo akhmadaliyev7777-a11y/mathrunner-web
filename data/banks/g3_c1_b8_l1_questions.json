@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b8l1_01",
+    "question": "73 263 + 80 212 = ?",
+    "correctAnswer": 153475,
+    "wrongAnswers": [
+      152475,
+      163475
+    ]
+  },
+  {
+    "id": "s3c1b8l1_02",
+    "question": "112 229 037 + 220 987 217 = ?",
+    "correctAnswer": 333216254,
+    "wrongAnswers": [
+      333215254,
+      333226254
+    ]
+  },
+  {
+    "id": "s3c1b8l1_03",
+    "question": "35 689 + 674 311 = ?",
+    "correctAnswer": 710000,
+    "wrongAnswers": [
+      709000,
+      720000
+    ]
+  },
+  {
+    "id": "s3c1b8l1_04",
+    "question": "4 590 000 + 3 410 000 = ?",
+    "correctAnswer": 8000000,
+    "wrongAnswers": [
+      7999000,
+      8010000
+    ]
+  },
+  {
+    "id": "s3c1b8l1_05",
+    "question": "23 120 218 + 14 087 225 = ?",
+    "correctAnswer": 37207443,
+    "wrongAnswers": [
+      37206443,
+      37217443
+    ]
+  },
+  {
+    "id": "s3c1b8l1_06",
+    "question": "99 999 999 + 999 999 = ?",
+    "correctAnswer": 100999998,
+    "wrongAnswers": [
+      100999997,
+      100099998
+    ]
+  },
+  {
+    "id": "s3c1b8l1_07",
+    "question": "23 mln 120 ming 218 + 14 mln 87 ming 225 = ?  (javobni raqamlarda)",
+    "correctAnswer": 37207443,
+    "wrongAnswers": [
+      37206443,
+      37217443
+    ]
+  },
+  {
+    "id": "s3c1b8l1_08",
+    "question": "250 000 + 750 000 = ?",
+    "correctAnswer": 1000000,
+    "wrongAnswers": [
+      900000,
+      999999
+    ]
+  },
+  {
+    "id": "s3c1b8l1_09",
+    "question": "120 000 + 340 000 + 200 000 = ?",
+    "correctAnswer": 660000,
+    "wrongAnswers": [
+      560000,
+      760000
+    ]
+  },
+  {
+    "id": "s3c1b8l1_10",
+    "question": "Ustunli qo'shing: 45 678 + 23 456 = ?",
+    "correctAnswer": 69134,
+    "wrongAnswers": [
+      68134,
+      70134
+    ]
+  }
+]

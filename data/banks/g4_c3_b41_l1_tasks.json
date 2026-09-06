@@ -1,0 +1,10 @@
+[
+  {"id": "sinf4_chorak3_blok41_level1_ulush_01", "prompt": "Tasmaning 1/2 qismini bo'yang", "denominator": 2, "numerator": 1},
+  {"id": "sinf4_chorak3_blok41_level1_ulush_02", "prompt": "Tasmaning 1/4 qismini bo'yang", "denominator": 4, "numerator": 1},
+  {"id": "sinf4_chorak3_blok41_level1_ulush_03", "prompt": "Tasmaning 3/4 qismini bo'yang", "denominator": 4, "numerator": 3},
+  {"id": "sinf4_chorak3_blok41_level1_ulush_04", "prompt": "Tasmaning 2/3 qismini bo'yang", "denominator": 3, "numerator": 2},
+  {"id": "sinf4_chorak3_blok41_level1_ulush_05", "prompt": "Tasmaning 3/5 qismini bo'yang", "denominator": 5, "numerator": 3},
+  {"id": "sinf4_chorak3_blok41_level1_ulush_06", "prompt": "Tasmaning 5/6 qismini bo'yang", "denominator": 6, "numerator": 5},
+  {"id": "sinf4_chorak3_blok41_level1_ulush_07", "prompt": "Tasmaning 1/8 qismini bo'yang", "denominator": 8, "numerator": 1},
+  {"id": "sinf4_chorak3_blok41_level1_ulush_08", "prompt": "Tasmaning 7/8 qismini bo'yang", "denominator": 8, "numerator": 7}
+]

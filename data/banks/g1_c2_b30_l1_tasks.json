@@ -1,0 +1,122 @@
+[
+  {
+    "id": "g1c2b30l1_ord_01",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      23,
+      45,
+      12,
+      67,
+      34
+    ],
+    "ascending": true
+  },
+  {
+    "id": "g1c2b30l1_ord_02",
+    "prompt": "Sonlarni kamayish tartibida joylashtiring",
+    "numbers": [
+      90,
+      55,
+      78,
+      40,
+      62
+    ],
+    "ascending": false
+  },
+  {
+    "id": "g1c2b30l1_ord_03",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      11,
+      21,
+      13,
+      31,
+      12
+    ],
+    "ascending": true
+  },
+  {
+    "id": "g1c2b30l1_ord_04",
+    "prompt": "Sonlarni kamayish tartibida joylashtiring",
+    "numbers": [
+      88,
+      80,
+      85,
+      82,
+      81
+    ],
+    "ascending": false
+  },
+  {
+    "id": "g1c2b30l1_ord_05",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      50,
+      15,
+      51,
+      5,
+      55
+    ],
+    "ascending": true
+  },
+  {
+    "id": "g1c2b30l1_ord_06",
+    "prompt": "Sonlarni kamayish tartibida joylashtiring",
+    "numbers": [
+      64,
+      46,
+      66,
+      44,
+      60
+    ],
+    "ascending": false
+  },
+  {
+    "id": "g1c2b30l1_ord_07",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      30,
+      25,
+      35,
+      20,
+      40
+    ],
+    "ascending": true
+  },
+  {
+    "id": "g1c2b30l1_ord_08",
+    "prompt": "Sonlarni kamayish tartibida joylashtiring",
+    "numbers": [
+      72,
+      27,
+      77,
+      22,
+      70
+    ],
+    "ascending": false
+  },
+  {
+    "id": "g1c2b30l1_ord_09",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      19,
+      91,
+      99,
+      90,
+      11
+    ],
+    "ascending": true
+  },
+  {
+    "id": "g1c2b30l1_ord_10",
+    "prompt": "Sonlarni kamayish tartibida joylashtiring",
+    "numbers": [
+      43,
+      34,
+      44,
+      33,
+      40
+    ],
+    "ascending": false
+  }
+]

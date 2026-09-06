@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b56l2_01",
+    "question": "3 sm va 3 sm tomonli ikki kvadrat teng. Ularning perimetri necha sm?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      6,
+      24
+    ]
+  },
+  {
+    "id": "s1c4b56l2_02",
+    "question": "Tangramda 7 ta qism bor. 2 tasi olib qo'yilsa, nechta qoldi?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      9,
+      4
+    ]
+  },
+  {
+    "id": "s1c4b56l2_03",
+    "question": "Bir shakl 4 ta teng bo'lakka bo'lingan. Har bir bo'lak butunning ...",
+    "correctAnswer": "to'rtdan bir qismi",
+    "wrongAnswers": [
+      "yarmi",
+      "hammasi"
+    ]
+  },
+  {
+    "id": "s1c4b56l2_04",
+    "question": "Ikki teng kvadratni yonma-yon qo'ysak, qanday shakl hosil bo'ladi?",
+    "correctAnswer": "to'g'ri to'rtburchak",
+    "wrongAnswers": [
+      "uchburchak",
+      "doira"
+    ]
+  },
+  {
+    "id": "s1c4b56l2_05",
+    "question": "Shaklning chegarasi uzunligi 20 sm. Bu nima deb ataladi?",
+    "correctAnswer": "perimetr",
+    "wrongAnswers": [
+      "soha",
+      "burchak"
+    ]
+  },
+  {
+    "id": "s1c4b56l2_06",
+    "question": "6 ta bir xil kvadratdan qatorda shakl tuzildi. Bu nechta kvadratdan iborat?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": "s1c4b56l2_07",
+    "question": "Teng shakllarni ustma-ust qo'ysak, ular to'liq mos tushadi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b56l2_08",
+    "question": "2 ta teng uchburchakdan tuzilgan kvadratning tomoni 5 sm. Perimetri necha sm?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      10,
+      25
+    ]
+  },
+  {
+    "id": "s1c4b56l2_09",
+    "question": "Xato: \"teng shakllarning perimetri har xil bo'ladi\" deyildi. Aslida ...",
+    "correctAnswer": "perimetri teng",
+    "wrongAnswers": [
+      "perimetri har xil",
+      "aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b56l2_10",
+    "question": "Bir shakl 3 ta bo'lakka bo'lingan. Har bir bo'lak butunning uchdan biri.",
+    "correctAnswer": "Aniqlab bo'lmaydi",
+    "wrongAnswers": [
+      "Rost",
+      "Yolg'on"
+    ]
+  }
+]

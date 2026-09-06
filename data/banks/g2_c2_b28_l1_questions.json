@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b28l1_01",
+    "question": "1 sm necha mm?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      100,
+      1
+    ]
+  },
+  {
+    "id": "s2c2b28l1_02",
+    "question": "3 sm necha mm?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      3,
+      300
+    ]
+  },
+  {
+    "id": "s2c2b28l1_03",
+    "question": "1 dm necha mm?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      10,
+      1000
+    ]
+  },
+  {
+    "id": "s2c2b28l1_04",
+    "question": "50 mm necha sm?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      50,
+      500
+    ]
+  },
+  {
+    "id": "s2c2b28l1_05",
+    "question": "2 sm 5 mm necha mm?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      250,
+      7
+    ]
+  },
+  {
+    "id": "s2c2b28l1_06",
+    "question": "80 mm necha sm?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      80,
+      800
+    ]
+  },
+  {
+    "id": "s2c2b28l1_07",
+    "question": "Taqqoslang: 4 sm __ 40 mm",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s2c2b28l1_08",
+    "question": "Taqqoslang: 1 sm __ 8 mm",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s2c2b28l1_09",
+    "question": "Eng kichik uzunlik birligi qaysi (mm, sm, dm, m dan)?",
+    "correctAnswer": "mm",
+    "wrongAnswers": [
+      "sm",
+      "dm"
+    ]
+  },
+  {
+    "id": "s2c2b28l1_10",
+    "question": "6 sm 3 mm = ? mm",
+    "correctAnswer": 63,
+    "wrongAnswers": [
+      9,
+      630
+    ]
+  }
+]

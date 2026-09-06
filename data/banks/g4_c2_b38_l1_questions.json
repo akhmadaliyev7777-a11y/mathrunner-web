@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok38_level1_amgeo_01", "question": "Bog' 30 m × 20 m. Uni ikki qator sim bilan o'rash kerak. Necha metr sim kerak?", "correctAnswer": 200, "wrongAnswers": [100, 600]},
+  {"id": "sinf4_chorak2_blok38_level1_amgeo_02", "question": "Xona poli 6 m × 5 m. 1 m² gilam 50 000 so'm. Butun polni qoplash necha so'm?", "correctAnswer": 1500000, "wrongAnswers": [1100000, 550000]},
+  {"id": "sinf4_chorak2_blok38_level1_amgeo_03", "question": "Kvadrat maydonning yuzasi 64 m². Uni to'siq bilan o'rash uchun necha metr to'siq kerak?", "correctAnswer": 32, "wrongAnswers": [64, 16]},
+  {"id": "sinf4_chorak2_blok38_level1_amgeo_04", "question": "To'g'ri to'rtburchak xonaning bo'yi 8 m, eni 4 m. Yuzasi bilan perimetri orasidagi farq (yuza − perimetr) necha?", "correctAnswer": 8, "wrongAnswers": [24, 32]},
+  {"id": "sinf4_chorak2_blok38_level1_amgeo_05", "question": "Devor 5 m × 3 m. Bir banka bo'yoq 15 m² ni bo'yaydi. Devorni bo'yash uchun necha banka kerak?", "correctAnswer": 1, "wrongAnswers": [2, 15]},
+  {"id": "sinf4_chorak2_blok38_level1_amgeo_06", "question": "Stol qoplamasi 120 sm × 80 sm. Uning atrofiga hoshiya tikish uchun necha sm lenta kerak?", "correctAnswer": 400, "wrongAnswers": [200, 9600]},
+  {"id": "sinf4_chorak2_blok38_level1_amgeo_07", "question": "Kvadrat gilam tomoni 3 m. 4 ta shunday gilam necha m² joyni qoplaydi?", "correctAnswer": 36, "wrongAnswers": [12, 48]},
+  {"id": "sinf4_chorak2_blok38_level1_amgeo_08", "question": "Bog' 40 m × 25 m. Aziz uni o'rash uchun 40 × 25 = 1000 m to'siq kerak dedi. Xatosi nimada?", "correctAnswer": "O'rash uchun PERIMETR kerak: 2 × (40 + 25) = 130 m", "wrongAnswers": ["Xato yo'q", "Yuzani 2 ga bo'lish kerak"]},
+  {"id": "sinf4_chorak2_blok38_level1_amgeo_09", "question": "To'g'ri to'rtburchak yer uchastkasining yuzasi 100 m², bo'yi 20 m. Eni necha m?", "correctAnswer": 5, "wrongAnswers": [80, 120]},
+  {"id": "sinf4_chorak2_blok38_level1_amgeo_10", "question": "Kvadrat xonaning perimetri 20 m. Uning yuzasi necha m²?", "correctAnswer": 25, "wrongAnswers": [20, 100]}
+]

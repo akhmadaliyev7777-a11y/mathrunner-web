@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b49l2_01",
+    "question": "Bir bochkada 40 l, boshqasida 35 l suv. Jami necha litr?",
+    "correctAnswer": 75,
+    "wrongAnswers": [
+      5,
+      80
+    ]
+  },
+  {
+    "id": "s1c3b49l2_02",
+    "question": "50 l suvdan 22 l ishlatildi. Necha litr qoldi?",
+    "correctAnswer": 28,
+    "wrongAnswers": [
+      72,
+      27
+    ]
+  },
+  {
+    "id": "s1c3b49l2_03",
+    "question": "Chelakka 8 l, qozonga 25 l, bankaga 3 l suv sig'adi. Qaysi biriga eng ko'p suv sig'adi?",
+    "correctAnswer": "qozonga",
+    "wrongAnswers": [
+      "chelakka",
+      "bankaga"
+    ]
+  },
+  {
+    "id": "s1c3b49l2_04",
+    "question": "3 ta idish: 10 l, 15 l, 5 l. Jami necha litr?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      20,
+      25
+    ]
+  },
+  {
+    "id": "s1c3b49l2_05",
+    "question": "Katta idish 30 l, kichigi 12 l kam. Kichigi necha litr?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      42,
+      17
+    ]
+  },
+  {
+    "id": "s1c3b49l2_06",
+    "question": "12 l + 8 l + 10 l = ? l",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      20,
+      40
+    ]
+  },
+  {
+    "id": "s1c3b49l2_07",
+    "question": "Taqqoslang: 20 l + 10 l __ 40 l",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c3b49l2_08",
+    "question": "Bir kanistrda 45 l benzin bor edi, 30 l quyildi. Necha litr qoldi?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      75,
+      14
+    ]
+  },
+  {
+    "id": "s1c3b49l2_09",
+    "question": "Litr — suyuqlik hajmini o'lchash birligi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b49l2_10",
+    "question": "Xato: \"25 l + 15 l = 30 l\" deyildi. To'g'ri javob necha litr?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      30,
+      50
+    ]
+  }
+]

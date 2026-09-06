@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b61l2_01",
+    "question": "Bir savatda 8 kg olma (12 000 so'm/kg) va 5 kg nok (15 000 so'm/kg). Savatning qiymati qancha?",
+    "correctAnswer": 171000,
+    "wrongAnswers": [
+      96000,
+      75000
+    ]
+  },
+  {
+    "id": "s3c4b61l2_02",
+    "question": "O'quvchi 4 daftar (2 500 so'm) va 3 qalam (3 000 so'm) oldi. 25 000 so'm berdi. Qaytim qancha?",
+    "correctAnswer": 6000,
+    "wrongAnswers": [
+      19000,
+      10000
+    ]
+  },
+  {
+    "id": "s3c4b61l2_03",
+    "question": "Bir usta 5 ta stol yasadi, har biriga 120 000 so'm oldi. Materialga 200 000 so'm sarfladi. Foydasi qancha?",
+    "correctAnswer": 400000,
+    "wrongAnswers": [
+      600000,
+      320000
+    ]
+  },
+  {
+    "id": "s3c4b61l2_04",
+    "question": "Onam bozorga 300 000 so'm bilan bordi. 3 kg go'sht (80 000), 5 kg guruch (14 000) oldi. Qancha pul qoldi?",
+    "correctAnswer": -10000,
+    "wrongAnswers": [
+      10000,
+      30000
+    ]
+  },
+  {
+    "id": "s3c4b61l2_05",
+    "question": "Do'konda 25 kg shakar bor, kg si 12 000 so'm. Yarmi sotildi. Qancha pulga sotildi?",
+    "correctAnswer": 150000,
+    "wrongAnswers": [
+      300000,
+      75000
+    ]
+  },
+  {
+    "id": "s3c4b61l2_06",
+    "question": "Bir dona qalam 2 000 so'm. Sinf uchun 30 ta qalam olindi va 4 000 so'm chegirma berildi. Qancha to'landi?",
+    "correctAnswer": 56000,
+    "wrongAnswers": [
+      60000,
+      64000
+    ]
+  },
+  {
+    "id": "s3c4b61l2_07",
+    "question": "5 kishi restoranga bordi. Har biri 45 000 so'mlik ovqat yedi. Jami qancha to'lashadi?",
+    "correctAnswer": 225000,
+    "wrongAnswers": [
+      45005,
+      180000
+    ]
+  },
+  {
+    "id": "s3c4b61l2_08",
+    "question": "Kitob do'konida 8 ta bir xil kitob 96 000 so'm. 15 ta kitob qancha turadi?",
+    "correctAnswer": 180000,
+    "wrongAnswers": [
+      96015,
+      150000
+    ]
+  },
+  {
+    "id": "s3c4b61l2_09",
+    "question": "Bir kg asal 90 000 so'm. 3 kg 500 g asal qancha turadi?  (yarim kg = 45 000)",
+    "correctAnswer": 315000,
+    "wrongAnswers": [
+      270000,
+      360000
+    ]
+  },
+  {
+    "id": "s3c4b61l2_10",
+    "question": "Anvarda 100 000 so'm bor. U 35 000 so'mlik va 28 000 so'mlik ikkita kitob olmoqchi. Yetadimi va qancha qoladi?  (yetadi, qoladi:)",
+    "correctAnswer": 37000,
+    "wrongAnswers": [
+      63000,
+      167000
+    ]
+  }
+]

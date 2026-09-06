@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok54_level2_onli_01", "question": "Nol butun yuzdan yetmish besh — bu qanday yoziladi?", "correctAnswer": "0,75", "wrongAnswers": ["0,075", "7,5"]},
+  {"id": "sinf4_chorak3_blok54_level2_onli_02", "question": "0,6 sonini yuzdan birlarda ifodalasak, qanday bo'ladi?", "correctAnswer": "0,60", "wrongAnswers": ["0,06", "6,0"]},
+  {"id": "sinf4_chorak3_blok54_level2_onli_03", "question": "2,05 sonini oddiy (aralash) kasr shaklida yozing.", "correctAnswer": "2 5/100", "wrongAnswers": ["2 5/10", "25/100"]},
+  {"id": "sinf4_chorak3_blok54_level2_onli_04", "question": "Aziz 3/100 ni o'nli kasr shaklida 0,3 deb yozdi. Xatosi nimada?", "correctAnswer": "Yuzdan birlar uchun verguldan keyin 2 raqam kerak: 0,03", "wrongAnswers": ["Xato yo'q", "3,00 bo'ladi"]},
+  {"id": "sinf4_chorak3_blok54_level2_onli_05", "question": "0,125 sonida mingdan birlar xonasidagi raqam qaysi?", "correctAnswer": 5, "wrongAnswers": [1, 2]},
+  {"id": "sinf4_chorak3_blok54_level2_onli_06", "question": "1,5 va 1,50 sonlari tengmi?", "correctAnswer": "Ha, teng", "wrongAnswers": ["Yo'q, 1,50 katta", "Yo'q, 1,5 katta"]},
+  {"id": "sinf4_chorak3_blok54_level2_onli_07", "question": "45/1000 ni o'nli kasr shaklida yozing.", "correctAnswer": "0,045", "wrongAnswers": ["0,45", "0,0045"]},
+  {"id": "sinf4_chorak3_blok54_level2_onli_08", "question": "8,3 sonida verguldan keyingi raqam (3) qancha ulushni bildiradi?", "correctAnswer": "3 ta o'ndan bir", "wrongAnswers": ["3 ta yuzdan bir", "3 ta birlik"]},
+  {"id": "sinf4_chorak3_blok54_level2_onli_09", "question": "Nol butun mingdan yetti — qanday yoziladi?", "correctAnswer": "0,007", "wrongAnswers": ["0,7", "0,07"]},
+  {"id": "sinf4_chorak3_blok54_level2_onli_10", "question": "O'nli kasrni oddiy kasrga aylantirishda maxraj nima bo'ladi (verguldan keyin 1 raqam bo'lsa)?", "correctAnswer": "10", "wrongAnswers": ["100", "1"]}
+]

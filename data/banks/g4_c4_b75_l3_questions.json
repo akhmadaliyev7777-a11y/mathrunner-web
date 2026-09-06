@@ -1,0 +1,22 @@
+[
+  {"id": "sinf4_chorak4_blok75_level3_yak_01", "question": "Kubning yoqlari, qirralari va uchlari yig'indisi nechi?", "correctAnswer": 26, "wrongAnswers": [24, 20]},
+  {"id": "sinf4_chorak4_blok75_level3_yak_02", "question": "Uchburchakning ikki burchagi 55° va 65°. Uchinchi burchak necha gradus?", "correctAnswer": 60, "wrongAnswers": [120, 180]},
+  {"id": "sinf4_chorak4_blok75_level3_yak_03", "question": "Rost yoki yolg'on: \"S\" harfi markaziy simmetriyaga ega, lekin o'q simmetriyaga ega emas.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak4_blok75_level3_yak_04", "question": "Bir bog' kvadrat, yuzasi 100 m². Uni bir qator to'siq bilan o'rash uchun necha metr kerak?", "correctAnswer": 40, "wrongAnswers": [100, 25]},
+  {"id": "sinf4_chorak4_blok75_level3_yak_05", "question": "Serpinskiy uchburchagida 2-qadamdan keyin nechta rangli kichik uchburchak bo'ladi?", "correctAnswer": 9, "wrongAnswers": [6, 3]},
+  {"id": "sinf4_chorak4_blok75_level3_yak_06", "question": "Kvadrat asosli piramidaning yoqlari, qirralari va uchlari yig'indisi nechi?", "correctAnswer": 18, "wrongAnswers": [16, 20]},
+  {"id": "sinf4_chorak4_blok75_level3_yak_07", "question": "Devor 5 m × 4 m. Bir banka bo'yoq 10 m² ni bo'yaydi. Devorni bo'yash uchun necha banka kerak?", "correctAnswer": 2, "wrongAnswers": [1, 20]},
+  {"id": "sinf4_chorak4_blok75_level3_yak_08", "question": "Transportir bilan yasalgan burchak taxminiymi yoki aniqmi?", "correctAnswer": "aniq", "wrongAnswers": ["taxminiy", "har doim xato"]},
+  {"id": "sinf4_chorak4_blok75_level3_yak_09", "question": "8 ta kichik kubdan bitta katta kub yasaldi. Katta kubning bir qirrasida nechta kichik kub bor?", "correctAnswer": 2, "wrongAnswers": [4, 8]},
+  {"id": "sinf4_chorak4_blok75_level3_yak_10", "question": "Ikki burchak yig'indisi yoyiq burchak. Biri 125° bo'lsa, ikkinchisi necha gradus?", "correctAnswer": 55, "wrongAnswers": [65, 305]},
+  {"id": "sinf4_chorak4_blok75_level3_yak_11", "question": "Kubning yoyilmasi 6 ta kvadratdan iborat. Bir kvadrat tomoni 4 sm bo'lsa, butun yoyilmaning yuzasi necha sm²?", "correctAnswer": 96, "wrongAnswers": [24, 16]},
+  {"id": "sinf4_chorak4_blok75_level3_yak_12", "question": "Ikki burchak yig'indisi to'g'ri burchak (90°). Biri 35° bo'lsa, ikkinchisi necha gradus?", "correctAnswer": 55, "wrongAnswers": [125, 45]},
+  {"id": "sinf4_chorak4_blok75_level3_yak_13", "question": "Doiraning radiusi 7 sm. Diametri necha sm?", "correctAnswer": 14, "wrongAnswers": [21, 49]},
+  {"id": "sinf4_chorak4_blok75_level3_yak_14", "question": "Uchburchakli prizmaning 5 ta yoqi, 9 ta qirrasi va 6 ta uchi bor. Ular yig'indisi nechi?", "correctAnswer": 20, "wrongAnswers": [18, 15]},
+  {"id": "sinf4_chorak4_blok75_level3_yak_15", "question": "Transportirda 55° li burchak yasaldi. Bu qanday burchak?", "correctAnswer": "o'tkir burchak", "wrongAnswers": ["to'g'ri burchak", "o'tmas burchak"]},
+  {"id": "sinf4_chorak4_blok75_level3_yak_16", "question": "Kvadrat maydonning yuzasi 36 m². Uni o'rash uchun necha metr to'siq kerak?", "correctAnswer": 24, "wrongAnswers": [36, 6]},
+  {"id": "sinf4_chorak4_blok75_level3_yak_17", "question": "Nostandart shakl 20 ta to'liq va 10 ta yarim katak. Taxminiy yuza necha sm²?", "correctAnswer": 25, "wrongAnswers": [30, 20]},
+  {"id": "sinf4_chorak4_blok75_level3_yak_18", "question": "Kvadrat asosli piramidaning nechta yoqi bor?", "correctAnswer": 5, "wrongAnswers": [4, 6]},
+  {"id": "sinf4_chorak4_blok75_level3_yak_19", "question": "Rost yoki yolg'on: doira ham o'q, ham markaziy simmetriyaga ega.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak4_blok75_level3_yak_20", "question": "Xona 10 m × 6 m. 1 m² gilam 30 000 so'm. Butun polni qoplash necha so'm?", "correctAnswer": 1800000, "wrongAnswers": [960000, 480000]}
+]

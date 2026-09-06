@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b15l3_01",
+    "question": "25 786 * 37 = ?",
+    "correctAnswer": 954082,
+    "wrongAnswers": [
+      928296,
+      954182
+    ]
+  },
+  {
+    "id": "s3c1b15l3_02",
+    "question": "37 037 * 24 = ?",
+    "correctAnswer": 888888,
+    "wrongAnswers": [
+      851851,
+      888988
+    ]
+  },
+  {
+    "id": "s3c1b15l3_03",
+    "question": "1 827 * 45 = ?",
+    "correctAnswer": 82215,
+    "wrongAnswers": [
+      80388,
+      82315
+    ]
+  },
+  {
+    "id": "s3c1b15l3_04",
+    "question": "4 512 * 26 = ?",
+    "correctAnswer": 117312,
+    "wrongAnswers": [
+      112800,
+      117412
+    ]
+  },
+  {
+    "id": "s3c1b15l3_05",
+    "question": "Do'konda xarid 152 000 so'm bo'ldi, xaridor 200 000 so'm berdi. Qaytim (keshbek) qancha?",
+    "correctAnswer": 48000,
+    "wrongAnswers": [
+      42000,
+      52000
+    ]
+  },
+  {
+    "id": "s3c1b15l3_06",
+    "question": "Xarid 87 500 so'm, 100 000 so'mlik kupyura berildi. Qaytim qancha?",
+    "correctAnswer": 12500,
+    "wrongAnswers": [
+      13500,
+      12000
+    ]
+  },
+  {
+    "id": "s3c1b15l3_07",
+    "question": "1 200 va 34 sonlari ko'paytmasiga 800 ni qo'shing. Natija qancha?",
+    "correctAnswer": 41600,
+    "wrongAnswers": [
+      41900,
+      41566
+    ]
+  },
+  {
+    "id": "s3c1b15l3_08",
+    "question": "Bir sonni 12 ga ko'paytirdim, 3 600 chiqdi. O'ylagan son qancha?",
+    "correctAnswer": 300,
+    "wrongAnswers": [
+      280,
+      330
+    ]
+  },
+  {
+    "id": "s3c1b15l3_09",
+    "question": "Anvar 40 * 25 ni hisoblab, 100 deb yozdi. To'g'ri javob qancha?",
+    "correctAnswer": 1000,
+    "wrongAnswers": [
+      100,
+      10000
+    ]
+  },
+  {
+    "id": "s3c1b15l3_10",
+    "question": "Bir ko'paytuvchi 3 marta orttirilsa, ko'paytma ham 3 marta ortadi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

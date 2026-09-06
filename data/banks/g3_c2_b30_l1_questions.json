@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b30l1_01",
+    "question": "XC + LXXIX = ?  (arab raqamlarida)",
+    "correctAnswer": 169,
+    "wrongAnswers": [
+      160,
+      179
+    ]
+  },
+  {
+    "id": "s3c2b30l1_02",
+    "question": "CL - XXV = ?  (arab)",
+    "correctAnswer": 125,
+    "wrongAnswers": [
+      135,
+      120
+    ]
+  },
+  {
+    "id": "s3c2b30l1_03",
+    "question": "XL + XL = ?  (arab)",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      70,
+      90
+    ]
+  },
+  {
+    "id": "s3c2b30l1_04",
+    "question": "Taqqoslang: 197 minut __ 3 soat 7 minut",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s3c2b30l1_05",
+    "question": "768 000 : 480 : 10 = ?",
+    "correctAnswer": 160,
+    "wrongAnswers": [
+      16,
+      1600
+    ]
+  },
+  {
+    "id": "s3c2b30l1_06",
+    "question": "Siniq chiziq 5 ta teng bo'g'indan iborat, har biri 14 cm. Uzunligi necha cm?",
+    "correctAnswer": 70,
+    "wrongAnswers": [
+      68,
+      72
+    ]
+  },
+  {
+    "id": "s3c2b30l1_07",
+    "question": "2 soat 40 minut necha minut?",
+    "correctAnswer": 160,
+    "wrongAnswers": [
+      140,
+      180
+    ]
+  },
+  {
+    "id": "s3c2b30l1_08",
+    "question": "1 tonna necha kg?",
+    "correctAnswer": 1000,
+    "wrongAnswers": [
+      100,
+      10000
+    ]
+  },
+  {
+    "id": "s3c2b30l1_09",
+    "question": "3 kg 500 g + 2 kg 800 g = ? g",
+    "correctAnswer": 6300,
+    "wrongAnswers": [
+      5300,
+      6400
+    ]
+  },
+  {
+    "id": "s3c2b30l1_10",
+    "question": "1 sutka 24 soatga, 1 soat 60 minutga teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

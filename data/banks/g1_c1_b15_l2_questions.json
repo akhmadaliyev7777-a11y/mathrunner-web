@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b15l2_01",
+    "question": "Siniq chiziqda 3 ta bo'g'in bor: 2 sm, 3 sm, 1 sm. Uzunligi necha sm?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": "s1c1b15l2_02",
+    "question": "AB kesma 4 sm, BC kesma 2 sm. ABC siniq chiziq uzunligi necha sm?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      2,
+      8
+    ]
+  },
+  {
+    "id": "s1c1b15l2_03",
+    "question": "2 ta kesmadan tuzilgan siniq chiziqda nechta bo'g'in bor?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "s1c1b15l2_04",
+    "question": "Kesma uzunligi 5 sm edi, 2 sm ga uzaytirdik. Yangi uzunlik necha sm?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      3,
+      8
+    ]
+  },
+  {
+    "id": "s1c1b15l2_05",
+    "question": "Bo'g'inlari 3 sm va 3 sm bo'lgan siniq chiziq uzunligi necha sm?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      3,
+      9
+    ]
+  },
+  {
+    "id": "s1c1b15l2_06",
+    "question": "10 sm li kesmadan 4 sm kesib olindi. Necha sm qoldi?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      14,
+      5
+    ]
+  },
+  {
+    "id": "s1c1b15l2_07",
+    "question": "Siniq chiziq uzunligi — uning barcha bo'g'inlari uzunligining yig'indisi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b15l2_08",
+    "question": "Taqqoslang: 3 sm + 2 sm __ 6 sm",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c1b15l2_09",
+    "question": "MN kesma 7 sm. Undan 7 sm kesib olsak, necha sm qoladi?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      7,
+      14
+    ]
+  },
+  {
+    "id": "s1c1b15l2_10",
+    "question": "Xato: 2 sm va 5 sm li kesmalardan tuzilgan siniq chiziq 8 sm deyildi. To'g'ri uzunlik necha sm?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      8,
+      3
+    ]
+  }
+]

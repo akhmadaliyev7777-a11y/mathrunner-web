@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b5l1_01",
+    "question": "270 ta minglik va 185 ta birlik qaysi sonni hosil qiladi?",
+    "correctAnswer": 270185,
+    "wrongAnswers": [
+      271185,
+      2700185
+    ]
+  },
+  {
+    "id": "s3c1b5l1_02",
+    "question": "177 ta minglik va 131 ta birlik qaysi sonni hosil qiladi?",
+    "correctAnswer": 177131,
+    "wrongAnswers": [
+      178131,
+      1770131
+    ]
+  },
+  {
+    "id": "s3c1b5l1_03",
+    "question": "254 ta minglik va 388 ta birlik qaysi sonni hosil qiladi?",
+    "correctAnswer": 254388,
+    "wrongAnswers": [
+      255388,
+      2540388
+    ]
+  },
+  {
+    "id": "s3c1b5l1_04",
+    "question": "325 100 sonida yuzlar xonasida qaysi raqam turadi?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c1b5l1_05",
+    "question": "325 100 sonida minglar xonasidagi raqamning xona qiymati qancha?",
+    "correctAnswer": 5000,
+    "wrongAnswers": [
+      500,
+      50000
+    ]
+  },
+  {
+    "id": "s3c1b5l1_06",
+    "question": "O'n ikki ming uch yuz qirq besh sonini raqamlar bilan yozing.",
+    "correctAnswer": 12345,
+    "wrongAnswers": [
+      123045,
+      12354
+    ]
+  },
+  {
+    "id": "s3c1b5l1_07",
+    "question": "Ko'p xonali sonda o'ngdan sanaganda qaysi 3 xona birlar sinfini tashkil qiladi?  (variantlardan birini tanlang: birlar-o'nlar-yuzlar = 1, minglar-o'n minglar-yuz minglar = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c1b5l1_08",
+    "question": "To'qqiz yuz ming sonini raqamlar bilan yozing.",
+    "correctAnswer": 900000,
+    "wrongAnswers": [
+      90000,
+      9000000
+    ]
+  },
+  {
+    "id": "s3c1b5l1_09",
+    "question": "325 000 sonida yuz minglar xonasidagi raqam qaysi?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      2,
+      5
+    ]
+  },
+  {
+    "id": "s3c1b5l1_10",
+    "question": "7 ta yuz minglik necha birlikka teng?",
+    "correctAnswer": 700000,
+    "wrongAnswers": [
+      70000,
+      7000000
+    ]
+  }
+]

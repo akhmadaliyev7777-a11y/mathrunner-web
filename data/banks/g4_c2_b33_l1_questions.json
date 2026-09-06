@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok33_level1_ort_01", "question": "374 ni o'nliklargacha KAMI bilan (pastga) yaxlitlang.", "correctAnswer": 370, "wrongAnswers": [380, 400]},
+  {"id": "sinf4_chorak2_blok33_level1_ort_02", "question": "374 ni o'nliklargacha ORTIG'I bilan (yuqoriga) yaxlitlang.", "correctAnswer": 380, "wrongAnswers": [370, 400]},
+  {"id": "sinf4_chorak2_blok33_level1_ort_03", "question": "820 ni yuzliklargacha KAMI bilan yaxlitlang.", "correctAnswer": 800, "wrongAnswers": [900, 820]},
+  {"id": "sinf4_chorak2_blok33_level1_ort_04", "question": "820 ni yuzliklargacha ORTIG'I bilan yaxlitlang.", "correctAnswer": 900, "wrongAnswers": [800, 820]},
+  {"id": "sinf4_chorak2_blok33_level1_ort_05", "question": "45 ta bola avtobusga chiqishi kerak. Bir avtobusga 20 kishi sig'adi. Nechta avtobus kerak?", "correctAnswer": 3, "wrongAnswers": [2, 45]},
+  {"id": "sinf4_chorak2_blok33_level1_ort_06", "question": "7 metr arqondan har biri 2 metrdan bo'laklar kesamiz. Nechta to'liq bo'lak chiqadi?", "correctAnswer": 3, "wrongAnswers": [4, 7]},
+  {"id": "sinf4_chorak2_blok33_level1_ort_07", "question": "156 ni o'nliklargacha ortig'i bilan yaxlitlang.", "correctAnswer": 160, "wrongAnswers": [150, 100]},
+  {"id": "sinf4_chorak2_blok33_level1_ort_08", "question": "156 ni o'nliklargacha kami bilan yaxlitlang.", "correctAnswer": 150, "wrongAnswers": [160, 200]},
+  {"id": "sinf4_chorak2_blok33_level1_ort_09", "question": "Bir qutiga 6 ta olma joylashadi. 20 ta olmani joylash uchun nechta quti kerak?", "correctAnswer": 4, "wrongAnswers": [3, 20]},
+  {"id": "sinf4_chorak2_blok33_level1_ort_10", "question": "1 000 so'mlik non olish uchun 3 200 so'm bor. Nechta non olish mumkin?", "correctAnswer": 3, "wrongAnswers": [4, 3200]}
+]

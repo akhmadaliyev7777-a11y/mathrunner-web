@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b37l2_01",
+    "question": "To'g'ri to'rtburchak eni 8 sm, bo'yi 3 sm. Perimetri necha sm?",
+    "correctAnswer": 22,
+    "wrongAnswers": [
+      11,
+      24
+    ]
+  },
+  {
+    "id": "s2c3b37l2_02",
+    "question": "Katakli qog'ozda 5x5 kvadrat perimetri necha katak?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      10,
+      25
+    ]
+  },
+  {
+    "id": "s2c3b37l2_03",
+    "question": "To'g'ri to'rtburchakning ikki tomoni 6 sm va 4 sm. Barcha tomonlari yig'indisi necha sm?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      10,
+      24
+    ]
+  },
+  {
+    "id": "s2c3b37l2_04",
+    "question": "Kvadrat perimetri 28 sm. Tomoni necha sm?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      4,
+      14
+    ]
+  },
+  {
+    "id": "s2c3b37l2_05",
+    "question": "9x4 to'rtburchakning perimetri necha katak?",
+    "correctAnswer": 26,
+    "wrongAnswers": [
+      13,
+      36
+    ]
+  },
+  {
+    "id": "s2c3b37l2_06",
+    "question": "To'g'ri to'rtburchak bo'yi 10 sm, eni 6 sm. Perimetri necha sm?",
+    "correctAnswer": 32,
+    "wrongAnswers": [
+      16,
+      60
+    ]
+  },
+  {
+    "id": "s2c3b37l2_07",
+    "question": "Kvadrat — teng tomonli to'g'ri to'rtburchak.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b37l2_08",
+    "question": "Taqqoslang: 8x2 to'rtburchak perimetri __ 5x5 kvadrat perimetri",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s2c3b37l2_09",
+    "question": "Xato: 7x3 to'rtburchak perimetri 21 katak deyildi. To'g'ri perimetr necha katak?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      21,
+      10
+    ]
+  },
+  {
+    "id": "s2c3b37l2_10",
+    "question": "Perimetri 12 sm bo'lgan kvadratning tomoni necha sm?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      4,
+      6
+    ]
+  }
+]

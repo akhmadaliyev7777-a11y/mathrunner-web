@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b25l2_01",
+    "question": "(7 + 3) + 5 = ?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      10,
+      20
+    ]
+  },
+  {
+    "id": "s1c2b25l2_02",
+    "question": "20 - (6 + 4) = ?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      30,
+      18
+    ]
+  },
+  {
+    "id": "s1c2b25l2_03",
+    "question": "(9 - 2) + 8 = ?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      19,
+      5
+    ]
+  },
+  {
+    "id": "s1c2b25l2_04",
+    "question": "16 - (3 + 3) = ?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      22,
+      12
+    ]
+  },
+  {
+    "id": "s1c2b25l2_05",
+    "question": "(5 + 5) + (5 + 5) = ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      10,
+      15
+    ]
+  },
+  {
+    "id": "s1c2b25l2_06",
+    "question": "(8 + 4) - 7 = ?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      19,
+      3
+    ]
+  },
+  {
+    "id": "s1c2b25l2_07",
+    "question": "Taqqoslang: (6 + 4) + 2 __ 15",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c2b25l2_08",
+    "question": "18 - (10 + 5) = ?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      33,
+      13
+    ]
+  },
+  {
+    "id": "s1c2b25l2_09",
+    "question": "Qavsli ifodada avval qavs ichidagi amal bajariladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c2b25l2_10",
+    "question": "Xato: \"20 - (5 + 5) = 20\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      20,
+      15
+    ]
+  }
+]

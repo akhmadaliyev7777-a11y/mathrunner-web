@@ -1,0 +1,8 @@
+[
+  {"id": "sinf4_chorak3_blok43_level2_tart_01", "prompt": "Bir xil maxrajli kasrlar: surati qancha katta bo'lsa, kasr shuncha katta. Suratlarni o'sish tartibida joylashtiring", "numbers": [3, 1, 5, 2], "ascending": true},
+  {"id": "sinf4_chorak3_blok43_level2_tart_02", "prompt": "Bir xil maxrajli kasrlarning suratlarini o'sish tartibida joylashtiring", "numbers": [7, 4, 9, 2, 6], "ascending": true},
+  {"id": "sinf4_chorak3_blok43_level2_tart_03", "prompt": "Bir xil maxrajli kasrlarning suratlarini kamayish tartibida joylashtiring", "numbers": [5, 8, 2, 6], "ascending": false},
+  {"id": "sinf4_chorak3_blok43_level2_tart_04", "prompt": "Bir xil maxrajli kasrlarning suratlarini o'sish tartibida joylashtiring", "numbers": [1, 4, 7, 3, 6], "ascending": true},
+  {"id": "sinf4_chorak3_blok43_level2_tart_05", "prompt": "Bir xil maxrajli kasrlarning suratlarini kamayish tartibida joylashtiring", "numbers": [9, 3, 11, 6], "ascending": false},
+  {"id": "sinf4_chorak3_blok43_level2_tart_06", "prompt": "Bir xil maxrajli kasrlarning suratlarini o'sish tartibida joylashtiring", "numbers": [2, 5, 8, 1, 4], "ascending": true}
+]

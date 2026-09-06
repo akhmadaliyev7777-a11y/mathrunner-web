@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak4_blok60_level2_sim_01", "question": "Kvadratning nechta simmetriya o'qi bor?", "correctAnswer": 4, "wrongAnswers": [2, 1]},
+  {"id": "sinf4_chorak4_blok60_level2_sim_02", "question": "To'g'ri to'rtburchakning (kvadrat bo'lmagan) nechta simmetriya o'qi bor?", "correctAnswer": 2, "wrongAnswers": [4, 1]},
+  {"id": "sinf4_chorak4_blok60_level2_sim_03", "question": "Teng tomonli uchburchakning nechta simmetriya o'qi bor?", "correctAnswer": 3, "wrongAnswers": [1, 6]},
+  {"id": "sinf4_chorak4_blok60_level2_sim_04", "question": "Doiraning nechta simmetriya o'qi bor?", "correctAnswer": "cheksiz ko'p", "wrongAnswers": ["1", "4"]},
+  {"id": "sinf4_chorak4_blok60_level2_sim_05", "question": "Aylananing diametri simmetriya o'qi bo'la oladimi?", "correctAnswer": "Ha", "wrongAnswers": ["Yo'q", "Faqat vertikal bo'lsa"]},
+  {"id": "sinf4_chorak4_blok60_level2_sim_06", "question": "Teng yonli (teng tomonli bo'lmagan) uchburchakning nechta simmetriya o'qi bor?", "correctAnswer": 1, "wrongAnswers": [0, 3]},
+  {"id": "sinf4_chorak4_blok60_level2_sim_07", "question": "Rombning nechta simmetriya o'qi bor?", "correctAnswer": 2, "wrongAnswers": [4, 1]},
+  {"id": "sinf4_chorak4_blok60_level2_sim_08", "question": "\"A\" harfining nechta simmetriya o'qi bor?", "correctAnswer": 1, "wrongAnswers": [0, 2]},
+  {"id": "sinf4_chorak4_blok60_level2_sim_09", "question": "Parallelogrammning (romb va to'g'ri to'rtburchak bo'lmagan) nechta simmetriya o'qi bor?", "correctAnswer": 0, "wrongAnswers": [1, 2]},
+  {"id": "sinf4_chorak4_blok60_level2_sim_10", "question": "Muntazam beshburchakning nechta simmetriya o'qi bor?", "correctAnswer": 5, "wrongAnswers": [1, 10]}
+]

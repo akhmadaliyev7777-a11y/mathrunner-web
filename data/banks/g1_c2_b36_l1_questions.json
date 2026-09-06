@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b36l1_01",
+    "question": "8 + 7 = ?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      5,
+      25
+    ]
+  },
+  {
+    "id": "s1c2b36l1_02",
+    "question": "46 + 32 = ?",
+    "correctAnswer": 78,
+    "wrongAnswers": [
+      68,
+      88
+    ]
+  },
+  {
+    "id": "s1c2b36l1_03",
+    "question": "25 + 25 = ?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      40,
+      60
+    ]
+  },
+  {
+    "id": "s1c2b36l1_04",
+    "question": "15 - 8 = ?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      17,
+      6
+    ]
+  },
+  {
+    "id": "s1c2b36l1_05",
+    "question": "78 - 45 = ?",
+    "correctAnswer": 33,
+    "wrongAnswers": [
+      43,
+      32
+    ]
+  },
+  {
+    "id": "s1c2b36l1_06",
+    "question": "Taqqoslang: 34 __ 43",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c2b36l1_07",
+    "question": "□ + 20 = 50. □ qancha?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      70,
+      40
+    ]
+  },
+  {
+    "id": "s1c2b36l1_08",
+    "question": "17 sonida nechta o'nlik bor?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      17,
+      7
+    ]
+  },
+  {
+    "id": "s1c2b36l1_09",
+    "question": "Qaysi son juft: 21, 23, 24, 27?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      21,
+      23
+    ]
+  },
+  {
+    "id": "s1c2b36l1_10",
+    "question": "40, 20, 60, 10, 30 — eng katta son qaysi?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      40,
+      30
+    ]
+  }
+]

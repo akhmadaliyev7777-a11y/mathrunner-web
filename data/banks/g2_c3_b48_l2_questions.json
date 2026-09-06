@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b48l2_01",
+    "question": "20 sonini 4 marta kamaytiring.",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      16,
+      24
+    ]
+  },
+  {
+    "id": "s2c3b48l2_02",
+    "question": "18 sonini 3 marta kamaytiring.",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      15,
+      21
+    ]
+  },
+  {
+    "id": "s2c3b48l2_03",
+    "question": "10 sonini 2 marta kamaytiring.",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      8,
+      12
+    ]
+  },
+  {
+    "id": "s2c3b48l2_04",
+    "question": "\"5 marta kamaytirish\" qaysi amal bilan bajariladi?",
+    "correctAnswer": "bo'lish",
+    "wrongAnswers": [
+      "ko'paytirish",
+      "qo'shish"
+    ]
+  },
+  {
+    "id": "s2c3b48l2_05",
+    "question": "25 ni 5 marta kamaytiring.",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      20,
+      30
+    ]
+  },
+  {
+    "id": "s2c3b48l2_06",
+    "question": "16 ni 4 marta kamaytiring.",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      12,
+      20
+    ]
+  },
+  {
+    "id": "s2c3b48l2_07",
+    "question": "Anvarda 15 ta, ukasida 3 marta kam marka bor. Ukasida nechta marka?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      12,
+      18
+    ]
+  },
+  {
+    "id": "s2c3b48l2_08",
+    "question": "Bir arqon 12 m, ikkinchisi 2 marta qisqa. Ikkinchisi necha m?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      10,
+      14
+    ]
+  },
+  {
+    "id": "s2c3b48l2_09",
+    "question": "\"3 marta kamaytirish\" va \"3 ga kamaytirish\" bir xil.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b48l2_10",
+    "question": "Xato: \"12 ni 3 marta kamaytirsak 9 bo'ladi\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      9,
+      15
+    ]
+  }
+]

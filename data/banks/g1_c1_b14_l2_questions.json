@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b14l2_01",
+    "question": "Juft sonlarni ayting: 0, 2, 4, 6, 8, 10 — bu qatorda 5 bormi?",
+    "correctAnswer": "yo'q",
+    "wrongAnswers": [
+      "ha",
+      "ba'zan"
+    ]
+  },
+  {
+    "id": "s1c1b14l2_02",
+    "question": "Qaysi son toq: 4, 6, 7, 8?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "s1c1b14l2_03",
+    "question": "Qaysi son juft: 3, 5, 6, 9?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "s1c1b14l2_04",
+    "question": "Toq sonlar qaysi raqamlar bilan tugaydi?",
+    "correctAnswer": "1, 3, 5, 7, 9",
+    "wrongAnswers": [
+      "0, 2, 4, 6, 8",
+      "faqat 1"
+    ]
+  },
+  {
+    "id": "s1c1b14l2_05",
+    "question": "8 juft sonmi yoki toqmi? (juft = 1, toq = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s1c1b14l2_06",
+    "question": "0 dan 10 gacha nechta juft son bor (0 va 10 ni qo'shib)?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      5,
+      4
+    ]
+  },
+  {
+    "id": "s1c1b14l2_07",
+    "question": "Toq songa 1 qo'shsak, natija qanday son bo'ladi?",
+    "correctAnswer": "juft son",
+    "wrongAnswers": [
+      "toq son",
+      "0"
+    ]
+  },
+  {
+    "id": "s1c1b14l2_08",
+    "question": "6 — juft son.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b14l2_09",
+    "question": "9 — juft son.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b14l2_10",
+    "question": "Xato: \"7 — juft son\" deyildi. 7 aslida qanday son?",
+    "correctAnswer": "toq",
+    "wrongAnswers": [
+      "juft",
+      "ikkalasi"
+    ]
+  }
+]

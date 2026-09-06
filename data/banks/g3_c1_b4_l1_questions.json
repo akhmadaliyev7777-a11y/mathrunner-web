@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b4l1_01",
+    "question": "1 soat necha minut?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      100,
+      600
+    ]
+  },
+  {
+    "id": "s3c1b4l1_02",
+    "question": "1 sutka necha soat?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      12,
+      60
+    ]
+  },
+  {
+    "id": "s3c1b4l1_03",
+    "question": "90 minut necha soat necha minut?  (soatni yozing)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      90
+    ]
+  },
+  {
+    "id": "s3c1b4l1_04",
+    "question": "2 soat 15 minut necha minut?",
+    "correctAnswer": 135,
+    "wrongAnswers": [
+      75,
+      215
+    ]
+  },
+  {
+    "id": "s3c1b4l1_05",
+    "question": "Poyezd 9:00 da yo'lga chiqdi va 4 soat yurdi. U soat nechada yetib keldi?  (soatni yozing)",
+    "correctAnswer": 13,
+    "wrongAnswers": [
+      12,
+      14
+    ]
+  },
+  {
+    "id": "s3c1b4l1_06",
+    "question": "3 soat necha minut?",
+    "correctAnswer": 180,
+    "wrongAnswers": [
+      30,
+      300
+    ]
+  },
+  {
+    "id": "s3c1b4l1_07",
+    "question": "Taqqoslang: 1 soat 20 minut __ 100 minut",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s3c1b4l1_08",
+    "question": "1 hafta necha kun?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      5,
+      30
+    ]
+  },
+  {
+    "id": "s3c1b4l1_09",
+    "question": "120 minut necha soat?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "s3c1b4l1_10",
+    "question": "Dars 8:30 da boshlanib 45 minut davom etdi. Soat nechada tugadi?  (soat:minut -> minutni yozing)",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      30,
+      45
+    ]
+  }
+]

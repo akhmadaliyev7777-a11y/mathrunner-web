@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b40l2_01",
+    "question": "To'g'ri to'rtburchak yuzi 24 katak, bo'yi 6 katak. Eni necha katak?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      18,
+      30
+    ]
+  },
+  {
+    "id": "s2c3b40l2_02",
+    "question": "Kvadrat tomoni 5 sm. Perimetri necha sm?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      10,
+      25
+    ]
+  },
+  {
+    "id": "s2c3b40l2_03",
+    "question": "3 m2 necha dm2?",
+    "correctAnswer": 300,
+    "wrongAnswers": [
+      30,
+      3000
+    ]
+  },
+  {
+    "id": "s2c3b40l2_04",
+    "question": "Katakli qog'ozda 5x5 kvadrat perimetri necha katak?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      10,
+      25
+    ]
+  },
+  {
+    "id": "s2c3b40l2_05",
+    "question": "Uchburchakda nechta o'tkir burchak eng kamida bo'ladi?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "s2c3b40l2_06",
+    "question": "To'g'ri to'rtburchak eni 4 dm, bo'yi 5 dm. Yuzi necha dm2?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      9,
+      18
+    ]
+  },
+  {
+    "id": "s2c3b40l2_07",
+    "question": "Shakl 9 butun va 4 yarim katakdan iborat. Yuzi necha katak?",
+    "correctAnswer": 11,
+    "wrongAnswers": [
+      9,
+      13
+    ]
+  },
+  {
+    "id": "s2c3b40l2_08",
+    "question": "Perimetr — shakl chegarasining uzunligi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b40l2_09",
+    "question": "Xato: 6x2 to'rtburchak perimetri 12 katak deyildi. To'g'ri perimetr necha katak?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      12,
+      8
+    ]
+  },
+  {
+    "id": "s2c3b40l2_10",
+    "question": "200 cm2 necha dm2?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      20,
+      200
+    ]
+  }
+]

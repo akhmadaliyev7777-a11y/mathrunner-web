@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b55l2_01",
+    "question": "10 ning bo'luvchilari qaysilar?",
+    "correctAnswer": "1, 2, 5, 10",
+    "wrongAnswers": [
+      "1, 3, 5, 10",
+      "2, 4, 5, 10"
+    ]
+  },
+  {
+    "id": "s2c3b55l2_02",
+    "question": "12 soni 4 ga bo'linadimi?",
+    "correctAnswer": "ha",
+    "wrongAnswers": [
+      "yo'q",
+      "qoldiq bilan"
+    ]
+  },
+  {
+    "id": "s2c3b55l2_03",
+    "question": "5 ga karrali sonlardan biri qaysi: 12, 15, 18, 22?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      12,
+      18
+    ]
+  },
+  {
+    "id": "s2c3b55l2_04",
+    "question": "3 ga karrali sonlardan biri qaysi: 10, 14, 21, 25?",
+    "correctAnswer": 21,
+    "wrongAnswers": [
+      10,
+      14
+    ]
+  },
+  {
+    "id": "s2c3b55l2_05",
+    "question": "20 soni qaysi songa bo'linmaydi: 2, 4, 5, 3?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "s2c3b55l2_06",
+    "question": "1 soni har qanday sonning bo'luvchisimi?",
+    "correctAnswer": "ha",
+    "wrongAnswers": [
+      "yo'q",
+      "faqat juft sonlarniki"
+    ]
+  },
+  {
+    "id": "s2c3b55l2_07",
+    "question": "6 ning bo'luvchilari nechta?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s2c3b55l2_08",
+    "question": "Har bir son o'zining bo'luvchisi hisoblanadi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b55l2_09",
+    "question": "18 soni 6 ga karralimi? (Ha = 1, Yo'q = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s2c3b55l2_10",
+    "question": "Xato: \"7 soni 20 ning bo'luvchisi\" deyildi. To'g'rimi? (Rost = 1, Yolg'on = 2)",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b57l2_01",
+    "question": "1 pud necha kg?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      10,
+      100
+    ]
+  },
+  {
+    "id": "s3c4b57l2_02",
+    "question": "3 pud necha kg?",
+    "correctAnswer": 48,
+    "wrongAnswers": [
+      30,
+      64
+    ]
+  },
+  {
+    "id": "s3c4b57l2_03",
+    "question": "5 pud necha kg?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      75,
+      85
+    ]
+  },
+  {
+    "id": "s3c4b57l2_04",
+    "question": "Do'konga 1-kun 3 pud, 2-kun undan 10 kg kam, 3-kun 2 pud 14 kg un keltirildi. Jami necha kg?  (48 + 38 + 46)",
+    "correctAnswer": 132,
+    "wrongAnswers": [
+      130,
+      134
+    ]
+  },
+  {
+    "id": "s3c4b57l2_05",
+    "question": "32 kg - 3 * 4 kg 540 g = ? g",
+    "correctAnswer": 18380,
+    "wrongAnswers": [
+      18280,
+      18480
+    ]
+  },
+  {
+    "id": "s3c4b57l2_06",
+    "question": "(5 211 g + 7 kg 353 g) : 9 = ? g",
+    "correctAnswer": 1396,
+    "wrongAnswers": [
+      1386,
+      1406
+    ]
+  },
+  {
+    "id": "s3c4b57l2_07",
+    "question": "Tikuvchi 6 ta ko'ylakka 72 tirsak mato sarfladi. 1 ko'ylakka necha tirsak?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      10,
+      14
+    ]
+  },
+  {
+    "id": "s3c4b57l2_08",
+    "question": "Tikuvchi 1 ko'ylakka 12 tirsak sarflasa, 25 ko'ylakka necha tirsak kerak?",
+    "correctAnswer": 300,
+    "wrongAnswers": [
+      288,
+      312
+    ]
+  },
+  {
+    "id": "s3c4b57l2_09",
+    "question": "96 kg un 16 kg lik (1 pud) qoplarga solindi. Nechta qop chiqdi?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": "s3c4b57l2_10",
+    "question": "Otaning 15 ta tangasini 4 o'g'liga teng bo'ldi, qolgani qiziga berildi. Qizga nechta tanga tegdi?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      4,
+      2
+    ]
+  }
+]

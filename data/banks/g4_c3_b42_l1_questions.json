@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok42_level1_qism_01", "question": "12 kg unning 1/3 qismi necha kg?", "correctAnswer": 4, "wrongAnswers": [3, 36]},
+  {"id": "sinf4_chorak3_blok42_level1_qism_02", "question": "20 metr matoning 1/4 qismi necha metr?", "correctAnswer": 5, "wrongAnswers": [4, 80]},
+  {"id": "sinf4_chorak3_blok42_level1_qism_03", "question": "1 soatning (60 daqiqa) 1/2 qismi necha daqiqa?", "correctAnswer": 30, "wrongAnswers": [2, 120]},
+  {"id": "sinf4_chorak3_blok42_level1_qism_04", "question": "8 litr sutning 3/4 qismi necha litr?", "correctAnswer": 6, "wrongAnswers": [2, 32]},
+  {"id": "sinf4_chorak3_blok42_level1_qism_05", "question": "100 so'mning 1/2 qismi nechi?", "correctAnswer": 50, "wrongAnswers": [2, 200]},
+  {"id": "sinf4_chorak3_blok42_level1_qism_06", "question": "15 kg qandning 1/5 qismi necha kg?", "correctAnswer": 3, "wrongAnswers": [5, 75]},
+  {"id": "sinf4_chorak3_blok42_level1_qism_07", "question": "1 kg (1000 g) ning 1/4 qismi necha g?", "correctAnswer": 250, "wrongAnswers": [4, 4000]},
+  {"id": "sinf4_chorak3_blok42_level1_qism_08", "question": "24 soatning 1/3 qismi necha soat?", "correctAnswer": 8, "wrongAnswers": [3, 72]},
+  {"id": "sinf4_chorak3_blok42_level1_qism_09", "question": "1 metr (100 sm) ning 1/2 qismi necha sm?", "correctAnswer": 50, "wrongAnswers": [2, 200]},
+  {"id": "sinf4_chorak3_blok42_level1_qism_10", "question": "6 litr sharbatning 2/3 qismi necha litr?", "correctAnswer": 4, "wrongAnswers": [2, 18]}
+]

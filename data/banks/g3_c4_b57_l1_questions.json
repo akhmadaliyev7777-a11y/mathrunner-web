@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b57l1_01",
+    "question": "Bo'luvchi 5, to'liqsiz bo'linma 12, qoldiq 3. Bo'linuvchi qancha?  (a = b * c + r)",
+    "correctAnswer": 63,
+    "wrongAnswers": [
+      60,
+      65
+    ]
+  },
+  {
+    "id": "s3c4b57l1_02",
+    "question": "Bo'luvchi 7, to'liqsiz bo'linma 8, qoldiq 4. Bo'linuvchi qancha?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      56,
+      64
+    ]
+  },
+  {
+    "id": "s3c4b57l1_03",
+    "question": "Bo'luvchi 6, to'liqsiz bo'linma 15, qoldiq 5. Bo'linuvchi qancha?",
+    "correctAnswer": 95,
+    "wrongAnswers": [
+      90,
+      100
+    ]
+  },
+  {
+    "id": "s3c4b57l1_04",
+    "question": "CXX sonini arab raqamlarida yozing.",
+    "correctAnswer": 120,
+    "wrongAnswers": [
+      110,
+      130
+    ]
+  },
+  {
+    "id": "s3c4b57l1_05",
+    "question": "Bo'linuvchi 50, bo'luvchi 8. To'liqsiz bo'linma va qoldiqni toping. Qoldiq qancha?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      6,
+      1
+    ]
+  },
+  {
+    "id": "s3c4b57l1_06",
+    "question": "Bo'luvchi 4, to'liqsiz bo'linma 9, qoldiq 2. Bo'linuvchi qancha?",
+    "correctAnswer": 38,
+    "wrongAnswers": [
+      36,
+      40
+    ]
+  },
+  {
+    "id": "s3c4b57l1_07",
+    "question": "a = b * c + r formulasida r har doim b dan kichik bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c4b57l1_08",
+    "question": "Bo'linuvchi 100, bo'luvchi 9. Qoldiq qancha?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      9,
+      0
+    ]
+  },
+  {
+    "id": "s3c4b57l1_09",
+    "question": "XCV sonini arab raqamlarida yozing.",
+    "correctAnswer": 95,
+    "wrongAnswers": [
+      85,
+      105
+    ]
+  },
+  {
+    "id": "s3c4b57l1_10",
+    "question": "Bo'luvchi 10, to'liqsiz bo'linma 7, qoldiq 6. Bo'linuvchi qancha?",
+    "correctAnswer": 76,
+    "wrongAnswers": [
+      70,
+      80
+    ]
+  }
+]

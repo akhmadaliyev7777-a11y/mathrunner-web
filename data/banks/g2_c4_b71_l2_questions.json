@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b71l2_01",
+    "question": "(20 + 4) : 6 = ?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      24,
+      18
+    ]
+  },
+  {
+    "id": "s2c4b71l2_02",
+    "question": "8 * 9 = ?",
+    "correctAnswer": 72,
+    "wrongAnswers": [
+      81,
+      17
+    ]
+  },
+  {
+    "id": "s2c4b71l2_03",
+    "question": "56 : 8 = ?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      8,
+      6
+    ]
+  },
+  {
+    "id": "s2c4b71l2_04",
+    "question": "300 : 5 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      6,
+      600
+    ]
+  },
+  {
+    "id": "s2c4b71l2_05",
+    "question": "14 * 3 = ?",
+    "correctAnswer": 42,
+    "wrongAnswers": [
+      32,
+      52
+    ]
+  },
+  {
+    "id": "s2c4b71l2_06",
+    "question": "1 dm2 necha cm2?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      10,
+      1000
+    ]
+  },
+  {
+    "id": "s2c4b71l2_07",
+    "question": "Diametr 18 sm. Radius necha sm?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      18,
+      36
+    ]
+  },
+  {
+    "id": "s2c4b71l2_08",
+    "question": "Qaysi son juft: 31, 33, 34, 37?",
+    "correctAnswer": 34,
+    "wrongAnswers": [
+      31,
+      33
+    ]
+  },
+  {
+    "id": "s2c4b71l2_09",
+    "question": "x * 4 = 32 tenglamada x qancha?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      28,
+      36
+    ]
+  },
+  {
+    "id": "s2c4b71l2_10",
+    "question": "Taqqoslang: 6 * 7 __ 5 * 8",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  }
+]

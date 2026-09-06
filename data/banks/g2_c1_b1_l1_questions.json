@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b1l1_01",
+    "question": "Taqqoslang: 46 __ 64",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s2c1b1l1_02",
+    "question": "Taqqoslang: 38 __ 83",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s2c1b1l1_03",
+    "question": "Taqqoslang: 70 __ 7",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s2c1b1l1_04",
+    "question": "Taqqoslang: 90 __ 90",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s2c1b1l1_05",
+    "question": "Taqqoslang: 52 __ 25",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s2c1b1l1_06",
+    "question": "Taqqoslang: 19 __ 91",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s2c1b1l1_07",
+    "question": "56 sonida nechta o'nlik bor?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      6,
+      56
+    ]
+  },
+  {
+    "id": "s2c1b1l1_08",
+    "question": "8 o'nlik va 3 birlikdan iborat son qaysi?",
+    "correctAnswer": 83,
+    "wrongAnswers": [
+      38,
+      811
+    ]
+  },
+  {
+    "id": "s2c1b1l1_09",
+    "question": "72 dan keyin keladigan son qaysi?",
+    "correctAnswer": 73,
+    "wrongAnswers": [
+      71,
+      82
+    ]
+  },
+  {
+    "id": "s2c1b1l1_10",
+    "question": "60 va 62 orasidagi son qaysi?",
+    "correctAnswer": 61,
+    "wrongAnswers": [
+      59,
+      63
+    ]
+  }
+]

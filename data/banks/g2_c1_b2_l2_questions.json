@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b2l2_01",
+    "question": "Tomonlari 3 sm, 4 sm, 5 sm bo'lgan ko'pburchak perimetri qancha sm?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      9,
+      15
+    ]
+  },
+  {
+    "id": "s2c1b2l2_02",
+    "question": "Tomonlari 6 sm, 6 sm, 6 sm bo'lgan ko'pburchak perimetri qancha sm?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      12,
+      24
+    ]
+  },
+  {
+    "id": "s2c1b2l2_03",
+    "question": "Tomonlari 10 sm, 7 sm, 10 sm, 7 sm bo'lgan ko'pburchak perimetri qancha sm?",
+    "correctAnswer": 34,
+    "wrongAnswers": [
+      24,
+      44
+    ]
+  },
+  {
+    "id": "s2c1b2l2_04",
+    "question": "Tomonlari 8 sm, 8 sm, 8 sm, 8 sm bo'lgan ko'pburchak perimetri qancha sm?",
+    "correctAnswer": 32,
+    "wrongAnswers": [
+      24,
+      40
+    ]
+  },
+  {
+    "id": "s2c1b2l2_05",
+    "question": "Tomonlari 5 sm, 9 sm, 12 sm bo'lgan ko'pburchak perimetri qancha sm?",
+    "correctAnswer": 26,
+    "wrongAnswers": [
+      21,
+      31
+    ]
+  },
+  {
+    "id": "s2c1b2l2_06",
+    "question": "Tomonlari 20 sm, 15 sm, 20 sm, 15 sm bo'lgan ko'pburchak perimetri qancha sm?",
+    "correctAnswer": 70,
+    "wrongAnswers": [
+      50,
+      90
+    ]
+  },
+  {
+    "id": "s2c1b2l2_07",
+    "question": "Kvadratning bir tomoni 9 sm. Perimetri qancha sm?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      18,
+      81
+    ]
+  },
+  {
+    "id": "s2c1b2l2_08",
+    "question": "To'g'ri to'rtburchakning eni 4 sm, bo'yi 11 sm. Perimetri qancha sm?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      15,
+      44
+    ]
+  },
+  {
+    "id": "s2c1b2l2_09",
+    "question": "Uchburchak perimetri 24 sm. Ikki tomoni 9 sm va 7 sm. Uchinchi tomoni qancha sm?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      16,
+      40
+    ]
+  },
+  {
+    "id": "s2c1b2l2_10",
+    "question": "Kvadrat perimetri 20 sm. Bir tomoni qancha sm?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      16
+    ]
+  }
+]

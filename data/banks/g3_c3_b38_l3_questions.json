@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b38l3_01",
+    "question": "1 ga necha ar (a)?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      10,
+      1000
+    ]
+  },
+  {
+    "id": "s3c3b38l3_02",
+    "question": "1 ga necha m2?",
+    "correctAnswer": 10000,
+    "wrongAnswers": [
+      1000,
+      100000
+    ]
+  },
+  {
+    "id": "s3c3b38l3_03",
+    "question": "1 ar necha m2?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      10,
+      1000
+    ]
+  },
+  {
+    "id": "s3c3b38l3_04",
+    "question": "5 ga 72 a ni 3 ga ko'paytiring. Javob arlarda qancha?  (5 ga 72 a = 572 a)",
+    "correctAnswer": 1716,
+    "wrongAnswers": [
+      1616,
+      1816
+    ]
+  },
+  {
+    "id": "s3c3b38l3_05",
+    "question": "Dala 8 ga. Bu necha ar?",
+    "correctAnswer": 800,
+    "wrongAnswers": [
+      80,
+      8000
+    ]
+  },
+  {
+    "id": "s3c3b38l3_06",
+    "question": "Bogning yuzi 3 ga 40 a. Bu necha m2?",
+    "correctAnswer": 34000,
+    "wrongAnswers": [
+      3040,
+      340000
+    ]
+  },
+  {
+    "id": "s3c3b38l3_07",
+    "question": "Yer maydoni 12 ga. Uning yarmi necha ga?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      24,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b38l3_08",
+    "question": "Bir maydon 500 a. Bu necha ga?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      50,
+      0
+    ]
+  },
+  {
+    "id": "s3c3b38l3_09",
+    "question": "To'g'ri to'rtburchak dala: bo'yi 40 m, eni 25 m. Yuzi necha m2?",
+    "correctAnswer": 1000,
+    "wrongAnswers": [
+      65,
+      130
+    ]
+  },
+  {
+    "id": "s3c3b38l3_10",
+    "question": "1 ga = 100 a = 10 000 m2.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

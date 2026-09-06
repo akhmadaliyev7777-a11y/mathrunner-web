@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b70l2_01",
+    "question": "Radius 9 sm. Diametr necha sm?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      9,
+      27
+    ]
+  },
+  {
+    "id": "s2c4b70l2_02",
+    "question": "Diametr 24 sm. Radius necha sm?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      24,
+      48
+    ]
+  },
+  {
+    "id": "s2c4b70l2_03",
+    "question": "Bir aylana radiusi 5 sm, ikkinchisiniki 8 sm. Ikkinchisining diametri nechaga uzun?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      3,
+      16
+    ]
+  },
+  {
+    "id": "s2c4b70l2_04",
+    "question": "Aylana markazi O. OA kesma 4 sm. Bu nima?",
+    "correctAnswer": "radius",
+    "wrongAnswers": [
+      "diametr",
+      "vatar"
+    ]
+  },
+  {
+    "id": "s2c4b70l2_05",
+    "question": "Diametr 30 sm. Radius necha sm?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      30,
+      60
+    ]
+  },
+  {
+    "id": "s2c4b70l2_06",
+    "question": "Radius 11 sm. Diametr necha sm?",
+    "correctAnswer": 22,
+    "wrongAnswers": [
+      11,
+      33
+    ]
+  },
+  {
+    "id": "s2c4b70l2_07",
+    "question": "Xato: \"diametr 12 sm bo'lsa, radius 24 sm\" deyildi. To'g'ri radius necha sm?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      24,
+      12
+    ]
+  },
+  {
+    "id": "s2c4b70l2_08",
+    "question": "Taqqoslang: Radius 6 sm bo'lgan aylananing diametri __ 10 sm",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s2c4b70l2_09",
+    "question": "Radius — diametrning yarmi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c4b70l2_10",
+    "question": "Bir doiraning diametri 20 sm. Uning radiusi necha sm?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      20,
+      40
+    ]
+  }
+]

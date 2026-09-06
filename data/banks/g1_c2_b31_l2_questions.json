@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b31l2_01",
+    "question": "23 + 14 = ?",
+    "correctAnswer": 37,
+    "wrongAnswers": [
+      27,
+      47
+    ]
+  },
+  {
+    "id": "s1c2b31l2_02",
+    "question": "45 + 32 = ?",
+    "correctAnswer": 77,
+    "wrongAnswers": [
+      67,
+      87
+    ]
+  },
+  {
+    "id": "s1c2b31l2_03",
+    "question": "51 + 8 = ?",
+    "correctAnswer": 59,
+    "wrongAnswers": [
+      49,
+      69
+    ]
+  },
+  {
+    "id": "s1c2b31l2_04",
+    "question": "60 + 27 = ?",
+    "correctAnswer": 87,
+    "wrongAnswers": [
+      77,
+      97
+    ]
+  },
+  {
+    "id": "s1c2b31l2_05",
+    "question": "34 + 25 = ?",
+    "correctAnswer": 59,
+    "wrongAnswers": [
+      49,
+      69
+    ]
+  },
+  {
+    "id": "s1c2b31l2_06",
+    "question": "72 + 16 = ?",
+    "correctAnswer": 88,
+    "wrongAnswers": [
+      78,
+      98
+    ]
+  },
+  {
+    "id": "s1c2b31l2_07",
+    "question": "40 + 40 = ?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      70,
+      90
+    ]
+  },
+  {
+    "id": "s1c2b31l2_08",
+    "question": "13 + 56 = ?",
+    "correctAnswer": 69,
+    "wrongAnswers": [
+      59,
+      79
+    ]
+  },
+  {
+    "id": "s1c2b31l2_09",
+    "question": "20 + 5 = ?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      70,
+      250
+    ]
+  },
+  {
+    "id": "s1c2b31l2_10",
+    "question": "Xato: \"32 + 14 = 45\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 46,
+    "wrongAnswers": [
+      45,
+      47
+    ]
+  }
+]

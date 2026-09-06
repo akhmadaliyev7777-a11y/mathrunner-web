@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b62l3_01",
+    "question": "Bir songa 12 qo'shsak, 30 bo'ladi. Tenglama: x + 12 = 30. x qancha?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      42,
+      17
+    ]
+  },
+  {
+    "id": "s1c4b62l3_02",
+    "question": "Sondan 8 ni ayirsak, 15 qoladi. x qancha?",
+    "correctAnswer": 23,
+    "wrongAnswers": [
+      7,
+      22
+    ]
+  },
+  {
+    "id": "s1c4b62l3_03",
+    "question": "Qutida bir necha olma bor edi. 10 ta qo'shilgach 25 ta bo'ldi. Boshda nechta edi?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      35,
+      14
+    ]
+  },
+  {
+    "id": "s1c4b62l3_04",
+    "question": "Anvarda x ta marka bor. 7 tasini bergach, 13 tasi qoldi. x qancha?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      6,
+      21
+    ]
+  },
+  {
+    "id": "s1c4b62l3_05",
+    "question": "x + 30 = 70 tenglamada x qancha?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      100,
+      35
+    ]
+  },
+  {
+    "id": "s1c4b62l3_06",
+    "question": "x - 20 = 20 tenglamada x qancha?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      0,
+      35
+    ]
+  },
+  {
+    "id": "s1c4b62l3_07",
+    "question": "Bir sonni o'yladim: undan 25 ni ayirsam 25 qoladi. Qaysi son?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      0,
+      45
+    ]
+  },
+  {
+    "id": "s1c4b62l3_08",
+    "question": "Taqqoslang: (x + 15 = 35) dagi x __ 25",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c4b62l3_09",
+    "question": "x + 18 = 40 tenglama ildizini toping va tekshiring: 22 + 18 nechaga teng?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      22,
+      58
+    ]
+  },
+  {
+    "id": "s1c4b62l3_10",
+    "question": "Xato: \"x - 12 = 12\" uchun x = 0 deyildi. To'g'ri x qancha?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      0,
+      12
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b11l1_01",
+    "question": "Yigirma yetti ming besh yuz sonini raqamlar bilan yozing.",
+    "correctAnswer": 27500,
+    "wrongAnswers": [
+      270500,
+      27050
+    ]
+  },
+  {
+    "id": "s3c1b11l1_02",
+    "question": "56 mln 300 ming + 12 mln 700 ming = ? (raqamlarda)",
+    "correctAnswer": 69000000,
+    "wrongAnswers": [
+      68000000,
+      69100000
+    ]
+  },
+  {
+    "id": "s3c1b11l1_03",
+    "question": "LXX + XV = ?  (arab)",
+    "correctAnswer": 85,
+    "wrongAnswers": [
+      75,
+      95
+    ]
+  },
+  {
+    "id": "s3c1b11l1_04",
+    "question": "7 m 4 dm necha cm?",
+    "correctAnswer": 740,
+    "wrongAnswers": [
+      74,
+      7400
+    ]
+  },
+  {
+    "id": "s3c1b11l1_05",
+    "question": "Taqqoslang: 38 940 __ 38 904",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s3c1b11l1_06",
+    "question": "420 * 30 = ?",
+    "correctAnswer": 12600,
+    "wrongAnswers": [
+      1260,
+      126000
+    ]
+  },
+  {
+    "id": "s3c1b11l1_07",
+    "question": "Tomoni 9 cm bo'lgan kvadratning perimetri necha cm?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      18,
+      81
+    ]
+  },
+  {
+    "id": "s3c1b11l1_08",
+    "question": "1 000 000 - 250 000 = ?",
+    "correctAnswer": 750000,
+    "wrongAnswers": [
+      850000,
+      650000
+    ]
+  },
+  {
+    "id": "s3c1b11l1_09",
+    "question": "3 soat 40 minut necha minut?",
+    "correctAnswer": 220,
+    "wrongAnswers": [
+      180,
+      240
+    ]
+  },
+  {
+    "id": "s3c1b11l1_10",
+    "question": "9 738 000 soni to'qqiz million yetti yuz o'ttiz sakkiz ming deb o'qiladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

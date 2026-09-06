@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b28l2_01",
+    "question": "30 + 50 = ?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      70,
+      90
+    ]
+  },
+  {
+    "id": "s1c2b28l2_02",
+    "question": "60 + 20 = ?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      70,
+      90
+    ]
+  },
+  {
+    "id": "s1c2b28l2_03",
+    "question": "10 + 90 = ?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      90,
+      110
+    ]
+  },
+  {
+    "id": "s1c2b28l2_04",
+    "question": "40 + 30 = ?",
+    "correctAnswer": 70,
+    "wrongAnswers": [
+      60,
+      80
+    ]
+  },
+  {
+    "id": "s1c2b28l2_05",
+    "question": "20 + 60 = ?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      70,
+      90
+    ]
+  },
+  {
+    "id": "s1c2b28l2_06",
+    "question": "50 + 50 = ?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      90,
+      110
+    ]
+  },
+  {
+    "id": "s1c2b28l2_07",
+    "question": "90 - 30 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      70,
+      50
+    ]
+  },
+  {
+    "id": "s1c2b28l2_08",
+    "question": "100 - 100 = ?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      100,
+      10
+    ]
+  },
+  {
+    "id": "s1c2b28l2_09",
+    "question": "Taqqoslang: 20 + 30 __ 60",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c2b28l2_10",
+    "question": "Xato: \"40 + 30 = 60\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 70,
+    "wrongAnswers": [
+      60,
+      80
+    ]
+  }
+]

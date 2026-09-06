@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok24_level1_nur_01", "question": "Sonli nurda 0 dan 30 gacha 3 ta teng bo'linma bor. Har bo'linma necha birlikni bildiradi?", "correctAnswer": 10, "wrongAnswers": [3, 30]},
+  {"id": "sinf4_chorak2_blok24_level1_nur_02", "question": "Sonli nurda A nuqta 4 da, B nuqta 9 da. Ular orasidagi masofa necha birlik?", "correctAnswer": 5, "wrongAnswers": [13, 4]},
+  {"id": "sinf4_chorak2_blok24_level1_nur_03", "question": "Sonli nurda nuqta 0 dan 7 birlik uzoqlikda. Uning koordinatasi nechi?", "correctAnswer": 7, "wrongAnswers": [0, 14]},
+  {"id": "sinf4_chorak2_blok24_level1_nur_04", "question": "Sonli nurda nuqta 12 da turibdi va 5 birlik o'ngga siljidi. Endi u qayerda?", "correctAnswer": 17, "wrongAnswers": [7, 60]},
+  {"id": "sinf4_chorak2_blok24_level1_nur_05", "question": "Sonli nurda nuqta 20 da turibdi va 8 birlik chapga siljidi. Endi u qayerda?", "correctAnswer": 12, "wrongAnswers": [28, 160]},
+  {"id": "sinf4_chorak2_blok24_level1_nur_06", "question": "Shkalada 0, 50, 100, 150 belgilar bor. 50 bilan 100 orasidagi o'rta belgi qanchani ko'rsatadi?", "correctAnswer": 75, "wrongAnswers": [25, 125]},
+  {"id": "sinf4_chorak2_blok24_level1_nur_07", "question": "Sonli nurda C nuqta 3 da, D nuqta 15 da. Ular orasidagi masofa nechi?", "correctAnswer": 12, "wrongAnswers": [18, 5]},
+  {"id": "sinf4_chorak2_blok24_level1_nur_08", "question": "Sonli nurda nuqta 8 da turibdi. U koordinata boshigacha (0 gacha) necha birlik?", "correctAnswer": 8, "wrongAnswers": [0, 16]},
+  {"id": "sinf4_chorak2_blok24_level1_nur_09", "question": "Termometrda har bo'linma 2 gradusni bildiradi. Simob 3 bo'linma ko'tarildi. Harorat necha gradusga oshdi?", "correctAnswer": 6, "wrongAnswers": [3, 2]},
+  {"id": "sinf4_chorak2_blok24_level1_nur_10", "question": "Sonli nurda K nuqta 10 da, L nuqta ham 10 da. Ular orasidagi masofa nechi?", "correctAnswer": 0, "wrongAnswers": [10, 20]}
+]

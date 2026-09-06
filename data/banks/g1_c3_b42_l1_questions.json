@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b42l1_01",
+    "question": "20 + 30 - 10 = ?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      60,
+      0
+    ]
+  },
+  {
+    "id": "s1c3b42l1_02",
+    "question": "(40 + 20) - 30 = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      90,
+      0
+    ]
+  },
+  {
+    "id": "s1c3b42l1_03",
+    "question": "50 - (20 + 20) = ?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      90,
+      30
+    ]
+  },
+  {
+    "id": "s1c3b42l1_04",
+    "question": "Qavssiz ifodada (faqat +/−) amallar qaysi tartibda?",
+    "correctAnswer": "chapdan o'ngga",
+    "wrongAnswers": [
+      "o'ngdan chapga",
+      "avval qo'shish"
+    ]
+  },
+  {
+    "id": "s1c3b42l1_05",
+    "question": "60 - 20 - 10 = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      50,
+      0
+    ]
+  },
+  {
+    "id": "s1c3b42l1_06",
+    "question": "(15 + 15) + 20 = ?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      30,
+      40
+    ]
+  },
+  {
+    "id": "s1c3b42l1_07",
+    "question": "80 - (40 - 10) = ?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      110,
+      30
+    ]
+  },
+  {
+    "id": "s1c3b42l1_08",
+    "question": "25 + 25 - 30 = ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      80,
+      0
+    ]
+  },
+  {
+    "id": "s1c3b42l1_09",
+    "question": "Qavsli ifodada avval qavs ichi hisoblanadi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b42l1_10",
+    "question": "Xato: \"(20 + 10) - 5 = 35\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      35,
+      15
+    ]
+  }
+]

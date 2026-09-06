@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak4_blok68_level2_kyoy_01", "question": "Konusning nechta cho'qqisi bor?", "correctAnswer": 1, "wrongAnswers": [2, 0]},
+  {"id": "sinf4_chorak4_blok68_level2_kyoy_02", "question": "Konusning asosi qanday shaklda?", "correctAnswer": "doira", "wrongAnswers": ["kvadrat", "uchburchak"]},
+  {"id": "sinf4_chorak4_blok68_level2_kyoy_03", "question": "Konus qaysi shaklning aylanishidan hosil bo'ladi?", "correctAnswer": "to'g'ri burchakli uchburchak", "wrongAnswers": ["kvadrat", "doira"]},
+  {"id": "sinf4_chorak4_blok68_level2_kyoy_04", "question": "Konus yoyilmasi nimalardan iborat?", "correctAnswer": "1 ta doira sektori va 1 ta kichik doira", "wrongAnswers": ["2 ta doira", "3 ta uchburchak"]},
+  {"id": "sinf4_chorak4_blok68_level2_kyoy_05", "question": "Rost yoki yolg'on: konusning yon sirti yoyilganda doira sektori hosil bo'ladi.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak4_blok68_level2_kyoy_06", "question": "Konus va piramidaning farqi nimada?", "correctAnswer": "Konusning asosi doira, piramidaniki ko'pburchak", "wrongAnswers": ["Farqi yo'q", "Konusda ko'p cho'qqi bor"]},
+  {"id": "sinf4_chorak4_blok68_level2_kyoy_07", "question": "Muzqaymoq rojkasi qanday fazoviy shaklga o'xshaydi?", "correctAnswer": "konus", "wrongAnswers": ["silindr", "kub"]},
+  {"id": "sinf4_chorak4_blok68_level2_kyoy_08", "question": "Konusning nechta yassi yog'i bor?", "correctAnswer": 1, "wrongAnswers": [2, 3]},
+  {"id": "sinf4_chorak4_blok68_level2_kyoy_09", "question": "Rost yoki yolg'on: konus tekislikda yumalatilsa, doira bo'ylab harakat qiladi.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak4_blok68_level2_kyoy_10", "question": "Silindr va konusning umumiy xususiyati nima?", "correctAnswer": "Ikkalasining ham doira asosi bor", "wrongAnswers": ["Ikkalasida ham cho'qqi bor", "Ikkalasi ham kub"]}
+]

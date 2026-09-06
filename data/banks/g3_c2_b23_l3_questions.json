@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b23l3_01",
+    "question": "4 200 : 5 = ?",
+    "correctAnswer": 840,
+    "wrongAnswers": [
+      830,
+      940
+    ]
+  },
+  {
+    "id": "s3c2b23l3_02",
+    "question": "1 000 : 8 = ?",
+    "correctAnswer": 125,
+    "wrongAnswers": [
+      115,
+      225
+    ]
+  },
+  {
+    "id": "s3c2b23l3_03",
+    "question": "5 614 : 7 = ?",
+    "correctAnswer": 802,
+    "wrongAnswers": [
+      792,
+      902
+    ]
+  },
+  {
+    "id": "s3c2b23l3_04",
+    "question": "3 612 : 3 = ?",
+    "correctAnswer": 1204,
+    "wrongAnswers": [
+      1194,
+      1304
+    ]
+  },
+  {
+    "id": "s3c2b23l3_05",
+    "question": "1 000 : 8 = ?",
+    "correctAnswer": 125,
+    "wrongAnswers": [
+      115,
+      135
+    ]
+  },
+  {
+    "id": "s3c2b23l3_06",
+    "question": "Anvar 484 : 4 ni hisoblab, 111 deb yozdi. To'g'ri javob qancha?",
+    "correctAnswer": 121,
+    "wrongAnswers": [
+      111,
+      101
+    ]
+  },
+  {
+    "id": "s3c2b23l3_07",
+    "question": "Do'konga 3 084 ta shokolad keldi, ular 6 ta bir xil qutiga teng joylandi. Bitta qutida nechta?",
+    "correctAnswer": 514,
+    "wrongAnswers": [
+      504,
+      524
+    ]
+  },
+  {
+    "id": "s3c2b23l3_08",
+    "question": "9 240 metr yo'lni 7 kunda teng bosib o'tildi. Kuniga necha metr?",
+    "correctAnswer": 1320,
+    "wrongAnswers": [
+      1310,
+      1330
+    ]
+  },
+  {
+    "id": "s3c2b23l3_09",
+    "question": "Bir zavod 7 hafta (49 kun) da 9 359 ta detal chiqardi... teng emas. 9 359 : 7 amalida qoldiq qancha?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      1,
+      7
+    ]
+  },
+  {
+    "id": "s3c2b23l3_10",
+    "question": "6 000 : 5 = ?",
+    "correctAnswer": 1200,
+    "wrongAnswers": [
+      1100,
+      1300
+    ]
+  }
+]

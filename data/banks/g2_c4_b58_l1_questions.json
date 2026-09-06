@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b58l1_01",
+    "question": "7 * 4 = 4 * 7 tenglik qaysi xossani bildiradi?",
+    "correctAnswer": "o'rin almashtirish xossasi",
+    "wrongAnswers": [
+      "guruhlash xossasi",
+      "taqsimot xossasi"
+    ]
+  },
+  {
+    "id": "s2c4b58l1_02",
+    "question": "6 * 3 = 18 bo'lsa, 3 * 6 nechaga teng?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      9,
+      21
+    ]
+  },
+  {
+    "id": "s2c4b58l1_03",
+    "question": "(2 * 3) * 4 va 2 * (3 * 4) natijalari ... .",
+    "correctAnswer": "teng",
+    "wrongAnswers": [
+      "har xil",
+      "1 ga farq qiladi"
+    ]
+  },
+  {
+    "id": "s2c4b58l1_04",
+    "question": "(2 * 5) * 3 = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      10,
+      25
+    ]
+  },
+  {
+    "id": "s2c4b58l1_05",
+    "question": "2 * (4 * 5) = ?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      11,
+      20
+    ]
+  },
+  {
+    "id": "s2c4b58l1_06",
+    "question": "Qulay hisoblang: 5 * 7 * 2 = (5 * 2) * 7 = ?",
+    "correctAnswer": 70,
+    "wrongAnswers": [
+      35,
+      14
+    ]
+  },
+  {
+    "id": "s2c4b58l1_07",
+    "question": "Qulay hisoblang: 4 * 9 * 2 = ?",
+    "correctAnswer": 72,
+    "wrongAnswers": [
+      36,
+      15
+    ]
+  },
+  {
+    "id": "s2c4b58l1_08",
+    "question": "Ko'paytuvchilarni guruhlashni o'zgartirsak, ko'paytma o'zgarmaydi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c4b58l1_09",
+    "question": "8 * 5 va 5 * 8 har xil natija beradi.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c4b58l1_10",
+    "question": "2 * 3 * 5 ni qulay tartibda hisoblang.",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      10,
+      16
+    ]
+  }
+]

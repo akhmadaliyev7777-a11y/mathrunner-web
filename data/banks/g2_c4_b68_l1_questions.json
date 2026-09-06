@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b68l1_01",
+    "question": "12 * 4 = ?",
+    "correctAnswer": 48,
+    "wrongAnswers": [
+      36,
+      52
+    ]
+  },
+  {
+    "id": "s2c4b68l1_02",
+    "question": "23 * 3 = ?",
+    "correctAnswer": 69,
+    "wrongAnswers": [
+      46,
+      72
+    ]
+  },
+  {
+    "id": "s2c4b68l1_03",
+    "question": "14 * 2 = ?",
+    "correctAnswer": 28,
+    "wrongAnswers": [
+      14,
+      30
+    ]
+  },
+  {
+    "id": "s2c4b68l1_04",
+    "question": "31 * 3 = ?",
+    "correctAnswer": 93,
+    "wrongAnswers": [
+      62,
+      96
+    ]
+  },
+  {
+    "id": "s2c4b68l1_05",
+    "question": "24 * 2 = ?",
+    "correctAnswer": 48,
+    "wrongAnswers": [
+      24,
+      50
+    ]
+  },
+  {
+    "id": "s2c4b68l1_06",
+    "question": "13 * 5 = ?",
+    "correctAnswer": 65,
+    "wrongAnswers": [
+      52,
+      70
+    ]
+  },
+  {
+    "id": "s2c4b68l1_07",
+    "question": "21 * 4 = ?",
+    "correctAnswer": 84,
+    "wrongAnswers": [
+      63,
+      88
+    ]
+  },
+  {
+    "id": "s2c4b68l1_08",
+    "question": "32 * 3 = ?",
+    "correctAnswer": 96,
+    "wrongAnswers": [
+      64,
+      99
+    ]
+  },
+  {
+    "id": "s2c4b68l1_09",
+    "question": "16 * 3 = ?",
+    "correctAnswer": 48,
+    "wrongAnswers": [
+      38,
+      58
+    ]
+  },
+  {
+    "id": "s2c4b68l1_10",
+    "question": "18 * 4 = ?",
+    "correctAnswer": 72,
+    "wrongAnswers": [
+      62,
+      82
+    ]
+  }
+]

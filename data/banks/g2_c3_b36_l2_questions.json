@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b36l2_01",
+    "question": "Kvadrat perimetri 32 sm. Bir tomoni necha sm?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      4,
+      16
+    ]
+  },
+  {
+    "id": "s2c3b36l2_02",
+    "question": "To'g'ri to'rtburchak perimetri 30 sm. Eni 5 sm. Bo'yi necha sm?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      25,
+      20
+    ]
+  },
+  {
+    "id": "s2c3b36l2_03",
+    "question": "Kvadrat perimetri 20 sm. Bir tomoni necha sm?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      10
+    ]
+  },
+  {
+    "id": "s2c3b36l2_04",
+    "question": "To'g'ri to'rtburchakning bo'yi 12 sm, eni undan 4 sm qisqa. Perimetri necha sm?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      16,
+      20
+    ]
+  },
+  {
+    "id": "s2c3b36l2_05",
+    "question": "Kvadratning tomoni 10 sm dan 15 sm gacha oshdi. Perimetri necha sm ga oshdi?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      5,
+      15
+    ]
+  },
+  {
+    "id": "s2c3b36l2_06",
+    "question": "To'g'ri to'rtburchak: eni 7 sm, bo'yi 7 sm. Bu qanday shakl?",
+    "correctAnswer": "kvadrat",
+    "wrongAnswers": [
+      "uchburchak",
+      "romb"
+    ]
+  },
+  {
+    "id": "s2c3b36l2_07",
+    "question": "Perimetri 24 sm bo'lgan kvadratning tomoni necha sm?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      4,
+      8
+    ]
+  },
+  {
+    "id": "s2c3b36l2_08",
+    "question": "Kvadratning perimetri bir tomonini 4 ga ko'paytirib topiladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b36l2_09",
+    "question": "Taqqoslang: Tomoni 5 sm kvadrat perimetri __ 18 sm",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s2c3b36l2_10",
+    "question": "Xato: kvadrat tomoni 9 sm, perimetri 27 sm deyildi. To'g'ri perimetr necha sm?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      27,
+      18
+    ]
+  }
+]

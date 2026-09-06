@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b46l2_01",
+    "question": "1 dm 5 sm necha sm?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      6,
+      105
+    ]
+  },
+  {
+    "id": "s1c3b46l2_02",
+    "question": "2 dm 3 sm necha sm?",
+    "correctAnswer": 23,
+    "wrongAnswers": [
+      5,
+      203
+    ]
+  },
+  {
+    "id": "s1c3b46l2_03",
+    "question": "1 dm 8 sm necha sm?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      9,
+      108
+    ]
+  },
+  {
+    "id": "s1c3b46l2_04",
+    "question": "25 sm = ? dm ? sm  (dm sonini yozing)",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      25,
+      5
+    ]
+  },
+  {
+    "id": "s1c3b46l2_05",
+    "question": "3 dm 0 sm necha sm?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      3,
+      300
+    ]
+  },
+  {
+    "id": "s1c3b46l2_06",
+    "question": "1 dm 5 sm + 1 dm 3 sm = ? sm",
+    "correctAnswer": 28,
+    "wrongAnswers": [
+      26,
+      30
+    ]
+  },
+  {
+    "id": "s1c3b46l2_07",
+    "question": "Taqqoslang: 1 dm 2 sm __ 15 sm",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c3b46l2_08",
+    "question": "5 dm - 20 sm = ? sm  (5 dm = 50 sm)",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      70,
+      25
+    ]
+  },
+  {
+    "id": "s1c3b46l2_09",
+    "question": "Ip uzunligi 4 dm. Undan 10 sm kesildi. Necha sm qoldi?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      50,
+      3
+    ]
+  },
+  {
+    "id": "s1c3b46l2_10",
+    "question": "Xato: \"2 dm = 20 dm\" deyildi. To'g'ri javob necha sm?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      200,
+      2
+    ]
+  }
+]

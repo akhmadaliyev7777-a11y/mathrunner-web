@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok7_level1_yuza_01", "question": "Tomonlari 5 sm va 3 sm bo'lgan to'g'ri to'rtburchakning perimetri necha sm?", "correctAnswer": 16, "wrongAnswers": [15, 8]},
+  {"id": "sinf4_chorak1_blok7_level1_yuza_02", "question": "Tomoni 6 sm bo'lgan kvadratning perimetri necha sm?", "correctAnswer": 24, "wrongAnswers": [12, 36]},
+  {"id": "sinf4_chorak1_blok7_level1_yuza_03", "question": "Tomonlari 5 sm va 3 sm bo'lgan to'g'ri to'rtburchakning yuzasi necha sm²?", "correctAnswer": 15, "wrongAnswers": [16, 8]},
+  {"id": "sinf4_chorak1_blok7_level1_yuza_04", "question": "Tomoni 4 sm bo'lgan kvadratning yuzasi necha sm²?", "correctAnswer": 16, "wrongAnswers": [8, 12]},
+  {"id": "sinf4_chorak1_blok7_level1_yuza_05", "question": "Tomonlari 10 m va 2 m bo'lgan to'g'ri to'rtburchakning yuzasi necha m²?", "correctAnswer": 20, "wrongAnswers": [24, 12]},
+  {"id": "sinf4_chorak1_blok7_level1_yuza_06", "question": "Perimetri 20 sm bo'lgan kvadratning bir tomoni necha sm?", "correctAnswer": 5, "wrongAnswers": [4, 10]},
+  {"id": "sinf4_chorak1_blok7_level1_yuza_07", "question": "Tomonlari 8 sm va 8 sm bo'lgan to'g'ri to'rtburchak — bu qanday shakl?", "correctAnswer": "kvadrat", "wrongAnswers": ["uchburchak", "romb"]},
+  {"id": "sinf4_chorak1_blok7_level1_yuza_08", "question": "Tomoni 3 sm bo'lgan kvadratning yuzasi necha sm²?", "correctAnswer": 9, "wrongAnswers": [6, 12]},
+  {"id": "sinf4_chorak1_blok7_level1_yuza_09", "question": "To'g'ri to'rtburchakning bo'yi 7 sm, eni 4 sm. Yuzasi necha sm²?", "correctAnswer": 28, "wrongAnswers": [22, 11]},
+  {"id": "sinf4_chorak1_blok7_level1_yuza_10", "question": "Kvadratning perimetri 12 sm. Uning yuzasi necha sm²?", "correctAnswer": 9, "wrongAnswers": [12, 16]}
+]

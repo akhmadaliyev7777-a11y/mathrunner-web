@@ -1,0 +1,122 @@
+[
+  {
+    "id": "g1c1b13l1_ord_01",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      6,
+      2,
+      9,
+      4,
+      7
+    ],
+    "ascending": true
+  },
+  {
+    "id": "g1c1b13l1_ord_02",
+    "prompt": "Sonlarni kamayish tartibida joylashtiring",
+    "numbers": [
+      10,
+      3,
+      8,
+      1,
+      5
+    ],
+    "ascending": false
+  },
+  {
+    "id": "g1c1b13l1_ord_03",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      2,
+      4,
+      6,
+      8,
+      10
+    ],
+    "ascending": true
+  },
+  {
+    "id": "g1c1b13l1_ord_04",
+    "prompt": "Sonlarni kamayish tartibida joylashtiring",
+    "numbers": [
+      9,
+      7,
+      5,
+      3,
+      1
+    ],
+    "ascending": false
+  },
+  {
+    "id": "g1c1b13l1_ord_05",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      1,
+      5,
+      3,
+      9,
+      7
+    ],
+    "ascending": true
+  },
+  {
+    "id": "g1c1b13l1_ord_06",
+    "prompt": "Sonlarni kamayish tartibida joylashtiring",
+    "numbers": [
+      8,
+      6,
+      10,
+      4,
+      2
+    ],
+    "ascending": false
+  },
+  {
+    "id": "g1c1b13l1_ord_07",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      3,
+      6,
+      1,
+      10,
+      8
+    ],
+    "ascending": true
+  },
+  {
+    "id": "g1c1b13l1_ord_08",
+    "prompt": "Sonlarni kamayish tartibida joylashtiring",
+    "numbers": [
+      7,
+      2,
+      9,
+      5,
+      4
+    ],
+    "ascending": false
+  },
+  {
+    "id": "g1c1b13l1_ord_09",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      2,
+      3,
+      5,
+      7,
+      8
+    ],
+    "ascending": true
+  },
+  {
+    "id": "g1c1b13l1_ord_10",
+    "prompt": "Sonlarni kamayish tartibida joylashtiring",
+    "numbers": [
+      10,
+      9,
+      8,
+      7,
+      6
+    ],
+    "ascending": false
+  }
+]

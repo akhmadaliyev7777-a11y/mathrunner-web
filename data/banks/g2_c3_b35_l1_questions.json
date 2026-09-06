@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b35l1_01",
+    "question": "To'g'ri burchakni qaysi asbob bilan yasaymiz/tekshiramiz?",
+    "correctAnswer": "goniya (to'g'ri burchakli chizg'ich)",
+    "wrongAnswers": [
+      "chizg'ich",
+      "sirkul"
+    ]
+  },
+  {
+    "id": "s2c3b35l1_02",
+    "question": "To'g'ri burchakdan kichik burchak qanday ataladi?",
+    "correctAnswer": "o'tkir burchak",
+    "wrongAnswers": [
+      "o'tmas burchak",
+      "yoyiq burchak"
+    ]
+  },
+  {
+    "id": "s2c3b35l1_03",
+    "question": "To'g'ri burchakdan katta burchak qanday ataladi?",
+    "correctAnswer": "o'tmas burchak",
+    "wrongAnswers": [
+      "o'tkir burchak",
+      "to'g'ri burchak"
+    ]
+  },
+  {
+    "id": "s2c3b35l1_04",
+    "question": "Kvadratning har bir burchagi qanday burchak?",
+    "correctAnswer": "to'g'ri burchak",
+    "wrongAnswers": [
+      "o'tkir burchak",
+      "o'tmas burchak"
+    ]
+  },
+  {
+    "id": "s2c3b35l1_05",
+    "question": "Burchakning uchidan chiqqan ikki nur nima deb ataladi?",
+    "correctAnswer": "burchak tomonlari",
+    "wrongAnswers": [
+      "kesmalar",
+      "to'g'ri chiziqlar"
+    ]
+  },
+  {
+    "id": "s2c3b35l1_06",
+    "question": "Soat mili 3:00 da qanday burchak hosil qiladi?",
+    "correctAnswer": "to'g'ri burchak",
+    "wrongAnswers": [
+      "o'tkir burchak",
+      "o'tmas burchak"
+    ]
+  },
+  {
+    "id": "s2c3b35l1_07",
+    "question": "Har qanday uchburchakda kamida bitta o'tkir burchak bor.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b35l1_08",
+    "question": "To'g'ri burchak o'tmas burchakdan katta.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b35l1_09",
+    "question": "Uchburchakda nechta burchak bor?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "s2c3b35l1_10",
+    "question": "Kitob varag'ining burchagi qanday burchak?",
+    "correctAnswer": "to'g'ri burchak",
+    "wrongAnswers": [
+      "o'tkir burchak",
+      "o'tmas burchak"
+    ]
+  }
+]

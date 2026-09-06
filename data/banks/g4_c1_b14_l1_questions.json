@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok14_level1_amort_01", "question": "Uch o'quvchining vazni: 30 kg, 32 kg, 34 kg. O'rtacha vazn necha kg?", "correctAnswer": 32, "wrongAnswers": [96, 34]},
+  {"id": "sinf4_chorak1_blok14_level1_amort_02", "question": "Bola bir haftada har kuni: 20, 30, 25, 25, 20, 30, 25 daqiqa kitob o'qidi. O'rtacha kuniga necha daqiqa?", "correctAnswer": 25, "wrongAnswers": [180, 30]},
+  {"id": "sinf4_chorak1_blok14_level1_amort_03", "question": "5 ta olmaning og'irligi: 100, 110, 90, 100, 100 g. O'rtacha bir olma necha g?", "correctAnswer": 100, "wrongAnswers": [500, 110]},
+  {"id": "sinf4_chorak1_blok14_level1_amort_04", "question": "Ikki savatda jami 24 ta o'rik bor. O'rtacha bir savatda nechta o'rik bor?", "correctAnswer": 12, "wrongAnswers": [24, 48]},
+  {"id": "sinf4_chorak1_blok14_level1_amort_05", "question": "3 kunda sotilgan muzqaymoq: 15, 20, 25 ta. Kuniga o'rtacha nechta sotilgan?", "correctAnswer": 20, "wrongAnswers": [60, 25]},
+  {"id": "sinf4_chorak1_blok14_level1_amort_06", "question": "Dilnoza: \"Vaznlar 40, 50, 60 kg. O'rtacha = 40 + 50 + 60 = 150 kg\" dedi. Xato qayerda?", "correctAnswer": "150 ni 3 ga bo'lish kerak: 150 : 3 = 50 kg", "wrongAnswers": ["Ko'paytirish kerak edi", "150 kg to'g'ri"]},
+  {"id": "sinf4_chorak1_blok14_level1_amort_07", "question": "To'rt do'stning yoshi: 8, 9, 10, 13. O'rtacha yosh nechi?", "correctAnswer": 10, "wrongAnswers": [40, 13]},
+  {"id": "sinf4_chorak1_blok14_level1_amort_08", "question": "Bir daraxtdan 3 kunda 12, 15, 9 kg olma terildi. Kuniga o'rtacha necha kg?", "correctAnswer": 12, "wrongAnswers": [36, 15]},
+  {"id": "sinf4_chorak1_blok14_level1_amort_09", "question": "Ikki sonning o'rtacha qiymati 25. Agar ikkala son teng bo'lsa, har biri nechi?", "correctAnswer": 25, "wrongAnswers": [50, 12]},
+  {"id": "sinf4_chorak1_blok14_level1_amort_10", "question": "Bir hafta (7 kun) davomida o'rtacha harorat 20°C bo'ldi. Butun hafta harorat yig'indisi qancha?", "correctAnswer": 140, "wrongAnswers": [27, 20]}
+]

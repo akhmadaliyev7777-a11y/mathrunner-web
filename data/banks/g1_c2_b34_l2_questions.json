@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b34l2_01",
+    "question": "23 + 7 + 20 ni qulay hisoblang.",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      40,
+      60
+    ]
+  },
+  {
+    "id": "s1c2b34l2_02",
+    "question": "15 + 15 + 15 = ?",
+    "correctAnswer": 45,
+    "wrongAnswers": [
+      30,
+      60
+    ]
+  },
+  {
+    "id": "s1c2b34l2_03",
+    "question": "34 + 6 + 10 = ?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      40,
+      60
+    ]
+  },
+  {
+    "id": "s1c2b34l2_04",
+    "question": "(12 + 18) + 30 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      50,
+      70
+    ]
+  },
+  {
+    "id": "s1c2b34l2_05",
+    "question": "9 + 1 + 40 + 0 = ?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      40,
+      60
+    ]
+  },
+  {
+    "id": "s1c2b34l2_06",
+    "question": "50 + 25 + 5 = ?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      70,
+      90
+    ]
+  },
+  {
+    "id": "s1c2b34l2_07",
+    "question": "Taqqoslang: 10 + 20 + 30 __ 70",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c2b34l2_08",
+    "question": "Bir kunda 20, 30 va 40 ta gazeta sotildi. Jami nechta?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      80,
+      100
+    ]
+  },
+  {
+    "id": "s1c2b34l2_09",
+    "question": "5 + 6 + 4 = 5 + (6 + 4).",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c2b34l2_10",
+    "question": "Xato: \"20 + 20 + 20 = 40\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      40,
+      80
+    ]
+  }
+]

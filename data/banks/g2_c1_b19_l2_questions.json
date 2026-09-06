@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b19l2_01",
+    "question": "46 + 38 = ?",
+    "correctAnswer": 84,
+    "wrongAnswers": [
+      74,
+      94
+    ]
+  },
+  {
+    "id": "s2c1b19l2_02",
+    "question": "57 + 25 = ?",
+    "correctAnswer": 82,
+    "wrongAnswers": [
+      72,
+      92
+    ]
+  },
+  {
+    "id": "s2c1b19l2_03",
+    "question": "29 + 63 = ?",
+    "correctAnswer": 92,
+    "wrongAnswers": [
+      82,
+      102
+    ]
+  },
+  {
+    "id": "s2c1b19l2_04",
+    "question": "72 - 46 = ?",
+    "correctAnswer": 26,
+    "wrongAnswers": [
+      36,
+      16
+    ]
+  },
+  {
+    "id": "s2c1b19l2_05",
+    "question": "90 - 38 = ?",
+    "correctAnswer": 52,
+    "wrongAnswers": [
+      62,
+      42
+    ]
+  },
+  {
+    "id": "s2c1b19l2_06",
+    "question": "80 - (30 + 22) = ?",
+    "correctAnswer": 28,
+    "wrongAnswers": [
+      38,
+      18
+    ]
+  },
+  {
+    "id": "s2c1b19l2_07",
+    "question": "Kvadrat perimetri, tomoni 8 sm bo'lsa, qancha sm?",
+    "correctAnswer": 32,
+    "wrongAnswers": [
+      16,
+      64
+    ]
+  },
+  {
+    "id": "s2c1b19l2_08",
+    "question": "a + 16 ifoda qiymati, a = 40 bo'lsa?",
+    "correctAnswer": 56,
+    "wrongAnswers": [
+      24,
+      66
+    ]
+  },
+  {
+    "id": "s2c1b19l2_09",
+    "question": "Bolada 55 so'm bor edi, 20 so'mga qalam, 18 so'mga daftar oldi. Nechta so'm qoldi?",
+    "correctAnswer": 17,
+    "wrongAnswers": [
+      27,
+      7
+    ]
+  },
+  {
+    "id": "s2c1b19l2_10",
+    "question": "Qo'shiluvchilarning o'rnini almashtirsak, yig'indi o'zgarmaydi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

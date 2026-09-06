@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b50l1_01",
+    "question": "Uzunlik, massa, hajm — bularning umumiy nomi nima?",
+    "correctAnswer": "kattaliklar",
+    "wrongAnswers": [
+      "sonlar",
+      "shakllar"
+    ]
+  },
+  {
+    "id": "s1c3b50l1_02",
+    "question": "Kattalik — bu ...",
+    "correctAnswer": "o'lchash mumkin bo'lgan xossa",
+    "wrongAnswers": [
+      "har qanday son",
+      "geometrik shakl"
+    ]
+  },
+  {
+    "id": "s1c3b50l1_03",
+    "question": "Massani qaysi birlikda o'lchaymiz?",
+    "correctAnswer": "kilogrammda",
+    "wrongAnswers": [
+      "santimetrda",
+      "litrda"
+    ]
+  },
+  {
+    "id": "s1c3b50l1_04",
+    "question": "Uzunlikni qaysi birlikda o'lchaymiz?",
+    "correctAnswer": "santimetrda / detsimetrda",
+    "wrongAnswers": [
+      "kilogrammda",
+      "litrda"
+    ]
+  },
+  {
+    "id": "s1c3b50l1_05",
+    "question": "Hajmni qaysi birlikda o'lchaymiz?",
+    "correctAnswer": "litrda",
+    "wrongAnswers": [
+      "santimetrda",
+      "kilogrammda"
+    ]
+  },
+  {
+    "id": "s1c3b50l1_06",
+    "question": "Rang — kattalikmi (o'lchab bo'ladimi)?",
+    "correctAnswer": "yo'q, kattalik emas",
+    "wrongAnswers": [
+      "ha, kattalik",
+      "ba'zan"
+    ]
+  },
+  {
+    "id": "s1c3b50l1_07",
+    "question": "Kattaliklarni qo'shishda ham o'rin almashtirish qonuni ishlaydi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b50l1_08",
+    "question": "5 kg + 3 kg = 3 kg + 5 kg. Bu qaysi qonun?",
+    "correctAnswer": "o'rin almashtirish qonuni",
+    "wrongAnswers": [
+      "guruhlash qonuni",
+      "ayirish qonuni"
+    ]
+  },
+  {
+    "id": "s1c3b50l1_09",
+    "question": "Ikki kesmaning uzunligi 4 sm va 6 sm. Ularni qo'shsak necha sm?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      2,
+      24
+    ]
+  },
+  {
+    "id": "s1c3b50l1_10",
+    "question": "20 l - 20 l = ? l",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      20,
+      40
+    ]
+  }
+]

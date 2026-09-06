@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok59_level3_yak_01", "question": "3 1/5 − 1 3/5 = ?", "correctAnswer": "1 3/5", "wrongAnswers": ["2 2/5", "1 2/5"]},
+  {"id": "sinf4_chorak3_blok59_level3_yak_02", "question": "Aziz 1/4 + 2/4 ni 3/8 dedi. To'g'ri javob qaysi?", "correctAnswer": "3/4", "wrongAnswers": ["3/8", "6/8"]},
+  {"id": "sinf4_chorak3_blok59_level3_yak_03", "question": "Bir kitobning 1/3 qismi 40 bet. Kitob necha betdan iborat?", "correctAnswer": 120, "wrongAnswers": [43, 13]},
+  {"id": "sinf4_chorak3_blok59_level3_yak_04", "question": "2 3/5 + 1 4/5 = ?", "correctAnswer": "4 2/5", "wrongAnswers": ["3 7/5", "4 7/5"]},
+  {"id": "sinf4_chorak3_blok59_level3_yak_05", "question": "25 o'quvchining 20% i a'lochi. Nechta a'lochi?", "correctAnswer": 5, "wrongAnswers": [20, 4]},
+  {"id": "sinf4_chorak3_blok59_level3_yak_06", "question": "45/1000 ni o'nli kasr shaklida yozing.", "correctAnswer": "0,045", "wrongAnswers": ["0,45", "0,0045"]},
+  {"id": "sinf4_chorak3_blok59_level3_yak_07", "question": "Bir bochkada 5 1/3 litr suv edi, 2 2/3 litri olindi. Qancha qoldi?", "correctAnswer": "2 2/3", "wrongAnswers": ["3 1/3", "2 1/3"]},
+  {"id": "sinf4_chorak3_blok59_level3_yak_08", "question": "Yer uchastkasining 3/5 qismiga bug'doy ekildi. Uchastka 50 sotix. Necha sotixga bug'doy?", "correctAnswer": 30, "wrongAnswers": [10, 5]},
+  {"id": "sinf4_chorak3_blok59_level3_yak_09", "question": "0,9 va 0,89 — qaysi biri katta?", "correctAnswer": "0,9", "wrongAnswers": ["0,89", "teng"]},
+  {"id": "sinf4_chorak3_blok59_level3_yak_10", "question": "3 ta daftar 1/4 kg dan. Ular jami necha kg (1/4 × 3)?", "correctAnswer": "3/4", "wrongAnswers": ["3/12", "1/4"]}
+]

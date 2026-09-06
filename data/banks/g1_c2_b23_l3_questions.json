@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b23l3_01",
+    "question": "20 gacha sonlar ichida qaysi son juft: 13, 15, 16, 17?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      13,
+      15
+    ]
+  },
+  {
+    "id": "s1c2b23l3_02",
+    "question": "Qaysi son toq: 12, 14, 15, 18?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      12,
+      14
+    ]
+  },
+  {
+    "id": "s1c2b23l3_03",
+    "question": "11 juft sonmi yoki toq? (juft = 1, toq = 2)",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "s1c2b23l3_04",
+    "question": "20 juft sonmi yoki toq? (juft = 1, toq = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s1c2b23l3_05",
+    "question": "13 = 10 + 3. 13 dagi birliklar soni juftmi?",
+    "correctAnswer": "yo'q, toq (3)",
+    "wrongAnswers": [
+      "ha, juft",
+      "aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c2b23l3_06",
+    "question": "14 va 16 — ikkalasi ham qanday son?",
+    "correctAnswer": "juft",
+    "wrongAnswers": [
+      "toq",
+      "biri juft biri toq"
+    ]
+  },
+  {
+    "id": "s1c2b23l3_07",
+    "question": "Taqqoslang: 10 + 8 __ 19",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c2b23l3_08",
+    "question": "Taqqoslang: 12 + 6 __ 20 - 2",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s1c2b23l3_09",
+    "question": "17 sonining o'nlik-birlik tarkibi qaysi?",
+    "correctAnswer": "1 o'nlik, 7 birlik",
+    "wrongAnswers": [
+      "7 o'nlik, 1 birlik",
+      "17 birlik"
+    ]
+  },
+  {
+    "id": "s1c2b23l3_10",
+    "question": "Xato: \"15 = 10 + 6\" deyildi. To'g'ri javob nechta birlik?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      6,
+      4
+    ]
+  }
+]

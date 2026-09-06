@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak4_blok66_level1_dsh_01", "question": "Doiraning markazidan chetiga tortilgan kesma qanday nomlanadi?", "correctAnswer": "radius", "wrongAnswers": ["diametr", "vatar"]},
+  {"id": "sinf4_chorak4_blok66_level1_dsh_02", "question": "Doira markazidan o'tib, ikki chetini tutashtirgan kesma qanday nomlanadi?", "correctAnswer": "diametr", "wrongAnswers": ["radius", "yoy"]},
+  {"id": "sinf4_chorak4_blok66_level1_dsh_03", "question": "Diametr radiusdan necha marta katta?", "correctAnswer": 2, "wrongAnswers": [3, 4]},
+  {"id": "sinf4_chorak4_blok66_level1_dsh_04", "question": "Radiusi 5 sm bo'lgan doiraning diametri necha sm?", "correctAnswer": 10, "wrongAnswers": [15, 25]},
+  {"id": "sinf4_chorak4_blok66_level1_dsh_05", "question": "Sharga misol qaysi?", "correctAnswer": "futbol to'pi", "wrongAnswers": ["quti", "kitob"]},
+  {"id": "sinf4_chorak4_blok66_level1_dsh_06", "question": "Silindrga misol qaysi?", "correctAnswer": "konserva bankasi", "wrongAnswers": ["to'p", "piramida"]},
+  {"id": "sinf4_chorak4_blok66_level1_dsh_07", "question": "Silindrning ikki asosi qanday shaklda?", "correctAnswer": "doira", "wrongAnswers": ["kvadrat", "uchburchak"]},
+  {"id": "sinf4_chorak4_blok66_level1_dsh_08", "question": "Diametri 12 sm bo'lgan doiraning radiusi necha sm?", "correctAnswer": 6, "wrongAnswers": [24, 12]},
+  {"id": "sinf4_chorak4_blok66_level1_dsh_09", "question": "Shar qanday shaklning aylanishidan hosil bo'ladi?", "correctAnswer": "yarim doira", "wrongAnswers": ["kvadrat", "uchburchak"]},
+  {"id": "sinf4_chorak4_blok66_level1_dsh_10", "question": "Silindr qaysi shaklning aylanishidan hosil bo'ladi?", "correctAnswer": "to'g'ri to'rtburchak", "wrongAnswers": ["uchburchak", "doira"]}
+]

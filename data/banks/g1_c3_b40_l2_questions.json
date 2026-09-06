@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b40l2_01",
+    "question": "Anvarda 14 ta marka bor. Sardorda undan 6 ta ko'p. Sardorda nechta?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      8,
+      84
+    ]
+  },
+  {
+    "id": "s1c3b40l2_02",
+    "question": "Bir kunda 30 ta non yopildi, ertasiga 12 ta kam. Ertasi nechta?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      42,
+      17
+    ]
+  },
+  {
+    "id": "s1c3b40l2_03",
+    "question": "Katta arqon 25 m, kichigi undan 10 m qisqa. Kichigi necha m?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      35,
+      14
+    ]
+  },
+  {
+    "id": "s1c3b40l2_04",
+    "question": "Sinfda 22 bola. Boshqa sinfda 8 taga ko'p. Boshqa sinfda nechta?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      14,
+      176
+    ]
+  },
+  {
+    "id": "s1c3b40l2_05",
+    "question": "45 sonini 20 ga kamaytiring.",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      65,
+      24
+    ]
+  },
+  {
+    "id": "s1c3b40l2_06",
+    "question": "18 va 25 — qaysi biri kichik va qanchaga?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      43,
+      8
+    ]
+  },
+  {
+    "id": "s1c3b40l2_07",
+    "question": "Bog'da 40 ta gul bor edi, 15 tasi terildi. Nechta qoldi?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      55,
+      24
+    ]
+  },
+  {
+    "id": "s1c3b40l2_08",
+    "question": "Taqqoslang: 20 + 15 __ 50 - 10",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c3b40l2_09",
+    "question": "Xato: \"12 ni 5 ga orttirsak 7 bo'ladi\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 17,
+    "wrongAnswers": [
+      7,
+      18
+    ]
+  },
+  {
+    "id": "s1c3b40l2_10",
+    "question": "10 ni 3 ga orttirib, keyin 5 ga kamaytiring. Natija qancha?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      18,
+      2
+    ]
+  }
+]

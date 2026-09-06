@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b17l1_01",
+    "question": "Bir qutida 240 ta, ikkinchisida 3 marta ko'p mix bor. Jami nechta mix?",
+    "correctAnswer": 960,
+    "wrongAnswers": [
+      720,
+      480
+    ]
+  },
+  {
+    "id": "s3c1b17l1_02",
+    "question": "Bogboda 8 qator, har qatorda 25 tup uzum. Jami nechta tup?",
+    "correctAnswer": 200,
+    "wrongAnswers": [
+      33,
+      175
+    ]
+  },
+  {
+    "id": "s3c1b17l1_03",
+    "question": "Sinfda 30 o'quvchi. Har biriga 4 tadan daftar berildi. Jami nechta daftar?",
+    "correctAnswer": 120,
+    "wrongAnswers": [
+      34,
+      90
+    ]
+  },
+  {
+    "id": "s3c1b17l1_04",
+    "question": "Zavod kuniga 1 500 ta gisht ishlab chiqaradi. 6 kunda nechta?",
+    "correctAnswer": 9000,
+    "wrongAnswers": [
+      7500,
+      10500
+    ]
+  },
+  {
+    "id": "s3c1b17l1_05",
+    "question": "400 kg olma 20 ta yashikka teng joylandi. Bitta yashikda necha kg?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      380,
+      420
+    ]
+  },
+  {
+    "id": "s3c1b17l1_06",
+    "question": "Bir kitob 320 betdan iborat. Anvar 5 kun har kuni 40 betdan o'qidi. Yana necha bet qoldi?",
+    "correctAnswer": 120,
+    "wrongAnswers": [
+      200,
+      100
+    ]
+  },
+  {
+    "id": "s3c1b17l1_07",
+    "question": "12 ta bir xil quti 96 kg keladi. 5 ta quti necha kg?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      8,
+      48
+    ]
+  },
+  {
+    "id": "s3c1b17l1_08",
+    "question": "Avtobusda 42 joy bor. 5 ta avtobusda jami nechta joy?",
+    "correctAnswer": 210,
+    "wrongAnswers": [
+      47,
+      200
+    ]
+  },
+  {
+    "id": "s3c1b17l1_09",
+    "question": "Bir sonni o'yladim, 5 ga ko'paytirdim, 200 ni qo'shdim, 700 chiqdi. O'ylagan son qancha?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      500,
+      180
+    ]
+  },
+  {
+    "id": "s3c1b17l1_10",
+    "question": "Do'konga 5 t 200 kg un keldi, 2 t 800 kg si sotildi. Necha kg qoldi?",
+    "correctAnswer": 2400,
+    "wrongAnswers": [
+      3400,
+      2000
+    ]
+  }
+]

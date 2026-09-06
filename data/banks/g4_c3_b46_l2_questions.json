@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok46_level2_taq_01", "question": "5/8 kasri 1/2 dan katta yoki kichik?", "correctAnswer": "katta", "wrongAnswers": ["kichik", "teng"]},
+  {"id": "sinf4_chorak3_blok46_level2_taq_02", "question": "3/8 kasri 1/2 dan katta yoki kichik?", "correctAnswer": "kichik", "wrongAnswers": ["katta", "teng"]},
+  {"id": "sinf4_chorak3_blok46_level2_taq_03", "question": "Qaysi kasr 1 ga eng yaqin: 3/4, 7/8, 1/2?", "correctAnswer": "7/8", "wrongAnswers": ["3/4", "1/2"]},
+  {"id": "sinf4_chorak3_blok46_level2_taq_04", "question": "Aziz 1/3 kasrini 1/5 dan kichik dedi, chunki 3 kichik. Xatosi nimada?", "correctAnswer": "Maxraj kattalashsa bo'laklar kichrayadi: 1/3 > 1/5", "wrongAnswers": ["Xato yo'q", "1/3 = 1/5"]},
+  {"id": "sinf4_chorak3_blok46_level2_taq_05", "question": "2/4 va 1/2 kasrlarini taqqoslang.", "correctAnswer": "teng", "wrongAnswers": ["2/4 katta", "1/2 katta"]},
+  {"id": "sinf4_chorak3_blok46_level2_taq_06", "question": "Bir tortning 3/4 qismi, ikkinchisining 5/8 qismi qoldi. Qaysi tortdan ko'proq qoldi?", "correctAnswer": "birinchi (3/4)", "wrongAnswers": ["ikkinchi (5/8)", "teng"]},
+  {"id": "sinf4_chorak3_blok46_level2_taq_07", "question": "Qaysi kasr 1/2 dan kichik: 5/9, 4/9, 6/9?", "correctAnswer": "4/9", "wrongAnswers": ["5/9", "6/9"]},
+  {"id": "sinf4_chorak3_blok46_level2_taq_08", "question": "3/10 va 3/4 — qaysi biri katta?", "correctAnswer": "3/4", "wrongAnswers": ["3/10", "teng"]},
+  {"id": "sinf4_chorak3_blok46_level2_taq_09", "question": "1/2 dan katta bo'lgan kasrni tanlang: 2/5, 3/5, 1/5.", "correctAnswer": "3/5", "wrongAnswers": ["2/5", "1/5"]},
+  {"id": "sinf4_chorak3_blok46_level2_taq_10", "question": "Rost yoki yolg'on: 4/4 va 8/8 kasrlari teng (ikkalasi ham 1 ga teng).", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]}
+]

@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok22_level1_yak_01", "question": "48 000 sonida minglar xonasidagi raqam qaysi?", "correctAnswer": 8, "wrongAnswers": [4, 0]},
+  {"id": "sinf4_chorak1_blok22_level1_yak_02", "question": "1 soat necha minut?", "correctAnswer": 60, "wrongAnswers": [24, 100]},
+  {"id": "sinf4_chorak1_blok22_level1_yak_03", "question": "Tomoni 5 sm bo'lgan kvadratning perimetri necha sm?", "correctAnswer": 20, "wrongAnswers": [25, 10]},
+  {"id": "sinf4_chorak1_blok22_level1_yak_04", "question": "3, 5, 7 sonlarining o'rta arifmetigi nechi?", "correctAnswer": 5, "wrongAnswers": [15, 3]},
+  {"id": "sinf4_chorak1_blok22_level1_yak_05", "question": "630 soni 5 ga bo'linadimi?", "correctAnswer": "Ha", "wrongAnswers": ["Yo'q", "Faqat 3 ga bo'linadi"]},
+  {"id": "sinf4_chorak1_blok22_level1_yak_06", "question": "Quyidagilardan qaysi biri 24 ning bo'luvchisi?", "correctAnswer": 6, "wrongAnswers": [5, 7]},
+  {"id": "sinf4_chorak1_blok22_level1_yak_07", "question": "Parallel chiziqlar kesishadimi?", "correctAnswer": "Yo'q", "wrongAnswers": ["Ha", "Faqat bir marta"]},
+  {"id": "sinf4_chorak1_blok22_level1_yak_08", "question": "Ma'lumotlar: 4, 4, 7, 4. 4 raqamining chastotasi nechi?", "correctAnswer": 3, "wrongAnswers": [1, 4]},
+  {"id": "sinf4_chorak1_blok22_level1_yak_09", "question": "x + 5 = 12 tenglamaning yechimi nechi?", "correctAnswer": 7, "wrongAnswers": [17, 3]},
+  {"id": "sinf4_chorak1_blok22_level1_yak_10", "question": "A nuqta (2, 5) da joylashgan. Uning abssissasi (birinchi koordinatasi) nechi?", "correctAnswer": 2, "wrongAnswers": [5, 7]}
+]

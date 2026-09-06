@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b12l2_01",
+    "question": "46 + 39 = ?",
+    "correctAnswer": 85,
+    "wrongAnswers": [
+      75,
+      95
+    ]
+  },
+  {
+    "id": "s2c1b12l2_02",
+    "question": "57 + 28 = ?",
+    "correctAnswer": 85,
+    "wrongAnswers": [
+      75,
+      95
+    ]
+  },
+  {
+    "id": "s2c1b12l2_03",
+    "question": "68 + 24 = ?",
+    "correctAnswer": 92,
+    "wrongAnswers": [
+      82,
+      102
+    ]
+  },
+  {
+    "id": "s2c1b12l2_04",
+    "question": "39 + 47 = ?",
+    "correctAnswer": 86,
+    "wrongAnswers": [
+      76,
+      96
+    ]
+  },
+  {
+    "id": "s2c1b12l2_05",
+    "question": "75 + 19 = ?",
+    "correctAnswer": 94,
+    "wrongAnswers": [
+      84,
+      104
+    ]
+  },
+  {
+    "id": "s2c1b12l2_06",
+    "question": "26 + 66 = ?",
+    "correctAnswer": 92,
+    "wrongAnswers": [
+      82,
+      102
+    ]
+  },
+  {
+    "id": "s2c1b12l2_07",
+    "question": "Birinchi kun 38 ta, ikkinchi kun 27 ta nihol ekildi. Jami nechta?",
+    "correctAnswer": 65,
+    "wrongAnswers": [
+      55,
+      75
+    ]
+  },
+  {
+    "id": "s2c1b12l2_08",
+    "question": "Sinfda 24 ta o'g'il va 19 ta qiz bor. Jami nechta o'quvchi?",
+    "correctAnswer": 43,
+    "wrongAnswers": [
+      33,
+      53
+    ]
+  },
+  {
+    "id": "s2c1b12l2_09",
+    "question": "Taqqoslang: 29 + 43 __ 70",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s2c1b12l2_10",
+    "question": "Xatoni toping: 56 + 27 = 73. To'g'ri javob qancha?",
+    "correctAnswer": 83,
+    "wrongAnswers": [
+      73,
+      84
+    ]
+  }
+]

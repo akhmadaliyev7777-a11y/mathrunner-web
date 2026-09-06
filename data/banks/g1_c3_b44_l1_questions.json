@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b44l1_01",
+    "question": "Bog'da 15 ta olma, 12 ta nok daraxti bor. Jami nechta daraxt?",
+    "correctAnswer": 27,
+    "wrongAnswers": [
+      3,
+      30
+    ]
+  },
+  {
+    "id": "s1c3b44l1_02",
+    "question": "Kitobda 40 bet. Bola 18 betini o'qidi. Necha bet qoldi?",
+    "correctAnswer": 22,
+    "wrongAnswers": [
+      58,
+      21
+    ]
+  },
+  {
+    "id": "s1c3b44l1_03",
+    "question": "Anvarda 14 ta, Sardorda 9 ta marka. Anvarda nechtaga ko'p?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      23,
+      6
+    ]
+  },
+  {
+    "id": "s1c3b44l1_04",
+    "question": "10 ni 6 ga orttiring.",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      4,
+      60
+    ]
+  },
+  {
+    "id": "s1c3b44l1_05",
+    "question": "20 ni 8 ga kamaytiring.",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      28,
+      160
+    ]
+  },
+  {
+    "id": "s1c3b44l1_06",
+    "question": "Butun 30, bir qismi 12. Ikkinchi qismi qancha?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      42,
+      17
+    ]
+  },
+  {
+    "id": "s1c3b44l1_07",
+    "question": "(20 + 10) - 5 = ?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      35,
+      15
+    ]
+  },
+  {
+    "id": "s1c3b44l1_08",
+    "question": "2, 4, 6, ... — keyingi son qaysi?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      7,
+      10
+    ]
+  },
+  {
+    "id": "s1c3b44l1_09",
+    "question": "\"Qancha ko'p?\" savoli ayirish bilan yechiladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b44l1_10",
+    "question": "Xato: \"12 + 8\" masalaning javobi 4 deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      4,
+      16
+    ]
+  }
+]

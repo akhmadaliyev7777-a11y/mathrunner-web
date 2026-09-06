@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b8l2_01",
+    "question": "1 gektar necha kvadrat metr (m2)?",
+    "correctAnswer": 10000,
+    "wrongAnswers": [
+      1000,
+      100000
+    ]
+  },
+  {
+    "id": "s3c1b8l2_02",
+    "question": "3 ga necha m2?",
+    "correctAnswer": 30000,
+    "wrongAnswers": [
+      3000,
+      300000
+    ]
+  },
+  {
+    "id": "s3c1b8l2_03",
+    "question": "5 ga necha m2?",
+    "correctAnswer": 50000,
+    "wrongAnswers": [
+      5000,
+      500000
+    ]
+  },
+  {
+    "id": "s3c1b8l2_04",
+    "question": "7 ga necha m2?",
+    "correctAnswer": 70000,
+    "wrongAnswers": [
+      7000,
+      700000
+    ]
+  },
+  {
+    "id": "s3c1b8l2_05",
+    "question": "12 ga necha m2?",
+    "correctAnswer": 120000,
+    "wrongAnswers": [
+      12000,
+      1200000
+    ]
+  },
+  {
+    "id": "s3c1b8l2_06",
+    "question": "n = 5 bo'lsa, n * 6 ifodaning qiymati qancha?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      11,
+      25
+    ]
+  },
+  {
+    "id": "s3c1b8l2_07",
+    "question": "Birinchi qutida a ta, ikkinchisida b ta olma bor. a = 22, b = 26 bo'lsa, jami nechta olma?",
+    "correctAnswer": 48,
+    "wrongAnswers": [
+      572,
+      4
+    ]
+  },
+  {
+    "id": "s3c1b8l2_08",
+    "question": "5 ha 72 a maydonni 3 ga ko'paytiring.  (javobni arlarda: 1 ga = 100 a)",
+    "correctAnswer": 1716,
+    "wrongAnswers": [
+      1616,
+      17160
+    ]
+  },
+  {
+    "id": "s3c1b8l2_09",
+    "question": "10 ha necha m2?",
+    "correctAnswer": 100000,
+    "wrongAnswers": [
+      10000,
+      1000000
+    ]
+  },
+  {
+    "id": "s3c1b8l2_10",
+    "question": "Maydonning yuzi 8 ga. Bu necha m2?",
+    "correctAnswer": 80000,
+    "wrongAnswers": [
+      8000,
+      800000
+    ]
+  }
+]

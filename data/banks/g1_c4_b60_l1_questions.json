@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b60l1_01",
+    "question": "\"a + 5\" — bu qanday ifoda?",
+    "correctAnswer": "harfiy ifoda",
+    "wrongAnswers": [
+      "sonli ifoda",
+      "tenglama"
+    ]
+  },
+  {
+    "id": "s1c4b60l1_02",
+    "question": "\"7 + 3\" — bu qanday ifoda?",
+    "correctAnswer": "sonli ifoda",
+    "wrongAnswers": [
+      "harfiy ifoda",
+      "tenglama"
+    ]
+  },
+  {
+    "id": "s1c4b60l1_03",
+    "question": "Agar a = 4 bo'lsa, a + 6 ifodaning qiymati qancha?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      2,
+      46
+    ]
+  },
+  {
+    "id": "s1c4b60l1_04",
+    "question": "Agar b = 10 bo'lsa, b - 3 ifodaning qiymati qancha?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      13,
+      10
+    ]
+  },
+  {
+    "id": "s1c4b60l1_05",
+    "question": "Agar c = 20 bo'lsa, c + 15 ifodaning qiymati qancha?",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      5,
+      2015
+    ]
+  },
+  {
+    "id": "s1c4b60l1_06",
+    "question": "Harfiy ifodada harf o'rniga son qo'ysak, nima hosil bo'ladi?",
+    "correctAnswer": "sonli ifoda",
+    "wrongAnswers": [
+      "yangi harf",
+      "tenglama"
+    ]
+  },
+  {
+    "id": "s1c4b60l1_07",
+    "question": "\"m va 8 ning yig'indisi\" ifodasini yozing.",
+    "correctAnswer": "m + 8",
+    "wrongAnswers": [
+      "m - 8",
+      "8 - m"
+    ]
+  },
+  {
+    "id": "s1c4b60l1_08",
+    "question": "Agar k = 0 bo'lsa, k + 9 ifodaning qiymati qancha?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      0,
+      90
+    ]
+  },
+  {
+    "id": "s1c4b60l1_09",
+    "question": "a + 5 — bu harfiy ifoda.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b60l1_10",
+    "question": "Agar x = 6 bo'lsa, x + x ifodaning qiymati qancha?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      6,
+      66
+    ]
+  }
+]

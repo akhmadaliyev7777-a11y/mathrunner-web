@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b53l2_01",
+    "question": "Kvadrat perimetri 20 sm. Bir tomoni necha sm?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      16
+    ]
+  },
+  {
+    "id": "s1c4b53l2_02",
+    "question": "To'g'ri to'rtburchak: eni 4 sm, bo'yi 9 sm. Perimetri necha sm?",
+    "correctAnswer": 26,
+    "wrongAnswers": [
+      13,
+      36
+    ]
+  },
+  {
+    "id": "s1c4b53l2_03",
+    "question": "Muntazam beshburchak tomoni 3 sm. Perimetri necha sm?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      8,
+      18
+    ]
+  },
+  {
+    "id": "s1c4b53l2_04",
+    "question": "Uchburchak perimetri 24 sm. Ikki tomoni 8 sm va 9 sm. Uchinchisi necha sm?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      17,
+      41
+    ]
+  },
+  {
+    "id": "s1c4b53l2_05",
+    "question": "Kvadrat perimetri 32 sm. Bir tomoni necha sm?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      4,
+      16
+    ]
+  },
+  {
+    "id": "s1c4b53l2_06",
+    "question": "To'g'ri to'rtburchakning bo'yi 10 sm, eni 6 sm. Perimetri necha sm?",
+    "correctAnswer": 32,
+    "wrongAnswers": [
+      16,
+      60
+    ]
+  },
+  {
+    "id": "s1c4b53l2_07",
+    "question": "Taqqoslang: Tomoni 5 sm kvadrat perimetri __ 18 sm",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s1c4b53l2_08",
+    "question": "Tomonlari 7 sm, 7 sm, 7 sm, 7 sm bo'lgan shakl qanday nomlanadi?",
+    "correctAnswer": "kvadrat",
+    "wrongAnswers": [
+      "uchburchak",
+      "beshburchak"
+    ]
+  },
+  {
+    "id": "s1c4b53l2_09",
+    "question": "Kvadratning perimetri bir tomonini 4 marta olib topiladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b53l2_10",
+    "question": "Xato: tomoni 6 sm kvadrat perimetri 18 sm deyildi. To'g'ri perimetr necha sm?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      18,
+      12
+    ]
+  }
+]

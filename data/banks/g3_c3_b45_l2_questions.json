@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b45l2_01",
+    "question": "Doira ikkita teng bo'lakka bo'lindi. Bitta bo'lak doiraning qanday ulushi?  (1/2 = 1, 1/3 = 2, 1/4 = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b45l2_02",
+    "question": "Doiraning uchdan bir (1/3) ulushi — bu doirani nechta teng bo'lakka bo'lgandagi bittasi?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "s3c3b45l2_03",
+    "question": "Chorak — bu butunning nechinchi qismi?  (to'rtdan bir = 1, uchdan bir = 2, ikkidan bir = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b45l2_04",
+    "question": "Doira 4 ta teng bo'lakka bo'lindi, 3 tasi bo'yaldi. Bo'yalgan qism doiraning qanday ulushi?  (3/4 = 1, 1/4 = 2, 4/3 = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b45l2_05",
+    "question": "Yarim (1/2) qismni ikkiga bo'lsak, har biri butunning qanday ulushi bo'ladi?  (1/4 = 1, 1/2 = 2, 1/3 = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b45l2_06",
+    "question": "Doira qancha ko'p teng bo'lakka bo'linsa, har bir bo'lak (ulush) shuncha kichik bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c3b45l2_07",
+    "question": "Sektor — bu doiraning qanday qismi?  (ikki radius va yoy bilan chegaralangan qism = 1, butun doira = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b45l2_08",
+    "question": "Doira 6 teng sektorga bo'lindi. 2 tasi doiraning qanday ulushini tashkil qiladi?  (2/6 = 1, 1/6 = 2, 6/2 = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b45l2_09",
+    "question": "Butun doirani 1 deb olsak, uchdan bir ulush 1/3 deb yoziladi. To'rtdan bir qanday yoziladi?  (1/4 = 1, 4/1 = 2, 1/3 = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b45l2_10",
+    "question": "Doiraning yarmi va yana bir choragi bo'yaldi. Jami nechta chorak bo'yaldi?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  }
+]

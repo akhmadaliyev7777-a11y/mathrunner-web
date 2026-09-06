@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok18_level1_cham_01", "question": "38 ni eng yaqin o'nlikka yaxlitlang.", "correctAnswer": 40, "wrongAnswers": [30, 38]},
+  {"id": "sinf4_chorak1_blok18_level1_cham_02", "question": "72 ni eng yaqin o'nlikka yaxlitlang.", "correctAnswer": 70, "wrongAnswers": [80, 72]},
+  {"id": "sinf4_chorak1_blok18_level1_cham_03", "question": "45 ni eng yaqin o'nlikka yaxlitlang.", "correctAnswer": 50, "wrongAnswers": [40, 45]},
+  {"id": "sinf4_chorak1_blok18_level1_cham_04", "question": "Chamalang: 19 + 22 taxminan nechga teng?", "correctAnswer": 40, "wrongAnswers": [20, 60]},
+  {"id": "sinf4_chorak1_blok18_level1_cham_05", "question": "Chamalang: 58 − 31 taxminan nechga teng?", "correctAnswer": 30, "wrongAnswers": [90, 20]},
+  {"id": "sinf4_chorak1_blok18_level1_cham_06", "question": "Grafikda nuqta (2, 6) da joylashgan. Uning ordinatasi nechi?", "correctAnswer": 6, "wrongAnswers": [2, 8]},
+  {"id": "sinf4_chorak1_blok18_level1_cham_07", "question": "125 ni eng yaqin yuzlikka yaxlitlang.", "correctAnswer": 100, "wrongAnswers": [200, 130]},
+  {"id": "sinf4_chorak1_blok18_level1_cham_08", "question": "Chamalang: 41 × 2 taxminan nechga teng?", "correctAnswer": 80, "wrongAnswers": [40, 800]},
+  {"id": "sinf4_chorak1_blok18_level1_cham_09", "question": "Do'kondan 195 so'mlik va 210 so'mlik narsa olindi. Taxminan qancha to'lanadi?", "correctAnswer": 400, "wrongAnswers": [40, 4000]},
+  {"id": "sinf4_chorak1_blok18_level1_cham_10", "question": "63 ni eng yaqin o'nlikka yaxlitlang.", "correctAnswer": 60, "wrongAnswers": [70, 63]}
+]

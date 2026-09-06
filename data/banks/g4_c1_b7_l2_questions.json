@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok7_level2_yuza_01", "question": "Nodir: \"Tomonlari 6 sm va 2 sm, perimetr = 6 + 2 = 8 sm\" dedi. To'g'ri perimetr necha sm?", "correctAnswer": 16, "wrongAnswers": [8, 12]},
+  {"id": "sinf4_chorak1_blok7_level2_yuza_02", "question": "A to'g'ri to'rtburchak 5×4, B to'g'ri to'rtburchak 8×1. Qaysining perimetri kattaroq?", "correctAnswer": "ikkalasi teng", "wrongAnswers": ["A", "B"]},
+  {"id": "sinf4_chorak1_blok7_level2_yuza_03", "question": "A to'g'ri to'rtburchak 5×4, B to'g'ri to'rtburchak 8×1. Qaysining yuzasi kattaroq?", "correctAnswer": "A", "wrongAnswers": ["B", "ikkalasi teng"]},
+  {"id": "sinf4_chorak1_blok7_level2_yuza_04", "question": "Perimetri 12 sm bo'lgan to'g'ri to'rtburchakning tomonlari qanaqa bo'lishi MUMKIN emas?", "correctAnswer": "5 sm va 5 sm", "wrongAnswers": ["4 sm va 2 sm", "3 sm va 3 sm"]},
+  {"id": "sinf4_chorak1_blok7_level2_yuza_05", "question": "To'g'ri to'rtburchakning yuzasi 24 sm², bo'yi 6 sm. Eni necha sm?", "correctAnswer": 4, "wrongAnswers": [18, 12]},
+  {"id": "sinf4_chorak1_blok7_level2_yuza_06", "question": "Ortiqchasini top: qaysi shaklning perimetri boshqalardan farq qiladi? Kvadrat (tomoni 4), to'g'ri to'rtburchak (6×4), to'g'ri to'rtburchak (7×3).", "correctAnswer": "Kvadrat (tomoni 4)", "wrongAnswers": ["To'g'ri to'rtburchak (6×4)", "To'g'ri to'rtburchak (7×3)"]},
+  {"id": "sinf4_chorak1_blok7_level2_yuza_07", "question": "Xona poli 5 m × 4 m. 1 m² gilam 100 000 so'm. Butun polni qoplashga necha so'm kerak?", "correctAnswer": 2000000, "wrongAnswers": [900000, 1800000]},
+  {"id": "sinf4_chorak1_blok7_level2_yuza_08", "question": "Kvadratning tomonini 2 marta uzaytirsak, perimetri necha marta ortadi?", "correctAnswer": 2, "wrongAnswers": [4, 8]},
+  {"id": "sinf4_chorak1_blok7_level2_yuza_09", "question": "Kvadratning tomonini 2 marta uzaytirsak, yuzasi necha marta ortadi?", "correctAnswer": 4, "wrongAnswers": [2, 8]},
+  {"id": "sinf4_chorak1_blok7_level2_yuza_10", "question": "To'g'ri to'rtburchakning bo'yi 12 sm, eni 5 sm. Yuzasi bilan perimetri orasidagi farq (yuza − perimetr) necha?", "correctAnswer": 26, "wrongAnswers": [24, 60]}
+]

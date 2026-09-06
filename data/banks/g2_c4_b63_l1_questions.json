@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b63l1_01",
+    "question": "Bir qutida 8 ta ruchka. 5 ta qutida jami nechta ruchka?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      13,
+      3
+    ]
+  },
+  {
+    "id": "s2c4b63l1_02",
+    "question": "42 ta olma 6 ta savatga teng bo'lindi. Har savatda nechtadan?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      6,
+      36
+    ]
+  },
+  {
+    "id": "s2c4b63l1_03",
+    "question": "Bir sonni 3 ga ko'paytirdim, 24 chiqdi. Qaysi son?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      21,
+      27
+    ]
+  },
+  {
+    "id": "s2c4b63l1_04",
+    "question": "5 * 6 + 20 = ?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      30,
+      55
+    ]
+  },
+  {
+    "id": "s2c4b63l1_05",
+    "question": "(30 - 6) : 4 = ?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      24,
+      12
+    ]
+  },
+  {
+    "id": "s2c4b63l1_06",
+    "question": "x + 25 = 60 tenglamada x qancha?",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      85,
+      45
+    ]
+  },
+  {
+    "id": "s2c4b63l1_07",
+    "question": "9 * 4 = ?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      45,
+      13
+    ]
+  },
+  {
+    "id": "s2c4b63l1_08",
+    "question": "56 : 7 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      7,
+      9
+    ]
+  },
+  {
+    "id": "s2c4b63l1_09",
+    "question": "Qavs ichidagi amal birinchi bajariladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c4b63l1_10",
+    "question": "Bir bog'da 60 ta daraxt bor. Ularning nechtasi olcha ekanini toping.",
+    "correctAnswer": "Aniqlab bo'lmaydi",
+    "wrongAnswers": [
+      "Rost",
+      "Yolg'on"
+    ]
+  }
+]

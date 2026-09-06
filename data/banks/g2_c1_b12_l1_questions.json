@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b12l1_01",
+    "question": "28 + 14 = ?",
+    "correctAnswer": 42,
+    "wrongAnswers": [
+      32,
+      52
+    ]
+  },
+  {
+    "id": "s2c1b12l1_02",
+    "question": "47 + 25 = ?",
+    "correctAnswer": 72,
+    "wrongAnswers": [
+      62,
+      82
+    ]
+  },
+  {
+    "id": "s2c1b12l1_03",
+    "question": "36 + 38 = ?",
+    "correctAnswer": 74,
+    "wrongAnswers": [
+      64,
+      84
+    ]
+  },
+  {
+    "id": "s2c1b12l1_04",
+    "question": "53 + 29 = ?",
+    "correctAnswer": 82,
+    "wrongAnswers": [
+      72,
+      92
+    ]
+  },
+  {
+    "id": "s2c1b12l1_05",
+    "question": "65 + 17 = ?",
+    "correctAnswer": 82,
+    "wrongAnswers": [
+      72,
+      92
+    ]
+  },
+  {
+    "id": "s2c1b12l1_06",
+    "question": "44 + 46 = ?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      80,
+      100
+    ]
+  },
+  {
+    "id": "s2c1b12l1_07",
+    "question": "19 + 72 = ?",
+    "correctAnswer": 91,
+    "wrongAnswers": [
+      81,
+      101
+    ]
+  },
+  {
+    "id": "s2c1b12l1_08",
+    "question": "58 + 33 = ?",
+    "correctAnswer": 91,
+    "wrongAnswers": [
+      81,
+      101
+    ]
+  },
+  {
+    "id": "s2c1b12l1_09",
+    "question": "27 + 27 = ?",
+    "correctAnswer": 54,
+    "wrongAnswers": [
+      44,
+      64
+    ]
+  },
+  {
+    "id": "s2c1b12l1_10",
+    "question": "35 + 48 = ?",
+    "correctAnswer": 83,
+    "wrongAnswers": [
+      73,
+      93
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b16l2_01",
+    "question": "102 * 3 = ?",
+    "correctAnswer": 306,
+    "wrongAnswers": [
+      303,
+      336
+    ]
+  },
+  {
+    "id": "s3c1b16l2_02",
+    "question": "305 * 4 = ?",
+    "correctAnswer": 1220,
+    "wrongAnswers": [
+      1216,
+      1250
+    ]
+  },
+  {
+    "id": "s3c1b16l2_03",
+    "question": "407 * 5 = ?",
+    "correctAnswer": 2035,
+    "wrongAnswers": [
+      2030,
+      2065
+    ]
+  },
+  {
+    "id": "s3c1b16l2_04",
+    "question": "2 003 * 6 = ?",
+    "correctAnswer": 12018,
+    "wrongAnswers": [
+      12012,
+      12048
+    ]
+  },
+  {
+    "id": "s3c1b16l2_05",
+    "question": "Muntazam ko'pburchakning barcha tomonlari qanday bo'ladi?  (teng = 1, har xil = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c1b16l2_06",
+    "question": "Tomoni 8 cm bo'lgan muntazam 5-burchak (beshburchak) perimetri necha cm?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      13,
+      32
+    ]
+  },
+  {
+    "id": "s3c1b16l2_07",
+    "question": "Muntazam 6-burchakning perimetri 42 cm. Uning bir tomoni necha cm?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      6,
+      8
+    ]
+  },
+  {
+    "id": "s3c1b16l2_08",
+    "question": "Muntazam 4-burchak (kvadrat) tomoni 15 cm. Perimetri necha cm?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      45,
+      30
+    ]
+  },
+  {
+    "id": "s3c1b16l2_09",
+    "question": "Taqqoslang: Muntazam 3-burchak tomoni 10 cm perimetri __ muntazam 5-burchak tomoni 6 cm perimetri",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s3c1b16l2_10",
+    "question": "5 003 * 3 = ?",
+    "correctAnswer": 15009,
+    "wrongAnswers": [
+      15003,
+      15069
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b56l1_01",
+    "question": "Bir qutida 6 ta ruchka. 4 ta qutida jami nechta ruchka?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      10,
+      2
+    ]
+  },
+  {
+    "id": "s2c3b56l1_02",
+    "question": "24 ta olma 4 ta savatga teng bo'lindi. Har savatda nechtadan?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      5,
+      20
+    ]
+  },
+  {
+    "id": "s2c3b56l1_03",
+    "question": "5 ta stolda 3 tadan kitob. Jami nechta kitob?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      8,
+      2
+    ]
+  },
+  {
+    "id": "s2c3b56l1_04",
+    "question": "Bir bola 7 yoshda, akasi 3 marta katta. Aka necha yoshda?",
+    "correctAnswer": 21,
+    "wrongAnswers": [
+      10,
+      4
+    ]
+  },
+  {
+    "id": "s2c3b56l1_05",
+    "question": "36 ta shakar 6 ta bolaga teng bo'lindi. Har biriga nechtadan?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      5,
+      30
+    ]
+  },
+  {
+    "id": "s2c3b56l1_06",
+    "question": "8 ta qopda 5 tadan kilo un. Jami necha kilo?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      13,
+      3
+    ]
+  },
+  {
+    "id": "s2c3b56l1_07",
+    "question": "40 ta daftar 8 ta o'quvchiga teng bo'lindi. Har biriga nechtadan?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      32
+    ]
+  },
+  {
+    "id": "s2c3b56l1_08",
+    "question": "Bir hafta 7 kun. 4 haftada necha kun?",
+    "correctAnswer": 28,
+    "wrongAnswers": [
+      11,
+      3
+    ]
+  },
+  {
+    "id": "s2c3b56l1_09",
+    "question": "\"Teng bo'lindi\" so'zi ko'pincha bo'lish amalini bildiradi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b56l1_10",
+    "question": "Sinfda 24 ta o'quvchi. Ular nechta partaga o'tirganini toping.",
+    "correctAnswer": "Aniqlab bo'lmaydi",
+    "wrongAnswers": [
+      "Rost",
+      "Yolg'on"
+    ]
+  }
+]

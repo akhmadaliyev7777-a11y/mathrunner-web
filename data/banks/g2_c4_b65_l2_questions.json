@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b65l2_01",
+    "question": "200 * 3 = ?",
+    "correctAnswer": 600,
+    "wrongAnswers": [
+      60,
+      700
+    ]
+  },
+  {
+    "id": "s2c4b65l2_02",
+    "question": "300 * 2 = ?",
+    "correctAnswer": 600,
+    "wrongAnswers": [
+      60,
+      700
+    ]
+  },
+  {
+    "id": "s2c4b65l2_03",
+    "question": "150 * 4 = ?",
+    "correctAnswer": 600,
+    "wrongAnswers": [
+      60,
+      700
+    ]
+  },
+  {
+    "id": "s2c4b65l2_04",
+    "question": "250 * 4 = ?",
+    "correctAnswer": 1000,
+    "wrongAnswers": [
+      100,
+      1100
+    ]
+  },
+  {
+    "id": "s2c4b65l2_05",
+    "question": "120 * 5 = ?",
+    "correctAnswer": 600,
+    "wrongAnswers": [
+      60,
+      700
+    ]
+  },
+  {
+    "id": "s2c4b65l2_06",
+    "question": "400 * 2 = ?",
+    "correctAnswer": 800,
+    "wrongAnswers": [
+      80,
+      900
+    ]
+  },
+  {
+    "id": "s2c4b65l2_07",
+    "question": "100 * 9 = ?",
+    "correctAnswer": 900,
+    "wrongAnswers": [
+      90,
+      9000
+    ]
+  },
+  {
+    "id": "s2c4b65l2_08",
+    "question": "500 * 2 = ?",
+    "correctAnswer": 1000,
+    "wrongAnswers": [
+      100,
+      10000
+    ]
+  },
+  {
+    "id": "s2c4b65l2_09",
+    "question": "Bir qutida 200 ta mix. 5 ta qutida nechta?",
+    "correctAnswer": 1000,
+    "wrongAnswers": [
+      100,
+      250
+    ]
+  },
+  {
+    "id": "s2c4b65l2_10",
+    "question": "Xato: \"30 * 20 = 60\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 600,
+    "wrongAnswers": [
+      60,
+      6000
+    ]
+  }
+]

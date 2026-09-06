@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b48l1_01",
+    "question": "Massa o'lchov birligi qaysi?",
+    "correctAnswer": "kilogramm (kg)",
+    "wrongAnswers": [
+      "santimetr (sm)",
+      "litr (l)"
+    ]
+  },
+  {
+    "id": "s1c3b48l1_02",
+    "question": "Massani qaysi asbob bilan o'lchaymiz?",
+    "correctAnswer": "tarozi bilan",
+    "wrongAnswers": [
+      "chizg'ich bilan",
+      "stakan bilan"
+    ]
+  },
+  {
+    "id": "s1c3b48l1_03",
+    "question": "Bir qopda 20 kg un, boshqasida 15 kg. Jami necha kg?",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      5,
+      300
+    ]
+  },
+  {
+    "id": "s1c3b48l1_04",
+    "question": "Tarvuz 8 kg, qovun 3 kg. Tarvuz necha kg og'ir?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      11,
+      4
+    ]
+  },
+  {
+    "id": "s1c3b48l1_05",
+    "question": "10 kg olmadan 4 kg sotildi. Necha kg qoldi?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      14,
+      5
+    ]
+  },
+  {
+    "id": "s1c3b48l1_06",
+    "question": "Qaysi og'irroq: 5 kg yoki 8 kg?",
+    "correctAnswer": "8 kg",
+    "wrongAnswers": [
+      "5 kg",
+      "teng"
+    ]
+  },
+  {
+    "id": "s1c3b48l1_07",
+    "question": "2 ta qopda 12 kg dan un bor. Jami necha kg? (12 + 12)",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      14,
+      10
+    ]
+  },
+  {
+    "id": "s1c3b48l1_08",
+    "question": "Taqqoslang: 7 kg __ 9 kg",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c3b48l1_09",
+    "question": "25 kg + 10 kg = ? kg",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      15,
+      350
+    ]
+  },
+  {
+    "id": "s1c3b48l1_10",
+    "question": "Xato: \"20 kg - 5 kg = 25 kg\" deyildi. To'g'ri javob necha kg?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      25,
+      16
+    ]
+  }
+]

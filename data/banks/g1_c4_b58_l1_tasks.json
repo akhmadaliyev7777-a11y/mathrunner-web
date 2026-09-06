@@ -1,0 +1,112 @@
+[
+  {
+    "id": "g1c4b58l1_nf_01",
+    "prompt": "Bu yoyilma qaysi hajmli shaklni hosil qiladi?",
+    "hint": "Kubning 6 ta bir xil kvadrat yog'i bor",
+    "target": "cube",
+    "options": [
+      "cube",
+      "cuboid",
+      "cylinder"
+    ]
+  },
+  {
+    "id": "g1c4b58l1_nf_02",
+    "prompt": "Bu yoyilma qaysi hajmli shaklni hosil qiladi?",
+    "hint": "Kuboidning (parallelepiped) qarama-qarshi yoqlari teng to'rtburchak",
+    "target": "cuboid",
+    "options": [
+      "cuboid",
+      "cube",
+      "cone"
+    ]
+  },
+  {
+    "id": "g1c4b58l1_nf_03",
+    "prompt": "Bu yoyilma qaysi hajmli shaklni hosil qiladi?",
+    "hint": "Kubning 6 ta bir xil kvadrat yog'i bor",
+    "target": "cube",
+    "options": [
+      "cylinder",
+      "cube",
+      "squarePyramid"
+    ]
+  },
+  {
+    "id": "g1c4b58l1_nf_04",
+    "prompt": "Bu yoyilma qaysi hajmli shaklni hosil qiladi?",
+    "hint": "Kuboidning (parallelepiped) qarama-qarshi yoqlari teng to'rtburchak",
+    "target": "cuboid",
+    "options": [
+      "cone",
+      "cuboid",
+      "cube"
+    ]
+  },
+  {
+    "id": "g1c4b58l1_nf_05",
+    "prompt": "Bu yoyilma qaysi hajmli shaklni hosil qiladi?",
+    "hint": "Kubning 6 ta bir xil kvadrat yog'i bor",
+    "target": "cube",
+    "options": [
+      "cube",
+      "cuboid",
+      "triangularPrism"
+    ]
+  },
+  {
+    "id": "g1c4b58l1_nf_06",
+    "prompt": "Bu yoyilma qaysi hajmli shaklni hosil qiladi?",
+    "hint": "Kuboidning (parallelepiped) qarama-qarshi yoqlari teng to'rtburchak",
+    "target": "cuboid",
+    "options": [
+      "cuboid",
+      "cylinder",
+      "cube"
+    ]
+  },
+  {
+    "id": "g1c4b58l1_nf_07",
+    "prompt": "Bu yoyilma qaysi hajmli shaklni hosil qiladi?",
+    "hint": "Kubning 6 ta bir xil kvadrat yog'i bor",
+    "target": "cube",
+    "options": [
+      "squarePyramid",
+      "cube",
+      "cuboid"
+    ]
+  },
+  {
+    "id": "g1c4b58l1_nf_08",
+    "prompt": "Bu yoyilma qaysi hajmli shaklni hosil qiladi?",
+    "hint": "Kuboidning (parallelepiped) qarama-qarshi yoqlari teng to'rtburchak",
+    "target": "cuboid",
+    "options": [
+      "cube",
+      "cuboid",
+      "cone"
+    ]
+  },
+  {
+    "id": "g1c4b58l1_nf_09",
+    "prompt": "Bu yoyilma qaysi hajmli shaklni hosil qiladi?",
+    "hint": "Kubning 6 ta bir xil kvadrat yog'i bor",
+    "target": "cube",
+    "options": [
+      "cube",
+      "cylinder",
+      "cuboid"
+    ]
+  },
+  {
+    "id": "g1c4b58l1_nf_10",
+    "prompt": "Bu yoyilma qaysi hajmli shaklni hosil qiladi?",
+    "hint": "Kuboidning (parallelepiped) qarama-qarshi yoqlari teng to'rtburchak",
+    "target": "cuboid",
+    "options": [
+      "cuboid",
+      "cube",
+      "cylinder"
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "g3c3b43l1_net_01",
+    "prompt": "Bu fazoviy shaklning yoyilmasi qaysi?",
+    "hint": "Kub 6 ta kvadratdan, parallelepiped 6 ta to'rtburchakdan iborat",
+    "target": "cube",
+    "options": [
+      "cube",
+      "squarePyramid",
+      "cylinder"
+    ]
+  },
+  {
+    "id": "g3c3b43l1_net_02",
+    "prompt": "Bu fazoviy shaklning yoyilmasi qaysi?",
+    "hint": "Kub 6 ta kvadratdan, parallelepiped 6 ta to'rtburchakdan iborat",
+    "target": "cuboid",
+    "options": [
+      "cuboid",
+      "cube",
+      "cone"
+    ]
+  },
+  {
+    "id": "g3c3b43l1_net_03",
+    "prompt": "Bu fazoviy shaklning yoyilmasi qaysi?",
+    "hint": "Kub 6 ta kvadratdan, parallelepiped 6 ta to'rtburchakdan iborat",
+    "target": "cube",
+    "options": [
+      "cone",
+      "cube",
+      "triangularPrism"
+    ]
+  },
+  {
+    "id": "g3c3b43l1_net_04",
+    "prompt": "Bu fazoviy shaklning yoyilmasi qaysi?",
+    "hint": "Kub 6 ta kvadratdan, parallelepiped 6 ta to'rtburchakdan iborat",
+    "target": "cuboid",
+    "options": [
+      "cylinder",
+      "squarePyramid",
+      "cuboid"
+    ]
+  },
+  {
+    "id": "g3c3b43l1_net_05",
+    "prompt": "Bu fazoviy shaklning yoyilmasi qaysi?",
+    "hint": "Kub 6 ta kvadratdan, parallelepiped 6 ta to'rtburchakdan iborat",
+    "target": "cube",
+    "options": [
+      "cube",
+      "cuboid",
+      "cylinder"
+    ]
+  },
+  {
+    "id": "g3c3b43l1_net_06",
+    "prompt": "Bu fazoviy shaklning yoyilmasi qaysi?",
+    "hint": "Kub 6 ta kvadratdan, parallelepiped 6 ta to'rtburchakdan iborat",
+    "target": "cuboid",
+    "options": [
+      "cuboid",
+      "triangularPrism",
+      "cube"
+    ]
+  },
+  {
+    "id": "g3c3b43l1_net_07",
+    "prompt": "Bu fazoviy shaklning yoyilmasi qaysi?",
+    "hint": "Kub 6 ta kvadratdan, parallelepiped 6 ta to'rtburchakdan iborat",
+    "target": "cube",
+    "options": [
+      "squarePyramid",
+      "cone",
+      "cube"
+    ]
+  },
+  {
+    "id": "g3c3b43l1_net_08",
+    "prompt": "Bu fazoviy shaklning yoyilmasi qaysi?",
+    "hint": "Kub 6 ta kvadratdan, parallelepiped 6 ta to'rtburchakdan iborat",
+    "target": "cuboid",
+    "options": [
+      "cube",
+      "cuboid",
+      "cone"
+    ]
+  },
+  {
+    "id": "g3c3b43l1_net_09",
+    "prompt": "Bu fazoviy shaklning yoyilmasi qaysi?",
+    "hint": "Kub 6 ta kvadratdan, parallelepiped 6 ta to'rtburchakdan iborat",
+    "target": "cube",
+    "options": [
+      "cube",
+      "cylinder",
+      "squarePyramid"
+    ]
+  },
+  {
+    "id": "g3c3b43l1_net_10",
+    "prompt": "Bu fazoviy shaklning yoyilmasi qaysi?",
+    "hint": "Kub 6 ta kvadratdan, parallelepiped 6 ta to'rtburchakdan iborat",
+    "target": "cuboid",
+    "options": [
+      "triangularPrism",
+      "cuboid",
+      "cube"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b34l2_01",
+    "question": "Stol usti — yassi sirtga misol bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b34l2_02",
+    "question": "Koptok (shar) sirti yassi sirt hisoblanadi.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b34l2_03",
+    "question": "Tekislik hamma tomonga cheksiz davom etadi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b34l2_04",
+    "question": "Quyidagilardan qaysi biri yassi sirt?",
+    "correctAnswer": "devor yuzasi",
+    "wrongAnswers": [
+      "olma",
+      "globus"
+    ]
+  },
+  {
+    "id": "s2c3b34l2_05",
+    "question": "Daftar varag'i qaysi geometrik tushunchaga yaqin?",
+    "correctAnswer": "tekislik bo'lagi",
+    "wrongAnswers": [
+      "kesma",
+      "nur"
+    ]
+  },
+  {
+    "id": "s2c3b34l2_06",
+    "question": "Kub nechta yassi sirt (yoq) bilan chegaralangan?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      4,
+      8
+    ]
+  },
+  {
+    "id": "s2c3b34l2_07",
+    "question": "Tekislikda yotgan 4 ta nuqta bilan chizilgan yopiq siniq chiziq qanday shakl?",
+    "correctAnswer": "to'rtburchak",
+    "wrongAnswers": [
+      "uchburchak",
+      "kesma"
+    ]
+  },
+  {
+    "id": "s2c3b34l2_08",
+    "question": "Doska yuzasida chizilgan chiziqlar qayerda yotadi?",
+    "correctAnswer": "tekislikda",
+    "wrongAnswers": [
+      "fazoda",
+      "nurda"
+    ]
+  },
+  {
+    "id": "s2c3b34l2_09",
+    "question": "Ikki tekislik kesishsa, kesishmasi nima bo'ladi?",
+    "correctAnswer": "to'g'ri chiziq",
+    "wrongAnswers": [
+      "nuqta",
+      "aylana"
+    ]
+  },
+  {
+    "id": "s2c3b34l2_10",
+    "question": "Suvning tinch yuzasi nimaga o'xshaydi?",
+    "correctAnswer": "yassi sirtga",
+    "wrongAnswers": [
+      "egri chiziqqa",
+      "nurga"
+    ]
+  }
+]

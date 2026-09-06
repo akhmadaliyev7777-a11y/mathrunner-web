@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b41l2_01",
+    "question": "6 * 4 = 24 ifodada 24 nima deb ataladi?",
+    "correctAnswer": "ko'paytma",
+    "wrongAnswers": [
+      "ko'paytuvchi",
+      "yig'indi"
+    ]
+  },
+  {
+    "id": "s2c3b41l2_02",
+    "question": "8 * 2 ifodada 8 va 2 nima deb ataladi?",
+    "correctAnswer": "ko'paytuvchilar",
+    "wrongAnswers": [
+      "qo'shiluvchilar",
+      "ayiruvchilar"
+    ]
+  },
+  {
+    "id": "s2c3b41l2_03",
+    "question": "7 * 5 = 5 * 7 tenglik qaysi xossani bildiradi?",
+    "correctAnswer": "o'rin almashtirish xossasi",
+    "wrongAnswers": [
+      "guruhlash xossasi",
+      "taqsimot xossasi"
+    ]
+  },
+  {
+    "id": "s2c3b41l2_04",
+    "question": "3 * 8 = 24 bo'lsa, 8 * 3 nechaga teng?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      11,
+      21
+    ]
+  },
+  {
+    "id": "s2c3b41l2_05",
+    "question": "9 * 2 = 18 bo'lsa, 2 * 9 nechaga teng?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      11,
+      7
+    ]
+  },
+  {
+    "id": "s2c3b41l2_06",
+    "question": "Ko'paytuvchilarning o'rnini almashtirsak, ko'paytma o'zgarmaydi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b41l2_07",
+    "question": "6 * 4 va 4 * 6 ning natijalari har xil.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b41l2_08",
+    "question": "5 * 4 ko'paytmani qo'shish orqali hisoblang (5+5+5+5).",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      9,
+      25
+    ]
+  },
+  {
+    "id": "s2c3b41l2_09",
+    "question": "2 * 10 nechaga teng?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      12,
+      10
+    ]
+  },
+  {
+    "id": "s2c3b41l2_10",
+    "question": "Xato: \"4 * 5 = 9\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      9,
+      45
+    ]
+  }
+]

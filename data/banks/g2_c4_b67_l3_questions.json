@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b67l3_01",
+    "question": "2 ta bog'da 12 tadan olma va 8 tadan nok daraxti. Jami nechta daraxt? (12 + 8) * 2",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      20,
+      32
+    ]
+  },
+  {
+    "id": "s2c4b67l3_02",
+    "question": "3 ta mashinada 20 tadan yashik olma va 5 tadan yashik nok. Jami nechta yashik? (20 + 5) * 3",
+    "correctAnswer": 75,
+    "wrongAnswers": [
+      25,
+      60
+    ]
+  },
+  {
+    "id": "s2c4b67l3_03",
+    "question": "Sinfda 4 qator. Har qatorda 6 o'g'il va 4 qiz. Jami nechta o'quvchi?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      10,
+      24
+    ]
+  },
+  {
+    "id": "s2c4b67l3_04",
+    "question": "Bir kunda 25 ta katta va 15 ta kichik non yopiladi. 5 kunda jami nechta?",
+    "correctAnswer": 200,
+    "wrongAnswers": [
+      40,
+      125
+    ]
+  },
+  {
+    "id": "s2c4b67l3_05",
+    "question": "(30 + 20) * 4 = ?",
+    "correctAnswer": 200,
+    "wrongAnswers": [
+      50,
+      120
+    ]
+  },
+  {
+    "id": "s2c4b67l3_06",
+    "question": "16 * 4 = ?",
+    "correctAnswer": 64,
+    "wrongAnswers": [
+      54,
+      74
+    ]
+  },
+  {
+    "id": "s2c4b67l3_07",
+    "question": "(100 + 50) * 2 = ?",
+    "correctAnswer": 300,
+    "wrongAnswers": [
+      150,
+      250
+    ]
+  },
+  {
+    "id": "s2c4b67l3_08",
+    "question": "19 * 5 = ?",
+    "correctAnswer": 95,
+    "wrongAnswers": [
+      85,
+      105
+    ]
+  },
+  {
+    "id": "s2c4b67l3_09",
+    "question": "Xato: \"(10 + 5) * 4 = 45\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      45,
+      19
+    ]
+  },
+  {
+    "id": "s2c4b67l3_10",
+    "question": "14 * 3 = 10 * 3 + 4 * 3.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

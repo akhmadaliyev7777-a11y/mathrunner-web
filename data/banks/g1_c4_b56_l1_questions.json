@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b56l1_01",
+    "question": "Shaklning chegarasi qanday chiziq bilan beriladi?",
+    "correctAnswer": "yopiq chiziq",
+    "wrongAnswers": [
+      "ochiq chiziq",
+      "nuqta"
+    ]
+  },
+  {
+    "id": "s1c4b56l1_02",
+    "question": "Shaklning ichki qismi qanday ataladi?",
+    "correctAnswer": "soha",
+    "wrongAnswers": [
+      "chegara",
+      "burchak"
+    ]
+  },
+  {
+    "id": "s1c4b56l1_03",
+    "question": "Ikki shakl ustma-ust tushganda to'liq mos kelsa, ular ...",
+    "correctAnswer": "teng shakllar",
+    "wrongAnswers": [
+      "har xil shakllar",
+      "simmetrik"
+    ]
+  },
+  {
+    "id": "s1c4b56l1_04",
+    "question": "\"Tangram\" nima?",
+    "correctAnswer": "qismlardan shakl tuzish o'yini",
+    "wrongAnswers": [
+      "o'lchov asbobi",
+      "geometrik teorema"
+    ]
+  },
+  {
+    "id": "s1c4b56l1_05",
+    "question": "2 ta bir xil kvadrat ustma-ust qo'yilsa, ular ...",
+    "correctAnswer": "teng",
+    "wrongAnswers": [
+      "har xil",
+      "biri katta"
+    ]
+  },
+  {
+    "id": "s1c4b56l1_06",
+    "question": "Bir kvadratni 2 ta teng uchburchakka bo'lish mumkinmi?",
+    "correctAnswer": "ha",
+    "wrongAnswers": [
+      "yo'q",
+      "faqat katta kvadratni"
+    ]
+  },
+  {
+    "id": "s1c4b56l1_07",
+    "question": "Teng shakllarning tomonlari va burchaklari mos ravishda teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b56l1_08",
+    "question": "Yopiq chiziq bilan chegaralangan qism qanday ataladi?",
+    "correctAnswer": "soha (ichki qism)",
+    "wrongAnswers": [
+      "chegara",
+      "tashqi qism"
+    ]
+  },
+  {
+    "id": "s1c4b56l1_09",
+    "question": "4 ta bir xil uchburchakdan bitta katta uchburchak tuzish mumkinmi?",
+    "correctAnswer": "ha",
+    "wrongAnswers": [
+      "yo'q",
+      "faqat 2 tasidan"
+    ]
+  },
+  {
+    "id": "s1c4b56l1_10",
+    "question": "Ikki teng to'g'ri to'rtburchakning perimetri ...",
+    "correctAnswer": "teng",
+    "wrongAnswers": [
+      "har xil",
+      "biri katta"
+    ]
+  }
+]

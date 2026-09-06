@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b4l1_01",
+    "question": "1 dm necha sm?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      1,
+      100
+    ]
+  },
+  {
+    "id": "s2c1b4l1_02",
+    "question": "3 dm necha sm?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      3,
+      13
+    ]
+  },
+  {
+    "id": "s2c1b4l1_03",
+    "question": "1 m necha sm?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      10,
+      1000
+    ]
+  },
+  {
+    "id": "s2c1b4l1_04",
+    "question": "1 m necha dm?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      100,
+      1
+    ]
+  },
+  {
+    "id": "s2c1b4l1_05",
+    "question": "50 sm necha dm?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      50,
+      500
+    ]
+  },
+  {
+    "id": "s2c1b4l1_06",
+    "question": "2 m necha dm?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      2,
+      200
+    ]
+  },
+  {
+    "id": "s2c1b4l1_07",
+    "question": "1 soat necha minut?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      100,
+      6
+    ]
+  },
+  {
+    "id": "s2c1b4l1_08",
+    "question": "1 sutka necha soat?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      12,
+      60
+    ]
+  },
+  {
+    "id": "s2c1b4l1_09",
+    "question": "Taqqoslang: 4 dm __ 40 sm",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s2c1b4l1_10",
+    "question": "Taqqoslang: 1 m __ 90 sm",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  }
+]

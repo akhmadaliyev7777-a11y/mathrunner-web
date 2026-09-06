@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok9_level3_alomat_01", "question": "716 soni 4 ga bo'linadimi?", "correctAnswer": "Ha", "wrongAnswers": ["Yo'q", "Faqat 2 ga bo'linadi"]},
+  {"id": "sinf4_chorak1_blok9_level3_alomat_02", "question": "534 soni 4 ga bo'linadimi?", "correctAnswer": "Yo'q", "wrongAnswers": ["Ha", "Ha, chunki u juft"]},
+  {"id": "sinf4_chorak1_blok9_level3_alomat_03", "question": "Quyidagilardan qaysi son 4 ga bo'linadi?", "correctAnswer": 128, "wrongAnswers": [114, 150]},
+  {"id": "sinf4_chorak1_blok9_level3_alomat_04", "question": "Qaysi son ham 3 ga, ham 4 ga bo'linadi?", "correctAnswer": 24, "wrongAnswers": [16, 18]},
+  {"id": "sinf4_chorak1_blok9_level3_alomat_05", "question": "51☐ ko'rinishidagi son 3 ga bo'linishi uchun ☐ o'rniga qaysi raqamni qo'yish mumkin?", "correctAnswer": 3, "wrongAnswers": [1, 5]},
+  {"id": "sinf4_chorak1_blok9_level3_alomat_06", "question": "Ortiqchasini top: qaysi son 5 ga bo'linmaydi? 40, 55, 62, 90.", "correctAnswer": 62, "wrongAnswers": [55, 90]},
+  {"id": "sinf4_chorak1_blok9_level3_alomat_07", "question": "Aziz: \"234 soni 4 ga bo'linadi, chunki u juft\" dedi. To'g'rimi?", "correctAnswer": "Yo'q, 34 soni 4 ga bo'linmaydi", "wrongAnswers": ["Ha, to'g'ri", "Ha, chunki 2+3+4 = 9"]},
+  {"id": "sinf4_chorak1_blok9_level3_alomat_08", "question": "Qaysi son 2 ga bo'linadi, lekin 4 ga bo'linmaydi?", "correctAnswer": 26, "wrongAnswers": [24, 28]},
+  {"id": "sinf4_chorak1_blok9_level3_alomat_09", "question": "☐34 ko'rinishidagi son 3 ga bo'linsin. ☐ ning eng kichik qiymati (0 dan boshqa) qaysi?", "correctAnswer": 2, "wrongAnswers": [1, 3]},
+  {"id": "sinf4_chorak1_blok9_level3_alomat_10", "question": "Qaysi son bir vaqtda 2 ga, 5 ga va 10 ga bo'linadi?", "correctAnswer": 340, "wrongAnswers": [325, 344]}
+]

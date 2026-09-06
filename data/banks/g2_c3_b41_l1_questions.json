@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b41l1_01",
+    "question": "3 + 3 + 3 + 3 yig'indini ko'paytirish bilan yozing va hisoblang.",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      7,
+      9
+    ]
+  },
+  {
+    "id": "s2c3b41l1_02",
+    "question": "5 + 5 + 5 yig'indini ko'paytirish bilan yozing va hisoblang.",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s2c3b41l1_03",
+    "question": "2 + 2 + 2 + 2 + 2 + 2 yig'indini ko'paytirish bilan yozing va hisoblang.",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s2c3b41l1_04",
+    "question": "4 + 4 + 4 + 4 + 4 yig'indini ko'paytirish bilan yozing va hisoblang.",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      9,
+      16
+    ]
+  },
+  {
+    "id": "s2c3b41l1_05",
+    "question": "6 + 6 yig'indini ko'paytirish bilan yozing va hisoblang.",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      8,
+      6
+    ]
+  },
+  {
+    "id": "s2c3b41l1_06",
+    "question": "7 + 7 + 7 yig'indini ko'paytirish bilan yozing va hisoblang.",
+    "correctAnswer": 21,
+    "wrongAnswers": [
+      10,
+      14
+    ]
+  },
+  {
+    "id": "s2c3b41l1_07",
+    "question": "10 + 10 + 10 + 10 yig'indini ko'paytirish bilan yozing va hisoblang.",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      14,
+      30
+    ]
+  },
+  {
+    "id": "s2c3b41l1_08",
+    "question": "8 + 8 yig'indini ko'paytirish bilan yozing va hisoblang.",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      10,
+      8
+    ]
+  },
+  {
+    "id": "s2c3b41l1_09",
+    "question": "\"5 ni 3 marta olish\" ni qanday yozamiz?",
+    "correctAnswer": "5 * 3",
+    "wrongAnswers": [
+      "5 + 3",
+      "5 - 3"
+    ]
+  },
+  {
+    "id": "s2c3b41l1_10",
+    "question": "4 * 3 ko'paytmani qo'shish bilan yozing.",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      7,
+      43
+    ]
+  }
+]

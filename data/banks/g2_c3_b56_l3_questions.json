@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b56l3_01",
+    "question": "7 * 6 = ?",
+    "correctAnswer": 42,
+    "wrongAnswers": [
+      35,
+      48
+    ]
+  },
+  {
+    "id": "s2c3b56l3_02",
+    "question": "8 * 9 = ?",
+    "correctAnswer": 72,
+    "wrongAnswers": [
+      64,
+      81
+    ]
+  },
+  {
+    "id": "s2c3b56l3_03",
+    "question": "4 * 8 = ?",
+    "correctAnswer": 32,
+    "wrongAnswers": [
+      28,
+      40
+    ]
+  },
+  {
+    "id": "s2c3b56l3_04",
+    "question": "9 * 5 = ?",
+    "correctAnswer": 45,
+    "wrongAnswers": [
+      36,
+      50
+    ]
+  },
+  {
+    "id": "s2c3b56l3_05",
+    "question": "48 : 6 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      9,
+      7
+    ]
+  },
+  {
+    "id": "s2c3b56l3_06",
+    "question": "56 : 7 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      9,
+      7
+    ]
+  },
+  {
+    "id": "s2c3b56l3_07",
+    "question": "81 : 9 = ?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      10,
+      8
+    ]
+  },
+  {
+    "id": "s2c3b56l3_08",
+    "question": "64 : 8 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      9,
+      7
+    ]
+  },
+  {
+    "id": "s2c3b56l3_09",
+    "question": "Bir sonni 6 ga ko'paytirdim, 54 chiqdi. Qaysi son?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      48
+    ]
+  },
+  {
+    "id": "s2c3b56l3_10",
+    "question": "45 : 5 amalni tekshiring: 9 * 5 nechaga teng?",
+    "correctAnswer": 45,
+    "wrongAnswers": [
+      40,
+      50
+    ]
+  }
+]

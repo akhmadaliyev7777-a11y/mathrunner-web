@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b25l2_01",
+    "question": "648 000 000 : 8 = ?",
+    "correctAnswer": 81000000,
+    "wrongAnswers": [
+      8100000,
+      810000000
+    ]
+  },
+  {
+    "id": "s3c2b25l2_02",
+    "question": "175 000 : 700 = ?",
+    "correctAnswer": 250,
+    "wrongAnswers": [
+      25,
+      2500
+    ]
+  },
+  {
+    "id": "s3c2b25l2_03",
+    "question": "82 600 000 : 7 = ?",
+    "correctAnswer": 11800000,
+    "wrongAnswers": [
+      1180000,
+      118000000
+    ]
+  },
+  {
+    "id": "s3c2b25l2_04",
+    "question": "3 200 000 : 80 = ?",
+    "correctAnswer": 40000,
+    "wrongAnswers": [
+      4000,
+      400000
+    ]
+  },
+  {
+    "id": "s3c2b25l2_05",
+    "question": "12 000 : 600 = 120 : 6 = ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      2,
+      200
+    ]
+  },
+  {
+    "id": "s3c2b25l2_06",
+    "question": "4 500 : 900 = ?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      50,
+      45
+    ]
+  },
+  {
+    "id": "s3c2b25l2_07",
+    "question": "Yaxlit sonlarni bo'lishda bo'linuvchi va bo'luvchidan bir xil sondagi nollarni qisqartirsa bo'ladi.  (Rost = 1, Yolg'on = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c2b25l2_08",
+    "question": "A4 qog'ozni teng ikkiga bo'lsak, qaysi o'lcham hosil bo'ladi?  (A5 = 1, A3 = 2, A6 = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c2b25l2_09",
+    "question": "63 000 : 700 = ?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      9,
+      900
+    ]
+  },
+  {
+    "id": "s3c2b25l2_10",
+    "question": "240 000 : 800 = ?",
+    "correctAnswer": 300,
+    "wrongAnswers": [
+      30,
+      3000
+    ]
+  }
+]

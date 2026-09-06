@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok57_level2_foiz_01", "question": "50% ning oddiy kasr shakli qanday?", "correctAnswer": "1/2", "wrongAnswers": ["1/5", "5/1"]},
+  {"id": "sinf4_chorak3_blok57_level2_foiz_02", "question": "25% ning oddiy kasr shakli qanday?", "correctAnswer": "1/4", "wrongAnswers": ["1/25", "4/1"]},
+  {"id": "sinf4_chorak3_blok57_level2_foiz_03", "question": "100 so'mning 10% i nechi?", "correctAnswer": 10, "wrongAnswers": [90, 100]},
+  {"id": "sinf4_chorak3_blok57_level2_foiz_04", "question": "200 ning 50% i nechi?", "correctAnswer": 100, "wrongAnswers": [50, 400]},
+  {"id": "sinf4_chorak3_blok57_level2_foiz_05", "question": "1% — bu butunning necha qismi?", "correctAnswer": "1/100", "wrongAnswers": ["1/10", "1/1000"]},
+  {"id": "sinf4_chorak3_blok57_level2_foiz_06", "question": "60 ta o'quvchining 100% i — bu nechta o'quvchi?", "correctAnswer": 60, "wrongAnswers": [100, 6]},
+  {"id": "sinf4_chorak3_blok57_level2_foiz_07", "question": "Bir sinfda 25 o'quvchi bor, 20% i a'lochi. Nechta a'lochi bor?", "correctAnswer": 5, "wrongAnswers": [20, 4]},
+  {"id": "sinf4_chorak3_blok57_level2_foiz_08", "question": "40 kg ning 25% i necha kg?", "correctAnswer": 10, "wrongAnswers": [4, 100]},
+  {"id": "sinf4_chorak3_blok57_level2_foiz_09", "question": "Aziz 100 ning 30% ini topish uchun 100 × 30 = 3000 dedi. Xatosi nimada?", "correctAnswer": "100 ni 100 ga bo'lib, 30 ga ko'paytirish kerak: 100 : 100 × 30 = 30", "wrongAnswers": ["Xato yo'q", "100 + 30 = 130"]},
+  {"id": "sinf4_chorak3_blok57_level2_foiz_10", "question": "50% + 50% necha foizga teng?", "correctAnswer": 100, "wrongAnswers": [50, 25]}
+]

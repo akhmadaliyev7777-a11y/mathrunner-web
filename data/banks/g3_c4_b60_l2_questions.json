@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b60l2_01",
+    "question": "Xarid 152 000 so'm bo'ldi. Xaridor 200 000 so'm berdi. Qaytim qancha?",
+    "correctAnswer": 48000,
+    "wrongAnswers": [
+      42000,
+      52000
+    ]
+  },
+  {
+    "id": "s3c4b60l2_02",
+    "question": "Katta pirog va 4 ta kulcha uchun 152 000 so'm to'landi. Pirog 120 000 so'm. Bitta kulcha qancha?",
+    "correctAnswer": 8000,
+    "wrongAnswers": [
+      32000,
+      7000
+    ]
+  },
+  {
+    "id": "s3c4b60l2_03",
+    "question": "Akmal 12 000 so'mga muqova va har biri 1 500 so'mdan 4 ta qalam oldi. 20 000 so'm berdi. Qaytim qancha?",
+    "correctAnswer": 2000,
+    "wrongAnswers": [
+      3000,
+      1000
+    ]
+  },
+  {
+    "id": "s3c4b60l2_04",
+    "question": "Onam 3 kg olma (22 800 so'm/kg) oldi va 100 000 so'm berdi. Qaytim qancha?",
+    "correctAnswer": 31600,
+    "wrongAnswers": [
+      30600,
+      32600
+    ]
+  },
+  {
+    "id": "s3c4b60l2_05",
+    "question": "6 ta bir xil daftar 30 000 so'm. 10 ta daftar qancha?",
+    "correctAnswer": 50000,
+    "wrongAnswers": [
+      30010,
+      45000
+    ]
+  },
+  {
+    "id": "s3c4b60l2_06",
+    "question": "Bir qop un 120 000 so'm. Do'konga 20 qop keldi. Barchasining qiymati qancha?",
+    "correctAnswer": 2400000,
+    "wrongAnswers": [
+      120020,
+      240000
+    ]
+  },
+  {
+    "id": "s3c4b60l2_07",
+    "question": "Bir bilet 45 000 so'm. Oila 5 kishi. Barcha biletlar qancha?",
+    "correctAnswer": 225000,
+    "wrongAnswers": [
+      49000,
+      180000
+    ]
+  },
+  {
+    "id": "s3c4b60l2_08",
+    "question": "Muslima 6 ta tugma (2 300 so'mdan) va 1 ip (5 000 so'm) oldi. Jami qancha?",
+    "correctAnswer": 18800,
+    "wrongAnswers": [
+      13800,
+      23800
+    ]
+  },
+  {
+    "id": "s3c4b60l2_09",
+    "question": "Taqqoslang: 3 kg * 40 000 so'm __ 4 kg * 30 000 so'm",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s3c4b60l2_10",
+    "question": "Xarid 87 500 so'm, 100 000 so'mlik kupyura berildi. Qaytim qancha?",
+    "correctAnswer": 12500,
+    "wrongAnswers": [
+      13500,
+      12000
+    ]
+  }
+]

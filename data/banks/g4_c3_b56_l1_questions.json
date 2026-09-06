@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok56_level1_otaq_01", "question": "0,5 va 0,7 dan qaysi biri katta?", "correctAnswer": "0,7", "wrongAnswers": ["0,5", "teng"]},
+  {"id": "sinf4_chorak3_blok56_level1_otaq_02", "question": "0,9 va 0,89 — qaysi biri katta?", "correctAnswer": "0,9", "wrongAnswers": ["0,89", "teng"]},
+  {"id": "sinf4_chorak3_blok56_level1_otaq_03", "question": "Taqqoslang: 1,4 __ 1,40", "correctAnswer": "=", "wrongAnswers": [">", "<"]},
+  {"id": "sinf4_chorak3_blok56_level1_otaq_04", "question": "0,3 va 0,25 — qaysi biri katta?", "correctAnswer": "0,3", "wrongAnswers": ["0,25", "teng"]},
+  {"id": "sinf4_chorak3_blok56_level1_otaq_05", "question": "Taqqoslang: 2,5 __ 2,05", "correctAnswer": ">", "wrongAnswers": ["<", "="]},
+  {"id": "sinf4_chorak3_blok56_level1_otaq_06", "question": "0,1 va 0,09 — qaysi biri katta?", "correctAnswer": "0,1", "wrongAnswers": ["0,09", "teng"]},
+  {"id": "sinf4_chorak3_blok56_level1_otaq_07", "question": "Eng katta o'nli kasrni tanlang: 0,4; 0,44; 0,04.", "correctAnswer": "0,44", "wrongAnswers": ["0,4", "0,04"]},
+  {"id": "sinf4_chorak3_blok56_level1_otaq_08", "question": "O'nli kasrlarni taqqoslashda avval nimani solishtiriladi?", "correctAnswer": "Butun qismlarni", "wrongAnswers": ["Verguldan keyingi oxirgi raqamni", "Raqamlar sonini"]},
+  {"id": "sinf4_chorak3_blok56_level1_otaq_09", "question": "Taqqoslang: 0,6 __ 0,60", "correctAnswer": "=", "wrongAnswers": [">", "<"]},
+  {"id": "sinf4_chorak3_blok56_level1_otaq_10", "question": "3,7 va 3,72 — qaysi biri kichik?", "correctAnswer": "3,7", "wrongAnswers": ["3,72", "teng"]}
+]

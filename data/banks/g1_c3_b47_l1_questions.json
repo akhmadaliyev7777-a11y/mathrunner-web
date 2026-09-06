@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b47l1_01",
+    "question": "Tomonlari 3 sm, 4 sm, 5 sm bo'lgan ko'pburchakning barcha tomonlari yig'indisi necha sm?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      9,
+      15
+    ]
+  },
+  {
+    "id": "s1c3b47l1_02",
+    "question": "Tomonlari 6 sm, 6 sm, 6 sm bo'lgan ko'pburchakning barcha tomonlari yig'indisi necha sm?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      12,
+      24
+    ]
+  },
+  {
+    "id": "s1c3b47l1_03",
+    "question": "Tomonlari 10 sm, 8 sm, 10 sm, 8 sm bo'lgan ko'pburchakning barcha tomonlari yig'indisi necha sm?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      26,
+      46
+    ]
+  },
+  {
+    "id": "s1c3b47l1_04",
+    "question": "Tomonlari 5 sm, 5 sm, 5 sm, 5 sm bo'lgan ko'pburchakning barcha tomonlari yig'indisi necha sm?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      15,
+      25
+    ]
+  },
+  {
+    "id": "s1c3b47l1_05",
+    "question": "Tomonlari 7 sm, 9 sm, 4 sm bo'lgan ko'pburchakning barcha tomonlari yig'indisi necha sm?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      13,
+      27
+    ]
+  },
+  {
+    "id": "s1c3b47l1_06",
+    "question": "Tomonlari 12 sm, 6 sm, 12 sm, 6 sm bo'lgan ko'pburchakning barcha tomonlari yig'indisi necha sm?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      24,
+      48
+    ]
+  },
+  {
+    "id": "s1c3b47l1_07",
+    "question": "Uchburchakning barcha tomonlari 5 sm dan. Tomonlar yig'indisi necha sm?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      10,
+      20
+    ]
+  },
+  {
+    "id": "s1c3b47l1_08",
+    "question": "To'rtburchakning 3 ta tomoni 4 sm, biri 6 sm. Tomonlar yig'indisi necha sm?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      14,
+      22
+    ]
+  },
+  {
+    "id": "s1c3b47l1_09",
+    "question": "Ko'pburchak tomonlari yig'indisi qanday topiladi?",
+    "correctAnswer": "barcha tomonlarni qo'shib",
+    "wrongAnswers": [
+      "eng katta tomonni topib",
+      "tomonlarni ayirib"
+    ]
+  },
+  {
+    "id": "s1c3b47l1_10",
+    "question": "Tomonlari 20 sm va 15 sm va 25 sm bo'lgan uchburchakning tomonlari yig'indisi necha sm?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      45,
+      35
+    ]
+  }
+]

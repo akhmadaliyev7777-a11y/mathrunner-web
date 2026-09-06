@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b39l2_01",
+    "question": "Anvarda 8 ta marka bor. Sardorda 3 taga ortiq. Sardorda nechta marka?",
+    "correctAnswer": 11,
+    "wrongAnswers": [
+      5,
+      24
+    ]
+  },
+  {
+    "id": "s1c3b39l2_02",
+    "question": "Bir daraxtda 15 ta olma. Ikkinchisida 6 taga kam. Ikkinchisida nechta?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      21,
+      8
+    ]
+  },
+  {
+    "id": "s1c3b39l2_03",
+    "question": "Dilnozada 20 ta rasm. Malikada 5 taga kam. Malikada nechta?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      25,
+      14
+    ]
+  },
+  {
+    "id": "s1c3b39l2_04",
+    "question": "Bir qutida 12 ta, ikkinchisida 4 taga ortiq shar. Ikkinchisida nechta?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      8,
+      48
+    ]
+  },
+  {
+    "id": "s1c3b39l2_05",
+    "question": "10 ta qizil va 7 ta ko'k shar. Qizil sharlar nechtaga ko'p?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      17,
+      4
+    ]
+  },
+  {
+    "id": "s1c3b39l2_06",
+    "question": "Sinfda 25 bola, boshqa sinfda 5 taga kam. Boshqa sinfda nechta bola?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      30,
+      19
+    ]
+  },
+  {
+    "id": "s1c3b39l2_07",
+    "question": "Taqqoslang: 8 + 3 __ 15 - 6",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s1c3b39l2_08",
+    "question": "Birinchi kun 12 ta, ikkinchi kun 3 taga ko'p kitob sotildi. Ikkinchi kun nechta?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      9,
+      36
+    ]
+  },
+  {
+    "id": "s1c3b39l2_09",
+    "question": "\"3 taga ortiq\" degani 3 ni qo'shish kerak.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b39l2_10",
+    "question": "Xato: \"8 taga ko'p\" masalada 8 ni ayirdik. To'g'ri amal qaysi?",
+    "correctAnswer": "qo'shish",
+    "wrongAnswers": [
+      "ayirish",
+      "taqqoslash"
+    ]
+  }
+]

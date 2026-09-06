@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b58l1_01",
+    "question": "v = 15 km/h, t = 4 h. Masofa (s) qancha?  (s = v * t)",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      19,
+      11
+    ]
+  },
+  {
+    "id": "s3c4b58l1_02",
+    "question": "s = 30 m, t = 10 s. Tezlik (v) qancha?  (v = s : t)",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      300,
+      20
+    ]
+  },
+  {
+    "id": "s3c4b58l1_03",
+    "question": "s = 100 km, v = 20 km/h. Vaqt (t) qancha?  (t = s : v)",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      80,
+      120
+    ]
+  },
+  {
+    "id": "s3c4b58l1_04",
+    "question": "v = 60 km/h, t = 3 h. Masofa qancha?",
+    "correctAnswer": 180,
+    "wrongAnswers": [
+      20,
+      63
+    ]
+  },
+  {
+    "id": "s3c4b58l1_05",
+    "question": "s = 240 km, t = 4 h. Tezlik qancha?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      236,
+      244
+    ]
+  },
+  {
+    "id": "s3c4b58l1_06",
+    "question": "s = 48 m, v = 6 m/s. Vaqt qancha?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      42,
+      54
+    ]
+  },
+  {
+    "id": "s3c4b58l1_07",
+    "question": "Masofa formulasi qaysi?  (s = v * t = 1, s = v : t = 2, s = v + t = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b58l1_08",
+    "question": "v = 12 m/min, t = 5 min. Masofa qancha?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      17,
+      7
+    ]
+  },
+  {
+    "id": "s3c4b58l1_09",
+    "question": "Akmalning samolyoti 3 sekundda 15 m, Jasurniki 4 sekundda 12 m uchdi. Qaysi biri tezroq?  (Akmal = 1, Jasur = 2, teng = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b58l1_10",
+    "question": "Akmal 5 m/s, Jasur 3 m/s. Akmal Jasurdan necha m/s tez?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      8,
+      1
+    ]
+  }
+]

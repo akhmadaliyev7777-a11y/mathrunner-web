@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b1l1_01",
+    "question": "Fil bilan sichqonni taqqoslang. Qaysi biri katta?",
+    "correctAnswer": "fil",
+    "wrongAnswers": [
+      "sichqon",
+      "ikkalasi teng"
+    ]
+  },
+  {
+    "id": "s1c1b1l1_02",
+    "question": "Uzun qalam va qisqa qalam bor. Qaysi biri uzun?",
+    "correctAnswer": "uzun qalam",
+    "wrongAnswers": [
+      "qisqa qalam",
+      "teng"
+    ]
+  },
+  {
+    "id": "s1c1b1l1_03",
+    "question": "Baland minora va past minora. Qaysi biri baland?",
+    "correctAnswer": "baland minora",
+    "wrongAnswers": [
+      "past minora",
+      "teng"
+    ]
+  },
+  {
+    "id": "s1c1b1l1_04",
+    "question": "Bir xil rangdagi shakllarni bir guruhga ajratamiz. Bu qanday belgi bo'yicha guruhlash?",
+    "correctAnswer": "rang bo'yicha",
+    "wrongAnswers": [
+      "shakl bo'yicha",
+      "o'lcham bo'yicha"
+    ]
+  },
+  {
+    "id": "s1c1b1l1_05",
+    "question": "Keng daryo va tor ariq. Qaysi biri keng?",
+    "correctAnswer": "daryo",
+    "wrongAnswers": [
+      "ariq",
+      "teng"
+    ]
+  },
+  {
+    "id": "s1c1b1l1_06",
+    "question": "Katta doira va kichik doira. Ular qaysi belgi bilan farq qiladi?",
+    "correctAnswer": "o'lchami bilan",
+    "wrongAnswers": [
+      "rangi bilan",
+      "shakli bilan"
+    ]
+  },
+  {
+    "id": "s1c1b1l1_07",
+    "question": "Slon (fil) sichqondan kattaroq.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b1l1_08",
+    "question": "Uzun arqon qisqa arqondan qisqaroq.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b1l1_09",
+    "question": "Uch xil shakl bor: doira, kvadrat, uchburchak. Nechta shakl bor?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "s1c1b1l1_10",
+    "question": "Ikkita bir xil o'lchamli koptok. Ular o'lchami bo'yicha ...",
+    "correctAnswer": "teng",
+    "wrongAnswers": [
+      "har xil",
+      "biri katta"
+    ]
+  }
+]

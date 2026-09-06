@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b42l2_01",
+    "question": "9 * 2 = ?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      9,
+      27
+    ]
+  },
+  {
+    "id": "s2c3b42l2_02",
+    "question": "4 * 2 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      4,
+      12
+    ]
+  },
+  {
+    "id": "s2c3b42l2_03",
+    "question": "2 * 2 = ?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": "s2c3b42l2_04",
+    "question": "2 * 10 = ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      18,
+      22
+    ]
+  },
+  {
+    "id": "s2c3b42l2_05",
+    "question": "2 * 1 = ?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": "s2c3b42l2_06",
+    "question": "3 * 2 = ?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      3,
+      9
+    ]
+  },
+  {
+    "id": "s2c3b42l2_07",
+    "question": "2 * 7 = ?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      12,
+      16
+    ]
+  },
+  {
+    "id": "s2c3b42l2_08",
+    "question": "8 * 2 = ?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      8,
+      24
+    ]
+  },
+  {
+    "id": "s2c3b42l2_09",
+    "question": "6 * 2 = ?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      6,
+      18
+    ]
+  },
+  {
+    "id": "s2c3b42l2_10",
+    "question": "5 * 2 = ?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      5,
+      15
+    ]
+  }
+]

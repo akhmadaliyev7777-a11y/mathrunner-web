@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b19l2_01",
+    "question": "4 + 3 = ?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      6,
+      8
+    ]
+  },
+  {
+    "id": "s1c1b19l2_02",
+    "question": "6 + 2 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      7,
+      9
+    ]
+  },
+  {
+    "id": "s1c1b19l2_03",
+    "question": "5 + 5 = ?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      9,
+      11
+    ]
+  },
+  {
+    "id": "s1c1b19l2_04",
+    "question": "3 + 3 = ?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": "s1c1b19l2_05",
+    "question": "7 + 1 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      7,
+      9
+    ]
+  },
+  {
+    "id": "s1c1b19l2_06",
+    "question": "2 + 8 = ?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      9,
+      11
+    ]
+  },
+  {
+    "id": "s1c1b19l2_07",
+    "question": "6 + 4 = ?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      9,
+      11
+    ]
+  },
+  {
+    "id": "s1c1b19l2_08",
+    "question": "1 + 9 = ?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      9,
+      11
+    ]
+  },
+  {
+    "id": "s1c1b19l2_09",
+    "question": "Qo'shish jadvalida 5 + 5 nechaga teng?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      9,
+      11
+    ]
+  },
+  {
+    "id": "s1c1b19l2_10",
+    "question": "Jadval bo'yicha: 8 + 2 nechaga teng?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      9,
+      11
+    ]
+  }
+]

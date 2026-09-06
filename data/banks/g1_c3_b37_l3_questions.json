@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b37l3_01",
+    "question": "Zinada 20 pog'ona bor. Bola 8 tasiga chiqdi. Yana nechta pog'ona qoldi?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      28,
+      11
+    ]
+  },
+  {
+    "id": "s1c3b37l3_02",
+    "question": "Vazada 16 ta gul bor edi, 9 tasi so'ldi. Nechta qoldi?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      25,
+      6
+    ]
+  },
+  {
+    "id": "s1c3b37l3_03",
+    "question": "Bolada 18 so'm bor edi, onasi 12 so'm berdi. Nechta bo'ldi?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      6,
+      29
+    ]
+  },
+  {
+    "id": "s1c3b37l3_04",
+    "question": "Bir savatda 24 ta olma, ikkinchisida 11 taga kam. Ikkinchisida nechta?",
+    "correctAnswer": 13,
+    "wrongAnswers": [
+      35,
+      12
+    ]
+  },
+  {
+    "id": "s1c3b37l3_05",
+    "question": "Garajda 13 ta yengil va 7 ta yuk mashina bor. Jami nechta?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      6,
+      91
+    ]
+  },
+  {
+    "id": "s1c3b37l3_06",
+    "question": "Kutubxonaga 40 ta kitob bor edi, 15 tasi berildi, 5 tasi qaytarildi. Hozir nechta bor?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      50,
+      20
+    ]
+  },
+  {
+    "id": "s1c3b37l3_07",
+    "question": "Daraxtda 12 ta qush bor edi. 5 tasi uchib ketdi, keyin 3 tasi qaytib keldi. Nechta bo'ldi?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      20,
+      4
+    ]
+  },
+  {
+    "id": "s1c3b37l3_08",
+    "question": "Bir sonni o'yladim: unga 7 qo'shsam, 20 bo'ladi. Qaysi son?",
+    "correctAnswer": 13,
+    "wrongAnswers": [
+      27,
+      14
+    ]
+  },
+  {
+    "id": "s1c3b37l3_09",
+    "question": "\"Jami\" so'zi ko'pincha qo'shish amalini bildiradi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b37l3_10",
+    "question": "Bog'chada 25 ta bola bor. Ularning nechtasi qizil ko'ylak kiyganini toping.",
+    "correctAnswer": "Aniqlab bo'lmaydi",
+    "wrongAnswers": [
+      "Rost",
+      "Yolg'on"
+    ]
+  }
+]

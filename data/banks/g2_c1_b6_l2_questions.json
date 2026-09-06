@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b6l2_01",
+    "question": "30 - 4 = ?",
+    "correctAnswer": 26,
+    "wrongAnswers": [
+      36,
+      27
+    ]
+  },
+  {
+    "id": "s2c1b6l2_02",
+    "question": "70 - 8 = ?",
+    "correctAnswer": 62,
+    "wrongAnswers": [
+      72,
+      63
+    ]
+  },
+  {
+    "id": "s2c1b6l2_03",
+    "question": "80 - 9 = ?",
+    "correctAnswer": 71,
+    "wrongAnswers": [
+      81,
+      72
+    ]
+  },
+  {
+    "id": "s2c1b6l2_04",
+    "question": "20 - 7 = ?",
+    "correctAnswer": 13,
+    "wrongAnswers": [
+      23,
+      14
+    ]
+  },
+  {
+    "id": "s2c1b6l2_05",
+    "question": "90 - 8 = ?",
+    "correctAnswer": 82,
+    "wrongAnswers": [
+      92,
+      83
+    ]
+  },
+  {
+    "id": "s2c1b6l2_06",
+    "question": "50 - 7 = ?",
+    "correctAnswer": 43,
+    "wrongAnswers": [
+      53,
+      44
+    ]
+  },
+  {
+    "id": "s2c1b6l2_07",
+    "question": "40 - 7 = ?",
+    "correctAnswer": 33,
+    "wrongAnswers": [
+      43,
+      34
+    ]
+  },
+  {
+    "id": "s2c1b6l2_08",
+    "question": "60 - 9 = ?",
+    "correctAnswer": 51,
+    "wrongAnswers": [
+      61,
+      52
+    ]
+  },
+  {
+    "id": "s2c1b6l2_09",
+    "question": "Avtobusda 40 ta o'rindiq bor. 6 tasi bo'sh. Nechta o'rindiq band?",
+    "correctAnswer": 34,
+    "wrongAnswers": [
+      46,
+      33
+    ]
+  },
+  {
+    "id": "s2c1b6l2_10",
+    "question": "Savatda 60 ta yong'oq bor edi. Bola 8 tasini oldi. Nechta qoldi?",
+    "correctAnswer": 52,
+    "wrongAnswers": [
+      68,
+      53
+    ]
+  }
+]

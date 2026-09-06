@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak4_blok62_level2_kub_01", "question": "To'rtburchakli prizmaning (asosi to'rtburchak) nechta yoqi bor?", "correctAnswer": 6, "wrongAnswers": [5, 8]},
+  {"id": "sinf4_chorak4_blok62_level2_kub_02", "question": "Beshburchakli prizmaning nechta yon yoqi bor?", "correctAnswer": 5, "wrongAnswers": [7, 10]},
+  {"id": "sinf4_chorak4_blok62_level2_kub_03", "question": "Beshburchakli prizmaning jami nechta yoqi bor?", "correctAnswer": 7, "wrongAnswers": [5, 10]},
+  {"id": "sinf4_chorak4_blok62_level2_kub_04", "question": "Kubning barcha qirralari yig'indisini topish uchun bir qirra uzunligini nechga ko'paytiramiz?", "correctAnswer": 12, "wrongAnswers": [6, 8]},
+  {"id": "sinf4_chorak4_blok62_level2_kub_05", "question": "Bir qirrasi 5 sm bo'lgan kubning barcha qirralari yig'indisi necha sm?", "correctAnswer": 60, "wrongAnswers": [30, 20]},
+  {"id": "sinf4_chorak4_blok62_level2_kub_06", "question": "Prizma nomi qanday aniqlanadi?", "correctAnswer": "Asosining shakliga qarab", "wrongAnswers": ["Balandligiga qarab", "Yon yoqlar soniga qarab"]},
+  {"id": "sinf4_chorak4_blok62_level2_kub_07", "question": "Uchburchakli prizmaning nechta qirrasi bor?", "correctAnswer": 9, "wrongAnswers": [6, 12]},
+  {"id": "sinf4_chorak4_blok62_level2_kub_08", "question": "Aziz kubning 6 ta uchi bor dedi. To'g'rimi?", "correctAnswer": "Yo'q, kubning 8 ta uchi (va 6 ta yoqi) bor", "wrongAnswers": ["Ha, to'g'ri", "Kubda 12 ta uch bor"]},
+  {"id": "sinf4_chorak4_blok62_level2_kub_09", "question": "Oltiburchakli prizmaning nechta uchi bor?", "correctAnswer": 12, "wrongAnswers": [6, 8]},
+  {"id": "sinf4_chorak4_blok62_level2_kub_10", "question": "Kubning yoqlari, qirralari va uchlari soni yig'indisi nechi?", "correctAnswer": 26, "wrongAnswers": [24, 20]}
+]

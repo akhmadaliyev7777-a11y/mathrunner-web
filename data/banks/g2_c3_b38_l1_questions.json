@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b38l1_01",
+    "question": "Shaklning yuzi nimani bildiradi?",
+    "correctAnswer": "shakl egallagan joyni",
+    "wrongAnswers": [
+      "shakl chegarasi uzunligini",
+      "burchaklar sonini"
+    ]
+  },
+  {
+    "id": "s2c3b38l1_02",
+    "question": "Katakli qog'ozda shakl 8 ta butun katakni egallagan. Yuzi necha katak?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      4,
+      16
+    ]
+  },
+  {
+    "id": "s2c3b38l1_03",
+    "question": "To'g'ri to'rtburchak 3 qator, har qatorda 4 katak. Yuzi necha katak?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      7,
+      14
+    ]
+  },
+  {
+    "id": "s2c3b38l1_04",
+    "question": "Kvadrat 5 qator, har qatorda 5 katak. Yuzi necha katak?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      10,
+      20
+    ]
+  },
+  {
+    "id": "s2c3b38l1_05",
+    "question": "Shakl 6 butun va 2 ta yarim katakdan iborat. Yuzi necha katak?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      6,
+      8
+    ]
+  },
+  {
+    "id": "s2c3b38l1_06",
+    "question": "2 ta yarim katak birlashsa, necha butun katak bo'ladi?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "s2c3b38l1_07",
+    "question": "To'g'ri to'rtburchak 2 qator, har qatorda 7 katak. Yuzi necha katak?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      9,
+      18
+    ]
+  },
+  {
+    "id": "s2c3b38l1_08",
+    "question": "Perimetr va yuz — bir xil narsa.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b38l1_09",
+    "question": "Yuz shakl egallagan katakchalar soni bilan o'lchanadi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b38l1_10",
+    "question": "10 ta butun va 4 ta yarim katakli shakl yuzi necha katak?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      10,
+      14
+    ]
+  }
+]

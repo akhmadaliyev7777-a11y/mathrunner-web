@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b60l2_01",
+    "question": "7 * 4 - 10 = ?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      38,
+      8
+    ]
+  },
+  {
+    "id": "s2c4b60l2_02",
+    "question": "30 - 4 * 6 = ?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      156,
+      24
+    ]
+  },
+  {
+    "id": "s2c4b60l2_03",
+    "question": "9 + 24 : 6 = ?",
+    "correctAnswer": 13,
+    "wrongAnswers": [
+      5,
+      33
+    ]
+  },
+  {
+    "id": "s2c4b60l2_04",
+    "question": "5 * 6 + 3 * 4 = ?",
+    "correctAnswer": 42,
+    "wrongAnswers": [
+      72,
+      30
+    ]
+  },
+  {
+    "id": "s2c4b60l2_05",
+    "question": "40 : 8 + 7 * 2 = ?",
+    "correctAnswer": 19,
+    "wrongAnswers": [
+      22,
+      9
+    ]
+  },
+  {
+    "id": "s2c4b60l2_06",
+    "question": "3 * 7 + 12 : 4 = ?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      33,
+      18
+    ]
+  },
+  {
+    "id": "s2c4b60l2_07",
+    "question": "50 - 6 * 3 - 8 = ?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      36,
+      20
+    ]
+  },
+  {
+    "id": "s2c4b60l2_08",
+    "question": "Taqqoslang: 2 * 8 + 4 __ 4 * 5",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s2c4b60l2_09",
+    "question": "Xato: \"4 + 5 * 2 = 18\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      18,
+      13
+    ]
+  },
+  {
+    "id": "s2c4b60l2_10",
+    "question": "100 - 9 * 8 = ?",
+    "correctAnswer": 28,
+    "wrongAnswers": [
+      728,
+      72
+    ]
+  }
+]

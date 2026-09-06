@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b38l2_01",
+    "question": "Jo'natmada 40 ta xat va 25 ta kartochka bor. Jami nechta jo'natma?",
+    "correctAnswer": 65,
+    "wrongAnswers": [
+      15,
+      70
+    ]
+  },
+  {
+    "id": "s1c3b38l2_02",
+    "question": "Bir mashinada 22, boshqasida 33 ta quti. Jami nechta quti?",
+    "correctAnswer": 55,
+    "wrongAnswers": [
+      11,
+      66
+    ]
+  },
+  {
+    "id": "s1c3b38l2_03",
+    "question": "50 = 30 + ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      80,
+      10
+    ]
+  },
+  {
+    "id": "s1c3b38l2_04",
+    "question": "Butun 45. Bir qismi 20. Ikkinchi qismi qancha?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      65,
+      24
+    ]
+  },
+  {
+    "id": "s1c3b38l2_05",
+    "question": "Bir savatda 18 ta olma, ikkinchisida 18 ta nok. Jami nechta meva?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      0,
+      40
+    ]
+  },
+  {
+    "id": "s1c3b38l2_06",
+    "question": "Kutubxonada 60 ta darslik va 30 ta badiiy kitob. Jami nechta kitob?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      30,
+      100
+    ]
+  },
+  {
+    "id": "s1c3b38l2_07",
+    "question": "Taqqoslang: 20 + 30 __ 60",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c3b38l2_08",
+    "question": "Ikki bo'lakli labirint: birinchi bo'lak 15 qadam, ikkinchisi 25 qadam. Jami necha qadam?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      10,
+      50
+    ]
+  },
+  {
+    "id": "s1c3b38l2_09",
+    "question": "Butunni topishga doir masala qo'shish bilan yechiladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b38l2_10",
+    "question": "Xato: \"12 + 8\" butunni topish masalasi javobi 4 deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      4,
+      16
+    ]
+  }
+]

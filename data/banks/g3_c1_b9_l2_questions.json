@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b9l2_01",
+    "question": "6 km 280 m + 12 km 925 m - 14 km 936 m = ? m",
+    "correctAnswer": 4269,
+    "wrongAnswers": [
+      4369,
+      4469
+    ]
+  },
+  {
+    "id": "s3c1b9l2_02",
+    "question": "90 km - 29 km 1 m = ? m",
+    "correctAnswer": 60999,
+    "wrongAnswers": [
+      60000,
+      61000
+    ]
+  },
+  {
+    "id": "s3c1b9l2_03",
+    "question": "Siniq chiziq 3 ta bo'g'indan iborat: 12 cm, 9 cm va 15 cm. Uning uzunligi necha cm?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      27,
+      21
+    ]
+  },
+  {
+    "id": "s3c1b9l2_04",
+    "question": "8 km necha metr?",
+    "correctAnswer": 8000,
+    "wrongAnswers": [
+      800,
+      80000
+    ]
+  },
+  {
+    "id": "s3c1b9l2_05",
+    "question": "5 000 m necha km?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      50,
+      500
+    ]
+  },
+  {
+    "id": "s3c1b9l2_06",
+    "question": "AB kesma 3 cm 4 mm. Bu necha mm?",
+    "correctAnswer": 34,
+    "wrongAnswers": [
+      304,
+      340
+    ]
+  },
+  {
+    "id": "s3c1b9l2_07",
+    "question": "1 km 250 m + 3 km 800 m = ? m",
+    "correctAnswer": 5050,
+    "wrongAnswers": [
+      4050,
+      5150
+    ]
+  },
+  {
+    "id": "s3c1b9l2_08",
+    "question": "12 km 300 m - 5 km 800 m = ? m",
+    "correctAnswer": 6500,
+    "wrongAnswers": [
+      7500,
+      6400
+    ]
+  },
+  {
+    "id": "s3c1b9l2_09",
+    "question": "Siniq chiziqning 4 ta bo'g'ini bor: 5 cm, 8 cm, 6 cm, 10 cm. Uzunligi necha cm?",
+    "correctAnswer": 29,
+    "wrongAnswers": [
+      19,
+      25
+    ]
+  },
+  {
+    "id": "s3c1b9l2_10",
+    "question": "3 m 4 dm 5 cm necha cm?",
+    "correctAnswer": 345,
+    "wrongAnswers": [
+      3045,
+      34500
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b71l1_01",
+    "question": "456 + 278 = ?",
+    "correctAnswer": 734,
+    "wrongAnswers": [
+      634,
+      834
+    ]
+  },
+  {
+    "id": "s2c4b71l1_02",
+    "question": "605 + 195 = ?",
+    "correctAnswer": 800,
+    "wrongAnswers": [
+      700,
+      900
+    ]
+  },
+  {
+    "id": "s2c4b71l1_03",
+    "question": "800 - 345 = ?",
+    "correctAnswer": 455,
+    "wrongAnswers": [
+      555,
+      355
+    ]
+  },
+  {
+    "id": "s2c4b71l1_04",
+    "question": "7 * 8 = ?",
+    "correctAnswer": 56,
+    "wrongAnswers": [
+      63,
+      15
+    ]
+  },
+  {
+    "id": "s2c4b71l1_05",
+    "question": "63 : 9 = ?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      8,
+      6
+    ]
+  },
+  {
+    "id": "s2c4b71l1_06",
+    "question": "2 + 3 * 6 = ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      30,
+      15
+    ]
+  },
+  {
+    "id": "s2c4b71l1_07",
+    "question": "x + 40 = 100 tenglamada x qancha?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      140,
+      50
+    ]
+  },
+  {
+    "id": "s2c4b71l1_08",
+    "question": "Kvadrat tomoni 9 sm. Perimetri necha sm?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      18,
+      81
+    ]
+  },
+  {
+    "id": "s2c4b71l1_09",
+    "question": "1 soat 30 minut necha minut?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      130,
+      60
+    ]
+  },
+  {
+    "id": "s2c4b71l1_10",
+    "question": "1 m 45 sm necha sm?",
+    "correctAnswer": 145,
+    "wrongAnswers": [
+      45,
+      1045
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b67l1_01",
+    "question": "(4 + 3) * 5 ni taqsimot xossasi bilan: 4 * 5 + 3 * 5 = ?",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      12,
+      32
+    ]
+  },
+  {
+    "id": "s2c4b67l1_02",
+    "question": "(2 + 6) * 3 = 2 * 3 + 6 * 3 = ?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      11,
+      18
+    ]
+  },
+  {
+    "id": "s2c4b67l1_03",
+    "question": "(5 + 5) * 4 = ?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      14,
+      20
+    ]
+  },
+  {
+    "id": "s2c4b67l1_04",
+    "question": "(10 + 2) * 3 = ?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      15,
+      30
+    ]
+  },
+  {
+    "id": "s2c4b67l1_05",
+    "question": "(3 + 7) * 6 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      16,
+      30
+    ]
+  },
+  {
+    "id": "s2c4b67l1_06",
+    "question": "(8 + 1) * 5 = ?",
+    "correctAnswer": 45,
+    "wrongAnswers": [
+      14,
+      40
+    ]
+  },
+  {
+    "id": "s2c4b67l1_07",
+    "question": "Taqsimot xossasi: (a + b) * c = ...",
+    "correctAnswer": "a * c + b * c",
+    "wrongAnswers": [
+      "a + b + c",
+      "a * b * c"
+    ]
+  },
+  {
+    "id": "s2c4b67l1_08",
+    "question": "(2 + 3) * 4 = 2 * 4 + 3 * 4.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c4b67l1_09",
+    "question": "(4 + 5) * 2 = 4 + 5 * 2.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c4b67l1_10",
+    "question": "(6 + 4) * 7 = ?",
+    "correctAnswer": 70,
+    "wrongAnswers": [
+      17,
+      46
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b14l1_01",
+    "question": "Ustun ko'rinishida qo'shing: 37 + 45 = ?",
+    "correctAnswer": 82,
+    "wrongAnswers": [
+      72,
+      92
+    ]
+  },
+  {
+    "id": "s2c1b14l1_02",
+    "question": "Ustun ko'rinishida qo'shing: 58 + 26 = ?",
+    "correctAnswer": 84,
+    "wrongAnswers": [
+      74,
+      94
+    ]
+  },
+  {
+    "id": "s2c1b14l1_03",
+    "question": "Ustun ko'rinishida qo'shing: 49 + 34 = ?",
+    "correctAnswer": 83,
+    "wrongAnswers": [
+      73,
+      93
+    ]
+  },
+  {
+    "id": "s2c1b14l1_04",
+    "question": "Ustun ko'rinishida qo'shing: 76 + 18 = ?",
+    "correctAnswer": 94,
+    "wrongAnswers": [
+      84,
+      104
+    ]
+  },
+  {
+    "id": "s2c1b14l1_05",
+    "question": "Ustun ko'rinishida qo'shing: 25 + 67 = ?",
+    "correctAnswer": 92,
+    "wrongAnswers": [
+      82,
+      102
+    ]
+  },
+  {
+    "id": "s2c1b14l1_06",
+    "question": "Ustun ko'rinishida qo'shing: 44 + 48 = ?",
+    "correctAnswer": 92,
+    "wrongAnswers": [
+      82,
+      102
+    ]
+  },
+  {
+    "id": "s2c1b14l1_07",
+    "question": "Ustun ko'rinishida qo'shing: 63 + 29 = ?",
+    "correctAnswer": 92,
+    "wrongAnswers": [
+      82,
+      102
+    ]
+  },
+  {
+    "id": "s2c1b14l1_08",
+    "question": "Ustun ko'rinishida qo'shing: 55 + 38 = ?",
+    "correctAnswer": 93,
+    "wrongAnswers": [
+      83,
+      103
+    ]
+  },
+  {
+    "id": "s2c1b14l1_09",
+    "question": "Ustunli qo'shishda birliklar yig'indisi 10 dan katta bo'lsa, nima qilamiz?",
+    "correctAnswer": "1 o'nlikni o'nliklar xonasiga o'tkazamiz",
+    "wrongAnswers": [
+      "birliklarga 1 qo'shamiz",
+      "o'nlikni tashlab yuboramiz"
+    ]
+  },
+  {
+    "id": "s2c1b14l1_10",
+    "question": "48 + 36 ni ustunda qo'shganda birliklar xonasida qaysi raqam qoladi?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      8,
+      14
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b48l1_01",
+    "question": "6 sonini 3 marta orttiring.",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      9,
+      3
+    ]
+  },
+  {
+    "id": "s2c3b48l1_02",
+    "question": "5 sonini 4 marta orttiring.",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      9,
+      1
+    ]
+  },
+  {
+    "id": "s2c3b48l1_03",
+    "question": "8 sonini 2 marta orttiring.",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      10,
+      6
+    ]
+  },
+  {
+    "id": "s2c3b48l1_04",
+    "question": "7 sonini 3 marta orttiring.",
+    "correctAnswer": 21,
+    "wrongAnswers": [
+      10,
+      4
+    ]
+  },
+  {
+    "id": "s2c3b48l1_05",
+    "question": "\"3 marta orttirish\" qaysi amal bilan bajariladi?",
+    "correctAnswer": "ko'paytirish",
+    "wrongAnswers": [
+      "qo'shish",
+      "ayirish"
+    ]
+  },
+  {
+    "id": "s2c3b48l1_06",
+    "question": "9 ni 2 marta orttirsak necha bo'ladi?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      11,
+      7
+    ]
+  },
+  {
+    "id": "s2c3b48l1_07",
+    "question": "4 ni 5 marta orttiring.",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      9,
+      1
+    ]
+  },
+  {
+    "id": "s2c3b48l1_08",
+    "question": "10 ni 3 marta orttiring.",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      13,
+      7
+    ]
+  },
+  {
+    "id": "s2c3b48l1_09",
+    "question": "Sonni bir necha marta orttirish uchun uni shu songa ko'paytiramiz.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b48l1_10",
+    "question": "6 ni 4 marta orttirsak, natija qancha?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      10,
+      2
+    ]
+  }
+]

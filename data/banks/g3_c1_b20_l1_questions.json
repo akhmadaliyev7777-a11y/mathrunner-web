@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b20l1_01",
+    "question": "Yetmish sakkiz million uch yuz ming sonini raqamlar bilan yozing.",
+    "correctAnswer": 78300000,
+    "wrongAnswers": [
+      783000000,
+      7830000
+    ]
+  },
+  {
+    "id": "s3c1b20l1_02",
+    "question": "124 mln 500 ming - 38 mln 700 ming = ? (raqamlarda)",
+    "correctAnswer": 85800000,
+    "wrongAnswers": [
+      86800000,
+      84800000
+    ]
+  },
+  {
+    "id": "s3c1b20l1_03",
+    "question": "XC + XL = ?  (arab)",
+    "correctAnswer": 130,
+    "wrongAnswers": [
+      120,
+      140
+    ]
+  },
+  {
+    "id": "s3c1b20l1_04",
+    "question": "6 km 40 m necha metr?",
+    "correctAnswer": 6040,
+    "wrongAnswers": [
+      6400,
+      640
+    ]
+  },
+  {
+    "id": "s3c1b20l1_05",
+    "question": "48 * 250 = ?",
+    "correctAnswer": 12000,
+    "wrongAnswers": [
+      1200,
+      120000
+    ]
+  },
+  {
+    "id": "s3c1b20l1_06",
+    "question": "2 069 501 * 4 = ?",
+    "correctAnswer": 8278004,
+    "wrongAnswers": [
+      8278000,
+      8278044
+    ]
+  },
+  {
+    "id": "s3c1b20l1_07",
+    "question": "3 ha 20 a maydonni m2 da ifodalang.  (1 ga = 10 000 m2, 1 a = 100 m2)",
+    "correctAnswer": 32000,
+    "wrongAnswers": [
+      3020,
+      320000
+    ]
+  },
+  {
+    "id": "s3c1b20l1_08",
+    "question": "Hisoblamasdan:  89 * 7 __ 89 * 9",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s3c1b20l1_09",
+    "question": "1 000 000 - (450 000 + 275 000) = ?",
+    "correctAnswer": 275000,
+    "wrongAnswers": [
+      725000,
+      825000
+    ]
+  },
+  {
+    "id": "s3c1b20l1_10",
+    "question": "Tomoni 20 cm bo'lgan muntazam 6-burchak perimetri necha cm?",
+    "correctAnswer": 120,
+    "wrongAnswers": [
+      26,
+      100
+    ]
+  }
+]

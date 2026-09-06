@@ -1,0 +1,8 @@
+[
+  {"id": "sinf4_chorak4_blok73_level1_yasa_01", "mode": "construct", "prompt": "Transportir yordamida 90° li to'g'ri burchak yasang.", "hint": "Nurni 90° ga qo'ying", "targetDegrees": 90},
+  {"id": "sinf4_chorak4_blok73_level1_yasa_02", "mode": "construct", "prompt": "Transportir yordamida 45° li o'tkir burchak yasang.", "hint": "Nurni 45° ga qo'ying", "targetDegrees": 45},
+  {"id": "sinf4_chorak4_blok73_level1_yasa_03", "mode": "construct", "prompt": "Transportir yordamida 60° li burchak yasang.", "hint": "Nurni 60° ga qo'ying", "targetDegrees": 60},
+  {"id": "sinf4_chorak4_blok73_level1_yasa_04", "mode": "construct", "prompt": "Transportir yordamida 120° li o'tmas burchak yasang.", "hint": "Nurni 120° ga qo'ying", "targetDegrees": 120},
+  {"id": "sinf4_chorak4_blok73_level1_yasa_05", "mode": "construct", "prompt": "Transportir yordamida 30° li burchak yasang.", "hint": "Nurni 30° ga qo'ying", "targetDegrees": 30},
+  {"id": "sinf4_chorak4_blok73_level1_yasa_06", "mode": "construct", "prompt": "Transportir yordamida 150° li o'tmas burchak yasang.", "hint": "Nurni 150° ga qo'ying", "targetDegrees": 150}
+]

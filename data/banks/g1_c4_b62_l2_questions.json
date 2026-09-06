@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b62l2_01",
+    "question": "x + 8 = 20 tenglamada x qancha?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      28,
+      11
+    ]
+  },
+  {
+    "id": "s1c4b62l2_02",
+    "question": "x - 15 = 25 tenglamada x qancha?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      10,
+      35
+    ]
+  },
+  {
+    "id": "s1c4b62l2_03",
+    "question": "50 - x = 30 tenglamada x qancha?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      80,
+      25
+    ]
+  },
+  {
+    "id": "s1c4b62l2_04",
+    "question": "x + 25 = 25 tenglamada x qancha?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      25,
+      50
+    ]
+  },
+  {
+    "id": "s1c4b62l2_05",
+    "question": "12 + x = 40 tenglamada x qancha?",
+    "correctAnswer": 28,
+    "wrongAnswers": [
+      52,
+      27
+    ]
+  },
+  {
+    "id": "s1c4b62l2_06",
+    "question": "Tenglama ildizi — bu ...",
+    "correctAnswer": "tenglamani to'g'ri qiladigan noma'lum qiymat",
+    "wrongAnswers": [
+      "har qanday son",
+      "eng katta son"
+    ]
+  },
+  {
+    "id": "s1c4b62l2_07",
+    "question": "x + 4 = 4 + 7 tenglamada x qancha?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      4,
+      11
+    ]
+  },
+  {
+    "id": "s1c4b62l2_08",
+    "question": "x + 6 = 10 tenglamaning ildizi 4 ga teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b62l2_09",
+    "question": "x - 3 = 5 tenglamaning ildizi 2 ga teng.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b62l2_10",
+    "question": "Xato: x + 10 = 30 uchun x = 40 deyildi. To'g'ri x qancha?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      40,
+      25
+    ]
+  }
+]

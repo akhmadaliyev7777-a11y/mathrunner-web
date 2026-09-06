@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b34l1_01",
+    "question": "10 + 20 + 30 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      50,
+      70
+    ]
+  },
+  {
+    "id": "s1c2b34l1_02",
+    "question": "5 + 5 + 5 + 5 = ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      15,
+      25
+    ]
+  },
+  {
+    "id": "s1c2b34l1_03",
+    "question": "12 + 8 + 10 = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      20,
+      40
+    ]
+  },
+  {
+    "id": "s1c2b34l1_04",
+    "question": "(20 + 30) + 10 va 20 + (30 + 10) natijalari ...",
+    "correctAnswer": "teng",
+    "wrongAnswers": [
+      "har xil",
+      "biri katta"
+    ]
+  },
+  {
+    "id": "s1c2b34l1_05",
+    "question": "7 + 3 + 6 ni qulay hisoblang (7 + 3 avval).",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      15,
+      17
+    ]
+  },
+  {
+    "id": "s1c2b34l1_06",
+    "question": "(a + b) + c = a + (b + c) — bu qaysi xossa?",
+    "correctAnswer": "guruhlash xossasi",
+    "wrongAnswers": [
+      "o'rin almashtirish xossasi",
+      "ayirish xossasi"
+    ]
+  },
+  {
+    "id": "s1c2b34l1_07",
+    "question": "Qo'shiluvchilarni guruhlashni o'zgartirsak, yig'indi o'zgarmaydi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c2b34l1_08",
+    "question": "40 + 25 + 5 ni qulay hisoblang (25 + 5 avval).",
+    "correctAnswer": 70,
+    "wrongAnswers": [
+      65,
+      75
+    ]
+  },
+  {
+    "id": "s1c2b34l1_09",
+    "question": "8 + 2 + 7 + 3 = ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      18,
+      22
+    ]
+  },
+  {
+    "id": "s1c2b34l1_10",
+    "question": "Xato: \"10 + 10 + 10 = 20\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      20,
+      40
+    ]
+  }
+]

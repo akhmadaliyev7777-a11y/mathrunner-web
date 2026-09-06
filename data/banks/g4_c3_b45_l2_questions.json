@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok45_level2_ayl_01", "question": "2 1/3 ni noto'g'ri kasrga aylantiring.", "correctAnswer": "7/3", "wrongAnswers": ["3/3", "5/3"]},
+  {"id": "sinf4_chorak3_blok45_level2_ayl_02", "question": "3 1/2 ni noto'g'ri kasrga aylantiring.", "correctAnswer": "7/2", "wrongAnswers": ["5/2", "6/2"]},
+  {"id": "sinf4_chorak3_blok45_level2_ayl_03", "question": "1 3/4 ni noto'g'ri kasrga aylantiring.", "correctAnswer": "7/4", "wrongAnswers": ["4/4", "5/4"]},
+  {"id": "sinf4_chorak3_blok45_level2_ayl_04", "question": "2 4/5 ni noto'g'ri kasrga aylantiring.", "correctAnswer": "14/5", "wrongAnswers": ["11/5", "6/5"]},
+  {"id": "sinf4_chorak3_blok45_level2_ayl_05", "question": "Aziz 2 1/4 ni noto'g'ri kasrga aylantirish uchun 2 + 1 = 3, demak 3/4 dedi. Xatosi nimada?", "correctAnswer": "Butunni maxrajga ko'paytirib, so'ng suratni qo'shish kerak: 2×4 + 1 = 9, ya'ni 9/4", "wrongAnswers": ["Xato yo'q", "2 × 1 = 2, demak 2/4"]},
+  {"id": "sinf4_chorak3_blok45_level2_ayl_06", "question": "4 1/2 ni noto'g'ri kasrga aylantiring.", "correctAnswer": "9/2", "wrongAnswers": ["5/2", "8/2"]},
+  {"id": "sinf4_chorak3_blok45_level2_ayl_07", "question": "1 5/6 ni noto'g'ri kasrga aylantiring.", "correctAnswer": "11/6", "wrongAnswers": ["6/6", "7/6"]},
+  {"id": "sinf4_chorak3_blok45_level2_ayl_08", "question": "3 ni maxraji 4 bo'lgan noto'g'ri kasr ko'rinishida yozing.", "correctAnswer": "12/4", "wrongAnswers": ["3/4", "4/12"]},
+  {"id": "sinf4_chorak3_blok45_level2_ayl_09", "question": "2 3/8 ni noto'g'ri kasrga aylantiring.", "correctAnswer": "19/8", "wrongAnswers": ["11/8", "6/8"]},
+  {"id": "sinf4_chorak3_blok45_level2_ayl_10", "question": "Aralash sonni noto'g'ri kasrga aylantirishda maxraj o'zgaradimi?", "correctAnswer": "Yo'q, maxraj o'zgarmaydi", "wrongAnswers": ["Ha, ikki barobar ortadi", "Ha, butun songa ko'payadi"]}
+]

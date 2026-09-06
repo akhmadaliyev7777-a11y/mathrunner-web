@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b58l2_01",
+    "question": "25 * 4 * 2 ni qulay hisoblang: (25 * 4) * 2 = ?",
+    "correctAnswer": 200,
+    "wrongAnswers": [
+      100,
+      50
+    ]
+  },
+  {
+    "id": "s2c4b58l2_02",
+    "question": "5 * 6 * 2 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      30,
+      13
+    ]
+  },
+  {
+    "id": "s2c4b58l2_03",
+    "question": "20 * 3 * 2 = ?",
+    "correctAnswer": 120,
+    "wrongAnswers": [
+      60,
+      25
+    ]
+  },
+  {
+    "id": "s2c4b58l2_04",
+    "question": "2 * 8 * 5 ni qulay hisoblang.",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      40,
+      16
+    ]
+  },
+  {
+    "id": "s2c4b58l2_05",
+    "question": "(10 * 2) * 4 = ?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      16,
+      20
+    ]
+  },
+  {
+    "id": "s2c4b58l2_06",
+    "question": "9 * 2 * 5 = ?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      45,
+      16
+    ]
+  },
+  {
+    "id": "s2c4b58l2_07",
+    "question": "Qulay hisoblang: 4 * 7 * 25 = (4 * 25) * 7 = ?",
+    "correctAnswer": 700,
+    "wrongAnswers": [
+      175,
+      100
+    ]
+  },
+  {
+    "id": "s2c4b58l2_08",
+    "question": "3 * 4 * 5 = 5 * 4 * 3.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c4b58l2_09",
+    "question": "Xato: \"2 * 5 * 3 = 25\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      25,
+      10
+    ]
+  },
+  {
+    "id": "s2c4b58l2_10",
+    "question": "Taqqoslang: 2 * 5 * 4 __ 5 * 2 * 3",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  }
+]

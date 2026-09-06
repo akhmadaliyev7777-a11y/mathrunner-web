@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b40l1_01",
+    "question": "5 ni 3 ga orttiring.",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      2,
+      15
+    ]
+  },
+  {
+    "id": "s1c3b40l1_02",
+    "question": "10 ni 4 ga kamaytiring.",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      14,
+      40
+    ]
+  },
+  {
+    "id": "s1c3b40l1_03",
+    "question": "\"3 ga orttirish\" qaysi amal bilan bajariladi?",
+    "correctAnswer": "qo'shish",
+    "wrongAnswers": [
+      "ayirish",
+      "taqqoslash"
+    ]
+  },
+  {
+    "id": "s1c3b40l1_04",
+    "question": "\"5 ga kamaytirish\" qaysi amal bilan bajariladi?",
+    "correctAnswer": "ayirish",
+    "wrongAnswers": [
+      "qo'shish",
+      "taqqoslash"
+    ]
+  },
+  {
+    "id": "s1c3b40l1_05",
+    "question": "7 ni 2 ga orttiring.",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      5,
+      14
+    ]
+  },
+  {
+    "id": "s1c3b40l1_06",
+    "question": "12 ni 3 ga kamaytiring.",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      15,
+      36
+    ]
+  },
+  {
+    "id": "s1c3b40l1_07",
+    "question": "8 va 5 sonlaridan qaysi biri katta va qanchaga?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      13,
+      4
+    ]
+  },
+  {
+    "id": "s1c3b40l1_08",
+    "question": "6 ni 6 ga orttiring.",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "s1c3b40l1_09",
+    "question": "20 ni 10 ga kamaytiring.",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      30,
+      200
+    ]
+  },
+  {
+    "id": "s1c3b40l1_10",
+    "question": "9 ni 1 ga kamaytiring.",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      10,
+      9
+    ]
+  }
+]

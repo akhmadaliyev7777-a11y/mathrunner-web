@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b69l2_01",
+    "question": "Kubning nechta yog'i bor?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      4,
+      8
+    ]
+  },
+  {
+    "id": "s2c4b69l2_02",
+    "question": "Kubning nechta qirrasi bor?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      6,
+      8
+    ]
+  },
+  {
+    "id": "s2c4b69l2_03",
+    "question": "Kubning nechta uchi (cho'qqisi) bor?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      6,
+      12
+    ]
+  },
+  {
+    "id": "s2c4b69l2_04",
+    "question": "Parallelepiped (kuboid) shaklidagi narsaga misol qaysi?",
+    "correctAnswer": "gugurt qutisi",
+    "wrongAnswers": [
+      "koptok",
+      "konus"
+    ]
+  },
+  {
+    "id": "s2c4b69l2_05",
+    "question": "Kubning har bir yog'i qanday shakl?",
+    "correctAnswer": "kvadrat",
+    "wrongAnswers": [
+      "to'g'ri to'rtburchak (kvadrat emas)",
+      "uchburchak"
+    ]
+  },
+  {
+    "id": "s2c4b69l2_06",
+    "question": "Hajm qaysi birliklarda o'lchanadi?",
+    "correctAnswer": "kubik santimetr (sm3)",
+    "wrongAnswers": [
+      "santimetr (sm)",
+      "kvadrat santimetr (sm2)"
+    ]
+  },
+  {
+    "id": "s2c4b69l2_07",
+    "question": "Qirrasi 2 sm bo'lgan kub 8 ta kichik 1 sm3 li kubdan tuzilgan. Hajmi necha sm3?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      6,
+      4
+    ]
+  },
+  {
+    "id": "s2c4b69l2_08",
+    "question": "3 sm, 2 sm, 4 sm o'lchamli quti nechta 1 sm3 li kubdan iborat? (3 * 2 * 4)",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      9,
+      12
+    ]
+  },
+  {
+    "id": "s2c4b69l2_09",
+    "question": "Kub — barcha qirralari teng bo'lgan parallelepiped.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c4b69l2_10",
+    "question": "Kub va parallelepiped har birida nechtadan yoq bor?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      4,
+      8
+    ]
+  }
+]

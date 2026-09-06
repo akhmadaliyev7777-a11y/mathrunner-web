@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok34_level2_chama_01", "question": "Chamalang: 39 × 21 taxminan qancha?", "correctAnswer": 800, "wrongAnswers": [60, 8000]},
+  {"id": "sinf4_chorak2_blok34_level2_chama_02", "question": "Chamalang: 297 × 3 taxminan qancha?", "correctAnswer": 900, "wrongAnswers": [300, 90]},
+  {"id": "sinf4_chorak2_blok34_level2_chama_03", "question": "Chamalang: 612 ÷ 3 taxminan qancha?", "correctAnswer": 200, "wrongAnswers": [20, 2000]},
+  {"id": "sinf4_chorak2_blok34_level2_chama_04", "question": "Xona 4 m × 6 m. Yuzasini chamalang (m²).", "correctAnswer": 24, "wrongAnswers": [20, 10]},
+  {"id": "sinf4_chorak2_blok34_level2_chama_05", "question": "Chamalang: 78 + 43 + 91 taxminan qancha?", "correctAnswer": 210, "wrongAnswers": [150, 300]},
+  {"id": "sinf4_chorak2_blok34_level2_chama_06", "question": "Bir daftar 2 900 so'm. 5 ta daftar taxminan qancha turadi?", "correctAnswer": 15000, "wrongAnswers": [10000, 3000]},
+  {"id": "sinf4_chorak2_blok34_level2_chama_07", "question": "Chamalang: 485 × 2 taxminan qancha?", "correctAnswer": 1000, "wrongAnswers": [500, 100]},
+  {"id": "sinf4_chorak2_blok34_level2_chama_08", "question": "Ekin maydoni 48 m × 52 m. Yuzasini chamalang (m²).", "correctAnswer": 2500, "wrongAnswers": [200, 25000]},
+  {"id": "sinf4_chorak2_blok34_level2_chama_09", "question": "Chamalang: 1 950 ÷ 4 taxminan qancha?", "correctAnswer": 500, "wrongAnswers": [50, 5000]},
+  {"id": "sinf4_chorak2_blok34_level2_chama_10", "question": "Aziz 68 × 9 ni chamalab 630 dedi (70 × 9). Aniq javob 612. Aziz chamasi aniq javobdan qancha farq qildi?", "correctAnswer": 18, "wrongAnswers": [630, 612]}
+]

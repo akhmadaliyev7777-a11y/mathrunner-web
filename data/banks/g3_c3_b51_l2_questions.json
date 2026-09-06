@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b51l2_01",
+    "question": "x + 45 = 90 tenglamani yeching. x = ?",
+    "correctAnswer": 45,
+    "wrongAnswers": [
+      44,
+      47
+    ]
+  },
+  {
+    "id": "s3c3b51l2_02",
+    "question": "x + 23 449 = 62 383 tenglamani yeching. x = ?",
+    "correctAnswer": 38934,
+    "wrongAnswers": [
+      38933,
+      38936
+    ]
+  },
+  {
+    "id": "s3c3b51l2_03",
+    "question": "x + 128 = 600 tenglamani yeching. x = ?",
+    "correctAnswer": 472,
+    "wrongAnswers": [
+      471,
+      474
+    ]
+  },
+  {
+    "id": "s3c3b51l2_04",
+    "question": "x + 56 = 204 tenglamani yeching. x = ?",
+    "correctAnswer": 148,
+    "wrongAnswers": [
+      147,
+      150
+    ]
+  },
+  {
+    "id": "s3c3b51l2_05",
+    "question": "z - 270 = 230 tenglamani yeching. z = ?",
+    "correctAnswer": 500,
+    "wrongAnswers": [
+      40,
+      460
+    ]
+  },
+  {
+    "id": "s3c3b51l2_06",
+    "question": "m : 5 = 7 tenglamani yeching. m = ?",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      12,
+      2
+    ]
+  },
+  {
+    "id": "s3c3b51l2_07",
+    "question": "714 : y = 3 tenglamani yeching. y = ?",
+    "correctAnswer": 238,
+    "wrongAnswers": [
+      228,
+      248
+    ]
+  },
+  {
+    "id": "s3c3b51l2_08",
+    "question": "x < 4 tengsizlikning natural sonlar va 0 dagi yechimlari nechta?  (0, 1, 2, 3)",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "s3c3b51l2_09",
+    "question": "Tenglama ildizi nima?  (tenglamani to'g'ri tenglikka aylantiruvchi son = 1, har qanday son = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b51l2_10",
+    "question": "533 * x = 533 tenglamada x qancha?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      0,
+      533
+    ]
+  }
+]

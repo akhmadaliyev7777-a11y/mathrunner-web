@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok41_level3_ulush_01", "question": "20 ning 1/4 qismi nechi?", "correctAnswer": 5, "wrongAnswers": [4, 16]},
+  {"id": "sinf4_chorak3_blok41_level3_ulush_02", "question": "30 ning 1/5 qismi nechi?", "correctAnswer": 6, "wrongAnswers": [5, 25]},
+  {"id": "sinf4_chorak3_blok41_level3_ulush_03", "question": "24 ning 1/3 qismi nechi?", "correctAnswer": 8, "wrongAnswers": [3, 12]},
+  {"id": "sinf4_chorak3_blok41_level3_ulush_04", "question": "40 ning 3/4 qismi nechi?", "correctAnswer": 30, "wrongAnswers": [10, 4]},
+  {"id": "sinf4_chorak3_blok41_level3_ulush_05", "question": "36 ning 2/3 qismi nechi?", "correctAnswer": 24, "wrongAnswers": [12, 18]},
+  {"id": "sinf4_chorak3_blok41_level3_ulush_06", "question": "50 ta olmaning 1/2 qismi nechta?", "correctAnswer": 25, "wrongAnswers": [2, 100]},
+  {"id": "sinf4_chorak3_blok41_level3_ulush_07", "question": "18 ning 1/3 qismini topish uchun Aziz 18 × 3 = 54 dedi. Xatosi nimada?", "correctAnswer": "Ko'paytirish emas, BO'LISH kerak: 18 : 3 = 6", "wrongAnswers": ["Xato yo'q", "18 + 3 = 21"]},
+  {"id": "sinf4_chorak3_blok41_level3_ulush_08", "question": "100 so'mning 1/10 qismi nechi?", "correctAnswer": 10, "wrongAnswers": [90, 1000]},
+  {"id": "sinf4_chorak3_blok41_level3_ulush_09", "question": "60 daqiqaning 1/4 qismi necha daqiqa?", "correctAnswer": 15, "wrongAnswers": [4, 240]},
+  {"id": "sinf4_chorak3_blok41_level3_ulush_10", "question": "45 ning 4/5 qismi nechi?", "correctAnswer": 36, "wrongAnswers": [9, 5]}
+]

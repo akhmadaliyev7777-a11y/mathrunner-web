@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b5l1_01",
+    "question": "5 ta qalam va 5 ta daftar. Ular soni bo'yicha ...",
+    "correctAnswer": "teng",
+    "wrongAnswers": [
+      "teng emas",
+      "qalam ko'p"
+    ]
+  },
+  {
+    "id": "s1c1b5l1_02",
+    "question": "6 ta olma va 4 ta nok. Qaysi biri ko'p?",
+    "correctAnswer": "olma",
+    "wrongAnswers": [
+      "nok",
+      "teng"
+    ]
+  },
+  {
+    "id": "s1c1b5l1_03",
+    "question": "3 ta mushuk va 7 ta it. Qaysi biri kam?",
+    "correctAnswer": "mushuk",
+    "wrongAnswers": [
+      "it",
+      "teng"
+    ]
+  },
+  {
+    "id": "s1c1b5l1_04",
+    "question": "\"=\" belgisi nimani bildiradi?",
+    "correctAnswer": "teng",
+    "wrongAnswers": [
+      "ko'p",
+      "kam"
+    ]
+  },
+  {
+    "id": "s1c1b5l1_05",
+    "question": "\"≠\" belgisi nimani bildiradi?",
+    "correctAnswer": "teng emas",
+    "wrongAnswers": [
+      "teng",
+      "ayirish"
+    ]
+  },
+  {
+    "id": "s1c1b5l1_06",
+    "question": "8 ta shar va 8 ta tugma — guruhlar teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b5l1_07",
+    "question": "2 ta stul 5 ta stuldan ko'p.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b5l1_08",
+    "question": "4 ta qush va 4 ta uya. Har bir qushga uya yetadimi?",
+    "correctAnswer": "ha, yetadi",
+    "wrongAnswers": [
+      "yo'q, yetmaydi",
+      "qush ortib qoladi"
+    ]
+  },
+  {
+    "id": "s1c1b5l1_09",
+    "question": "9 ta bola va 6 ta stul. Nechta bolaga stul yetmaydi?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      15,
+      2
+    ]
+  },
+  {
+    "id": "s1c1b5l1_10",
+    "question": "5 ta guldan 2 tasi qizil, qolgani sariq. Qaysi rangdan ko'p?",
+    "correctAnswer": "sariq",
+    "wrongAnswers": [
+      "qizil",
+      "teng"
+    ]
+  }
+]

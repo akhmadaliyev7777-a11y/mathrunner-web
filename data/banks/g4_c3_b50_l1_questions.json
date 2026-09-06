@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok50_level1_bir_01", "question": "1 − 1/4 = ? (1 ni 4/4 deb oling)", "correctAnswer": "3/4", "wrongAnswers": ["1/4", "4/4"]},
+  {"id": "sinf4_chorak3_blok50_level1_bir_02", "question": "1 − 2/5 = ?", "correctAnswer": "3/5", "wrongAnswers": ["2/5", "5/5"]},
+  {"id": "sinf4_chorak3_blok50_level1_bir_03", "question": "1 − 3/8 = ?", "correctAnswer": "5/8", "wrongAnswers": ["3/8", "8/8"]},
+  {"id": "sinf4_chorak3_blok50_level1_bir_04", "question": "1 − 5/6 = ?", "correctAnswer": "1/6", "wrongAnswers": ["5/6", "6/6"]},
+  {"id": "sinf4_chorak3_blok50_level1_bir_05", "question": "1 − 1/2 = ?", "correctAnswer": "1/2", "wrongAnswers": ["2/2", "1/4"]},
+  {"id": "sinf4_chorak3_blok50_level1_bir_06", "question": "1 − 7/10 = ?", "correctAnswer": "3/10", "wrongAnswers": ["7/10", "10/10"]},
+  {"id": "sinf4_chorak3_blok50_level1_bir_07", "question": "1 − 4/9 = ?", "correctAnswer": "5/9", "wrongAnswers": ["4/9", "9/9"]},
+  {"id": "sinf4_chorak3_blok50_level1_bir_08", "question": "1 ni maxraji 7 bo'lgan kasr shaklida qanday yozamiz?", "correctAnswer": "7/7", "wrongAnswers": ["1/7", "7/1"]},
+  {"id": "sinf4_chorak3_blok50_level1_bir_09", "question": "Birdan kasrni ayirish uchun avval nima qilinadi?", "correctAnswer": "1 ayiriladigan kasr bilan bir xil maxrajli noto'g'ri kasrga aylantiriladi", "wrongAnswers": ["Kasr butun songa aylantiriladi", "Hech narsa, to'g'ridan-to'g'ri ayiriladi"]},
+  {"id": "sinf4_chorak3_blok50_level1_bir_10", "question": "1 − 6/6 = ?", "correctAnswer": "0", "wrongAnswers": ["1", "6/6"]}
+]

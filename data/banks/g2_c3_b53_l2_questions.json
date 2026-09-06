@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b53l2_01",
+    "question": "36 : 9 = ?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      5,
+      3
+    ]
+  },
+  {
+    "id": "s2c3b53l2_02",
+    "question": "45 : 9 = ?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      6,
+      4
+    ]
+  },
+  {
+    "id": "s2c3b53l2_03",
+    "question": "90 : 9 = ?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      11,
+      9
+    ]
+  },
+  {
+    "id": "s2c3b53l2_04",
+    "question": "9 : 9 = ?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s2c3b53l2_05",
+    "question": "18 : 9 = ?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      3,
+      1
+    ]
+  },
+  {
+    "id": "s2c3b53l2_06",
+    "question": "81 : 9 = ?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      10,
+      8
+    ]
+  },
+  {
+    "id": "s2c3b53l2_07",
+    "question": "63 : 9 = ?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      8,
+      6
+    ]
+  },
+  {
+    "id": "s2c3b53l2_08",
+    "question": "27 : 9 = ?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      4,
+      2
+    ]
+  },
+  {
+    "id": "s2c3b53l2_09",
+    "question": "72 : 9 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      9,
+      7
+    ]
+  },
+  {
+    "id": "s2c3b53l2_10",
+    "question": "54 : 9 = ?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      7,
+      5
+    ]
+  }
+]

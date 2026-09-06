@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b3l1_01",
+    "question": "4 * 7 = ?",
+    "correctAnswer": 28,
+    "wrongAnswers": [
+      30,
+      27
+    ]
+  },
+  {
+    "id": "s3c1b3l1_02",
+    "question": "5 * 7 = ?",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      37,
+      40
+    ]
+  },
+  {
+    "id": "s3c1b3l1_03",
+    "question": "4 * 6 = ?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      22,
+      42
+    ]
+  },
+  {
+    "id": "s3c1b3l1_04",
+    "question": "6 * 5 = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      15,
+      24
+    ]
+  },
+  {
+    "id": "s3c1b3l1_05",
+    "question": "46 * 0 = ?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      46,
+      1
+    ]
+  },
+  {
+    "id": "s3c1b3l1_06",
+    "question": "25 * 1 = ?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "s3c1b3l1_07",
+    "question": "0 : 57 = ?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      57,
+      1
+    ]
+  },
+  {
+    "id": "s3c1b3l1_08",
+    "question": "26 : 26 = ?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      0,
+      26
+    ]
+  },
+  {
+    "id": "s3c1b3l1_09",
+    "question": "Taqqoslang: 1 * 18 __ 18 * 0",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s3c1b3l1_10",
+    "question": "Nolni istalgan songa bo'lish mumkin, lekin songa nolni bo'lib bo'lmaydi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

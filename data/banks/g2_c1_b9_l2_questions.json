@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b9l2_01",
+    "question": "28 + 9 = ?",
+    "correctAnswer": 37,
+    "wrongAnswers": [
+      27,
+      47
+    ]
+  },
+  {
+    "id": "s2c1b9l2_02",
+    "question": "47 + 8 = ?",
+    "correctAnswer": 55,
+    "wrongAnswers": [
+      45,
+      65
+    ]
+  },
+  {
+    "id": "s2c1b9l2_03",
+    "question": "36 + 6 = ?",
+    "correctAnswer": 42,
+    "wrongAnswers": [
+      32,
+      52
+    ]
+  },
+  {
+    "id": "s2c1b9l2_04",
+    "question": "19 + 7 = ?",
+    "correctAnswer": 26,
+    "wrongAnswers": [
+      16,
+      36
+    ]
+  },
+  {
+    "id": "s2c1b9l2_05",
+    "question": "85 + 9 = ?",
+    "correctAnswer": 94,
+    "wrongAnswers": [
+      84,
+      104
+    ]
+  },
+  {
+    "id": "s2c1b9l2_06",
+    "question": "58 + 5 = ?",
+    "correctAnswer": 63,
+    "wrongAnswers": [
+      53,
+      73
+    ]
+  },
+  {
+    "id": "s2c1b9l2_07",
+    "question": "Garajda 27 ta yengil va 9 ta yuk mashina bor. Jami nechta?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      18,
+      46
+    ]
+  },
+  {
+    "id": "s2c1b9l2_08",
+    "question": "Kutubxonaga 68 ta kitob bor edi, 7 ta yangi kitob keldi. Jami nechta?",
+    "correctAnswer": 75,
+    "wrongAnswers": [
+      61,
+      85
+    ]
+  },
+  {
+    "id": "s2c1b9l2_09",
+    "question": "Taqqoslang: 46 + 8 __ 52",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s2c1b9l2_10",
+    "question": "Xatoni toping: 38 + 7 = 44. To'g'ri javob qancha?",
+    "correctAnswer": 45,
+    "wrongAnswers": [
+      44,
+      46
+    ]
+  }
+]

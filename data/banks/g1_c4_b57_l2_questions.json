@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b57l2_01",
+    "question": "Simmetriya o'qi shaklni nechta teng qismga bo'ladi?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "s1c4b57l2_02",
+    "question": "Kvadratning nechta simmetriya o'qi bor?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      2,
+      1
+    ]
+  },
+  {
+    "id": "s1c4b57l2_03",
+    "question": "Doiraning nechta simmetriya o'qi bor?",
+    "correctAnswer": "cheksiz ko'p",
+    "wrongAnswers": [
+      "1 ta",
+      "2 ta"
+    ]
+  },
+  {
+    "id": "s1c4b57l2_04",
+    "question": "Simmetriya o'qi qanday yo'nalishda bo'lishi mumkin?",
+    "correctAnswer": "vertikal, gorizontal yoki diagonal",
+    "wrongAnswers": [
+      "faqat vertikal",
+      "faqat gorizontal"
+    ]
+  },
+  {
+    "id": "s1c4b57l2_05",
+    "question": "Kapalak qanotlari qaysi o'qqa nisbatan simmetrik?",
+    "correctAnswer": "vertikal o'qqa",
+    "wrongAnswers": [
+      "gorizontal o'qqa",
+      "diagonal o'qqa"
+    ]
+  },
+  {
+    "id": "s1c4b57l2_06",
+    "question": "Teng tomonli uchburchakning nechta simmetriya o'qi bor?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "s1c4b57l2_07",
+    "question": "Simmetriya o'qidan bukilganda, shaklning ikki yarmi mos tushadi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b57l2_08",
+    "question": "Har qanday shaklning kamida bitta simmetriya o'qi bor.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b57l2_09",
+    "question": "To'g'ri to'rtburchakning (kvadrat emas) nechta simmetriya o'qi bor?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      4,
+      1
+    ]
+  },
+  {
+    "id": "s1c4b57l2_10",
+    "question": "Odam yuzi taxminan qaysi o'qqa nisbatan simmetrik?",
+    "correctAnswer": "vertikal o'qqa",
+    "wrongAnswers": [
+      "gorizontal o'qqa",
+      "diagonal o'qqa"
+    ]
+  }
+]

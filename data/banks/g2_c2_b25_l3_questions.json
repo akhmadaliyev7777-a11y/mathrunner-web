@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b25l3_01",
+    "question": "1-kun 240 ta, 2-kun 315 ta, 3-kun 180 ta gazeta sotildi. Jami nechta?",
+    "correctAnswer": 735,
+    "wrongAnswers": [
+      635,
+      835
+    ]
+  },
+  {
+    "id": "s2c2b25l3_02",
+    "question": "Maktabda 456 o'quvchi bor. 213 tasi qiz. Nechta o'g'il bola?",
+    "correctAnswer": 243,
+    "wrongAnswers": [
+      669,
+      233
+    ]
+  },
+  {
+    "id": "s2c2b25l3_03",
+    "question": "Zavodda 800 ta detal tayyorlash kerak. 350 tasi tayyor. Yana nechtasi kerak?",
+    "correctAnswer": 450,
+    "wrongAnswers": [
+      1150,
+      550
+    ]
+  },
+  {
+    "id": "s2c2b25l3_04",
+    "question": "Bir qishloqda 620 kishi, undan 45 kishi ko'p bo'lgan qishloqda nechta kishi?",
+    "correctAnswer": 665,
+    "wrongAnswers": [
+      575,
+      655
+    ]
+  },
+  {
+    "id": "s2c2b25l3_05",
+    "question": "Kutubxonada 500 kitob bor edi. 125 tasi berildi, 60 tasi qaytarildi. Hozir nechta bor?",
+    "correctAnswer": 435,
+    "wrongAnswers": [
+      565,
+      375
+    ]
+  },
+  {
+    "id": "s2c2b25l3_06",
+    "question": "Sardor 300 sahifali kitobni 3 kunda o'qidi: 1-kun 120, 2-kun 95 bet. 3-kun necha bet o'qidi?",
+    "correctAnswer": 85,
+    "wrongAnswers": [
+      215,
+      95
+    ]
+  },
+  {
+    "id": "s2c2b25l3_07",
+    "question": "Ikki sonning yig'indisi 480. Biri 260. Ikkinchisi qancha?",
+    "correctAnswer": 220,
+    "wrongAnswers": [
+      740,
+      240
+    ]
+  },
+  {
+    "id": "s2c2b25l3_08",
+    "question": "Ayirmasi 150 bo'lgan sonlar: kamayuvchi 600. Ayriluvchi qancha?",
+    "correctAnswer": 450,
+    "wrongAnswers": [
+      750,
+      350
+    ]
+  },
+  {
+    "id": "s2c2b25l3_09",
+    "question": "\"Jami\" so'zi ko'pincha qo'shish amalini bildiradi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c2b25l3_10",
+    "question": "Bir do'konda 700 ta mahsulot bor. Ulardan qanchasi sotilganini aniqlang.",
+    "correctAnswer": "Aniqlab bo'lmaydi",
+    "wrongAnswers": [
+      "Rost",
+      "Yolg'on"
+    ]
+  }
+]

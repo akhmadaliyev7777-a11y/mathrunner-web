@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b43l1_01",
+    "question": "12 : 3 = 4 ifodada 12 nima deb ataladi?",
+    "correctAnswer": "bo'linuvchi",
+    "wrongAnswers": [
+      "bo'luvchi",
+      "bo'linma"
+    ]
+  },
+  {
+    "id": "s2c3b43l1_02",
+    "question": "12 : 3 = 4 ifodada 3 nima deb ataladi?",
+    "correctAnswer": "bo'luvchi",
+    "wrongAnswers": [
+      "bo'linuvchi",
+      "bo'linma"
+    ]
+  },
+  {
+    "id": "s2c3b43l1_03",
+    "question": "12 : 3 = 4 ifodada 4 nima deb ataladi?",
+    "correctAnswer": "bo'linma",
+    "wrongAnswers": [
+      "bo'linuvchi",
+      "bo'luvchi"
+    ]
+  },
+  {
+    "id": "s2c3b43l1_04",
+    "question": "10 ta olmani 2 bolaga teng bo'lsak, har biriga nechtadan?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      8
+    ]
+  },
+  {
+    "id": "s2c3b43l1_05",
+    "question": "8 ni 4 ta teng qismga bo'lsak, har bir qismda nechta?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      4,
+      3
+    ]
+  },
+  {
+    "id": "s2c3b43l1_06",
+    "question": "3 * 4 = 12 bo'lsa, 12 : 4 nechaga teng?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      4,
+      12
+    ]
+  },
+  {
+    "id": "s2c3b43l1_07",
+    "question": "2 * 6 = 12 bo'lsa, 12 : 2 nechaga teng?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      2,
+      12
+    ]
+  },
+  {
+    "id": "s2c3b43l1_08",
+    "question": "Bo'lish — teng qismlarga ajratish amali.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b43l1_09",
+    "question": "6 : 2 va 2 : 6 bir xil natija beradi.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b43l1_10",
+    "question": "15 ta qalamni 3 ta quticha bo'lsak, har biriga nechtadan?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      3,
+      12
+    ]
+  }
+]

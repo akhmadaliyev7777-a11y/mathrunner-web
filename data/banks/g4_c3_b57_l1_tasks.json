@@ -1,0 +1,10 @@
+[
+  {"id": "sinf4_chorak3_blok57_level1_foiz_01", "prompt": "50% ni tasmada bo'yang (tasma 10 bo'lakka bo'lingan)", "denominator": 10, "numerator": 5},
+  {"id": "sinf4_chorak3_blok57_level1_foiz_02", "prompt": "30% ni bo'yang (tasma 10 bo'lakka bo'lingan)", "denominator": 10, "numerator": 3},
+  {"id": "sinf4_chorak3_blok57_level1_foiz_03", "prompt": "70% ni bo'yang (tasma 10 bo'lakka bo'lingan)", "denominator": 10, "numerator": 7},
+  {"id": "sinf4_chorak3_blok57_level1_foiz_04", "prompt": "10% ni bo'yang (tasma 10 bo'lakka bo'lingan)", "denominator": 10, "numerator": 1},
+  {"id": "sinf4_chorak3_blok57_level1_foiz_05", "prompt": "25% ni bo'yang (tasma 4 bo'lakka bo'lingan)", "denominator": 4, "numerator": 1},
+  {"id": "sinf4_chorak3_blok57_level1_foiz_06", "prompt": "75% ni bo'yang (tasma 4 bo'lakka bo'lingan)", "denominator": 4, "numerator": 3},
+  {"id": "sinf4_chorak3_blok57_level1_foiz_07", "prompt": "100% ni bo'yang (tasma 10 bo'lakka bo'lingan)", "denominator": 10, "numerator": 10},
+  {"id": "sinf4_chorak3_blok57_level1_foiz_08", "prompt": "40% ni bo'yang (tasma 5 bo'lakka bo'lingan)", "denominator": 5, "numerator": 2}
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b30l2_01",
+    "question": "Siniq chiziqning bo'g'inlari: 12 cm, 9 cm, 15 cm, 6 cm. Uzunligi necha cm?",
+    "correctAnswer": 42,
+    "wrongAnswers": [
+      36,
+      48
+    ]
+  },
+  {
+    "id": "s3c2b30l2_02",
+    "question": "LXX * II = ?  (arab)",
+    "correctAnswer": 140,
+    "wrongAnswers": [
+      120,
+      160
+    ]
+  },
+  {
+    "id": "s3c2b30l2_03",
+    "question": "5 t 200 kg - 1 t 750 kg = ? kg",
+    "correctAnswer": 3450,
+    "wrongAnswers": [
+      3550,
+      3350
+    ]
+  },
+  {
+    "id": "s3c2b30l2_04",
+    "question": "1 soat 15 minut ichida ish 3 marta bajarildi. Har biri necha minut davom etdi?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      20,
+      30
+    ]
+  },
+  {
+    "id": "s3c2b30l2_05",
+    "question": "Tog'lardagi ilonizi yo'l uzunligi 94 507 m dan 56 578 m ni ayiring.",
+    "correctAnswer": 37929,
+    "wrongAnswers": [
+      37829,
+      38029
+    ]
+  },
+  {
+    "id": "s3c2b30l2_06",
+    "question": "XXIV + XXVI = ?  (arab)",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      48,
+      52
+    ]
+  },
+  {
+    "id": "s3c2b30l2_07",
+    "question": "Bir bo'lakning uzunligi 8 dm 5 cm. 6 ta shunday bo'lak jami necha cm?",
+    "correctAnswer": 510,
+    "wrongAnswers": [
+      500,
+      520
+    ]
+  },
+  {
+    "id": "s3c2b30l2_08",
+    "question": "90 minut - 1 soat = ? minut",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      60,
+      45
+    ]
+  },
+  {
+    "id": "s3c2b30l2_09",
+    "question": "Taqqoslang: 2 t __ 1 999 kg",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s3c2b30l2_10",
+    "question": "C + XL + IX = ?  (arab)",
+    "correctAnswer": 149,
+    "wrongAnswers": [
+      139,
+      159
+    ]
+  }
+]

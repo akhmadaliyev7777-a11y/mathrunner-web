@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b24l2_01",
+    "question": "500 - 234 = ?",
+    "correctAnswer": 266,
+    "wrongAnswers": [
+      366,
+      166
+    ]
+  },
+  {
+    "id": "s2c2b24l2_02",
+    "question": "620 - 345 = ?",
+    "correctAnswer": 275,
+    "wrongAnswers": [
+      375,
+      175
+    ]
+  },
+  {
+    "id": "s2c2b24l2_03",
+    "question": "703 - 168 = ?",
+    "correctAnswer": 535,
+    "wrongAnswers": [
+      635,
+      435
+    ]
+  },
+  {
+    "id": "s2c2b24l2_04",
+    "question": "800 - 427 = ?",
+    "correctAnswer": 373,
+    "wrongAnswers": [
+      473,
+      273
+    ]
+  },
+  {
+    "id": "s2c2b24l2_05",
+    "question": "415 - 268 = ?",
+    "correctAnswer": 147,
+    "wrongAnswers": [
+      247,
+      47
+    ]
+  },
+  {
+    "id": "s2c2b24l2_06",
+    "question": "900 - 555 = ?",
+    "correctAnswer": 345,
+    "wrongAnswers": [
+      445,
+      245
+    ]
+  },
+  {
+    "id": "s2c2b24l2_07",
+    "question": "Do'konda 600 ta olma bor edi. 245 tasi sotildi. Nechta qoldi?",
+    "correctAnswer": 355,
+    "wrongAnswers": [
+      455,
+      255
+    ]
+  },
+  {
+    "id": "s2c2b24l2_08",
+    "question": "Ktitobda 500 bet. Bola 178 betini o'qidi. Necha bet qoldi?",
+    "correctAnswer": 322,
+    "wrongAnswers": [
+      422,
+      222
+    ]
+  },
+  {
+    "id": "s2c2b24l2_09",
+    "question": "Taqqoslang: 700 - 250 __ 500",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s2c2b24l2_10",
+    "question": "Xatoni toping: 800 - 350 = 550. To'g'ri javob qancha?",
+    "correctAnswer": 450,
+    "wrongAnswers": [
+      550,
+      350
+    ]
+  }
+]

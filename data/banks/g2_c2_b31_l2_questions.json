@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b31l2_01",
+    "question": "Film 1 soat 30 minut davom etdi. Bu necha minut?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      130,
+      60
+    ]
+  },
+  {
+    "id": "s2c2b31l2_02",
+    "question": "Dars 40 minutda boshlandi va 40 minut davom etdi. Yana 20 minutdan keyin nechanchi minut bo'ladi?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      80,
+      60
+    ]
+  },
+  {
+    "id": "s2c2b31l2_03",
+    "question": "Bola uyga 2 soat 15 minut kelib, keyin 45 minut o'ynadi. Jami necha minut?",
+    "correctAnswer": 180,
+    "wrongAnswers": [
+      150,
+      120
+    ]
+  },
+  {
+    "id": "s2c2b31l2_04",
+    "question": "Poyezd 3 soat yo'l bosdi. Har soatda 1 marta to'xtadi. Necha marta to'xtagan? (taxminan)",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": "s2c2b31l2_05",
+    "question": "1 soat 45 minut - 25 minut = ? minut",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      70,
+      90
+    ]
+  },
+  {
+    "id": "s2c2b31l2_06",
+    "question": "50 minut + 40 minut = ? minut  (1 soat = 60 minut)",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      80,
+      100
+    ]
+  },
+  {
+    "id": "s2c2b31l2_07",
+    "question": "Soat 9:30 da chiqib, 10:15 da yetib keldi. Yo'lda necha minut bo'ldi?",
+    "correctAnswer": 45,
+    "wrongAnswers": [
+      55,
+      35
+    ]
+  },
+  {
+    "id": "s2c2b31l2_08",
+    "question": "1 soat 60 minutga teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c2b31l2_09",
+    "question": "Yarim soat 40 minutga teng.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c2b31l2_10",
+    "question": "Xatoni toping: 1 soat 10 minut = 70 minut. To'g'rimi?  (Rost = 1, Yolg'on = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b52l3_01",
+    "question": "AB = 14 sm, BC = 16 sm, CD = 10 sm. ABCD siniq chiziq uzunligi necha sm?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      30,
+      46
+    ]
+  },
+  {
+    "id": "s1c4b52l3_02",
+    "question": "40 sm li kesmadan avval 12 sm, keyin 8 sm kesildi. Necha sm qoldi?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      30,
+      60
+    ]
+  },
+  {
+    "id": "s1c4b52l3_03",
+    "question": "Uchburchak (yopiq siniq chiziq) tomonlari 9 sm, 12 sm, 15 sm. Uzunligi (perimetri) necha sm?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      24,
+      27
+    ]
+  },
+  {
+    "id": "s1c4b52l3_04",
+    "question": "Bir kesma 22 sm, ikkinchisi 18 sm. Farqi necha sm?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      40,
+      5
+    ]
+  },
+  {
+    "id": "s1c4b52l3_05",
+    "question": "Siniq chiziq 4 bo'g'in: 5 sm, 6 sm, 7 sm, 2 sm. Uzunligi necha sm?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      18,
+      22
+    ]
+  },
+  {
+    "id": "s1c4b52l3_06",
+    "question": "Kesmani 5 sm ga uzaytirdik, u 25 sm bo'ldi. Avval necha sm edi?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      30,
+      21
+    ]
+  },
+  {
+    "id": "s1c4b52l3_07",
+    "question": "Taqqoslang: 15 sm + 15 sm __ 40 sm",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c4b52l3_08",
+    "question": "AB = 10 sm. Uni 4 sm va qolganiga bo'ldik. Qolgani necha sm?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      14,
+      5
+    ]
+  },
+  {
+    "id": "s1c4b52l3_09",
+    "question": "Bir necha kesmani qo'shsak, umumiy uzunlik ortadi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b52l3_10",
+    "question": "Xato: 20 sm dan 8 sm ni ayirsak 28 sm deyildi. To'g'ri javob necha sm?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      28,
+      11
+    ]
+  }
+]

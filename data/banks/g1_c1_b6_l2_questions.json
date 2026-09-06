@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b6l2_01",
+    "question": "4 sonidan keyingi son qaysi?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "s1c1b6l2_02",
+    "question": "7 sonidan keyingi son qaysi?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      6,
+      9
+    ]
+  },
+  {
+    "id": "s1c1b6l2_03",
+    "question": "9 sonidan keyingi son qaysi?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      8,
+      11
+    ]
+  },
+  {
+    "id": "s1c1b6l2_04",
+    "question": "2 sonidan keyingi son qaysi?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "s1c1b6l2_05",
+    "question": "6 sonidan keyingi son qaysi?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      5,
+      8
+    ]
+  },
+  {
+    "id": "s1c1b6l2_06",
+    "question": "5 sonidan oldingi son qaysi?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      6,
+      3
+    ]
+  },
+  {
+    "id": "s1c1b6l2_07",
+    "question": "8 sonidan oldingi son qaysi?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      9,
+      6
+    ]
+  },
+  {
+    "id": "s1c1b6l2_08",
+    "question": "3 sonidan oldingi son qaysi?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      4,
+      1
+    ]
+  },
+  {
+    "id": "s1c1b6l2_09",
+    "question": "10 sonidan oldingi son qaysi?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      11,
+      8
+    ]
+  },
+  {
+    "id": "s1c1b6l2_10",
+    "question": "6 sonining qo'shnilari qaysilar?",
+    "correctAnswer": "5 va 7",
+    "wrongAnswers": [
+      "4 va 8",
+      "6 va 7"
+    ]
+  }
+]

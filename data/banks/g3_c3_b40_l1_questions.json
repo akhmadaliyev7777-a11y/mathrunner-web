@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b40l1_01",
+    "question": "6 kg necha g?",
+    "correctAnswer": 6000,
+    "wrongAnswers": [
+      600,
+      60000
+    ]
+  },
+  {
+    "id": "s3c3b40l1_02",
+    "question": "4 km 500 m necha m?",
+    "correctAnswer": 4500,
+    "wrongAnswers": [
+      4050,
+      45000
+    ]
+  },
+  {
+    "id": "s3c3b40l1_03",
+    "question": "2 dm2 necha cm2?",
+    "correctAnswer": 200,
+    "wrongAnswers": [
+      20,
+      2000
+    ]
+  },
+  {
+    "id": "s3c3b40l1_04",
+    "question": "3 dm3 necha cm3?",
+    "correctAnswer": 3000,
+    "wrongAnswers": [
+      300,
+      30000
+    ]
+  },
+  {
+    "id": "s3c3b40l1_05",
+    "question": "Brutto 30 kg, tara 4 kg. Netto qancha?",
+    "correctAnswer": 26,
+    "wrongAnswers": [
+      34,
+      25
+    ]
+  },
+  {
+    "id": "s3c3b40l1_06",
+    "question": "5 000 m necha km?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      50,
+      500
+    ]
+  },
+  {
+    "id": "s3c3b40l1_07",
+    "question": "1 ga necha m2?",
+    "correctAnswer": 10000,
+    "wrongAnswers": [
+      1000,
+      100000
+    ]
+  },
+  {
+    "id": "s3c3b40l1_08",
+    "question": "Taqqoslang: 3 kg __ 2 999 g",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s3c3b40l1_09",
+    "question": "12 litr suvni 3 litrlik idishlarga bo'lsak, nechta idish?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "s3c3b40l1_10",
+    "question": "1 tonna = 1 000 kg = 10 sentner.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

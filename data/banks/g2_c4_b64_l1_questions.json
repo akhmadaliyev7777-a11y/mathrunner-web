@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b64l1_01",
+    "question": "3 * 10 = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      3,
+      300
+    ]
+  },
+  {
+    "id": "s2c4b64l1_02",
+    "question": "7 * 10 = ?",
+    "correctAnswer": 70,
+    "wrongAnswers": [
+      7,
+      700
+    ]
+  },
+  {
+    "id": "s2c4b64l1_03",
+    "question": "5 * 10 = ?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      5,
+      500
+    ]
+  },
+  {
+    "id": "s2c4b64l1_04",
+    "question": "9 * 10 = ?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      9,
+      900
+    ]
+  },
+  {
+    "id": "s2c4b64l1_05",
+    "question": "8 * 10 = ?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      8,
+      800
+    ]
+  },
+  {
+    "id": "s2c4b64l1_06",
+    "question": "6 * 10 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      6,
+      600
+    ]
+  },
+  {
+    "id": "s2c4b64l1_07",
+    "question": "4 * 100 = ?",
+    "correctAnswer": 400,
+    "wrongAnswers": [
+      40,
+      4
+    ]
+  },
+  {
+    "id": "s2c4b64l1_08",
+    "question": "9 * 100 = ?",
+    "correctAnswer": 900,
+    "wrongAnswers": [
+      90,
+      9
+    ]
+  },
+  {
+    "id": "s2c4b64l1_09",
+    "question": "60 : 10 = ?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      60,
+      600
+    ]
+  },
+  {
+    "id": "s2c4b64l1_10",
+    "question": "500 : 100 = ?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      50,
+      500
+    ]
+  }
+]

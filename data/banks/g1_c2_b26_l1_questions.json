@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b26l1_01",
+    "question": "8 + 5 = ?",
+    "correctAnswer": 13,
+    "wrongAnswers": [
+      3,
+      14
+    ]
+  },
+  {
+    "id": "s1c2b26l1_02",
+    "question": "7 + 6 = ?",
+    "correctAnswer": 13,
+    "wrongAnswers": [
+      3,
+      14
+    ]
+  },
+  {
+    "id": "s1c2b26l1_03",
+    "question": "9 + 4 = ?",
+    "correctAnswer": 13,
+    "wrongAnswers": [
+      3,
+      14
+    ]
+  },
+  {
+    "id": "s1c2b26l1_04",
+    "question": "6 + 7 = ?",
+    "correctAnswer": 13,
+    "wrongAnswers": [
+      3,
+      14
+    ]
+  },
+  {
+    "id": "s1c2b26l1_05",
+    "question": "8 + 8 = ?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      6,
+      17
+    ]
+  },
+  {
+    "id": "s1c2b26l1_06",
+    "question": "9 + 9 = ?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      8,
+      19
+    ]
+  },
+  {
+    "id": "s1c2b26l1_07",
+    "question": "7 + 8 = ?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      5,
+      16
+    ]
+  },
+  {
+    "id": "s1c2b26l1_08",
+    "question": "6 + 6 = ?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      2,
+      13
+    ]
+  },
+  {
+    "id": "s1c2b26l1_09",
+    "question": "9 + 3 ni hisoblang: avval 9 ni 10 gacha to'ldiring (9 + 1), keyin qolganini qo'shing.",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      11,
+      13
+    ]
+  },
+  {
+    "id": "s1c2b26l1_10",
+    "question": "8 + 4 = ?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      11,
+      13
+    ]
+  }
+]

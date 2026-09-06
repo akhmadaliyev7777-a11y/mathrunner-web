@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b35l2_01",
+    "question": "Bir to'rtburchakda 4 ta to'g'ri burchak bor. Bu qanday shakl bo'lishi mumkin?",
+    "correctAnswer": "to'g'ri to'rtburchak",
+    "wrongAnswers": [
+      "uchburchak",
+      "beshburchak"
+    ]
+  },
+  {
+    "id": "s2c3b35l2_02",
+    "question": "Uchburchakning ikkita burchagi o'tkir. Uchinchisi to'g'ri bo'lsa, uchburchakda nechta o'tkir burchak bor?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      3,
+      1
+    ]
+  },
+  {
+    "id": "s2c3b35l2_03",
+    "question": "Beshburchakda nechta burchak bor?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "s2c3b35l2_04",
+    "question": "Goniyani burchakka qo'yganda tomonlar to'liq mos tushdi. Bu qanday burchak?",
+    "correctAnswer": "to'g'ri burchak",
+    "wrongAnswers": [
+      "o'tkir burchak",
+      "o'tmas burchak"
+    ]
+  },
+  {
+    "id": "s2c3b35l2_05",
+    "question": "Oltiburchakda nechta burchak bor?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": "s2c3b35l2_06",
+    "question": "Bir burchak goniyadan kichik chiqdi. U qanday burchak?",
+    "correctAnswer": "o'tkir burchak",
+    "wrongAnswers": [
+      "o'tmas burchak",
+      "to'g'ri burchak"
+    ]
+  },
+  {
+    "id": "s2c3b35l2_07",
+    "question": "To'rtburchakda 4 ta burchak bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b35l2_08",
+    "question": "O'tmas burchak goniyaga to'liq mos tushadi.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b35l2_09",
+    "question": "Kvadratda hammasi bo'lib nechta to'g'ri burchak bor?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s2c3b35l2_10",
+    "question": "Xato: \"o'tkir burchak to'g'ri burchakdan katta\" deyildi. To'g'ri javob: o'tkir burchak to'g'ri burchakdan ... .",
+    "correctAnswer": "kichik",
+    "wrongAnswers": [
+      "katta",
+      "teng"
+    ]
+  }
+]

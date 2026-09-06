@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b69l1_01",
+    "question": "12 million 54 ming 120 sonini raqamlar bilan yozing.",
+    "correctAnswer": 12054120,
+    "wrongAnswers": [
+      120054120,
+      1254120
+    ]
+  },
+  {
+    "id": "s3c4b69l1_02",
+    "question": "Uch yuz o'ttiz yetti million sonini raqamlar bilan yozing.",
+    "correctAnswer": 337000000,
+    "wrongAnswers": [
+      33700000,
+      3370000000
+    ]
+  },
+  {
+    "id": "s3c4b69l1_03",
+    "question": "9 738 000 soni qanday o'qiladi?  (to'qqiz million yetti yuz o'ttiz sakkiz ming = 1, to'qqiz yuz million... = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b69l1_04",
+    "question": "800 000 + 60 000 + 500 = ?",
+    "correctAnswer": 860500,
+    "wrongAnswers": [
+      86500,
+      806500
+    ]
+  },
+  {
+    "id": "s3c4b69l1_05",
+    "question": "Taqqoslang: 337 000 000 __ 33 700 000",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s3c4b69l1_06",
+    "question": "Eng katta 6 xonali sonni yozing.",
+    "correctAnswer": 999999,
+    "wrongAnswers": [
+      100000,
+      9999999
+    ]
+  },
+  {
+    "id": "s3c4b69l1_07",
+    "question": "1 000 000 - 1 = ?",
+    "correctAnswer": 999999,
+    "wrongAnswers": [
+      900000,
+      1000001
+    ]
+  },
+  {
+    "id": "s3c4b69l1_08",
+    "question": "45 mln 300 ming + 12 mln 700 ming = ? (raqamlarda)",
+    "correctAnswer": 58000000,
+    "wrongAnswers": [
+      57000000,
+      58100000
+    ]
+  },
+  {
+    "id": "s3c4b69l1_09",
+    "question": "O'n ikki million to'rt yuz ming sonini raqamlar bilan yozing.",
+    "correctAnswer": 12400000,
+    "wrongAnswers": [
+      124000000,
+      1240000
+    ]
+  },
+  {
+    "id": "s3c4b69l1_10",
+    "question": "Taqqoslang: 89 083 __ 89 803",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  }
+]

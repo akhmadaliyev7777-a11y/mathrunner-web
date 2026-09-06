@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b29l2_01",
+    "question": "45 sonida nechta o'nlik bor?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      5,
+      45
+    ]
+  },
+  {
+    "id": "s1c2b29l2_02",
+    "question": "82 sonida nechta o'nlik bor?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      2,
+      82
+    ]
+  },
+  {
+    "id": "s1c2b29l2_03",
+    "question": "30 sonida nechta o'nlik bor?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      0,
+      30
+    ]
+  },
+  {
+    "id": "s1c2b29l2_04",
+    "question": "67 sonida nechta o'nlik bor?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      7,
+      67
+    ]
+  },
+  {
+    "id": "s1c2b29l2_05",
+    "question": "91 sonida nechta o'nlik bor?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      1,
+      91
+    ]
+  },
+  {
+    "id": "s1c2b29l2_06",
+    "question": "3 o'nlik va 6 birlikdan iborat son qaysi?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      63,
+      306
+    ]
+  },
+  {
+    "id": "s1c2b29l2_07",
+    "question": "\"Yetmish besh\" soni raqamlarda qanday yoziladi?",
+    "correctAnswer": 75,
+    "wrongAnswers": [
+      57,
+      705
+    ]
+  },
+  {
+    "id": "s1c2b29l2_08",
+    "question": "58 sonining birliklar xonasidagi raqam qaysi?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      5,
+      58
+    ]
+  },
+  {
+    "id": "s1c2b29l2_09",
+    "question": "Eng katta ikki xonali son qaysi?",
+    "correctAnswer": 99,
+    "wrongAnswers": [
+      100,
+      90
+    ]
+  },
+  {
+    "id": "s1c2b29l2_10",
+    "question": "Eng kichik ikki xonali son qaysi?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      1,
+      99
+    ]
+  }
+]

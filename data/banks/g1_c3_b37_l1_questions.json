@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b37l1_01",
+    "question": "Masalada berilgan ma'lumot qanday ataladi?",
+    "correctAnswer": "masala sharti",
+    "wrongAnswers": [
+      "masala savoli",
+      "masala javobi"
+    ]
+  },
+  {
+    "id": "s1c3b37l1_02",
+    "question": "Masalada nima topilishi kerakligini bildiruvchi qism qanday ataladi?",
+    "correctAnswer": "masala savoli",
+    "wrongAnswers": [
+      "masala sharti",
+      "masala javobi"
+    ]
+  },
+  {
+    "id": "s1c3b37l1_03",
+    "question": "Masala yechilgandan keyin olingan son qanday ataladi?",
+    "correctAnswer": "masala javobi",
+    "wrongAnswers": [
+      "masala sharti",
+      "masala savoli"
+    ]
+  },
+  {
+    "id": "s1c3b37l1_04",
+    "question": "\"Anvarda 5 ta olma bor edi, 3 ta olma qo'shildi. Nechta bo'ldi?\" Bu masalaning savoli qaysi?",
+    "correctAnswer": "Nechta bo'ldi?",
+    "wrongAnswers": [
+      "5 ta olma bor edi",
+      "3 ta olma qo'shildi"
+    ]
+  },
+  {
+    "id": "s1c3b37l1_05",
+    "question": "Yuqoridagi masalaning javobi qancha?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      2,
+      15
+    ]
+  },
+  {
+    "id": "s1c3b37l1_06",
+    "question": "Masalani yechishdan oldin nima tuziladi?",
+    "correctAnswer": "yechish rejasi",
+    "wrongAnswers": [
+      "javob",
+      "shart"
+    ]
+  },
+  {
+    "id": "s1c3b37l1_07",
+    "question": "\"7 ta qush uchib ketdi, 4 tasi qoldi\" — boshda nechta qush bor edi?",
+    "correctAnswer": 11,
+    "wrongAnswers": [
+      3,
+      28
+    ]
+  },
+  {
+    "id": "s1c3b37l1_08",
+    "question": "Masala sharti rasm bilan ham berilishi mumkinmi?",
+    "correctAnswer": "ha",
+    "wrongAnswers": [
+      "yo'q",
+      "faqat sonlar bilan"
+    ]
+  },
+  {
+    "id": "s1c3b37l1_09",
+    "question": "Har bir masalada shart va savol bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b37l1_10",
+    "question": "\"Savatda 6 ta nok, 4 ta olma bor. Jami nechta meva?\" Javobi qancha?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      2,
+      24
+    ]
+  }
+]

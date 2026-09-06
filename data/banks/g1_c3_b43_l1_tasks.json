@@ -1,0 +1,322 @@
+[
+  {
+    "id": "g1c3b43l1_set_01",
+    "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring",
+    "setAName": "Juft sonlar",
+    "setBName": "10 dan katta sonlar",
+    "elements": [
+      {
+        "value": "4",
+        "zone": "onlyA"
+      },
+      {
+        "value": "12",
+        "zone": "both"
+      },
+      {
+        "value": "15",
+        "zone": "onlyB"
+      },
+      {
+        "value": "8",
+        "zone": "onlyA"
+      },
+      {
+        "value": "20",
+        "zone": "both"
+      },
+      {
+        "value": "7",
+        "zone": "neither"
+      }
+    ]
+  },
+  {
+    "id": "g1c3b43l1_set_02",
+    "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring",
+    "setAName": "10 dan katta sonlar",
+    "setBName": "20 dan kichik sonlar",
+    "elements": [
+      {
+        "value": "5",
+        "zone": "onlyB"
+      },
+      {
+        "value": "15",
+        "zone": "both"
+      },
+      {
+        "value": "25",
+        "zone": "onlyA"
+      },
+      {
+        "value": "18",
+        "zone": "both"
+      },
+      {
+        "value": "12",
+        "zone": "both"
+      },
+      {
+        "value": "30",
+        "zone": "onlyA"
+      }
+    ]
+  },
+  {
+    "id": "g1c3b43l1_set_03",
+    "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring",
+    "setAName": "Toq sonlar",
+    "setBName": "5 dan katta sonlar",
+    "elements": [
+      {
+        "value": "3",
+        "zone": "onlyA"
+      },
+      {
+        "value": "7",
+        "zone": "both"
+      },
+      {
+        "value": "9",
+        "zone": "both"
+      },
+      {
+        "value": "4",
+        "zone": "neither"
+      },
+      {
+        "value": "11",
+        "zone": "both"
+      },
+      {
+        "value": "2",
+        "zone": "neither"
+      }
+    ]
+  },
+  {
+    "id": "g1c3b43l1_set_04",
+    "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring",
+    "setAName": "Bir xonali sonlar",
+    "setBName": "Juft sonlar",
+    "elements": [
+      {
+        "value": "4",
+        "zone": "both"
+      },
+      {
+        "value": "6",
+        "zone": "both"
+      },
+      {
+        "value": "8",
+        "zone": "both"
+      },
+      {
+        "value": "12",
+        "zone": "onlyB"
+      },
+      {
+        "value": "20",
+        "zone": "onlyB"
+      },
+      {
+        "value": "7",
+        "zone": "onlyA"
+      }
+    ]
+  },
+  {
+    "id": "g1c3b43l1_set_05",
+    "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring",
+    "setAName": "20 dan katta sonlar",
+    "setBName": "50 dan kichik sonlar",
+    "elements": [
+      {
+        "value": "15",
+        "zone": "onlyB"
+      },
+      {
+        "value": "25",
+        "zone": "both"
+      },
+      {
+        "value": "35",
+        "zone": "both"
+      },
+      {
+        "value": "60",
+        "zone": "onlyA"
+      },
+      {
+        "value": "45",
+        "zone": "both"
+      },
+      {
+        "value": "10",
+        "zone": "onlyB"
+      }
+    ]
+  },
+  {
+    "id": "g1c3b43l1_set_06",
+    "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring",
+    "setAName": "Juft sonlar",
+    "setBName": "20 dan katta sonlar",
+    "elements": [
+      {
+        "value": "10",
+        "zone": "onlyA"
+      },
+      {
+        "value": "24",
+        "zone": "both"
+      },
+      {
+        "value": "30",
+        "zone": "both"
+      },
+      {
+        "value": "15",
+        "zone": "neither"
+      },
+      {
+        "value": "40",
+        "zone": "both"
+      },
+      {
+        "value": "5",
+        "zone": "neither"
+      }
+    ]
+  },
+  {
+    "id": "g1c3b43l1_set_07",
+    "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring",
+    "setAName": "Ikki xonali sonlar",
+    "setBName": "40 dan katta sonlar",
+    "elements": [
+      {
+        "value": "8",
+        "zone": "neither"
+      },
+      {
+        "value": "25",
+        "zone": "onlyA"
+      },
+      {
+        "value": "50",
+        "zone": "both"
+      },
+      {
+        "value": "90",
+        "zone": "both"
+      },
+      {
+        "value": "6",
+        "zone": "neither"
+      },
+      {
+        "value": "35",
+        "zone": "onlyA"
+      }
+    ]
+  },
+  {
+    "id": "g1c3b43l1_set_08",
+    "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring",
+    "setAName": "Toq sonlar",
+    "setBName": "15 dan kichik sonlar",
+    "elements": [
+      {
+        "value": "7",
+        "zone": "both"
+      },
+      {
+        "value": "13",
+        "zone": "both"
+      },
+      {
+        "value": "21",
+        "zone": "onlyA"
+      },
+      {
+        "value": "9",
+        "zone": "both"
+      },
+      {
+        "value": "25",
+        "zone": "onlyA"
+      },
+      {
+        "value": "4",
+        "zone": "onlyB"
+      }
+    ]
+  },
+  {
+    "id": "g1c3b43l1_set_09",
+    "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring",
+    "setAName": "30 dan katta sonlar",
+    "setBName": "70 dan kichik sonlar",
+    "elements": [
+      {
+        "value": "20",
+        "zone": "onlyB"
+      },
+      {
+        "value": "40",
+        "zone": "both"
+      },
+      {
+        "value": "50",
+        "zone": "both"
+      },
+      {
+        "value": "80",
+        "zone": "onlyA"
+      },
+      {
+        "value": "60",
+        "zone": "both"
+      },
+      {
+        "value": "25",
+        "zone": "onlyB"
+      }
+    ]
+  },
+  {
+    "id": "g1c3b43l1_set_10",
+    "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring",
+    "setAName": "Bir xonali sonlar",
+    "setBName": "5 dan katta sonlar",
+    "elements": [
+      {
+        "value": "3",
+        "zone": "onlyA"
+      },
+      {
+        "value": "7",
+        "zone": "both"
+      },
+      {
+        "value": "9",
+        "zone": "both"
+      },
+      {
+        "value": "15",
+        "zone": "onlyB"
+      },
+      {
+        "value": "40",
+        "zone": "onlyB"
+      },
+      {
+        "value": "4",
+        "zone": "onlyA"
+      }
+    ]
+  }
+]

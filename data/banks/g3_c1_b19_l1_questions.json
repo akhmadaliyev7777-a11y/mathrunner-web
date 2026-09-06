@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b19l1_01",
+    "question": "1 minut necha sekund?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      100,
+      600
+    ]
+  },
+  {
+    "id": "s3c1b19l1_02",
+    "question": "2 minut necha sekund?",
+    "correctAnswer": 120,
+    "wrongAnswers": [
+      60,
+      200
+    ]
+  },
+  {
+    "id": "s3c1b19l1_03",
+    "question": "76 minut necha sekund?",
+    "correctAnswer": 4560,
+    "wrongAnswers": [
+      760,
+      7600
+    ]
+  },
+  {
+    "id": "s3c1b19l1_04",
+    "question": "7 200 sekund necha minut?",
+    "correctAnswer": 120,
+    "wrongAnswers": [
+      72,
+      7200
+    ]
+  },
+  {
+    "id": "s3c1b19l1_05",
+    "question": "1 soat necha sekund?",
+    "correctAnswer": 3600,
+    "wrongAnswers": [
+      360,
+      60
+    ]
+  },
+  {
+    "id": "s3c1b19l1_06",
+    "question": "8 soat 46 minut + 3 soat 59 minut = ? minut  (javobni minutlarda)",
+    "correctAnswer": 765,
+    "wrongAnswers": [
+      585,
+      745
+    ]
+  },
+  {
+    "id": "s3c1b19l1_07",
+    "question": "180 sekund necha minut?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      30,
+      18
+    ]
+  },
+  {
+    "id": "s3c1b19l1_08",
+    "question": "Taqqoslang: 3 minut __ 200 sekund",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s3c1b19l1_09",
+    "question": "1 sutkada necha minut bor?",
+    "correctAnswer": 1440,
+    "wrongAnswers": [
+      240,
+      144
+    ]
+  },
+  {
+    "id": "s3c1b19l1_10",
+    "question": "1 soat 60 minutga, 1 minut 60 sekundga teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

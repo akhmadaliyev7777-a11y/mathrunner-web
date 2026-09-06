@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b38l1_01",
+    "question": "1 cm2 necha mm2?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      10,
+      1000
+    ]
+  },
+  {
+    "id": "s3c3b38l1_02",
+    "question": "1 dm2 necha cm2?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      10,
+      1000
+    ]
+  },
+  {
+    "id": "s3c3b38l1_03",
+    "question": "1 m2 necha dm2?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      10,
+      1000
+    ]
+  },
+  {
+    "id": "s3c3b38l1_04",
+    "question": "780 000 mm2 necha cm2?",
+    "correctAnswer": 7800,
+    "wrongAnswers": [
+      78000,
+      780
+    ]
+  },
+  {
+    "id": "s3c3b38l1_05",
+    "question": "370 000 dm2 necha m2?",
+    "correctAnswer": 3700,
+    "wrongAnswers": [
+      37000,
+      370
+    ]
+  },
+  {
+    "id": "s3c3b38l1_06",
+    "question": "5 dm2 necha cm2?",
+    "correctAnswer": 500,
+    "wrongAnswers": [
+      50,
+      5000
+    ]
+  },
+  {
+    "id": "s3c3b38l1_07",
+    "question": "3 m2 necha cm2?",
+    "correctAnswer": 30000,
+    "wrongAnswers": [
+      3000,
+      300000
+    ]
+  },
+  {
+    "id": "s3c3b38l1_08",
+    "question": "Taqqoslang: 1 m2 __ 100 dm2",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s3c3b38l1_09",
+    "question": "200 cm2 necha dm2?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      20,
+      200
+    ]
+  },
+  {
+    "id": "s3c3b38l1_10",
+    "question": "1 m2 = 10 000 cm2.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

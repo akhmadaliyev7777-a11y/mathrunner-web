@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak4_blok61_level1_yuza_01", "question": "Nostandart shakl paletkada 12 ta to'liq va 8 ta yarim katakni qopladi. Har katak 1 sm². Taxminiy yuza necha sm²?", "correctAnswer": 16, "wrongAnswers": [20, 12]},
+  {"id": "sinf4_chorak4_blok61_level1_yuza_02", "question": "Shakl 10 ta to'liq katakni egallagan. Har katak 1 sm². Yuzasi necha sm²?", "correctAnswer": 10, "wrongAnswers": [1, 20]},
+  {"id": "sinf4_chorak4_blok61_level1_yuza_03", "question": "Ko'l xaritada 30 ta to'liq va 20 ta yarim katak. Har katak 1 sm². Taxminiy yuza necha sm²?", "correctAnswer": 40, "wrongAnswers": [50, 30]},
+  {"id": "sinf4_chorak4_blok61_level1_yuza_04", "question": "Paletka nima uchun ishlatiladi?", "correctAnswer": "Nostandart shaklning yuzasini taxminan topish uchun", "wrongAnswers": ["Perimetrni o'lchash uchun", "Burchak o'lchash uchun"]},
+  {"id": "sinf4_chorak4_blok61_level1_yuza_05", "question": "Barg 8 ta to'liq va 6 ta yarim katak. Taxminiy yuza necha sm²?", "correctAnswer": 11, "wrongAnswers": [14, 8]},
+  {"id": "sinf4_chorak4_blok61_level1_yuza_06", "question": "Paletka bilan topilgan yuza aniqmi yoki taxminiymi?", "correctAnswer": "taxminiy", "wrongAnswers": ["aniq", "har doim to'g'ri"]},
+  {"id": "sinf4_chorak4_blok61_level1_yuza_07", "question": "Shakl 16 ta to'liq katakni egallagan, har katak 1 sm². Yuzasi necha sm²?", "correctAnswer": 16, "wrongAnswers": [4, 8]},
+  {"id": "sinf4_chorak4_blok61_level1_yuza_08", "question": "20 ta to'liq va 0 ta yarim katak. Yuza necha sm²?", "correctAnswer": 20, "wrongAnswers": [10, 40]},
+  {"id": "sinf4_chorak4_blok61_level1_yuza_09", "question": "Nostandart shaklni o'lchashda katakni kichraytirsak, natija qanday bo'ladi?", "correctAnswer": "Aniqroq bo'ladi", "wrongAnswers": ["Aniqligi kamayadi", "O'zgarmaydi"]},
+  {"id": "sinf4_chorak4_blok61_level1_yuza_10", "question": "6 ta to'liq va 12 ta yarim katak. Taxminiy yuza necha sm²?", "correctAnswer": 12, "wrongAnswers": [18, 6]}
+]

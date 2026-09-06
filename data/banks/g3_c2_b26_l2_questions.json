@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b26l2_01",
+    "question": "34 400 : (566 + 234) - 17 = ?",
+    "correctAnswer": 26,
+    "wrongAnswers": [
+      43,
+      30
+    ]
+  },
+  {
+    "id": "s3c2b26l2_02",
+    "question": "Do'konga 5 t 200 kg kartoshka keldi. Uni 8 ta bir xil mashinaga teng ortishmoqchi. Bitta mashinaga necha kg?",
+    "correctAnswer": 650,
+    "wrongAnswers": [
+      640,
+      660
+    ]
+  },
+  {
+    "id": "s3c2b26l2_03",
+    "question": "Sartarosh 6 soatda (360 minut) 8 kishini qabul qildi. Bir kishiga qancha vaqt ketdi?",
+    "correctAnswer": 45,
+    "wrongAnswers": [
+      40,
+      50
+    ]
+  },
+  {
+    "id": "s3c2b26l2_04",
+    "question": "Bir bochkada 96 litr suv bor. Uni 4 litrli chelaklarga quyilsa, nechta chelak kerak?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      23,
+      25
+    ]
+  },
+  {
+    "id": "s3c2b26l2_05",
+    "question": "7 ta bir xil daftar 42 000 so'm. 12 ta daftar qancha turadi?",
+    "correctAnswer": 72000,
+    "wrongAnswers": [
+      42012,
+      60000
+    ]
+  },
+  {
+    "id": "s3c2b26l2_06",
+    "question": "Poyezd 6 soatda 480 km yurdi. Bir soatda o'rtacha necha km?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      70,
+      90
+    ]
+  },
+  {
+    "id": "s3c2b26l2_07",
+    "question": "800 : (25 * 4) = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      80,
+      4
+    ]
+  },
+  {
+    "id": "s3c2b26l2_08",
+    "question": "Bir ish 3 kunda tugadi. Har kuni 15 000 so'mdan to'landi. Jami qancha to'landi?",
+    "correctAnswer": 45000,
+    "wrongAnswers": [
+      30000,
+      60000
+    ]
+  },
+  {
+    "id": "s3c2b26l2_09",
+    "question": "96 ta shar 3 xonaga teng taqsimlandi, keyin har xonadan 8 tasi yorildi. Har xonada nechta shar qoldi?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      32,
+      16
+    ]
+  },
+  {
+    "id": "s3c2b26l2_10",
+    "question": "Taqqoslang: 144 : 8 __ 20",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  }
+]

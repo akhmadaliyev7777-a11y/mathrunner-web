@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok13_level1_cha_01", "question": "Ma'lumotlar: 3, 5, 3, 7, 3, 5. 3 raqamining chastotasi nechi?", "correctAnswer": 3, "wrongAnswers": [2, 6]},
+  {"id": "sinf4_chorak1_blok13_level1_cha_02", "question": "Ma'lumotlar: 2, 2, 4, 4, 4, 6. Eng katta chastotaga ega raqam qaysi?", "correctAnswer": 4, "wrongAnswers": [2, 6]},
+  {"id": "sinf4_chorak1_blok13_level1_cha_03", "question": "Chastota nimani bildiradi?", "correctAnswer": "Bir qiymatning necha marta uchrashini", "wrongAnswers": ["Eng katta qiymatni", "Barcha qiymatlar yig'indisini"]},
+  {"id": "sinf4_chorak1_blok13_level1_cha_04", "question": "Ma'lumotlar: 1, 1, 1, 1, 2. 1 raqamining chastotasi nechi?", "correctAnswer": 4, "wrongAnswers": [1, 5]},
+  {"id": "sinf4_chorak1_blok13_level1_cha_05", "question": "Jadval: qizil — 5, ko'k — 8, yashil — 2. Qaysi rang eng kam uchraydi?", "correctAnswer": "yashil", "wrongAnswers": ["qizil", "ko'k"]},
+  {"id": "sinf4_chorak1_blok13_level1_cha_06", "question": "Ma'lumotlar: 10, 20, 10, 30, 20, 10. 10 va 20 ning chastotalari yig'indisi nechi?", "correctAnswer": 5, "wrongAnswers": [3, 6]},
+  {"id": "sinf4_chorak1_blok13_level1_cha_07", "question": "Ob-havo: quyoshli, yomg'irli, quyoshli, quyoshli, bulutli, quyoshli, yomg'irli. Quyoshli kunlar chastotasi nechi?", "correctAnswer": 4, "wrongAnswers": [3, 7]},
+  {"id": "sinf4_chorak1_blok13_level1_cha_08", "question": "Ma'lumotlar: 6, 6, 6, 6, 6. 6 raqamining chastotasi nechi?", "correctAnswer": 5, "wrongAnswers": [1, 6]},
+  {"id": "sinf4_chorak1_blok13_level1_cha_09", "question": "Sinf so'rovi: matematika — 12, ona tili — 9, jismoniy tarbiya — 15. Jami nechta o'quvchi so'ralgan?", "correctAnswer": 36, "wrongAnswers": [27, 15]},
+  {"id": "sinf4_chorak1_blok13_level1_cha_10", "question": "Ma'lumotlar: 4, 8, 4, 8, 4, 8, 4. 4 ning chastotasi 8 ning chastotasidan qancha ko'p?", "correctAnswer": 1, "wrongAnswers": [0, 3]}
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b51l1_01",
+    "question": "8 * 7 = ?",
+    "correctAnswer": 56,
+    "wrongAnswers": [
+      48,
+      64
+    ]
+  },
+  {
+    "id": "s2c3b51l1_02",
+    "question": "7 * ? = 21",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      4,
+      2
+    ]
+  },
+  {
+    "id": "s2c3b51l1_03",
+    "question": "2 * 7 = ?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      12,
+      16
+    ]
+  },
+  {
+    "id": "s2c3b51l1_04",
+    "question": "7 * ? = 7",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s2c3b51l1_05",
+    "question": "7 * ? = 42",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      7,
+      5
+    ]
+  },
+  {
+    "id": "s2c3b51l1_06",
+    "question": "7 * 7 = ?",
+    "correctAnswer": 49,
+    "wrongAnswers": [
+      42,
+      56
+    ]
+  },
+  {
+    "id": "s2c3b51l1_07",
+    "question": "7 * ? = 35",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      6,
+      4
+    ]
+  },
+  {
+    "id": "s2c3b51l1_08",
+    "question": "7 * ? = 28",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      5,
+      3
+    ]
+  },
+  {
+    "id": "s2c3b51l1_09",
+    "question": "9 * 7 = ?",
+    "correctAnswer": 63,
+    "wrongAnswers": [
+      54,
+      72
+    ]
+  },
+  {
+    "id": "s2c3b51l1_10",
+    "question": "10 * 7 = ?",
+    "correctAnswer": 70,
+    "wrongAnswers": [
+      60,
+      80
+    ]
+  }
+]

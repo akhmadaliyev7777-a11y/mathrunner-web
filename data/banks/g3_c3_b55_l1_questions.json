@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b55l1_01",
+    "question": "Kesishmaydigan ikki to'g'ri chiziq nima deyiladi?  (parallel = 1, perpendikular = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b55l1_02",
+    "question": "Koordinata nurining boshi qaysi son?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      1,
+      10
+    ]
+  },
+  {
+    "id": "s3c3b55l1_03",
+    "question": "x + 45 = 90 tenglamada x qancha?",
+    "correctAnswer": 45,
+    "wrongAnswers": [
+      35,
+      55
+    ]
+  },
+  {
+    "id": "s3c3b55l1_04",
+    "question": "Koordinata burchagida nuqta nechta son bilan beriladi?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b55l1_05",
+    "question": "Kvadratning nechta simmetriya o'qi bor?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      2,
+      1
+    ]
+  },
+  {
+    "id": "s3c3b55l1_06",
+    "question": "36 sonining uchdan bir qismi qancha?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      9,
+      18
+    ]
+  },
+  {
+    "id": "s3c3b55l1_07",
+    "question": "Perpendikular chiziqlar necha gradusli burchak hosil qiladi?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      45,
+      60
+    ]
+  },
+  {
+    "id": "s3c3b55l1_08",
+    "question": "Taqqoslang: A(25) __ B(42)  (koordinata nurida qiymatlar)",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s3c3b55l1_09",
+    "question": "'m : 4 = 48' yozuvi nima?  (tenglama = 1, tengsizlik = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b55l1_10",
+    "question": "Simmetriya o'qi shaklni ikki teng bo'lakka bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

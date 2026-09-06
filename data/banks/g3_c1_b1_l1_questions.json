@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b1l1_01",
+    "question": "46 + 14 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      58,
+      54
+    ]
+  },
+  {
+    "id": "s3c1b1l1_02",
+    "question": "57 + 39 = ?",
+    "correctAnswer": 96,
+    "wrongAnswers": [
+      102,
+      99
+    ]
+  },
+  {
+    "id": "s3c1b1l1_03",
+    "question": "78 - 22 = ?",
+    "correctAnswer": 56,
+    "wrongAnswers": [
+      57,
+      76
+    ]
+  },
+  {
+    "id": "s3c1b1l1_04",
+    "question": "90 - 59 = ?",
+    "correctAnswer": 31,
+    "wrongAnswers": [
+      37,
+      51
+    ]
+  },
+  {
+    "id": "s3c1b1l1_05",
+    "question": "40 + 45 = ?",
+    "correctAnswer": 85,
+    "wrongAnswers": [
+      88,
+      84
+    ]
+  },
+  {
+    "id": "s3c1b1l1_06",
+    "question": "59 - 15 = ?",
+    "correctAnswer": 44,
+    "wrongAnswers": [
+      38,
+      54
+    ]
+  },
+  {
+    "id": "s3c1b1l1_07",
+    "question": "Taqqoslang: 42 + 44 __ 44 + 42",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s3c1b1l1_08",
+    "question": "44 + 19 = 19 + ?",
+    "correctAnswer": 44,
+    "wrongAnswers": [
+      54,
+      34
+    ]
+  },
+  {
+    "id": "s3c1b1l1_09",
+    "question": "Qo'shishda qo'shiluvchilarning o'rnini almashtirsak, yig'indi o'zgarmaydi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c1b1l1_10",
+    "question": "75 - 0 = ?",
+    "correctAnswer": 75,
+    "wrongAnswers": [
+      0,
+      65
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b63l2_01",
+    "question": "To'g'ri burchakli uchburchak: katetlari 10 va 6 cm. Yuzi necha cm2?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      60,
+      16
+    ]
+  },
+  {
+    "id": "s3c4b63l2_02",
+    "question": "s = 240 km, t = 4 h. Tezlik qancha?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      236,
+      244
+    ]
+  },
+  {
+    "id": "s3c4b63l2_03",
+    "question": "Bir usta 8 soatda 240 ta g'isht terdi. Xuddi shu unumdorlik bilan 5 soatda nechta terdi?",
+    "correctAnswer": 150,
+    "wrongAnswers": [
+      120,
+      180
+    ]
+  },
+  {
+    "id": "s3c4b63l2_04",
+    "question": "Xarid 63 000 so'm, 100 000 berildi. Qaytim qancha?",
+    "correctAnswer": 37000,
+    "wrongAnswers": [
+      43000,
+      33000
+    ]
+  },
+  {
+    "id": "s3c4b63l2_05",
+    "question": "Anvar 300 * 400 ni hisoblab, 1 200 deb yozdi. To'g'ri javob qancha?",
+    "correctAnswer": 120000,
+    "wrongAnswers": [
+      12000,
+      1200
+    ]
+  },
+  {
+    "id": "s3c4b63l2_06",
+    "question": "Bir sonni o'yladim, 8 ga bo'ldim, 12 chiqdi. O'ylagan son qancha?",
+    "correctAnswer": 96,
+    "wrongAnswers": [
+      20,
+      4
+    ]
+  },
+  {
+    "id": "s3c4b63l2_07",
+    "question": "Kuboidning hajmi 120 cm3, asos yuzi 24 cm2. Balandligi necha cm?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      6,
+      4
+    ]
+  },
+  {
+    "id": "s3c4b63l2_08",
+    "question": "7 ta bir xil kitob 84 000 so'm. 12 ta kitob qancha?",
+    "correctAnswer": 144000,
+    "wrongAnswers": [
+      84012,
+      120000
+    ]
+  },
+  {
+    "id": "s3c4b63l2_09",
+    "question": "Poyezd 90 km/h. 450 km ni necha soatda bosadi?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      6,
+      360
+    ]
+  },
+  {
+    "id": "s3c4b63l2_10",
+    "question": "Taqqoslang: Kuboid 2*3*4 hajmi __ Kuboid 2*2*6 hajmi",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  }
+]

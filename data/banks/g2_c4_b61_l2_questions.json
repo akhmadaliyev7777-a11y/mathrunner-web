@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b61l2_01",
+    "question": "(4 + 3) * 2 = ?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      10,
+      24
+    ]
+  },
+  {
+    "id": "s2c4b61l2_02",
+    "question": "(10 - 6) * 5 = ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      40,
+      9
+    ]
+  },
+  {
+    "id": "s2c4b61l2_03",
+    "question": "20 - (3 + 5) = ?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      22,
+      18
+    ]
+  },
+  {
+    "id": "s2c4b61l2_04",
+    "question": "(8 + 2) : 5 = ?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s2c4b61l2_05",
+    "question": "6 * (7 - 4) = ?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      38,
+      24
+    ]
+  },
+  {
+    "id": "s2c4b61l2_06",
+    "question": "(15 + 5) : 4 = ?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      20,
+      16
+    ]
+  },
+  {
+    "id": "s2c4b61l2_07",
+    "question": "50 - (6 * 4) = ?",
+    "correctAnswer": 26,
+    "wrongAnswers": [
+      24,
+      176
+    ]
+  },
+  {
+    "id": "s2c4b61l2_08",
+    "question": "(9 - 3) * (2 + 2) = ?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      12,
+      10
+    ]
+  },
+  {
+    "id": "s2c4b61l2_09",
+    "question": "Qavs ichidagi amal birinchi bajariladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c4b61l2_10",
+    "question": "Xato: \"(4 + 6) * 3 = 22\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      22,
+      13
+    ]
+  }
+]

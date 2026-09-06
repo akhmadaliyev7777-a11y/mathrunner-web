@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b11l1_01",
+    "question": "45 + 27 = ?",
+    "correctAnswer": 72,
+    "wrongAnswers": [
+      62,
+      82
+    ]
+  },
+  {
+    "id": "s2c1b11l1_02",
+    "question": "38 + 46 = ?",
+    "correctAnswer": 84,
+    "wrongAnswers": [
+      74,
+      94
+    ]
+  },
+  {
+    "id": "s2c1b11l1_03",
+    "question": "62 + 19 = ?",
+    "correctAnswer": 81,
+    "wrongAnswers": [
+      71,
+      91
+    ]
+  },
+  {
+    "id": "s2c1b11l1_04",
+    "question": "54 + 8 = ?",
+    "correctAnswer": 62,
+    "wrongAnswers": [
+      52,
+      72
+    ]
+  },
+  {
+    "id": "s2c1b11l1_05",
+    "question": "70 - 34 = ?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      46,
+      35
+    ]
+  },
+  {
+    "id": "s2c1b11l1_06",
+    "question": "52 - 7 = ?",
+    "correctAnswer": 45,
+    "wrongAnswers": [
+      55,
+      44
+    ]
+  },
+  {
+    "id": "s2c1b11l1_07",
+    "question": "90 - 45 = ?",
+    "correctAnswer": 45,
+    "wrongAnswers": [
+      55,
+      44
+    ]
+  },
+  {
+    "id": "s2c1b11l1_08",
+    "question": "Taqqoslang: 36 + 9 __ 50",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s2c1b11l1_09",
+    "question": "Kvadrat perimetri: tomoni 7 sm. Perimetri qancha sm?",
+    "correctAnswer": 28,
+    "wrongAnswers": [
+      14,
+      49
+    ]
+  },
+  {
+    "id": "s2c1b11l1_10",
+    "question": "a - 12 ifodaning qiymati, a = 40 bo'lsa?",
+    "correctAnswer": 28,
+    "wrongAnswers": [
+      52,
+      22
+    ]
+  }
+]

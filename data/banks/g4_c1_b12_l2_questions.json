@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok12_level2_ort_01", "question": "Ikki sonning o'rta arifmetigi 10. Bir son 7 bo'lsa, ikkinchisi nechi?", "correctAnswer": 13, "wrongAnswers": [3, 17]},
+  {"id": "sinf4_chorak1_blok12_level2_ort_02", "question": "3 ta sonning o'rta arifmetigi 6. Ularning yig'indisi qancha?", "correctAnswer": 18, "wrongAnswers": [2, 9]},
+  {"id": "sinf4_chorak1_blok12_level2_ort_03", "question": "Aziz 3 ta imtihonda 8, 9, 10 ball oldi. O'rtacha balli qancha?", "correctAnswer": 9, "wrongAnswers": [27, 10]},
+  {"id": "sinf4_chorak1_blok12_level2_ort_04", "question": "Ikki qutida jami 30 ta olma bor. O'rtacha bir qutida nechta olma bor?", "correctAnswer": 15, "wrongAnswers": [30, 60]},
+  {"id": "sinf4_chorak1_blok12_level2_ort_05", "question": "4, 6, x sonlarining o'rta arifmetigi 5. x nechi?", "correctAnswer": 5, "wrongAnswers": [15, 10]},
+  {"id": "sinf4_chorak1_blok12_level2_ort_06", "question": "Bek: \"10 va 20 ning o'rta arifmetigi = 10 + 20 = 30\" dedi. Xatosi nimada?", "correctAnswer": "Yig'indini 2 ga bo'lish kerak: 30 : 2 = 15", "wrongAnswers": ["Ayirish kerak edi", "Javob to'g'ri, 30"]},
+  {"id": "sinf4_chorak1_blok12_level2_ort_07", "question": "Do'kon 5 kunda 4, 6, 5, 5, 5 tadan tort sotdi. Kuniga o'rtacha nechta tort sotgan?", "correctAnswer": 5, "wrongAnswers": [25, 6]},
+  {"id": "sinf4_chorak1_blok12_level2_ort_08", "question": "Bir sonning o'zi bilan o'rta arifmetigini topsak, natija qanday bo'ladi?", "correctAnswer": "O'sha sonning o'zi", "wrongAnswers": ["Sonning yarmi", "Har doim 1"]},
+  {"id": "sinf4_chorak1_blok12_level2_ort_09", "question": "Ikki sonning o'rta arifmetigi 8. Sonlardan biri 8 dan kichik bo'lsa, ikkinchisi qanaqa bo'ladi?", "correctAnswer": "8 dan katta", "wrongAnswers": ["8 dan kichik", "8 ga teng"]},
+  {"id": "sinf4_chorak1_blok12_level2_ort_10", "question": "5 ta o'quvchining yoshi: 9, 10, 10, 11, 10. O'rtacha yosh nechi?", "correctAnswer": 10, "wrongAnswers": [50, 11]}
+]

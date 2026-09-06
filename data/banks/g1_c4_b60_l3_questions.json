@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b60l3_01",
+    "question": "Agar a = 35 bo'lsa, a + 15 - 20 ifodaning qiymati qancha?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      50,
+      10
+    ]
+  },
+  {
+    "id": "s1c4b60l3_02",
+    "question": "Agar b = 60 bo'lsa, b - 20 - 10 ifodaning qiymati qancha?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      50,
+      40
+    ]
+  },
+  {
+    "id": "s1c4b60l3_03",
+    "question": "Ikki qutida a tadan va 8 tadan olma. Jami nechta olma (ifoda)?",
+    "correctAnswer": "a + 8",
+    "wrongAnswers": [
+      "a - 8",
+      "8 - a"
+    ]
+  },
+  {
+    "id": "s1c4b60l3_04",
+    "question": "Yuqoridagi ifodada a = 12 bo'lsa, jami nechta olma?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      4,
+      128
+    ]
+  },
+  {
+    "id": "s1c4b60l3_05",
+    "question": "Agar c = 45 bo'lsa, c + 5 + 10 ifodaning qiymati qancha?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      50,
+      40
+    ]
+  },
+  {
+    "id": "s1c4b60l3_06",
+    "question": "\"a bilan b ning yig'indisidan 5 ni ayirish\" ifodasini yozing.",
+    "correctAnswer": "a + b - 5",
+    "wrongAnswers": [
+      "a - b - 5",
+      "a + b + 5"
+    ]
+  },
+  {
+    "id": "s1c4b60l3_07",
+    "question": "a = 20, b = 10 bo'lsa, a + b ifodaning qiymati qancha?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      10,
+      2010
+    ]
+  },
+  {
+    "id": "s1c4b60l3_08",
+    "question": "a - 0 va a + 0 ifodalarning qiymatlari o'zaro ...",
+    "correctAnswer": "teng",
+    "wrongAnswers": [
+      "har xil",
+      "biri katta"
+    ]
+  },
+  {
+    "id": "s1c4b60l3_09",
+    "question": "Harf o'rniga har xil son qo'ysak, harfiy ifodaning qiymati o'zgaradi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b60l3_10",
+    "question": "Xato: a = 25, b = 25 bo'lganda a + b ifoda 2525 deyildi. To'g'ri qiymat qancha?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      2525,
+      0
+    ]
+  }
+]

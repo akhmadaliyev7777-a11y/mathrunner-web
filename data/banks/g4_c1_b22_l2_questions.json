@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok22_level2_yak_01", "question": "Mashina 70 km/soat tezlikda 4 soat yurdi. Necha km yo'l bosdi?", "correctAnswer": 280, "wrongAnswers": [17, 74]},
+  {"id": "sinf4_chorak1_blok22_level2_yak_02", "question": "40 ta konfetni 8 ta bolaga teng ulashdik. Har biriga nechtadan tegdi?", "correctAnswer": 5, "wrongAnswers": [32, 48]},
+  {"id": "sinf4_chorak1_blok22_level2_yak_03", "question": "Ikki sonning o'rta arifmetigi 12. Bir son 8 bo'lsa, ikkinchisi nechi?", "correctAnswer": 16, "wrongAnswers": [4, 20]},
+  {"id": "sinf4_chorak1_blok22_level2_yak_04", "question": "To'g'ri to'rtburchakning bo'yi 9 sm, eni 3 sm. Yuzasi necha sm²?", "correctAnswer": 27, "wrongAnswers": [24, 12]},
+  {"id": "sinf4_chorak1_blok22_level2_yak_05", "question": "5 274 soni 3 ga bo'linadimi?", "correctAnswer": "Ha", "wrongAnswers": ["Yo'q", "Faqat 9 ga bo'linadi"]},
+  {"id": "sinf4_chorak1_blok22_level2_yak_06", "question": "34 000 + 8 000 = ?", "correctAnswer": 42000, "wrongAnswers": [42800, 40000]},
+  {"id": "sinf4_chorak1_blok22_level2_yak_07", "question": "Poyezd 14:00 da jo'nab, 17:30 da yetib bordi. Yo'lda qancha vaqt bo'ldi?", "correctAnswer": "3 soat 30 minut", "wrongAnswers": ["2 soat 30 minut", "3 soat"]},
+  {"id": "sinf4_chorak1_blok22_level2_yak_08", "question": "Diagrammada A 20, B 35 ni ko'rsatadi. B A dan necha taga ko'p?", "correctAnswer": 15, "wrongAnswers": [55, 20]},
+  {"id": "sinf4_chorak1_blok22_level2_yak_09", "question": "☐ − 250 = 400. ☐ o'rniga qaysi son keladi?", "correctAnswer": 650, "wrongAnswers": [150, 250]},
+  {"id": "sinf4_chorak1_blok22_level2_yak_10", "question": "36 ning bo'luvchisi bo'lgan, ammo 24 ning bo'luvchisi bo'lmagan son qaysi?", "correctAnswer": 9, "wrongAnswers": [6, 4]}
+]

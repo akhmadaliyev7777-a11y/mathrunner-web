@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b67l1_01",
+    "question": "10 o'rtoq futbolga, 8 o'rtoq basketbolga qatnashadi. Jami 12 o'rtoq bo'lsa, nechtasi ikkala to'garakka ham qatnashadi?  (10 + 8 - 12)",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      4,
+      2
+    ]
+  },
+  {
+    "id": "s3c4b67l1_02",
+    "question": "18 o'quvchi kubiklar, 16 o'quvchi robotlar masalasini yechdi. 8 tasi ikkalasini ham yechdi. Jami nechta o'quvchi?  (18 + 16 - 8)",
+    "correctAnswer": 26,
+    "wrongAnswers": [
+      34,
+      10
+    ]
+  },
+  {
+    "id": "s3c4b67l1_03",
+    "question": "Sinfda 28 o'quvchi rasm, 19 o'quvchi musiqa to'garagiga boradi, 14 tasi ikkalasiga ham. Sinfda nechta o'quvchi bor?  (28 + 19 - 14)",
+    "correctAnswer": 33,
+    "wrongAnswers": [
+      47,
+      25
+    ]
+  },
+  {
+    "id": "s3c4b67l1_04",
+    "question": "20 kishidan 14 tasi choy, 10 tasi qahva ichadi. Hamma kamida bittasini ichsa, nechtasi ikkalasini ham ichadi?  (14 + 10 - 20)",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      6,
+      24
+    ]
+  },
+  {
+    "id": "s3c4b67l1_05",
+    "question": "Bogda 15 daraxt olma, 9 daraxt nok beradi. 5 daraxt ikkalasini ham beradi. Jami nechta daraxt?  (15 + 9 - 5)",
+    "correctAnswer": 19,
+    "wrongAnswers": [
+      24,
+      29
+    ]
+  },
+  {
+    "id": "s3c4b67l1_06",
+    "question": "12 bola suzishni, 8 bola velosiped haydashni biladi. 4 tasi ikkalasini ham biladi. Jami nechta bola?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      20,
+      24
+    ]
+  },
+  {
+    "id": "s3c4b67l1_07",
+    "question": "25 kishidan 18 tasi ingliz tilini, 12 tasi rus tilini biladi. Hamma kamida bittasini bilsa, ikkalasini biladiganlar nechta?  (18 + 12 - 25)",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      7,
+      30
+    ]
+  },
+  {
+    "id": "s3c4b67l1_08",
+    "question": "Faqat A to'plamga tegishli elementlar sonini topish uchun nima qilamiz?  (A dagi elementlar sonidan kesishmani ayiramiz = 1, A va B ni qo'shamiz = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b67l1_09",
+    "question": "30 o'quvchidan 20 tasi matematika, 15 tasi fizika to'garagida. 5 tasi hech qaysisida. Ikkalasida ham bo'lganlar nechta?  (25 kamida bittasi; 20 + 15 - 25)",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      5,
+      35
+    ]
+  },
+  {
+    "id": "s3c4b67l1_10",
+    "question": "14 mushuk, 10 it bor. 6 xonadonda ikkalasi ham bor. Nechta xonadon?  (14 + 10 - 6)",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      24,
+      4
+    ]
+  }
+]

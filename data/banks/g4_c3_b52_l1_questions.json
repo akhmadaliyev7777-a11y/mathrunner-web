@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok52_level1_kop_01", "question": "2/7 × 3 = ?", "correctAnswer": "6/7", "wrongAnswers": ["6/21", "5/7"]},
+  {"id": "sinf4_chorak3_blok52_level1_kop_02", "question": "1/5 × 4 = ?", "correctAnswer": "4/5", "wrongAnswers": ["4/20", "5/5"]},
+  {"id": "sinf4_chorak3_blok52_level1_kop_03", "question": "3/8 × 2 = ?", "correctAnswer": "6/8", "wrongAnswers": ["6/16", "3/16"]},
+  {"id": "sinf4_chorak3_blok52_level1_kop_04", "question": "1/3 × 3 = ?", "correctAnswer": "1", "wrongAnswers": ["3/3", "1/9"]},
+  {"id": "sinf4_chorak3_blok52_level1_kop_05", "question": "2/9 × 4 = ?", "correctAnswer": "8/9", "wrongAnswers": ["8/36", "6/9"]},
+  {"id": "sinf4_chorak3_blok52_level1_kop_06", "question": "1/4 × 5 = ?", "correctAnswer": "5/4", "wrongAnswers": ["5/20", "6/4"]},
+  {"id": "sinf4_chorak3_blok52_level1_kop_07", "question": "3/10 × 3 = ?", "correctAnswer": "9/10", "wrongAnswers": ["9/30", "6/10"]},
+  {"id": "sinf4_chorak3_blok52_level1_kop_08", "question": "Kasrni natural songa ko'paytirish uchun nima qilinadi?", "correctAnswer": "Surat songa ko'paytiriladi, maxraj o'zgarmaydi", "wrongAnswers": ["Maxraj songa ko'paytiriladi", "Surat va maxraj ham ko'paytiriladi"]},
+  {"id": "sinf4_chorak3_blok52_level1_kop_09", "question": "1/6 × 6 = ?", "correctAnswer": "1", "wrongAnswers": ["6/6", "1/36"]},
+  {"id": "sinf4_chorak3_blok52_level1_kop_10", "question": "Bir bola har kuni pizzaning 1/8 qismini yeydi. 3 kunda qancha yeydi?", "correctAnswer": "3/8", "wrongAnswers": ["3/24", "1/8"]}
+]

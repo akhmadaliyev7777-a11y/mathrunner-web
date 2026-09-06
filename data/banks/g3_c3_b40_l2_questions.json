@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b40l2_01",
+    "question": "7 m 8 dm + 2 m 5 dm = ? dm",
+    "correctAnswer": 103,
+    "wrongAnswers": [
+      93,
+      113
+    ]
+  },
+  {
+    "id": "s3c3b40l2_02",
+    "question": "9 m2 - 250 dm2 = ? dm2",
+    "correctAnswer": 650,
+    "wrongAnswers": [
+      750,
+      550
+    ]
+  },
+  {
+    "id": "s3c3b40l2_03",
+    "question": "3 t 400 kg ni 4 ta mashinaga teng ortsak, bittasiga necha kg?",
+    "correctAnswer": 850,
+    "wrongAnswers": [
+      750,
+      950
+    ]
+  },
+  {
+    "id": "s3c3b40l2_04",
+    "question": "Anvar 5 000 m ni 5 km deb aytdi. To'g'rimi?  (Rost = 1, Yolg'on = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b40l2_05",
+    "question": "45 dm2 + 55 dm2 = ? m2",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      10,
+      100
+    ]
+  },
+  {
+    "id": "s3c3b40l2_06",
+    "question": "Bir sonni o'yladim: u kg da 8, g da 8 000. To'g'rimi?  (Rost = 1, Yolg'on = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b40l2_07",
+    "question": "64 dm3 hajmli qutining yarmi necha litr?",
+    "correctAnswer": 32,
+    "wrongAnswers": [
+      16,
+      48
+    ]
+  },
+  {
+    "id": "s3c3b40l2_08",
+    "question": "8 ga 30 a maydonni m2 da ifodalang.",
+    "correctAnswer": 83000,
+    "wrongAnswers": [
+      8030,
+      830000
+    ]
+  },
+  {
+    "id": "s3c3b40l2_09",
+    "question": "Taqqoslang: 1 dm3 __ 999 cm3",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s3c3b40l2_10",
+    "question": "Yo'l 24 km 800 m. Uning to'rtdan biri necha m?",
+    "correctAnswer": 6200,
+    "wrongAnswers": [
+      6800,
+      6000
+    ]
+  }
+]

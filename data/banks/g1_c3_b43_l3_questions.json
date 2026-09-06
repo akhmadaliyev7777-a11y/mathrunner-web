@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b43l3_01",
+    "question": "Bolada 20 so'm bor edi. Onasi 15 so'm berdi, u 8 so'mga kitob oldi. Nechta so'm qoldi?",
+    "correctAnswer": 27,
+    "wrongAnswers": [
+      13,
+      43
+    ]
+  },
+  {
+    "id": "s1c3b43l3_02",
+    "question": "Vazada 12 ta gul bor edi. 5 tasi so'ldi, keyin 8 ta qo'shildi. Nechta gul bor?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      25,
+      9
+    ]
+  },
+  {
+    "id": "s1c3b43l3_03",
+    "question": "Do'konda 40 kg olma bor edi. Kunduzi 15 kg, kechqurun 10 kg sotildi. Nechta kg qoldi?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      25,
+      65
+    ]
+  },
+  {
+    "id": "s1c3b43l3_04",
+    "question": "Birinchi qutida 18 ta, ikkinchisida 12 ta shar. Ulardan 6 tasi yorildi. Nechta qoldi?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      30,
+      36
+    ]
+  },
+  {
+    "id": "s1c3b43l3_05",
+    "question": "Sinfda 25 o'quvchi. 12 tasi qiz, qolgani o'g'il. O'g'illar qizlardan nechtaga ko'p?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      13,
+      37
+    ]
+  },
+  {
+    "id": "s1c3b43l3_06",
+    "question": "Anvar 8 ta, Sardor 5 ta, Dilnoza 7 ta rasm chizdi. Jami nechta rasm?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      13,
+      12
+    ]
+  },
+  {
+    "id": "s1c3b43l3_07",
+    "question": "Bir kunda 30 ta non yopildi. 12 tasi sotildi, ertasiga yana 20 ta yopildi. Hozir nechta non bor?",
+    "correctAnswer": 38,
+    "wrongAnswers": [
+      50,
+      18
+    ]
+  },
+  {
+    "id": "s1c3b43l3_08",
+    "question": "Bolada 50 so'm bor edi. 2 ta narsa oldi: biri 20 so'm, ikkinchisi 15 so'm. Nechta so'm qaytim?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      35,
+      85
+    ]
+  },
+  {
+    "id": "s1c3b43l3_09",
+    "question": "Tarkibli masalani yechish uchun bir nechta amal bajariladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b43l3_10",
+    "question": "Xato: \"20 + 15 - 8\" masalada javob 43 deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 27,
+    "wrongAnswers": [
+      43,
+      13
+    ]
+  }
+]

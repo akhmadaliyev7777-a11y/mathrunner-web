@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b21l1_01",
+    "question": "456 sonini xona qo'shiluvchilari yig'indisi shaklida yozing: 456 = 400 + ? + 6",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      5,
+      456
+    ]
+  },
+  {
+    "id": "s2c2b21l1_02",
+    "question": "703 sonini xona qo'shiluvchilari yig'indisi shaklida yozing: 703 = 700 + ? + 3",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      703,
+      3
+    ]
+  },
+  {
+    "id": "s2c2b21l1_03",
+    "question": "280 sonini xona qo'shiluvchilari yig'indisi shaklida yozing: 280 = 200 + ? + 0",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      8,
+      280
+    ]
+  },
+  {
+    "id": "s2c2b21l1_04",
+    "question": "619 sonini xona qo'shiluvchilari yig'indisi shaklida yozing: 619 = 600 + ? + 9",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      1,
+      619
+    ]
+  },
+  {
+    "id": "s2c2b21l1_05",
+    "question": "900 sonini xona qo'shiluvchilari yig'indisi shaklida yozing: 900 = 900 + ? + 0",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      900,
+      3
+    ]
+  },
+  {
+    "id": "s2c2b21l1_06",
+    "question": "145 sonini xona qo'shiluvchilari yig'indisi shaklida yozing: 145 = 100 + ? + 5",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      4,
+      145
+    ]
+  },
+  {
+    "id": "s2c2b21l1_07",
+    "question": "300 + 40 + 5 = ?",
+    "correctAnswer": 345,
+    "wrongAnswers": [
+      3405,
+      30045
+    ]
+  },
+  {
+    "id": "s2c2b21l1_08",
+    "question": "500 + 0 + 8 yig'indisi qaysi songa teng?",
+    "correctAnswer": 508,
+    "wrongAnswers": [
+      58,
+      580
+    ]
+  },
+  {
+    "id": "s2c2b21l1_09",
+    "question": "620 sonida to'liq nechta o'nlik bor?",
+    "correctAnswer": 62,
+    "wrongAnswers": [
+      6,
+      2
+    ]
+  },
+  {
+    "id": "s2c2b21l1_10",
+    "question": "Qaysi sonda 8 ta to'liq yuzlik bor?",
+    "correctAnswer": 800,
+    "wrongAnswers": [
+      80,
+      8
+    ]
+  }
+]

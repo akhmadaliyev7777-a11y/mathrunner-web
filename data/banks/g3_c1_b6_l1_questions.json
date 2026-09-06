@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b6l1_01",
+    "question": "740 203 058 sonida nechta raqam bor?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s3c1b6l1_02",
+    "question": "325 104 067 sonida nechta raqam bor?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s3c1b6l1_03",
+    "question": "506 380 900 sonida nechta raqam bor?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s3c1b6l1_04",
+    "question": "Yigirma uch million to'rt yuz olti ming ellik yetti sonini raqamlar bilan yozing.",
+    "correctAnswer": 23406057,
+    "wrongAnswers": [
+      234006057,
+      23460057
+    ]
+  },
+  {
+    "id": "s3c1b6l1_05",
+    "question": "740 203 058 sonida qaysi sinf raqami eng katta o'rin qiymatiga ega?  (millionlar=1, minglar=2, birlar=3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c1b6l1_06",
+    "question": "Bir million qanday yoziladi?",
+    "correctAnswer": 1000000,
+    "wrongAnswers": [
+      100000,
+      10000000
+    ]
+  },
+  {
+    "id": "s3c1b6l1_07",
+    "question": "Eng katta yetti xonali sonni yozing.",
+    "correctAnswer": 9999999,
+    "wrongAnswers": [
+      1000000,
+      99999999
+    ]
+  },
+  {
+    "id": "s3c1b6l1_08",
+    "question": "Eng kichik to'qqiz xonali sonni yozing.",
+    "correctAnswer": 100000000,
+    "wrongAnswers": [
+      99999999,
+      10000000
+    ]
+  },
+  {
+    "id": "s3c1b6l1_09",
+    "question": "506 380 900 sonida nechta raqam bor?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      7
+    ]
+  },
+  {
+    "id": "s3c1b6l1_10",
+    "question": "Bir million necha yuz mingdan iborat?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      100,
+      1000
+    ]
+  }
+]

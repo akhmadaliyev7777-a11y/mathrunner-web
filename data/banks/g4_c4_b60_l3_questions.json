@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak4_blok60_level3_sim_01", "question": "Markaziy simmetriyada shakl markaz atrofida necha gradusga buriladi?", "correctAnswer": 180, "wrongAnswers": [90, 360]},
+  {"id": "sinf4_chorak4_blok60_level3_sim_02", "question": "Rost yoki yolg'on: kvadrat markaziy simmetriyaga ega.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak4_blok60_level3_sim_03", "question": "Rost yoki yolg'on: teng tomonli uchburchak markaziy simmetriyaga ega.", "correctAnswer": "Yolg'on", "wrongAnswers": ["Rost", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak4_blok60_level3_sim_04", "question": "To'g'ri chiziqqa nisbatan simmetrik nuqta o'qdan qanday masofada joylashadi?", "correctAnswer": "Asl nuqta bilan bir xil masofada", "wrongAnswers": ["Ikki barobar uzoqroqda", "O'q ustida"]},
+  {"id": "sinf4_chorak4_blok60_level3_sim_05", "question": "A nuqta vertikal o'qdan 3 katak o'ngda. Uning simmetrik nuqtasi qayerda?", "correctAnswer": "O'qdan 3 katak chapda", "wrongAnswers": ["O'qdan 6 katak chapda", "O'q ustida"]},
+  {"id": "sinf4_chorak4_blok60_level3_sim_06", "question": "Rost yoki yolg'on: doira ham o'q, ham markaziy simmetriyaga ega.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak4_blok60_level3_sim_07", "question": "Naqsh (ornament) qaysi usulda takrorlanadi?", "correctAnswer": "Ko'chirish (siljitish) va o'q simmetriya", "wrongAnswers": ["Faqat kattalashtirish", "Simmetriya ishlatilmaydi"]},
+  {"id": "sinf4_chorak4_blok60_level3_sim_08", "question": "Rost yoki yolg'on: \"S\" harfi markaziy simmetriyaga ega.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak4_blok60_level3_sim_09", "question": "Rost yoki yolg'on: \"S\" harfi o'q simmetriyaga ega.", "correctAnswer": "Yolg'on", "wrongAnswers": ["Rost", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak4_blok60_level3_sim_10", "question": "Markaziy simmetriya markazi shaklning qayerida bo'ladi?", "correctAnswer": "Shakl markazida", "wrongAnswers": ["Shakl chetida", "Shakldan tashqarida"]}
+]

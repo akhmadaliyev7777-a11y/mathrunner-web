@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b8l1_01",
+    "question": "Taqqoslang: 3 __ 7",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c1b8l1_02",
+    "question": "Taqqoslang: 9 __ 4",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s1c1b8l1_03",
+    "question": "Taqqoslang: 5 __ 5",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s1c1b8l1_04",
+    "question": "Taqqoslang: 2 __ 6",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c1b8l1_05",
+    "question": "Taqqoslang: 8 __ 8",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s1c1b8l1_06",
+    "question": "Taqqoslang: 10 __ 3",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s1c1b8l1_07",
+    "question": "Taqqoslang: 1 __ 4",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c1b8l1_08",
+    "question": "Taqqoslang: 7 __ 9",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c1b8l1_09",
+    "question": "\">\" belgisi nimani bildiradi?",
+    "correctAnswer": "katta",
+    "wrongAnswers": [
+      "kichik",
+      "teng"
+    ]
+  },
+  {
+    "id": "s1c1b8l1_10",
+    "question": "5 __ 5 — bu yerga qaysi belgi to'g'ri?",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  }
+]

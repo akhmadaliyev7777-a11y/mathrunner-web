@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b10l1_01",
+    "question": "Butun 5. Bir qismi 2. Ikkinchi qismi qancha?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      7,
+      2
+    ]
+  },
+  {
+    "id": "s1c1b10l1_02",
+    "question": "Butun 4. Qismlari 1 va ?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "s1c1b10l1_03",
+    "question": "2 qism birlashsa: 3 va 2. Butun qancha?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": "s1c1b10l1_04",
+    "question": "Butun 3. Bir qismi 3. Ikkinchi qismi qancha?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      3,
+      1
+    ]
+  },
+  {
+    "id": "s1c1b10l1_05",
+    "question": "Sonlar o'qida 2 dan o'ngga 3 qadam yursak, qaysi songa kelamiz?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "s1c1b10l1_06",
+    "question": "Sonlar o'qida 5 dan chapga 2 qadam yursak, qaysi songa kelamiz?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      7,
+      4
+    ]
+  },
+  {
+    "id": "s1c1b10l1_07",
+    "question": "Butun 5, qismlari 4 va ?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      0
+    ]
+  },
+  {
+    "id": "s1c1b10l1_08",
+    "question": "Butun har doim har bir qismidan katta yoki teng bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b10l1_09",
+    "question": "Ikki qismni qo'shsak, butundan katta chiqadi.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b10l1_10",
+    "question": "Sonlar o'qida 0 dan o'ngga 4 qadam. Qaysi son?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      3,
+      5
+    ]
+  }
+]

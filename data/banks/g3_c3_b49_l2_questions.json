@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b49l2_01",
+    "question": "Koordinata nurining boshlanish nuqtasi qaysi son bilan belgilanadi?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      1,
+      10
+    ]
+  },
+  {
+    "id": "s3c3b49l2_02",
+    "question": "A(25) va B(42) nuqtalardan qaysi biri koordinata nurida chapda joylashgan?  (A = 1, B = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b49l2_03",
+    "question": "C(456) va D(219) nuqtalardan qaysi biri o'ngda joylashgan?  (C = 1, D = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b49l2_04",
+    "question": "Koordinata nurida A(153:51) nuqtaning koordinatasi qancha?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "s3c3b49l2_05",
+    "question": "P(729:81) nuqtaning koordinatasi qancha?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s3c3b49l2_06",
+    "question": "Koordinata nurida sonlar qaysi tomonga o'sib boradi?  (o'ngga = 1, chapga = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b49l2_07",
+    "question": "Koordinata nurida chapda joylashgan son kichik bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c3b49l2_08",
+    "question": "M(2 933) va N(293) nuqtalardan qaysi biri katta koordinataga ega?  (M = 1, N = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b49l2_09",
+    "question": "Koordinata nurida 0 dan 7 birlik o'ngga yursak, qaysi nuqtaga kelamiz?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      6,
+      8
+    ]
+  },
+  {
+    "id": "s3c3b49l2_10",
+    "question": "A(3) nuqtadan 5 birlik o'ngga yursak, qaysi nuqtaga kelamiz?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      2,
+      7
+    ]
+  }
+]

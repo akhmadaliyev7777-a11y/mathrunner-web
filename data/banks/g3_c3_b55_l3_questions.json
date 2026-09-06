@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b55l3_01",
+    "question": "Do'konga 12 500 so'mlik daftar muqovasi va 4 ta 1 500 so'mlik qalam olindi, 20 000 so'm berildi. Qaytim qancha?",
+    "correctAnswer": 1500,
+    "wrongAnswers": [
+      2500,
+      500
+    ]
+  },
+  {
+    "id": "s3c3b55l3_02",
+    "question": "(x + 48 629) : 316 = 565 tenglamani yeching. x = ?",
+    "correctAnswer": 129911,
+    "wrongAnswers": [
+      129811,
+      130011
+    ]
+  },
+  {
+    "id": "s3c3b55l3_03",
+    "question": "Sinfda 32 o'quvchi. Yarmi futbolga, choragi shaxmatga boradi. Qolganlari suzishga boradi. Nechta o'quvchi suzishga boradi?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      16,
+      4
+    ]
+  },
+  {
+    "id": "s3c3b55l3_04",
+    "question": "Bir sonni o'yladim, unga 380 qo'shdim, natijani 20 ga bo'ldim, 26 chiqdi. O'ylagan son qancha?",
+    "correctAnswer": 140,
+    "wrongAnswers": [
+      520,
+      130
+    ]
+  },
+  {
+    "id": "s3c3b55l3_05",
+    "question": "Aylana bo'ylab 8 ta teng nuqta. Ular orasida nechta teng yoy hosil bo'ladi?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      7,
+      16
+    ]
+  },
+  {
+    "id": "s3c3b55l3_06",
+    "question": "(y - 8) * 4 = 72 va k : 5 + 8 = 12. y + k = ?",
+    "correctAnswer": 46,
+    "wrongAnswers": [
+      44,
+      48
+    ]
+  },
+  {
+    "id": "s3c3b55l3_07",
+    "question": "Bir tasma 60 cm. Uning uchdan biri qizil, to'rtdan biri ko'k bo'yaldi. Bo'yalmagan qism necha cm?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      20,
+      30
+    ]
+  },
+  {
+    "id": "s3c3b55l3_08",
+    "question": "Koordinata burchagida (1,1), (5,1), (5,4) nuqtalar berilgan. Bu qanday shaklning uchlari bo'lishi mumkin?  (to'g'ri burchakli uchburchak = 1, kvadrat = 2, doira = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b55l3_09",
+    "question": "Doira 12 teng sektorga bo'lindi. 3 tasi doiraning qanday ulushi?  (to'rtdan bir = 1, uchdan bir = 2, yarim = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b55l3_10",
+    "question": "Tarkibli tenglamani yechishda avval murakkab tomon soddalashtiriladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

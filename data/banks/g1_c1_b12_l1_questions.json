@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b12l1_01",
+    "question": "5 + 0 = ?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      0,
+      6
+    ]
+  },
+  {
+    "id": "s1c1b12l1_02",
+    "question": "7 - 0 = ?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      0,
+      6
+    ]
+  },
+  {
+    "id": "s1c1b12l1_03",
+    "question": "0 + 8 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      0,
+      9
+    ]
+  },
+  {
+    "id": "s1c1b12l1_04",
+    "question": "6 - 6 = ?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      6,
+      1
+    ]
+  },
+  {
+    "id": "s1c1b12l1_05",
+    "question": "Songa 0 ni qo'shsak nima o'zgaradi?",
+    "correctAnswer": "hech nima o'zgarmaydi",
+    "wrongAnswers": [
+      "son 1 ga ortadi",
+      "son 0 bo'ladi"
+    ]
+  },
+  {
+    "id": "s1c1b12l1_06",
+    "question": "9 - 9 = ?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      9,
+      1
+    ]
+  },
+  {
+    "id": "s1c1b12l1_07",
+    "question": "0 soni natural sonmi?",
+    "correctAnswer": "yo'q, natural son emas",
+    "wrongAnswers": [
+      "ha, natural son",
+      "ba'zan"
+    ]
+  },
+  {
+    "id": "s1c1b12l1_08",
+    "question": "Bo'sh savatda nechta olma bor?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      1,
+      10
+    ]
+  },
+  {
+    "id": "s1c1b12l1_09",
+    "question": "4 + 0 = ?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": "s1c1b12l1_10",
+    "question": "0 dan biror son ayira olamizmi (masalan 0 - 3)?",
+    "correctAnswer": "yo'q, 1-sinfda ayira olmaymiz",
+    "wrongAnswers": [
+      "ha, oson",
+      "javob 3 bo'ladi"
+    ]
+  }
+]

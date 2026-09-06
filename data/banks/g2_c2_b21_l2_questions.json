@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b21l2_01",
+    "question": "200 + 70 + 4 = ?",
+    "correctAnswer": 274,
+    "wrongAnswers": [
+      374,
+      264
+    ]
+  },
+  {
+    "id": "s2c2b21l2_02",
+    "question": "600 + 30 + 0 = ?",
+    "correctAnswer": 630,
+    "wrongAnswers": [
+      730,
+      620
+    ]
+  },
+  {
+    "id": "s2c2b21l2_03",
+    "question": "800 + 10 + 9 = ?",
+    "correctAnswer": 819,
+    "wrongAnswers": [
+      919,
+      809
+    ]
+  },
+  {
+    "id": "s2c2b21l2_04",
+    "question": "400 + 0 + 5 = ?",
+    "correctAnswer": 405,
+    "wrongAnswers": [
+      505,
+      395
+    ]
+  },
+  {
+    "id": "s2c2b21l2_05",
+    "question": "500 + 60 + 0 = ?",
+    "correctAnswer": 560,
+    "wrongAnswers": [
+      660,
+      550
+    ]
+  },
+  {
+    "id": "s2c2b21l2_06",
+    "question": "900 + 40 + 7 = ?",
+    "correctAnswer": 947,
+    "wrongAnswers": [
+      1047,
+      937
+    ]
+  },
+  {
+    "id": "s2c2b21l2_07",
+    "question": "700 + 90 + 9 = ?",
+    "correctAnswer": 799,
+    "wrongAnswers": [
+      7099,
+      790
+    ]
+  },
+  {
+    "id": "s2c2b21l2_08",
+    "question": "400 + 0 + 6 = ?",
+    "correctAnswer": 406,
+    "wrongAnswers": [
+      46,
+      460
+    ]
+  },
+  {
+    "id": "s2c2b21l2_09",
+    "question": "365 = 300 + 60 + 5.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c2b21l2_10",
+    "question": "218 = 200 + 1 + 8.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

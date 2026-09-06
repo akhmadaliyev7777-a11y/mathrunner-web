@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b14l3_01",
+    "question": "9 + 6 = 6 + 9 tenglik qaysi xossani bildiradi?",
+    "correctAnswer": "o'rin almashtirish xossasi",
+    "wrongAnswers": [
+      "guruhlash xossasi",
+      "ayirish xossasi"
+    ]
+  },
+  {
+    "id": "s2c1b14l3_02",
+    "question": "(20 + 7) + 3 ifodani qulay hisoblang.",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      27,
+      23
+    ]
+  },
+  {
+    "id": "s2c1b14l3_03",
+    "question": "38 + 19 ni qulay hisoblang: 38 + 20 - 1 = ?",
+    "correctAnswer": 57,
+    "wrongAnswers": [
+      58,
+      56
+    ]
+  },
+  {
+    "id": "s2c1b14l3_04",
+    "question": "45 + 27 = 45 + 25 + 2 = ?",
+    "correctAnswer": 72,
+    "wrongAnswers": [
+      70,
+      74
+    ]
+  },
+  {
+    "id": "s2c1b14l3_05",
+    "question": "26 + 39 = 25 + 40 = ?",
+    "correctAnswer": 65,
+    "wrongAnswers": [
+      64,
+      66
+    ]
+  },
+  {
+    "id": "s2c1b14l3_06",
+    "question": "(35 + 8) + 12 ni qulay tartibda hisoblang.",
+    "correctAnswer": 55,
+    "wrongAnswers": [
+      45,
+      53
+    ]
+  },
+  {
+    "id": "s2c1b14l3_07",
+    "question": "40 + 33 + 60 ni qulay guruhlab hisoblang.",
+    "correctAnswer": 133,
+    "wrongAnswers": [
+      123,
+      143
+    ]
+  },
+  {
+    "id": "s2c1b14l3_08",
+    "question": "Qo'shiluvchilarning o'rnini almashtirsak, yig'indi o'zgarmaydi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c1b14l3_09",
+    "question": "Ayiruvchilarning o'rnini almashtirsak, ayirma o'zgarmaydi.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c1b14l3_10",
+    "question": "17 + 48 + 3 ni qulay hisoblang (17 + 3 avval).",
+    "correctAnswer": 68,
+    "wrongAnswers": [
+      65,
+      78
+    ]
+  }
+]

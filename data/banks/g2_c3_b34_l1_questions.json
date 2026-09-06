@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b34l1_01",
+    "question": "Kesmaning ikkita uchi bor.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b34l1_02",
+    "question": "Nurni faqat bir tomonga cheksiz davom ettirish mumkin.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b34l1_03",
+    "question": "To'g'ri chiziqning uzunligini o'lchab bo'ladi.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b34l1_04",
+    "question": "Ikkita nuqta orqali faqat bitta to'g'ri chiziq o'tadi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b34l1_05",
+    "question": "Kesma to'g'ri chiziqning bir qismidir.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b34l1_06",
+    "question": "Boshi bor, oxiri yo'q chiziq qanday nomlanadi?",
+    "correctAnswer": "nur",
+    "wrongAnswers": [
+      "kesma",
+      "to'g'ri chiziq"
+    ]
+  },
+  {
+    "id": "s2c3b34l1_07",
+    "question": "AB kesma 6 sm, uni 2 sm ga uzaytirdik. Yangi uzunlik necha sm?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      4,
+      12
+    ]
+  },
+  {
+    "id": "s2c3b34l1_08",
+    "question": "3 ta nuqta orqali eng ko'pi bilan nechta to'g'ri chiziq o'tkazish mumkin (agar ular bir to'g'ri chiziqda bo'lmasa)?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "s2c3b34l1_09",
+    "question": "Bir nuqtadan nechta nur chiqarish mumkin?",
+    "correctAnswer": "cheksiz ko'p",
+    "wrongAnswers": [
+      "1 ta",
+      "2 ta"
+    ]
+  },
+  {
+    "id": "s2c3b34l1_10",
+    "question": "Kesma uchlari M va K. Uni qanday belgilaymiz?",
+    "correctAnswer": "MK kesma",
+    "wrongAnswers": [
+      "MK nur",
+      "MK to'g'ri chiziq"
+    ]
+  }
+]

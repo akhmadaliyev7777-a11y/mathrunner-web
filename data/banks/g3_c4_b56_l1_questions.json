@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b56l1_01",
+    "question": "Muntazam 4-burchak (kvadrat) tomoni 7 cm. Perimetri necha cm?  (P = a * 4)",
+    "correctAnswer": 28,
+    "wrongAnswers": [
+      14,
+      11
+    ]
+  },
+  {
+    "id": "s3c4b56l1_02",
+    "question": "Muntazam 4-burchak (kvadrat) tomoni 12 cm. Perimetri necha cm?  (P = a * 4)",
+    "correctAnswer": 48,
+    "wrongAnswers": [
+      24,
+      16
+    ]
+  },
+  {
+    "id": "s3c4b56l1_03",
+    "question": "Muntazam 4-burchak (kvadrat) tomoni 25 cm. Perimetri necha cm?  (P = a * 4)",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      50,
+      29
+    ]
+  },
+  {
+    "id": "s3c4b56l1_04",
+    "question": "Muntazam 4-burchak (kvadrat) tomoni 40 cm. Perimetri necha cm?  (P = a * 4)",
+    "correctAnswer": 160,
+    "wrongAnswers": [
+      80,
+      44
+    ]
+  },
+  {
+    "id": "s3c4b56l1_05",
+    "question": "Muntazam 4-burchak (kvadrat) tomoni 15 cm. Perimetri necha cm?  (P = a * 4)",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      30,
+      19
+    ]
+  },
+  {
+    "id": "s3c4b56l1_06",
+    "question": "Tomoni 6 cm bo'lgan kvadratning yuzi necha cm2?  (S = a * a)",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      24,
+      12
+    ]
+  },
+  {
+    "id": "s3c4b56l1_07",
+    "question": "Tomoni 9 cm bo'lgan kvadratning yuzi necha cm2?  (S = a * a)",
+    "correctAnswer": 81,
+    "wrongAnswers": [
+      36,
+      18
+    ]
+  },
+  {
+    "id": "s3c4b56l1_08",
+    "question": "Tomoni 20 cm bo'lgan kvadratning yuzi necha cm2?  (S = a * a)",
+    "correctAnswer": 400,
+    "wrongAnswers": [
+      80,
+      40
+    ]
+  },
+  {
+    "id": "s3c4b56l1_09",
+    "question": "Tomoni 50 cm bo'lgan kvadratning yuzi necha cm2?  (S = a * a)",
+    "correctAnswer": 2500,
+    "wrongAnswers": [
+      200,
+      100
+    ]
+  },
+  {
+    "id": "s3c4b56l1_10",
+    "question": "Muntazam 6-burchak tomoni 8 cm. Perimetri necha cm?",
+    "correctAnswer": 48,
+    "wrongAnswers": [
+      14,
+      40
+    ]
+  }
+]

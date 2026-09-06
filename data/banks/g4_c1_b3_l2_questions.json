@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok3_level2_form_01", "question": "240 km yo'lni mashina 4 soatda bosdi. Uning tezligi qancha (km/soat)?", "correctAnswer": 60, "wrongAnswers": [244, 15]},
+  {"id": "sinf4_chorak1_blok3_level2_form_02", "question": "Ishchi 6 soatda 54 ta detal yasadi. Soatiga nechta detal yasagan?", "correctAnswer": 9, "wrongAnswers": [48, 60]},
+  {"id": "sinf4_chorak1_blok3_level2_form_03", "question": "1 ta daftar 3 000 so'm. 21 000 so'mga nechta daftar olinadi?", "correctAnswer": 7, "wrongAnswers": [18, 24]},
+  {"id": "sinf4_chorak1_blok3_level2_form_04", "question": "Poyezd 60 km/soat tezlikda yuradi. 300 km ni necha soatda bosadi?", "correctAnswer": 5, "wrongAnswers": [240, 360]},
+  {"id": "sinf4_chorak1_blok3_level2_form_05", "question": "Anvar: \"Mashina 50 km/soat tezlikda 4 soat yurdi, yo'l = 50 + 4 = 54 km\" dedi. Xatosi qayerda?", "correctAnswer": "Yo'lni topish uchun tezlikni vaqtga KO'PAYTIRISH kerak", "wrongAnswers": ["Tezlikni vaqtga qo'shish kerak, hisob to'g'ri", "Xato yo'q, javob 54 km"]},
+  {"id": "sinf4_chorak1_blok3_level2_form_06", "question": "Mashina 2 soatda 90 km yurdi. Shu tezlikda 5 soatda necha km yuradi?", "correctAnswer": 225, "wrongAnswers": [180, 95]},
+  {"id": "sinf4_chorak1_blok3_level2_form_07", "question": "3 ta bir xil qalam 12 000 so'm. 5 ta shunday qalam necha so'm?", "correctAnswer": 20000, "wrongAnswers": [15000, 17000]},
+  {"id": "sinf4_chorak1_blok3_level2_form_08", "question": "Ikki ishchi birgalikda soatiga 20 ta detal yasaydi. 5 soatda nechta yasaydi?", "correctAnswer": 100, "wrongAnswers": [25, 4]},
+  {"id": "sinf4_chorak1_blok3_level2_form_09", "question": "Aniq hisoblamang, chamalang: 48 km/soat × 6 soat taxminan qancha? Eng yaqin javobni tanlang.", "correctAnswer": 300, "wrongAnswers": [90, 3000]},
+  {"id": "sinf4_chorak1_blok3_level2_form_10", "question": "60 km/soat tezlikdagi mashina 240 km yo'lni necha soatda bosadi?", "correctAnswer": 4, "wrongAnswers": [3, 5]}
+]

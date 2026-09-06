@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b1l2_01",
+    "question": "175 + 550 = ?",
+    "correctAnswer": 725,
+    "wrongAnswers": [
+      425,
+      727
+    ]
+  },
+  {
+    "id": "s3c1b1l2_02",
+    "question": "441 - 286 = ?",
+    "correctAnswer": 155,
+    "wrongAnswers": [
+      154,
+      156
+    ]
+  },
+  {
+    "id": "s3c1b1l2_03",
+    "question": "884 - 391 = ?",
+    "correctAnswer": 493,
+    "wrongAnswers": [
+      473,
+      593
+    ]
+  },
+  {
+    "id": "s3c1b1l2_04",
+    "question": "203 + 556 = ?",
+    "correctAnswer": 759,
+    "wrongAnswers": [
+      789,
+      760
+    ]
+  },
+  {
+    "id": "s3c1b1l2_05",
+    "question": "Qulay usulda hisoblang: 239 + (262 + 51)",
+    "correctAnswer": 552,
+    "wrongAnswers": [
+      572,
+      550
+    ]
+  },
+  {
+    "id": "s3c1b1l2_06",
+    "question": "(574 + 66) - 150 = ?",
+    "correctAnswer": 490,
+    "wrongAnswers": [
+      470,
+      460
+    ]
+  },
+  {
+    "id": "s3c1b1l2_07",
+    "question": "Sondan yig'indini ayiring: 601 - (122 + 72)",
+    "correctAnswer": 407,
+    "wrongAnswers": [
+      401,
+      417
+    ]
+  },
+  {
+    "id": "s3c1b1l2_08",
+    "question": "Taqqoslang: 399 + 344 __ 399 + 314",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s3c1b1l2_09",
+    "question": "543 - (86 + 55) ifodasi 543 - 86 - 55 ga teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c1b1l2_10",
+    "question": "? + 257 = 542",
+    "correctAnswer": 285,
+    "wrongAnswers": [
+      315,
+      305
+    ]
+  }
+]

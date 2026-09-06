@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b16l1_01",
+    "question": "700 * 400 = ?",
+    "correctAnswer": 280000,
+    "wrongAnswers": [
+      28000,
+      2800000
+    ]
+  },
+  {
+    "id": "s3c1b16l1_02",
+    "question": "650 * 2 300 = ?",
+    "correctAnswer": 1495000,
+    "wrongAnswers": [
+      149500,
+      14950000
+    ]
+  },
+  {
+    "id": "s3c1b16l1_03",
+    "question": "500 * 60 = ?",
+    "correctAnswer": 30000,
+    "wrongAnswers": [
+      3000,
+      300000
+    ]
+  },
+  {
+    "id": "s3c1b16l1_04",
+    "question": "80 * 900 = ?",
+    "correctAnswer": 72000,
+    "wrongAnswers": [
+      7200,
+      720000
+    ]
+  },
+  {
+    "id": "s3c1b16l1_05",
+    "question": "1 200 * 50 = ?",
+    "correctAnswer": 60000,
+    "wrongAnswers": [
+      6000,
+      600000
+    ]
+  },
+  {
+    "id": "s3c1b16l1_06",
+    "question": "Namuna: 700 * 400 -> 7 * 4 = 28 -> 28 000.  900 * 600 = ?",
+    "correctAnswer": 540000,
+    "wrongAnswers": [
+      54000,
+      5400000
+    ]
+  },
+  {
+    "id": "s3c1b16l1_07",
+    "question": "40 * 5 000 = ?",
+    "correctAnswer": 200000,
+    "wrongAnswers": [
+      20000,
+      2000000
+    ]
+  },
+  {
+    "id": "s3c1b16l1_08",
+    "question": "30 * 8 000 = ?",
+    "correctAnswer": 240000,
+    "wrongAnswers": [
+      24000,
+      2400000
+    ]
+  },
+  {
+    "id": "s3c1b16l1_09",
+    "question": "Namuna: 500 * 300 -> 5 * 3 = 15 -> 150 000.  400 * 700 = ?",
+    "correctAnswer": 280000,
+    "wrongAnswers": [
+      28000,
+      2800000
+    ]
+  },
+  {
+    "id": "s3c1b16l1_10",
+    "question": "6 000 * 90 = ?",
+    "correctAnswer": 540000,
+    "wrongAnswers": [
+      54000,
+      5400000
+    ]
+  }
+]

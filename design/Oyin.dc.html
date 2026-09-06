@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Nunito:wght@600;700;800&display=swap');
+    body { margin: 0; }
+    * { box-sizing: border-box; }
+    a { color: #8055EE; text-decoration: none; }
+    a:hover { color: #5C7FF5; }
+  </style>
+</helmet>
+
+<div style="width: 1440px; min-height: 1040px; font-family: 'Nunito', system-ui, sans-serif; color: #161240; background: linear-gradient(180deg,#eef0ff,#FFF6E6 340px);">
+
+  <!-- slim bar -->
+  <div style="display: flex; align-items: center; justify-content: space-between; padding: 16px 48px; border-bottom: 2px solid rgba(22,18,64,.08);">
+    <div style="display: flex; align-items: center; gap: 10px; font-weight: 800; font-size: 14px; color: rgba(22,18,64,.6);">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="rgba(22,18,64,.6)" stroke-width="2.6" stroke-linecap="round"><path d="M15 6l-6 6 6 6"/></svg>
+      Mavzularga qaytish
+    </div>
+    <div style="font-weight: 800; font-size: 14px; color: rgba(22,18,64,.5);">1-sinf · III chorak · Blok 43 · To'plamlar o'yini</div>
+    <div style="font-weight: 800; font-size: 14px; color: rgba(22,18,64,.5);">5 / 10</div>
+  </div>
+
+  <div style="display: flex; justify-content: center; padding: 40px 0 80px;">
+    <div style="width: 900px;">
+
+      <!-- prompt -->
+      <div style="display: flex; align-items: center; gap: 12px; padding: 16px 22px; border-radius: 18px; background: #8055EE; color: #FFF6E6; box-shadow: 0 6px 0 #5b3bbf; margin-bottom: 8px;">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#FFF6E6" stroke-width="2.4"><circle cx="9" cy="12" r="6"/><circle cx="15" cy="12" r="6"/></svg>
+        <span style="font-family: 'Baloo 2'; font-weight: 800; font-size: 17px;">Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring</span>
+      </div>
+      <div style="height: 8px; border-radius: 999px; background: rgba(22,18,64,.10); overflow: hidden; margin-bottom: 26px;"><div style="width: 50%; height: 100%; background: linear-gradient(90deg,#8055EE,#4A2F9E);"></div></div>
+
+      <!-- venn board -->
+      <div style="position: relative; height: 380px; border-radius: 26px; background: #fff; border: 2px solid rgba(22,18,64,.10); box-shadow: 0 10px 0 rgba(22,18,64,.12); overflow: hidden;">
+        <!-- circle A -->
+        <div style="position: absolute; left: 120px; top: 60px; width: 320px; height: 260px; border-radius: 50%; border: 3px dashed #4AD07A; background: rgba(74,208,122,.08);"></div>
+        <div style="position: absolute; left: 150px; top: 30px; font-family: 'Baloo 2'; font-weight: 800; color: #2f9d57;">Juft sonlar</div>
+        <!-- circle B -->
+        <div style="position: absolute; left: 400px; top: 60px; width: 320px; height: 260px; border-radius: 50%; border: 3px dashed #5C7FF5; background: rgba(92,127,245,.08);"></div>
+        <div style="position: absolute; left: 560px; top: 30px; font-family: 'Baloo 2'; font-weight: 800; color: #4257c9;">10 dan katta sonlar</div>
+
+        <!-- placed tiles -->
+        <div style="position: absolute; left: 190px; top: 150px; width: 52px; height: 52px; border-radius: 14px; background: #4AD07A; color: #06351c; display: flex; align-items: center; justify-content: center; font-family: 'Baloo 2'; font-weight: 800; font-size: 22px; box-shadow: 0 5px 0 #2f9d57;">4</div>
+        <div style="position: absolute; left: 250px; top: 210px; width: 52px; height: 52px; border-radius: 14px; background: #4AD07A; color: #06351c; display: flex; align-items: center; justify-content: center; font-family: 'Baloo 2'; font-weight: 800; font-size: 22px; box-shadow: 0 5px 0 #2f9d57;">8</div>
+        <div style="position: absolute; left: 400px; top: 165px; width: 52px; height: 52px; border-radius: 14px; background: #8055EE; color: #FFF6E6; display: flex; align-items: center; justify-content: center; font-family: 'Baloo 2'; font-weight: 800; font-size: 22px; box-shadow: 0 5px 0 #5b3bbf;">12</div>
+        <div style="position: absolute; left: 470px; top: 200px; width: 52px; height: 52px; border-radius: 14px; background: #8055EE; color: #FFF6E6; display: flex; align-items: center; justify-content: center; font-family: 'Baloo 2'; font-weight: 800; font-size: 22px; box-shadow: 0 5px 0 #5b3bbf;">20</div>
+        <div style="position: absolute; left: 590px; top: 155px; width: 52px; height: 52px; border-radius: 14px; background: #5C7FF5; color: #FFF6E6; display: flex; align-items: center; justify-content: center; font-family: 'Baloo 2'; font-weight: 800; font-size: 22px; box-shadow: 0 5px 0 #3f56c4;">15</div>
+      </div>
+
+      <!-- neither zone + tray -->
+      <div style="display: flex; gap: 20px; margin-top: 20px;">
+        <div style="width: 220px; border-radius: 20px; border: 2px dashed rgba(22,18,64,.25); background: rgba(22,18,64,.03); padding: 16px; text-align: center;">
+          <div style="font-family: 'Baloo 2'; font-weight: 800; font-size: 13px; color: rgba(22,18,64,.5); margin-bottom: 10px;">Hech qaysisiga</div>
+          <div style="display: inline-flex; width: 52px; height: 52px; border-radius: 14px; background: #fff; border: 2px solid rgba(22,18,64,.15); align-items: center; justify-content: center; font-family: 'Baloo 2'; font-weight: 800; font-size: 22px;">7</div>
+        </div>
+        <div style="flex: 1; border-radius: 20px; background: #fff; border: 2px solid rgba(22,18,64,.10); box-shadow: 0 6px 0 rgba(22,18,64,.10); padding: 16px 20px;">
+          <div style="font-family: 'Baloo 2'; font-weight: 800; font-size: 13px; color: rgba(22,18,64,.45); margin-bottom: 12px;">Joylashtirilmagan</div>
+          <div style="display: flex; gap: 14px;">
+            <div style="width: 56px; height: 56px; border-radius: 16px; background: #FFF6E6; border: 2px solid rgba(22,18,64,.16); display: flex; align-items: center; justify-content: center; font-family: 'Baloo 2'; font-weight: 800; font-size: 24px; box-shadow: 0 5px 0 rgba(22,18,64,.12);">6</div>
+            <div style="width: 56px; height: 56px; border-radius: 16px; background: #FFF6E6; border: 2px solid rgba(22,18,64,.16); display: flex; align-items: center; justify-content: center; font-family: 'Baloo 2'; font-weight: 800; font-size: 24px; box-shadow: 0 5px 0 rgba(22,18,64,.12);">5</div>
+          </div>
+        </div>
+        <div style="display: flex; flex-direction: column; justify-content: flex-end;">
+          <div style="padding: 18px 34px; border-radius: 20px; background: #4AD07A; color: #06351c; font-family: 'Baloo 2'; font-weight: 800; font-size: 18px; box-shadow: 0 6px 0 #2f9d57; text-align: center;">Tekshirish</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+</x-dc>
+</body>
+</html>

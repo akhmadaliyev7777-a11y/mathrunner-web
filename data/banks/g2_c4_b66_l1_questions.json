@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b66l1_01",
+    "question": "80 : 4 = ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      21,
+      200
+    ]
+  },
+  {
+    "id": "s2c4b66l1_02",
+    "question": "90 : 3 = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      31,
+      300
+    ]
+  },
+  {
+    "id": "s2c4b66l1_03",
+    "question": "60 : 2 = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      31,
+      300
+    ]
+  },
+  {
+    "id": "s2c4b66l1_04",
+    "question": "100 : 5 = ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      21,
+      200
+    ]
+  },
+  {
+    "id": "s2c4b66l1_05",
+    "question": "120 : 4 = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      31,
+      300
+    ]
+  },
+  {
+    "id": "s2c4b66l1_06",
+    "question": "150 : 5 = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      31,
+      300
+    ]
+  },
+  {
+    "id": "s2c4b66l1_07",
+    "question": "Namuna: 80 : 4 -> 8 : 4 = 2 -> 20.  60 : 3 = ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      2,
+      200
+    ]
+  },
+  {
+    "id": "s2c4b66l1_08",
+    "question": "100 : 10 = ?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      1,
+      100
+    ]
+  },
+  {
+    "id": "s2c4b66l1_09",
+    "question": "200 : 4 = ?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      5,
+      500
+    ]
+  },
+  {
+    "id": "s2c4b66l1_10",
+    "question": "300 : 5 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      6,
+      600
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b25l2_01",
+    "question": "400 - 150 + 120 = ?",
+    "correctAnswer": 370,
+    "wrongAnswers": [
+      130,
+      430
+    ]
+  },
+  {
+    "id": "s2c2b25l2_02",
+    "question": "600 - 250 + 130 = ?",
+    "correctAnswer": 480,
+    "wrongAnswers": [
+      220,
+      720
+    ]
+  },
+  {
+    "id": "s2c2b25l2_03",
+    "question": "350 - 200 + 90 = ?",
+    "correctAnswer": 240,
+    "wrongAnswers": [
+      60,
+      460
+    ]
+  },
+  {
+    "id": "s2c2b25l2_04",
+    "question": "800 - 340 + 160 = ?",
+    "correctAnswer": 620,
+    "wrongAnswers": [
+      300,
+      980
+    ]
+  },
+  {
+    "id": "s2c2b25l2_05",
+    "question": "275 - 125 + 300 = ?",
+    "correctAnswer": 450,
+    "wrongAnswers": [
+      -150,
+      100
+    ]
+  },
+  {
+    "id": "s2c2b25l2_06",
+    "question": "500 - 175 + 205 = ?",
+    "correctAnswer": 530,
+    "wrongAnswers": [
+      120,
+      470
+    ]
+  },
+  {
+    "id": "s2c2b25l2_07",
+    "question": "700 + 150 - 250 = ?",
+    "correctAnswer": 600,
+    "wrongAnswers": [
+      500,
+      700
+    ]
+  },
+  {
+    "id": "s2c2b25l2_08",
+    "question": "Omborda 500 kg kartoshka bor edi. 180 kg sotildi, keyin 250 kg keltirildi. Nechta kg bo'ldi?",
+    "correctAnswer": 570,
+    "wrongAnswers": [
+      430,
+      930
+    ]
+  },
+  {
+    "id": "s2c2b25l2_09",
+    "question": "Bolada 350 so'm bor edi. Onasi 200 so'm berdi, u 120 so'mga daftar oldi. Nechta so'm qoldi?",
+    "correctAnswer": 430,
+    "wrongAnswers": [
+      230,
+      670
+    ]
+  },
+  {
+    "id": "s2c2b25l2_10",
+    "question": "Xatoni toping: 600 - 200 + 100 = 300. To'g'ri javob qancha?",
+    "correctAnswer": 500,
+    "wrongAnswers": [
+      300,
+      400
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok33_level2_ort_01", "question": "38 ta o'quvchini 5 kishilik guruhlarga bo'lish kerak. Hamma o'quvchi joylashishi uchun nechta guruh kerak?", "correctAnswer": "8 guruh (ortig'i bilan), chunki 3 o'quvchi ochib qoladi", "wrongAnswers": ["7 guruh yetarli", "38 : 5 = 7, boshqasi shart emas"]},
+  {"id": "sinf4_chorak2_blok33_level2_ort_02", "question": "Bir mashinaga 4 ta g'ildirak kerak. Omborda 30 ta g'ildirak bor. Nechta mashinani to'liq ta'minlash mumkin?", "correctAnswer": 7, "wrongAnswers": [8, 30]},
+  {"id": "sinf4_chorak2_blok33_level2_ort_03", "question": "125 ta mehmon keladi. Har stolda 8 kishi o'tiradi. Nechta stol kerak?", "correctAnswer": 16, "wrongAnswers": [15, 125]},
+  {"id": "sinf4_chorak2_blok33_level2_ort_04", "question": "500 so'mlik ruchka. 2 700 so'm bor. Nechta ruchka olish mumkin?", "correctAnswer": 5, "wrongAnswers": [6, 2700]},
+  {"id": "sinf4_chorak2_blok33_level2_ort_05", "question": "Rost yoki yolg'on: Odamlar sonini avtobuslarga taqsimlaganda har doim ORTIG'I bilan yaxlitlanadi.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak2_blok33_level2_ort_06", "question": "60 ta konfetni 7 tadan paketlarga solamiz. Nechta to'liq paket chiqadi?", "correctAnswer": 8, "wrongAnswers": [9, 60]},
+  {"id": "sinf4_chorak2_blok33_level2_ort_07", "question": "Bir avtobusda 40 o'rin bor. 250 kishini tashish uchun avtobus necha marta qatnashi kerak?", "correctAnswer": 7, "wrongAnswers": [6, 250]},
+  {"id": "sinf4_chorak2_blok33_level2_ort_08", "question": "90 sm lik lentadan 25 sm lik bo'laklar kesamiz. Nechta to'liq bo'lak chiqadi?", "correctAnswer": 3, "wrongAnswers": [4, 90]},
+  {"id": "sinf4_chorak2_blok33_level2_ort_09", "question": "Bir sahifaga 30 ta so'z sig'adi. 200 ta so'zni yozish uchun necha sahifa kerak?", "correctAnswer": 7, "wrongAnswers": [6, 200]},
+  {"id": "sinf4_chorak2_blok33_level2_ort_10", "question": "Rost yoki yolg'on: To'liq to'plamlar sonini topganda (masalan to'liq qutilar) KAMI bilan yaxlitlanadi.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]}
+]

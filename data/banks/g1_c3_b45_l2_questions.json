@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b45l2_01",
+    "question": "AB kesma 12 sm, BC kesma 8 sm. ABC siniq chiziq uzunligi necha sm?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      4,
+      96
+    ]
+  },
+  {
+    "id": "s1c3b45l2_02",
+    "question": "Bir kesma 15 sm, ikkinchisi 9 sm. Farqi necha sm?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      24,
+      7
+    ]
+  },
+  {
+    "id": "s1c3b45l2_03",
+    "question": "3 ta kesma: 5 sm, 6 sm, 4 sm. Jami necha sm?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      11,
+      14
+    ]
+  },
+  {
+    "id": "s1c3b45l2_04",
+    "question": "20 sm li kesmadan 12 sm kesildi. Necha sm qoldi?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      32,
+      7
+    ]
+  },
+  {
+    "id": "s1c3b45l2_05",
+    "question": "Kesma 14 sm edi, 6 sm ga qisqartirildi. Necha sm qoldi?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      20,
+      7
+    ]
+  },
+  {
+    "id": "s1c3b45l2_06",
+    "question": "Bir qalam 16 sm, ikkinchisi 4 sm qisqa. Ikkinchisi necha sm?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      20,
+      11
+    ]
+  },
+  {
+    "id": "s1c3b45l2_07",
+    "question": "Taqqoslang: 6 sm + 7 sm __ 15 sm",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c3b45l2_08",
+    "question": "Siniq chiziq bo'g'inlari: 5 sm, 5 sm, 5 sm. Uzunligi necha sm?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      10,
+      20
+    ]
+  },
+  {
+    "id": "s1c3b45l2_09",
+    "question": "Kesmalar yig'indisini topish uchun ularning uzunliklarini qo'shamiz.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b45l2_10",
+    "question": "Xato: 8 sm va 7 sm li kesmalar yig'indisi 14 sm deyildi. To'g'ri javob necha sm?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      14,
+      16
+    ]
+  }
+]

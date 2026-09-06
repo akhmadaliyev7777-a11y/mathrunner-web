@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b65l1_01",
+    "question": "20 * 3 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      6,
+      70
+    ]
+  },
+  {
+    "id": "s2c4b65l1_02",
+    "question": "30 * 2 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      6,
+      70
+    ]
+  },
+  {
+    "id": "s2c4b65l1_03",
+    "question": "40 * 2 = ?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      8,
+      90
+    ]
+  },
+  {
+    "id": "s2c4b65l1_04",
+    "question": "50 * 4 = ?",
+    "correctAnswer": 200,
+    "wrongAnswers": [
+      20,
+      210
+    ]
+  },
+  {
+    "id": "s2c4b65l1_05",
+    "question": "60 * 3 = ?",
+    "correctAnswer": 180,
+    "wrongAnswers": [
+      18,
+      190
+    ]
+  },
+  {
+    "id": "s2c4b65l1_06",
+    "question": "90 * 2 = ?",
+    "correctAnswer": 180,
+    "wrongAnswers": [
+      18,
+      190
+    ]
+  },
+  {
+    "id": "s2c4b65l1_07",
+    "question": "70 * 3 = ?",
+    "correctAnswer": 210,
+    "wrongAnswers": [
+      21,
+      220
+    ]
+  },
+  {
+    "id": "s2c4b65l1_08",
+    "question": "80 * 5 = ?",
+    "correctAnswer": 400,
+    "wrongAnswers": [
+      40,
+      410
+    ]
+  },
+  {
+    "id": "s2c4b65l1_09",
+    "question": "Namuna: 20 * 4 -> 2 * 4 = 8 -> 80.  30 * 3 = ?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      9,
+      900
+    ]
+  },
+  {
+    "id": "s2c4b65l1_10",
+    "question": "50 * 2 = ?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      10,
+      1000
+    ]
+  }
+]

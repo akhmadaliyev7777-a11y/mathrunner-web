@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b2l1_01",
+    "question": "Rasmda 3 ta olma bor. Ular nechta?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      4,
+      2
+    ]
+  },
+  {
+    "id": "s1c1b2l1_02",
+    "question": "Rasmda 5 ta olma bor. Ular nechta?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      6,
+      4
+    ]
+  },
+  {
+    "id": "s1c1b2l1_03",
+    "question": "Rasmda 7 ta olma bor. Ular nechta?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      8,
+      6
+    ]
+  },
+  {
+    "id": "s1c1b2l1_04",
+    "question": "Rasmda 2 ta olma bor. Ular nechta?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      3,
+      1
+    ]
+  },
+  {
+    "id": "s1c1b2l1_05",
+    "question": "Rasmda 6 ta olma bor. Ular nechta?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      7,
+      5
+    ]
+  },
+  {
+    "id": "s1c1b2l1_06",
+    "question": "Rasmda 8 ta olma bor. Ular nechta?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      9,
+      7
+    ]
+  },
+  {
+    "id": "s1c1b2l1_07",
+    "question": "Rasmda 4 ta olma bor. Ular nechta?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      5,
+      3
+    ]
+  },
+  {
+    "id": "s1c1b2l1_08",
+    "question": "Rasmda 9 ta olma bor. Ular nechta?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      10,
+      8
+    ]
+  },
+  {
+    "id": "s1c1b2l1_09",
+    "question": "1, 2, 3, 4, ... — keyingi son qaysi?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "s1c1b2l1_10",
+    "question": "Sanashda 6 dan keyin qaysi son keladi?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      5,
+      8
+    ]
+  }
+]

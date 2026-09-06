@@ -1,0 +1,20 @@
+[
+  {"id": "sinf4_chorak1_blok8_level1_bok_01", "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring", "setAName": "2 ga karrali sonlar", "setBName": "5 ga karrali sonlar", "elements": [
+    {"value": "4", "zone": "onlyA"}, {"value": "10", "zone": "both"}, {"value": "15", "zone": "onlyB"}, {"value": "7", "zone": "neither"}
+  ]},
+  {"id": "sinf4_chorak1_blok8_level1_bok_02", "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring", "setAName": "3 ga karrali sonlar", "setBName": "4 ga karrali sonlar", "elements": [
+    {"value": "9", "zone": "onlyA"}, {"value": "12", "zone": "both"}, {"value": "8", "zone": "onlyB"}, {"value": "5", "zone": "neither"}
+  ]},
+  {"id": "sinf4_chorak1_blok8_level1_bok_03", "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring", "setAName": "12 ning bo'luvchilari", "setBName": "18 ning bo'luvchilari", "elements": [
+    {"value": "4", "zone": "onlyA"}, {"value": "6", "zone": "both"}, {"value": "3", "zone": "both"}, {"value": "9", "zone": "onlyB"}, {"value": "5", "zone": "neither"}, {"value": "8", "zone": "neither"}
+  ]},
+  {"id": "sinf4_chorak1_blok8_level1_bok_04", "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring", "setAName": "10 ga karrali sonlar", "setBName": "Juft sonlar", "elements": [
+    {"value": "20", "zone": "both"}, {"value": "14", "zone": "onlyB"}, {"value": "15", "zone": "neither"}, {"value": "50", "zone": "both"}, {"value": "8", "zone": "onlyB"}, {"value": "7", "zone": "neither"}
+  ]},
+  {"id": "sinf4_chorak1_blok8_level1_bok_05", "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring", "setAName": "5 ga karrali sonlar", "setBName": "10 ga karrali sonlar", "elements": [
+    {"value": "5", "zone": "onlyA"}, {"value": "10", "zone": "both"}, {"value": "25", "zone": "onlyA"}, {"value": "20", "zone": "both"}, {"value": "30", "zone": "both"}, {"value": "7", "zone": "neither"}
+  ]},
+  {"id": "sinf4_chorak1_blok8_level1_bok_06", "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring", "setAName": "24 ning bo'luvchilari", "setBName": "36 ning bo'luvchilari", "elements": [
+    {"value": "8", "zone": "onlyA"}, {"value": "12", "zone": "both"}, {"value": "9", "zone": "onlyB"}, {"value": "6", "zone": "both"}, {"value": "5", "zone": "neither"}, {"value": "24", "zone": "onlyA"}, {"value": "18", "zone": "onlyB"}, {"value": "1", "zone": "both"}
+  ]}
+]

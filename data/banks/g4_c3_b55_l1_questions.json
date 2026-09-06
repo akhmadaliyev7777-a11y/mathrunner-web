@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok55_level1_onur_01", "question": "Sonli nurda 0 va 1 orasi 10 ta teng bo'lakka bo'lindi. 3-belgi qaysi o'nli kasrni bildiradi?", "correctAnswer": "0,3", "wrongAnswers": ["0,03", "3,0"]},
+  {"id": "sinf4_chorak3_blok55_level1_onur_02", "question": "Sonli nurda 0,5 nuqta qayerda joylashgan?", "correctAnswer": "0 va 1 ning aynan o'rtasida", "wrongAnswers": ["1 dan keyin", "0 dan oldin"]},
+  {"id": "sinf4_chorak3_blok55_level1_onur_03", "question": "Sonli nurda 1,5 nuqta qayerda bo'ladi?", "correctAnswer": "1 va 2 orasida, aynan o'rtasida", "wrongAnswers": ["0 va 1 orasida", "2 dan keyin"]},
+  {"id": "sinf4_chorak3_blok55_level1_onur_04", "question": "0,7 va 0,9 dan qaysi biri sonli nurda o'ngroqda (kattaroq)?", "correctAnswer": "0,9", "wrongAnswers": ["0,7", "teng"]},
+  {"id": "sinf4_chorak3_blok55_level1_onur_05", "question": "Sonli nurda 0,15 nuqta qayerda?", "correctAnswer": "0,1 va 0,2 ning o'rtasida", "wrongAnswers": ["0,2 dan keyin", "0 da"]},
+  {"id": "sinf4_chorak3_blok55_level1_onur_06", "question": "Sonli nurda 2,0 qaysi butun songa to'g'ri keladi?", "correctAnswer": "2", "wrongAnswers": ["0", "20"]},
+  {"id": "sinf4_chorak3_blok55_level1_onur_07", "question": "0,4 nuqta 0 dan qanchalik uzoqda?", "correctAnswer": "0,4 birlik", "wrongAnswers": ["4 birlik", "0,04 birlik"]},
+  {"id": "sinf4_chorak3_blok55_level1_onur_08", "question": "Sonli nurda 1,0 va 1 — bu ikki nuqta qanday joylashgan?", "correctAnswer": "Bir xil joyda", "wrongAnswers": ["1,0 oldinroq", "1 oldinroq"]},
+  {"id": "sinf4_chorak3_blok55_level1_onur_09", "question": "0,25 va 0,3 dan qaysi biri kichik?", "correctAnswer": "0,25", "wrongAnswers": ["0,3", "teng"]},
+  {"id": "sinf4_chorak3_blok55_level1_onur_10", "question": "O'nli kasrni sonli nurda ko'rsatishdan qanday foyda bor?", "correctAnswer": "O'nli kasrlarni taqqoslash oson bo'ladi", "wrongAnswers": ["Faqat butun sonlarni ko'rsatadi", "Hech qanday foyda yo'q"]}
+]

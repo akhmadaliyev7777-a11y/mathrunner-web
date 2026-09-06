@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b24l1_01",
+    "question": "700 - 300 = ?",
+    "correctAnswer": 400,
+    "wrongAnswers": [
+      500,
+      300
+    ]
+  },
+  {
+    "id": "s2c2b24l1_02",
+    "question": "560 - 240 = ?",
+    "correctAnswer": 320,
+    "wrongAnswers": [
+      420,
+      220
+    ]
+  },
+  {
+    "id": "s2c2b24l1_03",
+    "question": "890 - 450 = ?",
+    "correctAnswer": 440,
+    "wrongAnswers": [
+      540,
+      340
+    ]
+  },
+  {
+    "id": "s2c2b24l1_04",
+    "question": "675 - 342 = ?",
+    "correctAnswer": 333,
+    "wrongAnswers": [
+      433,
+      233
+    ]
+  },
+  {
+    "id": "s2c2b24l1_05",
+    "question": "438 - 217 = ?",
+    "correctAnswer": 221,
+    "wrongAnswers": [
+      321,
+      121
+    ]
+  },
+  {
+    "id": "s2c2b24l1_06",
+    "question": "999 - 555 = ?",
+    "correctAnswer": 444,
+    "wrongAnswers": [
+      544,
+      344
+    ]
+  },
+  {
+    "id": "s2c2b24l1_07",
+    "question": "540 - 130 = ?",
+    "correctAnswer": 410,
+    "wrongAnswers": [
+      510,
+      310
+    ]
+  },
+  {
+    "id": "s2c2b24l1_08",
+    "question": "786 - 604 = ?",
+    "correctAnswer": 182,
+    "wrongAnswers": [
+      282,
+      82
+    ]
+  },
+  {
+    "id": "s2c2b24l1_09",
+    "question": "800 - 60 = ?",
+    "correctAnswer": 740,
+    "wrongAnswers": [
+      860,
+      640
+    ]
+  },
+  {
+    "id": "s2c2b24l1_10",
+    "question": "930 - 500 = ?",
+    "correctAnswer": 430,
+    "wrongAnswers": [
+      480,
+      330
+    ]
+  }
+]

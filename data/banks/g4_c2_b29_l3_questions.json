@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok29_level3_quvlama_01", "question": "Yuk mashinasi 40 km/soat bilan ketmoqda. Avtobus 60 km/soat bilan xuddi shu yo'ldan ketmoqda va yuk mashinasidan 60 km orqada. Necha soatda quvib yetadi?", "correctAnswer": 3, "wrongAnswers": [1, 6]},
+  {"id": "sinf4_chorak2_blok29_level3_quvlama_02", "question": "Mashina A 50 km/soat, mashina B 70 km/soat. B, A dan 100 km orqada. Ular uchrashganda B qancha yo'l bosgan bo'ladi?", "correctAnswer": 350, "wrongAnswers": [250, 100]},
+  {"id": "sinf4_chorak2_blok29_level3_quvlama_03", "question": "Piyoda 4 km/soat bilan yurdi. 2 soatdan keyin uning ortidan velosipedchi 12 km/soat bilan yo'lga chiqdi. Velosipedchi piyodani (o'z jo'nashidan) necha soatda quvib yetadi?", "correctAnswer": 1, "wrongAnswers": [2, 3]},
+  {"id": "sinf4_chorak2_blok29_level3_quvlama_04", "question": "Bo'ri kiyikdan 30 km orqada. Bo'ri 20 km/soat, kiyik 15 km/soat. Bola quvib yetish vaqtini 30 : (20 + 15) deb hisobladi. Xatosi nimada?", "correctAnswer": "Tezliklar ayirilishi kerak: 30 : (20 − 15) = 6 soat", "wrongAnswers": ["Xato yo'q", "Ko'paytirish kerak edi"]},
+  {"id": "sinf4_chorak2_blok29_level3_quvlama_05", "question": "Ikki mashina bir yo'nalishda: sekin 40 km/soat, tez 60 km/soat, orasi 80 km. 2 soatdan keyin ular orasi qancha qoladi?", "correctAnswer": 40, "wrongAnswers": [120, 20]},
+  {"id": "sinf4_chorak2_blok29_level3_quvlama_06", "question": "Tez mashina 3 soatda sekin mashinani quvib yetdi. Tezliklari ayirmasi 25 km/soat. Ular dastlab bir-biridan qancha uzoqda edi?", "correctAnswer": 75, "wrongAnswers": [28, 22]},
+  {"id": "sinf4_chorak2_blok29_level3_quvlama_07", "question": "Kiyik 10 km/soat bilan yugurdi. 4 km orqadan bo'ri 14 km/soat bilan quvdi. Bo'ri kiyikni kiyikning start nuqtasidan necha km uzoqda quvib yetadi?", "correctAnswer": 10, "wrongAnswers": [4, 14]},
+  {"id": "sinf4_chorak2_blok29_level3_quvlama_08", "question": "Avtobus 45 km/soat, yengil mashina 75 km/soat. Bir yo'nalishda, orasi 90 km. Yengil mashina avtobusni necha soatda quvib yetadi?", "correctAnswer": 3, "wrongAnswers": [2, 30]},
+  {"id": "sinf4_chorak2_blok29_level3_quvlama_09", "question": "Ikki poyezd bir yo'nalishda: 60 va 84 km/soat. Sekini 72 km oldinda. Tez poyezd 2 soatda oradagi masofani qancha kamaytiradi?", "correctAnswer": 48, "wrongAnswers": [24, 72]},
+  {"id": "sinf4_chorak2_blok29_level3_quvlama_10", "question": "Piyoda va velosipedchi bir joydan bir vaqtda bir tomonga yo'lga chiqdi (5 va 20 km/soat). 2 soatdan keyin ular orasi qancha?", "correctAnswer": 30, "wrongAnswers": [15, 50]}
+]

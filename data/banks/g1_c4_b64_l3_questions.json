@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b64l3_01",
+    "question": "Bolada 30 so'm bor edi. Onasi 15 so'm berdi, u 20 so'mga kitob oldi. Nechta so'm qoldi?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      35,
+      65
+    ]
+  },
+  {
+    "id": "s1c4b64l3_02",
+    "question": "Bir qopda 25 kg, boshqasida 18 kg un. Jami necha kg?",
+    "correctAnswer": 43,
+    "wrongAnswers": [
+      7,
+      53
+    ]
+  },
+  {
+    "id": "s1c4b64l3_03",
+    "question": "Uchburchak tomonlari 8 sm, 9 sm, 10 sm. Perimetri necha sm?",
+    "correctAnswer": 27,
+    "wrongAnswers": [
+      18,
+      24
+    ]
+  },
+  {
+    "id": "s1c4b64l3_04",
+    "question": "x - 16 = 24 tenglamada x qancha?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      8,
+      35
+    ]
+  },
+  {
+    "id": "s1c4b64l3_05",
+    "question": "Vazada 22 ta gul bor edi. 8 tasi so'ldi, keyin 6 ta qo'shildi. Nechta gul bor?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      30,
+      8
+    ]
+  },
+  {
+    "id": "s1c4b64l3_06",
+    "question": "1, 3, 5, 7, ... — keyingi son qaysi?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      11
+    ]
+  },
+  {
+    "id": "s1c4b64l3_07",
+    "question": "(40 + 30) - (10 + 20) = ?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      100,
+      20
+    ]
+  },
+  {
+    "id": "s1c4b64l3_08",
+    "question": "Kvadratning nechta simmetriya o'qi bor?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      2,
+      1
+    ]
+  },
+  {
+    "id": "s1c4b64l3_09",
+    "question": "Qo'shiluvchilar o'rnini almashtirsak, yig'indi o'zgarmaydi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b64l3_10",
+    "question": "Xato: \"70 - 25 - 15\" masalada javob 40 deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      40,
+      20
+    ]
+  }
+]

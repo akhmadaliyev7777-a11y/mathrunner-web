@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b40l3_01",
+    "question": "Bir do'konda 50 kg kartoshka bor edi. 20 kg sotildi, 15 kg keltirildi. Nechta kg bo'ldi?",
+    "correctAnswer": 45,
+    "wrongAnswers": [
+      55,
+      35
+    ]
+  },
+  {
+    "id": "s1c3b40l3_02",
+    "question": "Bolada 35 so'm bor edi. 12 so'mga daftar, 8 so'mga ruchka oldi. Nechta so'm qoldi?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      25,
+      55
+    ]
+  },
+  {
+    "id": "s1c3b40l3_03",
+    "question": "Birinchi savatda 28 ta olma. Ikkinchisida 6 taga kam. Ikkalasida jami nechta?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      22,
+      34
+    ]
+  },
+  {
+    "id": "s1c3b40l3_04",
+    "question": "Aravada 60 ta g'isht bor edi. 25 tasi tushirildi, keyin yana 10 tasi tushirildi. Nechta qoldi?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      35,
+      95
+    ]
+  },
+  {
+    "id": "s1c3b40l3_05",
+    "question": "Anvar 15 yoshda. Akasi 5 yosh katta, singlisi 3 yosh kichik. Akasi bilan singlisining yoshi farqi qancha?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      10,
+      6
+    ]
+  },
+  {
+    "id": "s1c3b40l3_06",
+    "question": "Bir hovlida 12 tovuq va 8 o'rdak bor edi. 5 tovuq sotildi. Jami nechta parranda qoldi?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      25,
+      20
+    ]
+  },
+  {
+    "id": "s1c3b40l3_07",
+    "question": "Bir sonni 8 ga orttirsam, 20 bo'ldi. Keyin uni 6 ga kamaytirsam, qancha bo'ladi?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      12,
+      22
+    ]
+  },
+  {
+    "id": "s1c3b40l3_08",
+    "question": "Kitobda 45 bet. Bola 1-kun 18 bet, 2-kun 12 bet o'qidi. Necha bet qoldi?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      30,
+      75
+    ]
+  },
+  {
+    "id": "s1c3b40l3_09",
+    "question": "Sonni avval orttirib, keyin xuddi shu songa kamaytirsak, natija boshlang'ich songa teng bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b40l3_10",
+    "question": "Xato: \"50 - 20 + 10\" masalada javob 20 deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      20,
+      30
+    ]
+  }
+]

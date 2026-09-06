@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok10_level1_mas_01", "question": "24 ta olmani 4 ta bolaga teng bo'lib berdik. Har biriga nechtadan tegdi?", "correctAnswer": 6, "wrongAnswers": [8, 20]},
+  {"id": "sinf4_chorak1_blok10_level1_mas_02", "question": "Bir qutida 6 ta ruchka. 30 ta ruchka necha qutiga joylashadi?", "correctAnswer": 5, "wrongAnswers": [6, 24]},
+  {"id": "sinf4_chorak1_blok10_level1_mas_03", "question": "Sinfda 28 o'quvchi. Ular 2 tadan juftlashsa, nechta juft hosil bo'ladi?", "correctAnswer": 14, "wrongAnswers": [26, 30]},
+  {"id": "sinf4_chorak1_blok10_level1_mas_04", "question": "45 ta shirinlikni 5 ta bolaga teng ulashsak, har biriga nechtadan tegadi?", "correctAnswer": 9, "wrongAnswers": [8, 40]},
+  {"id": "sinf4_chorak1_blok10_level1_mas_05", "question": "Har bir stolda 4 o'rindiq. 36 o'rindiq necha stolga tegishli?", "correctAnswer": 9, "wrongAnswers": [32, 40]},
+  {"id": "sinf4_chorak1_blok10_level1_mas_06", "question": "Har 3 kunda 1 marta gul sug'oriladi. 30 kunda necha marta sug'oriladi?", "correctAnswer": 10, "wrongAnswers": [27, 90]},
+  {"id": "sinf4_chorak1_blok10_level1_mas_07", "question": "Bir kartonda 10 ta tuxum. 80 ta tuxum necha karton bo'ladi?", "correctAnswer": 8, "wrongAnswers": [70, 800]},
+  {"id": "sinf4_chorak1_blok10_level1_mas_08", "question": "56 ta daftarni 8 ta tokchaga teng joyladik. Har tokchada nechtadan?", "correctAnswer": 7, "wrongAnswers": [48, 64]},
+  {"id": "sinf4_chorak1_blok10_level1_mas_09", "question": "Bir dasturxonga 6 kishi o'tiradi. 24 kishi necha dasturxonga o'tiradi?", "correctAnswer": 4, "wrongAnswers": [18, 30]},
+  {"id": "sinf4_chorak1_blok10_level1_mas_10", "question": "Har 5 daqiqada bitta avtobus keladi. 1 soatda nechta avtobus keladi?", "correctAnswer": 12, "wrongAnswers": [11, 55]}
+]

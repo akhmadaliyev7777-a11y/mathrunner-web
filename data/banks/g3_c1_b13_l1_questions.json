@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b13l1_01",
+    "question": "58 * 4 = ?",
+    "correctAnswer": 232,
+    "wrongAnswers": [
+      228,
+      236
+    ]
+  },
+  {
+    "id": "s3c1b13l1_02",
+    "question": "66 * 3 = ?",
+    "correctAnswer": 198,
+    "wrongAnswers": [
+      195,
+      201
+    ]
+  },
+  {
+    "id": "s3c1b13l1_03",
+    "question": "62 * 4 = ?",
+    "correctAnswer": 248,
+    "wrongAnswers": [
+      244,
+      252
+    ]
+  },
+  {
+    "id": "s3c1b13l1_04",
+    "question": "46 * 4 = ?",
+    "correctAnswer": 184,
+    "wrongAnswers": [
+      180,
+      188
+    ]
+  },
+  {
+    "id": "s3c1b13l1_05",
+    "question": "Qulay usulda: 37 * 7 + 36 * 7 = ?",
+    "correctAnswer": 511,
+    "wrongAnswers": [
+      504,
+      518
+    ]
+  },
+  {
+    "id": "s3c1b13l1_06",
+    "question": "Namunaga qarab: 32 * 12 = 32 * (10 + 2) = 320 + 64 = 384.  41 * 12 = ?",
+    "correctAnswer": 492,
+    "wrongAnswers": [
+      482,
+      502
+    ]
+  },
+  {
+    "id": "s3c1b13l1_07",
+    "question": "25 * 4 = ?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      80,
+      120
+    ]
+  },
+  {
+    "id": "s3c1b13l1_08",
+    "question": "48 * 5 = ?",
+    "correctAnswer": 240,
+    "wrongAnswers": [
+      230,
+      250
+    ]
+  },
+  {
+    "id": "s3c1b13l1_09",
+    "question": "56 * 4 = ?",
+    "correctAnswer": 224,
+    "wrongAnswers": [
+      204,
+      244
+    ]
+  },
+  {
+    "id": "s3c1b13l1_10",
+    "question": "19 * 5 = ?",
+    "correctAnswer": 95,
+    "wrongAnswers": [
+      85,
+      105
+    ]
+  }
+]

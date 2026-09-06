@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b59l1_01",
+    "question": "Poyezd 48 km/h. 3 soatdan keyin qancha masofada bo'ladi?",
+    "correctAnswer": 144,
+    "wrongAnswers": [
+      51,
+      45
+    ]
+  },
+  {
+    "id": "s3c4b59l1_02",
+    "question": "Tezyurar poyezd 91 km/h. 6 soatda qancha yo'l bosadi?",
+    "correctAnswer": 546,
+    "wrongAnswers": [
+      85,
+      97
+    ]
+  },
+  {
+    "id": "s3c4b59l1_03",
+    "question": "Sayyoh 3 soat davomida 2 km/h bilan tog'ga chiqdi. Necha km ko'tarildi?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      5,
+      1
+    ]
+  },
+  {
+    "id": "s3c4b59l1_04",
+    "question": "Sayyoh 6 km ni 3 km/h bilan pastga tushdi. Necha soat ketdi?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      3,
+      9
+    ]
+  },
+  {
+    "id": "s3c4b59l1_05",
+    "question": "Avtobus soatiga 55 km. 4 soatdan keyin qayerda bo'ladi (bosib o'tgan masofa)?",
+    "correctAnswer": 220,
+    "wrongAnswers": [
+      59,
+      51
+    ]
+  },
+  {
+    "id": "s3c4b59l1_06",
+    "question": "Yuk mashinasi 2 soatda 90 km, keyin 3 soatda 150 km yurdi. Jami qancha yo'l?",
+    "correctAnswer": 240,
+    "wrongAnswers": [
+      60,
+      300
+    ]
+  },
+  {
+    "id": "s3c4b59l1_07",
+    "question": "Poyezd 60 km/h bilan 5 soat yurib, keyin 40 km yana yurdi. Jami masofa qancha?",
+    "correctAnswer": 340,
+    "wrongAnswers": [
+      300,
+      380
+    ]
+  },
+  {
+    "id": "s3c4b59l1_08",
+    "question": "Tezlik bir xil bo'lsa, vaqt qancha ko'p bo'lsa, masofa shuncha katta bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c4b59l1_09",
+    "question": "Piyoda 1 soatda 4 km yuradi. 6 soatda necha km yuradi?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      10,
+      20
+    ]
+  },
+  {
+    "id": "s3c4b59l1_10",
+    "question": "Motorli qayiq 3 soatda 45 km yurdi. Uning tezligi qancha?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      42,
+      48
+    ]
+  }
+]

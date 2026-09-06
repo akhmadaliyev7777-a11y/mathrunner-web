@@ -1,0 +1,8 @@
+[
+  {"id": "sinf4_chorak2_blok24_level2_tart_01", "prompt": "Sonli nurdagi nuqta koordinatalarini chapdan o'ngga tartiblang", "numbers": [7, 2, 15, 9], "ascending": true},
+  {"id": "sinf4_chorak2_blok24_level2_tart_02", "prompt": "Koordinatalarni o'sish tartibida joylashtiring", "numbers": [30, 12, 45, 6, 21], "ascending": true},
+  {"id": "sinf4_chorak2_blok24_level2_tart_03", "prompt": "Koordinatalarni o'ngdan chapga (kamayish) tartibida joylashtiring", "numbers": [50, 20, 35, 10], "ascending": false},
+  {"id": "sinf4_chorak2_blok24_level2_tart_04", "prompt": "Koordinatalarni o'sish tartibida joylashtiring", "numbers": [8, 24, 16, 4, 12], "ascending": true},
+  {"id": "sinf4_chorak2_blok24_level2_tart_05", "prompt": "Koordinatalarni kamayish tartibida joylashtiring", "numbers": [100, 25, 75, 50], "ascending": false},
+  {"id": "sinf4_chorak2_blok24_level2_tart_06", "prompt": "Koordinatalarni o'sish tartibida joylashtiring", "numbers": [11, 3, 7, 15, 1], "ascending": true}
+]

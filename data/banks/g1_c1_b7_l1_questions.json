@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b7l1_01",
+    "question": "2 + 3 = ?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "s1c1b7l1_02",
+    "question": "4 + 1 = ?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "s1c1b7l1_03",
+    "question": "5 + 4 = ?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s1c1b7l1_04",
+    "question": "3 + 6 = ?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s1c1b7l1_05",
+    "question": "7 + 2 = ?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s1c1b7l1_06",
+    "question": "6 + 3 = ?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s1c1b7l1_07",
+    "question": "1 + 8 = ?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s1c1b7l1_08",
+    "question": "4 + 5 = ?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s1c1b7l1_09",
+    "question": "Qo'shish amalining natijasi qanday ataladi?",
+    "correctAnswer": "yig'indi",
+    "wrongAnswers": [
+      "ayirma",
+      "qo'shiluvchi"
+    ]
+  },
+  {
+    "id": "s1c1b7l1_10",
+    "question": "\"+\" belgisi qaysi amalni bildiradi?",
+    "correctAnswer": "qo'shish",
+    "wrongAnswers": [
+      "ayirish",
+      "taqqoslash"
+    ]
+  }
+]

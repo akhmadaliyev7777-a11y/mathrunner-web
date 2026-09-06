@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok44_level1_nur_01", "question": "Sonli nurda 0 va 1 orasi 4 ta teng bo'lakka bo'lindi. Birinchi bo'linma qaysi kasrni bildiradi?", "correctAnswer": "1/4", "wrongAnswers": ["1/2", "4/1"]},
+  {"id": "sinf4_chorak3_blok44_level1_nur_02", "question": "Sonli nurda 3/4 nuqta 0 dan qanchalik uzoqda (1 gacha bo'lgan masofaning qismi)?", "correctAnswer": "3/4", "wrongAnswers": ["1/4", "4/3"]},
+  {"id": "sinf4_chorak3_blok44_level1_nur_03", "question": "Sonli nurda 0 va 1 orasi 5 bo'lakka bo'lindi. 2-belgi qaysi kasrni bildiradi?", "correctAnswer": "2/5", "wrongAnswers": ["5/2", "1/5"]},
+  {"id": "sinf4_chorak3_blok44_level1_nur_04", "question": "Sonli nurda 1/2 nuqta qayerda joylashgan?", "correctAnswer": "0 va 1 ning aynan o'rtasida", "wrongAnswers": ["1 dan keyin", "0 dan oldin"]},
+  {"id": "sinf4_chorak3_blok44_level1_nur_05", "question": "Sonli nurda 5/5 qaysi butun songa to'g'ri keladi?", "correctAnswer": "1", "wrongAnswers": ["5", "0"]},
+  {"id": "sinf4_chorak3_blok44_level1_nur_06", "question": "0 va 1 orasi 8 bo'lakka bo'lindi. 4-belgi qaysi kasr (bu 1/2 ga teng)?", "correctAnswer": "4/8", "wrongAnswers": ["8/4", "1/8"]},
+  {"id": "sinf4_chorak3_blok44_level1_nur_07", "question": "Sonli nurda 7/4 nuqta qayerda bo'ladi?", "correctAnswer": "1 dan keyin (1 va 2 orasida)", "wrongAnswers": ["0 va 1 orasida", "0 dan oldin"]},
+  {"id": "sinf4_chorak3_blok44_level1_nur_08", "question": "Sonli nurda 0 dan 1 gacha 3 ta teng bo'lak bo'lsa, oxirgi belgi (1 dan oldin) qaysi kasr?", "correctAnswer": "2/3", "wrongAnswers": ["3/3", "1/3"]},
+  {"id": "sinf4_chorak3_blok44_level1_nur_09", "question": "Sonli nurda 6/6 va 1 — bu ikki nuqta qanday joylashgan?", "correctAnswer": "Bir xil joyda (ustma-ust)", "wrongAnswers": ["6/6 oldinroq", "1 oldinroq"]},
+  {"id": "sinf4_chorak3_blok44_level1_nur_10", "question": "Kasrlarni sonli nurda tasvirlashdan qanday foyda bor?", "correctAnswer": "Kasrlarni taqqoslash oson bo'ladi", "wrongAnswers": ["Faqat butun sonlarni ko'rsatadi", "Hech qanday foyda yo'q"]}
+]

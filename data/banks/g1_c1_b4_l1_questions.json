@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b4l1_01",
+    "question": "Haftada nechta kun bor?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": "s1c1b4l1_02",
+    "question": "Dushanbadan keyin qaysi kun keladi?",
+    "correctAnswer": "seshanba",
+    "wrongAnswers": [
+      "yakshanba",
+      "chorshanba"
+    ]
+  },
+  {
+    "id": "s1c1b4l1_03",
+    "question": "Ertalabdan keyin kunning qaysi qismi keladi?",
+    "correctAnswer": "tushlik (kunduz)",
+    "wrongAnswers": [
+      "kecha",
+      "tun"
+    ]
+  },
+  {
+    "id": "s1c1b4l1_04",
+    "question": "Haftaning birinchi kuni qaysi?",
+    "correctAnswer": "dushanba",
+    "wrongAnswers": [
+      "yakshanba",
+      "shanba"
+    ]
+  },
+  {
+    "id": "s1c1b4l1_05",
+    "question": "Avval urug' ekiladi, keyin nima bo'ladi?",
+    "correctAnswer": "o'simlik unib chiqadi",
+    "wrongAnswers": [
+      "hosil yig'iladi",
+      "urug' quriydi"
+    ]
+  },
+  {
+    "id": "s1c1b4l1_06",
+    "question": "Chorshanbadan oldingi kun qaysi?",
+    "correctAnswer": "seshanba",
+    "wrongAnswers": [
+      "payshanba",
+      "juma"
+    ]
+  },
+  {
+    "id": "s1c1b4l1_07",
+    "question": "Kecha bugundan oldin bo'lgan.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b4l1_08",
+    "question": "Juma dushanbadan oldin keladi.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b4l1_09",
+    "question": "Bir haftada nechta dam olish kuni bor (shanba, yakshanba)?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "s1c1b4l1_10",
+    "question": "\"Birinchi\", \"ikkinchi\", \"uchinchi\" — bular nimani bildiradi?",
+    "correctAnswer": "tartibni",
+    "wrongAnswers": [
+      "rangni",
+      "shaklni"
+    ]
+  }
+]

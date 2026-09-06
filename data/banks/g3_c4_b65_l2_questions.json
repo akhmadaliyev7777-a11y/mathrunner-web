@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b65l2_01",
+    "question": "Eyler-Venn diagrammasi kimlarning nomi bilan ataladi?  (Jon Venn va Leonardo Eyler = 1, Nyuton = 2, Gauss = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b65l2_02",
+    "question": "'B - A ning qismto'plami' degani nima?  (B ning har bir elementi A da ham bor = 1, B da A dan ko'p element bor = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b65l2_03",
+    "question": "Bitta ham elementi yo'q to'plam nima deyiladi?  (bo'sh to'plam = 1, to'liq to'plam = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b65l2_04",
+    "question": "A = {1, 2, 3, 4, 5}, B = {2, 4}. B, A ning qismto'plamimi?  (Ha = 1, Yo'q = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b65l2_05",
+    "question": "Bo'sh to'plam har qanday to'plamning qismto'plami bo'ladimi?  (Ha = 1, Yo'q = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b65l2_06",
+    "question": "Har qanday to'plam o'z-o'zining qismto'plami hisoblanadi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c4b65l2_07",
+    "question": "X - ilonlar to'plami, Y - sudralib yuruvchilar to'plami. Qaysi biri qismto'plam?  (X, Y ning qismto'plami = 1, Y, X ning qismto'plami = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b65l2_08",
+    "question": "Eyler-Venn diagrammasida to'plam nima bilan tasvirlanadi?  (doira (yopiq egri chiziq) = 1, to'g'ri chiziq = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b65l2_09",
+    "question": "A = {0, 1, 2, ..., 9} (raqamlar). Toq raqamlar qismto'plamida nechta element bor?  (1,3,5,7,9)",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "s3c4b65l2_10",
+    "question": "{a, b} to'plamning nechta qismto'plami bor?  ({}, {a}, {b}, {a,b})",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak4_blok67_level2_syoy_01", "question": "Silindr yoyilmasida nechta doira bo'ladi?", "correctAnswer": 2, "wrongAnswers": [1, 3]},
+  {"id": "sinf4_chorak4_blok67_level2_syoy_02", "question": "Silindrning yon sirti yoyilganda qanday shakl hosil bo'ladi?", "correctAnswer": "to'g'ri to'rtburchak", "wrongAnswers": ["uchburchak", "doira"]},
+  {"id": "sinf4_chorak4_blok67_level2_syoy_03", "question": "Silindr yoyilmasidagi to'g'ri to'rtburchakning bir tomoni doiraning nimasiga teng?", "correctAnswer": "aylana uzunligiga", "wrongAnswers": ["radiusiga", "diametriga"]},
+  {"id": "sinf4_chorak4_blok67_level2_syoy_04", "question": "Rost yoki yolg'on: silindr yoyilmasidagi ikki doira teng.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak4_blok67_level2_syoy_05", "question": "Silindr yoyilmasi qanday shaklga buklanadi?", "correctAnswer": "silindr", "wrongAnswers": ["konus", "shar"]},
+  {"id": "sinf4_chorak4_blok67_level2_syoy_06", "question": "Silindrning yoyilmasi nimalardan iborat?", "correctAnswer": "1 ta to'g'ri to'rtburchak va 2 ta doira", "wrongAnswers": ["3 ta doira", "2 ta uchburchak"]},
+  {"id": "sinf4_chorak4_blok67_level2_syoy_07", "question": "Silindr yoyilmasidagi doiralar qayerga buklanadi?", "correctAnswer": "Silindrning yuqori va pastki asoslariga", "wrongAnswers": ["Yon sirtga", "Cho'qqiga"]},
+  {"id": "sinf4_chorak4_blok67_level2_syoy_08", "question": "Rost yoki yolg'on: silindr yoyilmasidagi to'g'ri to'rtburchakning balandligi silindr balandligiga teng.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak4_blok67_level2_syoy_09", "question": "Konserva bankasining yorlig'i (etiketkasi) qanday shaklda?", "correctAnswer": "to'g'ri to'rtburchak", "wrongAnswers": ["doira", "uchburchak"]},
+  {"id": "sinf4_chorak4_blok67_level2_syoy_10", "question": "Silindr yoyilmasida jami nechta bo'lak bo'ladi?", "correctAnswer": 3, "wrongAnswers": [2, 4]}
+]

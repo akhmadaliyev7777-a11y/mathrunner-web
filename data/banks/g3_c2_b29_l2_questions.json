@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b29l2_01",
+    "question": "12 sonining barcha bo'luvchilari nechta?  (1, 2, 3, 4, 6, 12)",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "s3c2b29l2_02",
+    "question": "20 sonining bo'luvchilari: 1, 2, 4, 5, 10, 20. Ular nechta?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      5,
+      4
+    ]
+  },
+  {
+    "id": "s3c2b29l2_03",
+    "question": "3 ga karrali dastlabki 4 ta natural son qaysilar?  (3, 6, 9, 12 = 1;  1, 3, 6, 9 = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c2b29l2_04",
+    "question": "15 soni 3 ning karralisimi?  (Ha = 1, Yo'q = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c2b29l2_05",
+    "question": "24 sonining bo'luvchisi bo'lmagan son qaysi?  (7 = 1, 6 = 2, 8 = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c2b29l2_06",
+    "question": "7 ga karrali sonlar: 7, 14, 21, 28, ... 5-si qaysi?",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      28,
+      42
+    ]
+  },
+  {
+    "id": "s3c2b29l2_07",
+    "question": "1 soni har qanday natural sonning bo'luvchisi hisoblanadi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c2b29l2_08",
+    "question": "Har qanday son o'zining karralisi hisoblanadi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c2b29l2_09",
+    "question": "18 sonining bo'luvchilari yig'indisi (1+2+3+6+9+18) qancha?",
+    "correctAnswer": 39,
+    "wrongAnswers": [
+      36,
+      40
+    ]
+  },
+  {
+    "id": "s3c2b29l2_10",
+    "question": "36 soni quyidagilardan qaysi biriga bo'linmaydi?  (5 = 1, 4 = 2, 9 = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  }
+]

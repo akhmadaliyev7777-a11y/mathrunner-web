@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b16l1_01",
+    "question": "80 - (30 + 25) ni qulay hisoblang: (80 - 30) - 25 = ?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      35,
+      15
+    ]
+  },
+  {
+    "id": "s2c1b16l1_02",
+    "question": "90 - (40 + 18) = ?",
+    "correctAnswer": 32,
+    "wrongAnswers": [
+      42,
+      22
+    ]
+  },
+  {
+    "id": "s2c1b16l1_03",
+    "question": "70 - (20 + 34) = ?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      26,
+      6
+    ]
+  },
+  {
+    "id": "s2c1b16l1_04",
+    "question": "100 - (50 + 27) = ?",
+    "correctAnswer": 23,
+    "wrongAnswers": [
+      33,
+      13
+    ]
+  },
+  {
+    "id": "s2c1b16l1_05",
+    "question": "60 - (15 + 15) = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      40,
+      20
+    ]
+  },
+  {
+    "id": "s2c1b16l1_06",
+    "question": "85 - (25 + 30) = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      40,
+      20
+    ]
+  },
+  {
+    "id": "s2c1b16l1_07",
+    "question": "50 - (10 + 22) = ?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      28,
+      8
+    ]
+  },
+  {
+    "id": "s2c1b16l1_08",
+    "question": "95 - (35 + 40) = ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      30,
+      10
+    ]
+  },
+  {
+    "id": "s2c1b16l1_09",
+    "question": "Sondan yig'indini ayirish uchun, sondan har bir qo'shiluvchini ketma-ket ayirish mumkin.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c1b16l1_10",
+    "question": "40 - (10 + 5) ifoda qaysi yozuvga teng?",
+    "correctAnswer": "40 - 10 - 5",
+    "wrongAnswers": [
+      "40 - 10 + 5",
+      "40 + 10 - 5"
+    ]
+  }
+]

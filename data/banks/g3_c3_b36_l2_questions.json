@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b36l2_01",
+    "question": "Yashikning brutto massasi 25 kg, tara (bo'sh yashik) 3 kg. Netto (mahsulot) massasi qancha?",
+    "correctAnswer": 22,
+    "wrongAnswers": [
+      28,
+      20
+    ]
+  },
+  {
+    "id": "s3c3b36l2_02",
+    "question": "Mahsulot (netto) 40 kg, tara 5 kg. Brutto massa qancha?",
+    "correctAnswer": 45,
+    "wrongAnswers": [
+      35,
+      50
+    ]
+  },
+  {
+    "id": "s3c3b36l2_03",
+    "question": "7 kg 920 g + 3 kg 80 g = ? g",
+    "correctAnswer": 11000,
+    "wrongAnswers": [
+      10000,
+      11080
+    ]
+  },
+  {
+    "id": "s3c3b36l2_04",
+    "question": "2 t 500 kg - 800 kg = ? kg",
+    "correctAnswer": 1700,
+    "wrongAnswers": [
+      1800,
+      1600
+    ]
+  },
+  {
+    "id": "s3c3b36l2_05",
+    "question": "5 ta bir xil qopda 300 kg un bor. Bitta qopda necha kg?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      50,
+      70
+    ]
+  },
+  {
+    "id": "s3c3b36l2_06",
+    "question": "Bir mashinaga 3 t yuk ortiladi. 4 ta mashinada jami necha t?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      7,
+      10
+    ]
+  },
+  {
+    "id": "s3c3b36l2_07",
+    "question": "Brutto = netto + tara.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c3b36l2_08",
+    "question": "12 kg olmani 500 g lik xaltalarga solsak, nechta xalta chiqadi?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      23,
+      25
+    ]
+  },
+  {
+    "id": "s3c3b36l2_09",
+    "question": "1 t 200 kg go'shtdan 8 kg lik bo'laklar tayyorlansa, nechta bo'lak chiqadi?",
+    "correctAnswer": 150,
+    "wrongAnswers": [
+      140,
+      160
+    ]
+  },
+  {
+    "id": "s3c3b36l2_10",
+    "question": "3 kg 500 g dan 2 kg 750 g ni ayiring. Javob necha g?",
+    "correctAnswer": 750,
+    "wrongAnswers": [
+      850,
+      650
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b51l2_01",
+    "question": "Bir son o'yladim: unga 5 qo'shib, keyin 3 ni ayirsam, 12 bo'ladi. Qaysi son?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      20,
+      4
+    ]
+  },
+  {
+    "id": "s1c3b51l2_02",
+    "question": "8 + 7 = ?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      14,
+      16
+    ]
+  },
+  {
+    "id": "s1c3b51l2_03",
+    "question": "63 - 41 = ?",
+    "correctAnswer": 22,
+    "wrongAnswers": [
+      24,
+      20
+    ]
+  },
+  {
+    "id": "s1c3b51l2_04",
+    "question": "(30 + 20) - 15 = ?",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      65,
+      25
+    ]
+  },
+  {
+    "id": "s1c3b51l2_05",
+    "question": "3 dm necha sm?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      3,
+      300
+    ]
+  },
+  {
+    "id": "s1c3b51l2_06",
+    "question": "Bog'da 25 ta olma, 18 ta nok daraxti bor. Olma nechtaga ko'p?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      43,
+      8
+    ]
+  },
+  {
+    "id": "s1c3b51l2_07",
+    "question": "Butun 50, bir qismi 22. Ikkinchi qismi qancha?",
+    "correctAnswer": 28,
+    "wrongAnswers": [
+      72,
+      27
+    ]
+  },
+  {
+    "id": "s1c3b51l2_08",
+    "question": "2 ta chelakda 15 l dan suv. Jami necha litr?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      17,
+      5
+    ]
+  },
+  {
+    "id": "s1c3b51l2_09",
+    "question": "Taqqoslang: 40 - 25 __ 10 + 5",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s1c3b51l2_10",
+    "question": "Xato: \"bir son o'yladim, 6 qo'shsam 18 bo'ldi\" — o'ylagan son 24 deyildi. To'g'ri son qancha?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      24,
+      13
+    ]
+  }
+]

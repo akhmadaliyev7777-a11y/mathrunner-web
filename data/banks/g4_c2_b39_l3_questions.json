@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok39_level3_yak_01", "question": "Birinchi mashina 50 km/soat bilan 2 soat oldin chiqdi. Ikkinchi mashina 70 km/soat. Ikkinchisi birinchisini necha soatda quvib yetadi?", "correctAnswer": 5, "wrongAnswers": [2, 7]},
+  {"id": "sinf4_chorak2_blok39_level3_yak_02", "question": "Ikki mashina bir-biriga qarab yo'lga chiqdi (40 va 60 km/soat), orasi 400 km. 3 soatdan keyin ular orasi qancha qoladi?", "correctAnswer": 100, "wrongAnswers": [300, 200]},
+  {"id": "sinf4_chorak2_blok39_level3_yak_03", "question": "Aziz 862 ni yuzliklargacha yaxlitlab 800 dedi. To'g'ri javob qaysi?", "correctAnswer": 900, "wrongAnswers": [800, 862]},
+  {"id": "sinf4_chorak2_blok39_level3_yak_04", "question": "Xona poli 5 m × 4 m. 1 m² gilam 60 000 so'm. Butun polni qoplash necha so'm?", "correctAnswer": 1200000, "wrongAnswers": [540000, 1080000]},
+  {"id": "sinf4_chorak2_blok39_level3_yak_05", "question": "Ikki poyezd bir stansiyadan qarama-qarshi jo'nadi (55 va 65 km/soat). Necha soatdan keyin ular orasi 360 km bo'ladi?", "correctAnswer": 3, "wrongAnswers": [120, 180]},
+  {"id": "sinf4_chorak2_blok39_level3_yak_06", "question": "Piyoda 4 km/soat bilan yurdi. 3 soatdan keyin velosipedchi 10 km/soat bilan uning ortidan chiqdi. Velosipedchi piyodani (o'z jo'nashidan) necha soatda quvib yetadi?", "correctAnswer": 2, "wrongAnswers": [3, 12]},
+  {"id": "sinf4_chorak2_blok39_level3_yak_07", "question": "Bir sonni yuzliklargacha yaxlitlaganda 700 chiqdi. Eng kichik shunday son qaysi?", "correctAnswer": 650, "wrongAnswers": [651, 749]},
+  {"id": "sinf4_chorak2_blok39_level3_yak_08", "question": "Bog' kvadrat shaklida, yuzasi 100 m². Uni bir qator to'siq bilan o'rash uchun necha metr kerak?", "correctAnswer": 40, "wrongAnswers": [100, 25]},
+  {"id": "sinf4_chorak2_blok39_level3_yak_09", "question": "Ikki velosipedchi bir-biriga qarab yurdi (8 va 12 km/soat) va 2 soatda uchrashdi. Ular dastlab qancha uzoqda edi?", "correctAnswer": 40, "wrongAnswers": [20, 4]},
+  {"id": "sinf4_chorak2_blok39_level3_yak_10", "question": "48 m × 52 m ekin maydonining yuzasi taxminan qancha m²? Eng yaqin javob.", "correctAnswer": 2500, "wrongAnswers": [200, 25000]}
+]

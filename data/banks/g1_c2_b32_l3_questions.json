@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b32l3_01",
+    "question": "64 - 42 = ?",
+    "correctAnswer": 22,
+    "wrongAnswers": [
+      32,
+      12
+    ]
+  },
+  {
+    "id": "s1c2b32l3_02",
+    "question": "87 - 53 = ?",
+    "correctAnswer": 34,
+    "wrongAnswers": [
+      44,
+      24
+    ]
+  },
+  {
+    "id": "s1c2b32l3_03",
+    "question": "76 - 34 = ?",
+    "correctAnswer": 42,
+    "wrongAnswers": [
+      52,
+      32
+    ]
+  },
+  {
+    "id": "s1c2b32l3_04",
+    "question": "98 - 65 = ?",
+    "correctAnswer": 33,
+    "wrongAnswers": [
+      43,
+      23
+    ]
+  },
+  {
+    "id": "s1c2b32l3_05",
+    "question": "55 - 41 = ?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      24,
+      4
+    ]
+  },
+  {
+    "id": "s1c2b32l3_06",
+    "question": "79 - 28 = ?",
+    "correctAnswer": 51,
+    "wrongAnswers": [
+      61,
+      41
+    ]
+  },
+  {
+    "id": "s1c2b32l3_07",
+    "question": "Kutubxonada 68 ta kitob bor edi, 35 tasi berildi. Nechta qoldi?",
+    "correctAnswer": 33,
+    "wrongAnswers": [
+      103,
+      32
+    ]
+  },
+  {
+    "id": "s1c2b32l3_08",
+    "question": "90 - 30 - 20 = ?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      50,
+      30
+    ]
+  },
+  {
+    "id": "s1c2b32l3_09",
+    "question": "Teskari misol: 42 + 23 = 65 bo'lsa, 65 - 23 nechaga teng?",
+    "correctAnswer": 42,
+    "wrongAnswers": [
+      23,
+      65
+    ]
+  },
+  {
+    "id": "s1c2b32l3_10",
+    "question": "Xato: \"88 - 55 = 43\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 33,
+    "wrongAnswers": [
+      43,
+      23
+    ]
+  }
+]

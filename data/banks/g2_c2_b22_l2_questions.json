@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b22l2_01",
+    "question": "Taqqoslang: 456 __ 465",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s2c2b22l2_02",
+    "question": "Taqqoslang: 738 __ 738",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s2c2b22l2_03",
+    "question": "Taqqoslang: 509 __ 590",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s2c2b22l2_04",
+    "question": "Taqqoslang: 900 __ 899",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s2c2b22l2_05",
+    "question": "Taqqoslang: 270 __ 207",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s2c2b22l2_06",
+    "question": "Taqqoslang: 614 __ 641",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s2c2b22l2_07",
+    "question": "234, 243, 324 sonlaridan eng kattasi qaysi?",
+    "correctAnswer": 324,
+    "wrongAnswers": [
+      234,
+      243
+    ]
+  },
+  {
+    "id": "s2c2b22l2_08",
+    "question": "560, 506, 650 sonlaridan eng kichigi qaysi?",
+    "correctAnswer": 506,
+    "wrongAnswers": [
+      560,
+      650
+    ]
+  },
+  {
+    "id": "s2c2b22l2_09",
+    "question": "789 dan katta, 791 dan kichik son qaysi?",
+    "correctAnswer": 790,
+    "wrongAnswers": [
+      788,
+      792
+    ]
+  },
+  {
+    "id": "s2c2b22l2_10",
+    "question": "Uch xonali sonlarni taqqoslashda avval qaysi xonaga qaraymiz?",
+    "correctAnswer": "yuzliklar xonasiga",
+    "wrongAnswers": [
+      "birliklar xonasiga",
+      "o'nliklar xonasiga"
+    ]
+  }
+]

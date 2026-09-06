@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b71l3_01",
+    "question": "Bir qutida 6 ta olma va 4 ta nok. 5 ta qutida jami nechta meva?  (6 + 4) * 5",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      30,
+      20
+    ]
+  },
+  {
+    "id": "s2c4b71l3_02",
+    "question": "48 ta daftar 6 ta o'quvchiga teng bo'lindi. Har biriga nechtadan?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      7,
+      42
+    ]
+  },
+  {
+    "id": "s2c4b71l3_03",
+    "question": "200 * 4 = ?",
+    "correctAnswer": 800,
+    "wrongAnswers": [
+      80,
+      8000
+    ]
+  },
+  {
+    "id": "s2c4b71l3_04",
+    "question": "100 - (6 * 8) = ?",
+    "correctAnswer": 52,
+    "wrongAnswers": [
+      48,
+      156
+    ]
+  },
+  {
+    "id": "s2c4b71l3_05",
+    "question": "Bir avtobusda 45 o'rindiq. 3 ta avtobusda jami nechta?",
+    "correctAnswer": 135,
+    "wrongAnswers": [
+      48,
+      15
+    ]
+  },
+  {
+    "id": "s2c4b71l3_06",
+    "question": "Do'konda 500 kg un bor edi. 3 marta 80 kg dan sotildi. Nechta kg qoldi?",
+    "correctAnswer": 260,
+    "wrongAnswers": [
+      340,
+      240
+    ]
+  },
+  {
+    "id": "s2c4b71l3_07",
+    "question": "9 * 6 + 24 : 4 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      66,
+      54
+    ]
+  },
+  {
+    "id": "s2c4b71l3_08",
+    "question": "Kub nechta qirraga ega?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      6,
+      8
+    ]
+  },
+  {
+    "id": "s2c4b71l3_09",
+    "question": "x - 260 = 340 tenglamada x qancha?",
+    "correctAnswer": 600,
+    "wrongAnswers": [
+      80,
+      500
+    ]
+  },
+  {
+    "id": "s2c4b71l3_10",
+    "question": "Xato: \"7 * 9 = 54\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 63,
+    "wrongAnswers": [
+      54,
+      72
+    ]
+  }
+]

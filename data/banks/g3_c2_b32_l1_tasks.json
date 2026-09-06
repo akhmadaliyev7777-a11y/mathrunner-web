@@ -1,0 +1,292 @@
+[
+  {
+    "id": "g3c2b32l1_sym_01",
+    "prompt": "Vertikal o'qqa nisbatan shaklni to'ldiring.",
+    "hint": "Har bir bo'yalgan katakning o'q ortidagi juftini bosing",
+    "gridSize": 5,
+    "axis": "vertical",
+    "givenCells": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 1
+      },
+      {
+        "x": 0,
+        "y": 2
+      },
+      {
+        "x": 1,
+        "y": 2
+      }
+    ]
+  },
+  {
+    "id": "g3c2b32l1_sym_02",
+    "prompt": "Gorizontal o'qqa nisbatan shaklni to'ldiring.",
+    "hint": "Har bir bo'yalgan katakning o'q ortidagi juftini bosing",
+    "gridSize": 5,
+    "axis": "horizontal",
+    "givenCells": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 2,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 1
+      },
+      {
+        "x": 3,
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "g3c2b32l1_sym_03",
+    "prompt": "Vertikal o'qqa nisbatan shaklni to'ldiring.",
+    "hint": "Har bir bo'yalgan katakning o'q ortidagi juftini bosing",
+    "gridSize": 5,
+    "axis": "vertical",
+    "givenCells": [
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 1
+      },
+      {
+        "x": 1,
+        "y": 1
+      },
+      {
+        "x": 1,
+        "y": 2
+      },
+      {
+        "x": 0,
+        "y": 3
+      }
+    ]
+  },
+  {
+    "id": "g3c2b32l1_sym_04",
+    "prompt": "Gorizontal o'qqa nisbatan shaklni to'ldiring.",
+    "hint": "Har bir bo'yalgan katakning o'q ortidagi juftini bosing",
+    "gridSize": 5,
+    "axis": "horizontal",
+    "givenCells": [
+      {
+        "x": 0,
+        "y": 1
+      },
+      {
+        "x": 2,
+        "y": 1
+      },
+      {
+        "x": 4,
+        "y": 1
+      },
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 3,
+        "y": 0
+      }
+    ]
+  },
+  {
+    "id": "g3c2b32l1_sym_05",
+    "prompt": "Vertikal o'qqa nisbatan shaklni to'ldiring.",
+    "hint": "Har bir bo'yalgan katakning o'q ortidagi juftini bosing",
+    "gridSize": 5,
+    "axis": "vertical",
+    "givenCells": [
+      {
+        "x": 0,
+        "y": 1
+      },
+      {
+        "x": 1,
+        "y": 1
+      },
+      {
+        "x": 1,
+        "y": 2
+      },
+      {
+        "x": 1,
+        "y": 3
+      },
+      {
+        "x": 0,
+        "y": 4
+      }
+    ]
+  },
+  {
+    "id": "g3c2b32l1_sym_06",
+    "prompt": "Gorizontal o'qqa nisbatan shaklni to'ldiring.",
+    "hint": "Har bir bo'yalgan katakning o'q ortidagi juftini bosing",
+    "gridSize": 5,
+    "axis": "horizontal",
+    "givenCells": [
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 2,
+        "y": 0
+      },
+      {
+        "x": 3,
+        "y": 0
+      },
+      {
+        "x": 2,
+        "y": 1
+      },
+      {
+        "x": 0,
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "g3c2b32l1_sym_07",
+    "prompt": "Vertikal o'qqa nisbatan shaklni to'ldiring.",
+    "hint": "Har bir bo'yalgan katakning o'q ortidagi juftini bosing",
+    "gridSize": 5,
+    "axis": "vertical",
+    "givenCells": [
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 1
+      },
+      {
+        "x": 0,
+        "y": 2
+      },
+      {
+        "x": 1,
+        "y": 3
+      },
+      {
+        "x": 1,
+        "y": 4
+      }
+    ]
+  },
+  {
+    "id": "g3c2b32l1_sym_08",
+    "prompt": "Gorizontal o'qqa nisbatan shaklni to'ldiring.",
+    "hint": "Har bir bo'yalgan katakning o'q ortidagi juftini bosing",
+    "gridSize": 5,
+    "axis": "horizontal",
+    "givenCells": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 4,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 1
+      },
+      {
+        "x": 2,
+        "y": 1
+      },
+      {
+        "x": 3,
+        "y": 1
+      }
+    ]
+  },
+  {
+    "id": "g3c2b32l1_sym_09",
+    "prompt": "Vertikal o'qqa nisbatan shaklni to'ldiring.",
+    "hint": "Har bir bo'yalgan katakning o'q ortidagi juftini bosing",
+    "gridSize": 5,
+    "axis": "vertical",
+    "givenCells": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 1
+      },
+      {
+        "x": 1,
+        "y": 2
+      },
+      {
+        "x": 0,
+        "y": 3
+      }
+    ]
+  },
+  {
+    "id": "g3c2b32l1_sym_10",
+    "prompt": "Gorizontal o'qqa nisbatan shaklni to'ldiring.",
+    "hint": "Har bir bo'yalgan katakning o'q ortidagi juftini bosing",
+    "gridSize": 5,
+    "axis": "horizontal",
+    "givenCells": [
+      {
+        "x": 2,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 1
+      },
+      {
+        "x": 1,
+        "y": 1
+      },
+      {
+        "x": 3,
+        "y": 1
+      },
+      {
+        "x": 4,
+        "y": 1
+      }
+    ]
+  }
+]

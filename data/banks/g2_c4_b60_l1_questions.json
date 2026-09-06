@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b60l1_01",
+    "question": "Qavssiz ifodada avval qaysi amallar bajariladi?",
+    "correctAnswer": "ko'paytirish va bo'lish",
+    "wrongAnswers": [
+      "qo'shish va ayirish",
+      "chapdan o'ngga barchasi"
+    ]
+  },
+  {
+    "id": "s2c4b60l1_02",
+    "question": "2 + 3 * 4 = ?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      20,
+      9
+    ]
+  },
+  {
+    "id": "s2c4b60l1_03",
+    "question": "10 - 6 : 2 = ?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "s2c4b60l1_04",
+    "question": "5 * 3 + 4 = ?",
+    "correctAnswer": 19,
+    "wrongAnswers": [
+      35,
+      12
+    ]
+  },
+  {
+    "id": "s2c4b60l1_05",
+    "question": "20 : 4 + 5 = ?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      3,
+      9
+    ]
+  },
+  {
+    "id": "s2c4b60l1_06",
+    "question": "8 + 2 * 5 = ?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      50,
+      15
+    ]
+  },
+  {
+    "id": "s2c4b60l1_07",
+    "question": "18 - 3 * 5 = ?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      75,
+      15
+    ]
+  },
+  {
+    "id": "s2c4b60l1_08",
+    "question": "6 * 2 - 4 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      20,
+      4
+    ]
+  },
+  {
+    "id": "s2c4b60l1_09",
+    "question": "2 + 3 * 4 ifodaning qiymati 20 ga teng.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c4b60l1_10",
+    "question": "12 : 3 + 2 * 2 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      12,
+      6
+    ]
+  }
+]

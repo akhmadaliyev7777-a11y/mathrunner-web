@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b60l2_01",
+    "question": "Agar a = 30 bo'lsa, a - 12 ifodaning qiymati qancha?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      42,
+      30
+    ]
+  },
+  {
+    "id": "s1c4b60l2_02",
+    "question": "Agar b = 25 bo'lsa, b + 25 ifodaning qiymati qancha?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      0,
+      2525
+    ]
+  },
+  {
+    "id": "s1c4b60l2_03",
+    "question": "Agar c = 40 bo'lsa, c - 40 ifodaning qiymati qancha?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      80,
+      1
+    ]
+  },
+  {
+    "id": "s1c4b60l2_04",
+    "question": "\"n dan 5 ni ayirish\" ifodasini yozing.",
+    "correctAnswer": "n - 5",
+    "wrongAnswers": [
+      "n + 5",
+      "5 - n"
+    ]
+  },
+  {
+    "id": "s1c4b60l2_05",
+    "question": "Agar m = 15 bo'lsa, m + 5 ifodaning qiymati qancha?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      10,
+      155
+    ]
+  },
+  {
+    "id": "s1c4b60l2_06",
+    "question": "a + 0 ifodani sodda ko'rinishga keltiring.",
+    "correctAnswer": "a",
+    "wrongAnswers": [
+      "0",
+      "a + a"
+    ]
+  },
+  {
+    "id": "s1c4b60l2_07",
+    "question": "a - a ifodaning qiymati qancha (a har qanday son)?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "s1c4b60l2_08",
+    "question": "Agar t = 50 bo'lsa, t - 20 ifodaning qiymati qancha?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      70,
+      50
+    ]
+  },
+  {
+    "id": "s1c4b60l2_09",
+    "question": "Taqqoslang: a = 10 bo'lsa, a + 5 __ 20",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c4b60l2_10",
+    "question": "Xato: a = 8 bo'lganda a + 4 ifoda 84 deyildi. To'g'ri qiymat qancha?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      84,
+      13
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok42_level2_qism_01", "question": "Bir sonning 1/5 qismi 7 ga teng. Bu son nechi?", "correctAnswer": 35, "wrongAnswers": [12, 2]},
+  {"id": "sinf4_chorak3_blok42_level2_qism_02", "question": "Bir arqonning 1/4 qismi 3 metr. Butun arqon necha metr?", "correctAnswer": 12, "wrongAnswers": [7, 15]},
+  {"id": "sinf4_chorak3_blok42_level2_qism_03", "question": "20 kg ning 3/4 qismini olib, keyin 2 kg qo'shsak, necha kg bo'ladi?", "correctAnswer": 17, "wrongAnswers": [15, 22]},
+  {"id": "sinf4_chorak3_blok42_level2_qism_04", "question": "Bir sonning 2/3 qismi 10. Aziz sonni topish uchun 10 : 2 × 3 = 15 dedi. To'g'rimi?", "correctAnswer": "Ha, to'g'ri: avval 1 ulushni top (10 : 2 = 5), keyin 3 ga ko'paytir", "wrongAnswers": ["Yo'q, 10 × 2 : 3 kerak", "Yo'q, javob 30"]},
+  {"id": "sinf4_chorak3_blok42_level2_qism_05", "question": "40 litr suvning yarmini, keyin qolganning yarmini oldik. Necha litr qoldi?", "correctAnswer": 10, "wrongAnswers": [20, 0]},
+  {"id": "sinf4_chorak3_blok42_level2_qism_06", "question": "Bir kitobning 1/3 qismi 40 bet. Kitob necha betdan iborat?", "correctAnswer": 120, "wrongAnswers": [43, 13]},
+  {"id": "sinf4_chorak3_blok42_level2_qism_07", "question": "18 kg olmaning 1/2 qismi chirib qoldi. Necha kg sog'lom qoldi?", "correctAnswer": 9, "wrongAnswers": [2, 36]},
+  {"id": "sinf4_chorak3_blok42_level2_qism_08", "question": "Bir sonning 3/5 qismi 12. Bu son nechi?", "correctAnswer": 20, "wrongAnswers": [7, 4]},
+  {"id": "sinf4_chorak3_blok42_level2_qism_09", "question": "1 kunning (24 soat) 1/3 qismi uyquga, 1/4 qismi darsga ketdi. Necha soat qoldi?", "correctAnswer": 10, "wrongAnswers": [14, 8]},
+  {"id": "sinf4_chorak3_blok42_level2_qism_10", "question": "12 metr taxtaning 1/4 qismini kesib oldik. Necha metr taxta qoldi?", "correctAnswer": 9, "wrongAnswers": [3, 8]}
+]

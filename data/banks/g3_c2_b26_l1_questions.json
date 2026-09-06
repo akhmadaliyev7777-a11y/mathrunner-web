@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b26l1_01",
+    "question": "Son 8 ga bo'lganda to'liqsiz bo'linma 24, qoldiq 3 ga teng. Bu son qancha?",
+    "correctAnswer": 195,
+    "wrongAnswers": [
+      192,
+      200
+    ]
+  },
+  {
+    "id": "s3c2b26l1_02",
+    "question": "Son 7 ga bo'lganda to'liqsiz bo'linma 132, qoldiq 5 ga teng. Bu son qancha?",
+    "correctAnswer": 929,
+    "wrongAnswers": [
+      924,
+      931
+    ]
+  },
+  {
+    "id": "s3c2b26l1_03",
+    "question": "Kesma 100 cm. Uni 4 cm li bo'laklarga bo'lsak, nechta bo'lak chiqadi?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      24,
+      26
+    ]
+  },
+  {
+    "id": "s3c2b26l1_04",
+    "question": "Kesma 42 cm. Uni teng 6 bo'lakka bo'lsak, har biri necha cm?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      6,
+      8
+    ]
+  },
+  {
+    "id": "s3c2b26l1_05",
+    "question": "Koordinata nurida 0 dan 84 gacha 7 ta teng qadam bilan yetildi. Bir qadam necha birlik?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      11,
+      13
+    ]
+  },
+  {
+    "id": "s3c2b26l1_06",
+    "question": "Son 9 ga bo'lganda to'liqsiz bo'linma 10, qoldiq 1. Bu son qancha?",
+    "correctAnswer": 91,
+    "wrongAnswers": [
+      90,
+      100
+    ]
+  },
+  {
+    "id": "s3c2b26l1_07",
+    "question": "Bo'linuvchini kesma sifatida ko'rsak, bo'luvchi kesmaning nechta teng bo'lakka bo'linishini bildiradi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c2b26l1_08",
+    "question": "Tasmadagi naqsh har 8 cm da takrorlanadi. 96 cm tasmada naqsh necha marta takrorlanadi?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      11,
+      13
+    ]
+  },
+  {
+    "id": "s3c2b26l1_09",
+    "question": "120 : 5 amalini kesmada ko'rsatsak, 120 cm kesma nechta 5 cm li bo'lakka bo'linadi?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      23,
+      25
+    ]
+  },
+  {
+    "id": "s3c2b26l1_10",
+    "question": "Son 6 ga bo'lganda to'liqsiz bo'linma 15, qoldiq 4. Bu son qancha?",
+    "correctAnswer": 94,
+    "wrongAnswers": [
+      90,
+      96
+    ]
+  }
+]

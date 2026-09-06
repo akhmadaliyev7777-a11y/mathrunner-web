@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b44l2_01",
+    "question": "Bolada 25 so'm bor edi. Onasi 10 so'm berdi, u 12 so'mga daftar oldi. Nechta so'm qoldi?",
+    "correctAnswer": 23,
+    "wrongAnswers": [
+      13,
+      47
+    ]
+  },
+  {
+    "id": "s1c3b44l2_02",
+    "question": "Vazada 20 ta gul, 8 tasi so'ldi, keyin 5 ta qo'shildi. Nechta gul bor?",
+    "correctAnswer": 17,
+    "wrongAnswers": [
+      23,
+      7
+    ]
+  },
+  {
+    "id": "s1c3b44l2_03",
+    "question": "Birinchi kun 22 ta, ikkinchi kun 18 ta gazeta sotildi. Jami nechta?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      4,
+      44
+    ]
+  },
+  {
+    "id": "s1c3b44l2_04",
+    "question": "45 va 30 — farqi qancha?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      75,
+      14
+    ]
+  },
+  {
+    "id": "s1c3b44l2_05",
+    "question": "8 ni 7 ga orttiring.",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      1,
+      14
+    ]
+  },
+  {
+    "id": "s1c3b44l2_06",
+    "question": "50 - (20 + 15) = ?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      85,
+      25
+    ]
+  },
+  {
+    "id": "s1c3b44l2_07",
+    "question": "Bir sonni o'yladim: unga 9 qo'shsam 21 bo'ladi. Qaysi son?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      30,
+      13
+    ]
+  },
+  {
+    "id": "s1c3b44l2_08",
+    "question": "Taqqoslang: 30 + 20 __ 40 + 10",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s1c3b44l2_09",
+    "question": "1, 4, 7, 10, ... — keyingi son qaysi (har safar 3 qo'shiladi)?",
+    "correctAnswer": 13,
+    "wrongAnswers": [
+      12,
+      14
+    ]
+  },
+  {
+    "id": "s1c3b44l2_10",
+    "question": "Xato: \"40 - 15 - 10\" masalada javob 35 deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      35,
+      25
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok1_level2_taq_01", "question": "Taqqoslang: 38 940 __ 38 904", "correctAnswer": ">", "wrongAnswers": ["<", "="]},
+  {"id": "sinf4_chorak1_blok1_level2_taq_02", "question": "Taqqoslang: 7 999 __ 12 000", "correctAnswer": "<", "wrongAnswers": [">", "="]},
+  {"id": "sinf4_chorak1_blok1_level2_taq_03", "question": "Taqqoslang: 60 000 __ (6 000 + 54 000)", "correctAnswer": "=", "wrongAnswers": [">", "<"]},
+  {"id": "sinf4_chorak1_blok1_level2_taq_04", "question": "28 000 + 6 000 = ?", "correctAnswer": 34000, "wrongAnswers": [32000, 34600]},
+  {"id": "sinf4_chorak1_blok1_level2_taq_05", "question": "45 000 - 9 000 = ?", "correctAnswer": 36000, "wrongAnswers": [36900, 54000]},
+  {"id": "sinf4_chorak1_blok1_level2_taq_06", "question": "Qulay usulda hisoblang: 4 005 + 998 = ?", "correctAnswer": 5003, "wrongAnswers": [4003, 5013]},
+  {"id": "sinf4_chorak1_blok1_level2_taq_07", "question": "Aziz \"60 508\" sonini \"olti ming besh yuz sakkiz\" deb o'qidi. To'g'ri o'qilishi qaysi?", "correctAnswer": "oltmish ming besh yuz sakkiz", "wrongAnswers": ["olti yuz ming besh yuz sakkiz", "oltmish ming besh yuz sakson"]},
+  {"id": "sinf4_chorak1_blok1_level2_taq_08", "question": "Qaysi son 40 000 va 50 000 orasida yotadi?", "correctAnswer": 45200, "wrongAnswers": [39800, 50500]},
+  {"id": "sinf4_chorak1_blok1_level2_taq_09", "question": "34 000 + 400 + 90 + 2 = ?", "correctAnswer": 34492, "wrongAnswers": [34942, 3492]},
+  {"id": "sinf4_chorak1_blok1_level2_taq_10", "question": "72 500 va 72 050 sonlaridan qaysi biri kichik?", "correctAnswer": 72050, "wrongAnswers": [72500, 72055]}
+]

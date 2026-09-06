@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok59_level1_yak_01", "question": "720 : 8 = ?", "correctAnswer": 90, "wrongAnswers": [80, 91]},
+  {"id": "sinf4_chorak3_blok59_level1_yak_02", "question": "20 ning 1/4 qismi nechi?", "correctAnswer": 5, "wrongAnswers": [4, 16]},
+  {"id": "sinf4_chorak3_blok59_level1_yak_03", "question": "3/8 + 4/8 = ?", "correctAnswer": "7/8", "wrongAnswers": ["7/16", "1/8"]},
+  {"id": "sinf4_chorak3_blok59_level1_yak_04", "question": "7/3 ni aralash songa aylantiring.", "correctAnswer": "2 1/3", "wrongAnswers": ["1 1/3", "3 1/3"]},
+  {"id": "sinf4_chorak3_blok59_level1_yak_05", "question": "3/5 va 3/8 — qaysi biri katta?", "correctAnswer": "3/5", "wrongAnswers": ["3/8", "teng"]},
+  {"id": "sinf4_chorak3_blok59_level1_yak_06", "question": "0,7 ni oddiy kasr shaklida yozing.", "correctAnswer": "7/10", "wrongAnswers": ["7/100", "1/7"]},
+  {"id": "sinf4_chorak3_blok59_level1_yak_07", "question": "1 fut necha duym?", "correctAnswer": 12, "wrongAnswers": [10, 3]},
+  {"id": "sinf4_chorak3_blok59_level1_yak_08", "question": "100 ning 10% i nechi?", "correctAnswer": 10, "wrongAnswers": [90, 100]},
+  {"id": "sinf4_chorak3_blok59_level1_yak_09", "question": "1 − 2/5 = ?", "correctAnswer": "3/5", "wrongAnswers": ["2/5", "5/5"]},
+  {"id": "sinf4_chorak3_blok59_level1_yak_10", "question": "0,5 va 0,50 — bu ikki son qanday?", "correctAnswer": "teng", "wrongAnswers": ["0,50 katta", "0,5 katta"]}
+]

@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak4_blok73_level2_yasa_01", "question": "Transportir bilan burchak yasashda birinchi qadam nima?", "correctAnswer": "Bir tomonni (nurni) chizish", "wrongAnswers": ["Ikkita nurni bir vaqtda chizish", "Doira chizish"]},
+  {"id": "sinf4_chorak4_blok73_level2_yasa_02", "question": "50° li burchak yasash uchun transportir markazini qayerga qo'yamiz?", "correctAnswer": "Chizilgan nurning boshiga (uchiga)", "wrongAnswers": ["Nurning o'rtasiga", "Qog'oz chetiga"]},
+  {"id": "sinf4_chorak4_blok73_level2_yasa_03", "question": "70° li burchak yasashda transportirda 70° belgisini qo'yib, keyin nima qilamiz?", "correctAnswer": "Belgi orqali ikkinchi nurni chizamiz", "wrongAnswers": ["Doira chizamiz", "Transportirni olib tashlaymiz"]},
+  {"id": "sinf4_chorak4_blok73_level2_yasa_04", "question": "O'tkir burchak yasash uchun transportirda necha gradusdan kichik belgi tanlanadi?", "correctAnswer": 90, "wrongAnswers": [180, 45]},
+  {"id": "sinf4_chorak4_blok73_level2_yasa_05", "question": "To'g'ri burchak necha gradusda yasaladi?", "correctAnswer": 90, "wrongAnswers": [45, 180]},
+  {"id": "sinf4_chorak4_blok73_level2_yasa_06", "question": "Rost yoki yolg'on: transportirsiz ham aniq 47° li burchak yasasa bo'ladi.", "correctAnswer": "Yolg'on", "wrongAnswers": ["Rost", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak4_blok73_level2_yasa_07", "question": "110° li burchak yasaldi. Bu qanday burchak?", "correctAnswer": "o'tmas burchak", "wrongAnswers": ["o'tkir burchak", "to'g'ri burchak"]},
+  {"id": "sinf4_chorak4_blok73_level2_yasa_08", "question": "Transportir bilan yasalgan burchak qanday qiymat bo'ladi?", "correctAnswer": "aniq", "wrongAnswers": ["taxminiy", "har doim xato"]},
+  {"id": "sinf4_chorak4_blok73_level2_yasa_09", "question": "Yoyiq burchak (180°) yasashda ikkinchi nur birinchisiga nisbatan qanday joylashadi?", "correctAnswer": "Bir to'g'ri chiziqda, qarama-qarshi tomonda", "wrongAnswers": ["Ustma-ust", "90° burchak ostida"]},
+  {"id": "sinf4_chorak4_blok73_level2_yasa_10", "question": "60° li ikkita burchakni yonma-yon yasasak, hosil bo'lgan katta burchak necha gradus?", "correctAnswer": 120, "wrongAnswers": [60, 360]}
+]

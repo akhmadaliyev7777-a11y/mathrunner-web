@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b10l2_01",
+    "question": "3 + 1 = ?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      5,
+      3
+    ]
+  },
+  {
+    "id": "s1c1b10l2_02",
+    "question": "5 - 4 = ?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      0
+    ]
+  },
+  {
+    "id": "s1c1b10l2_03",
+    "question": "2 + 2 = ?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "s1c1b10l2_04",
+    "question": "4 - 1 = ?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      5,
+      2
+    ]
+  },
+  {
+    "id": "s1c1b10l2_05",
+    "question": "1 + 1 + 1 = ?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "s1c1b10l2_06",
+    "question": "5 - 1 - 1 = ?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "s1c1b10l2_07",
+    "question": "Taqqoslang: 3 + 1 __ 5 - 2",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s1c1b10l2_08",
+    "question": "Taqqoslang: 2 + 3 __ 5 - 0",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s1c1b10l2_09",
+    "question": "Bir chetda 2 ta, boshqa chetda 3 ta gul. Jami nechta?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": "s1c1b10l2_10",
+    "question": "Xato: \"5 - 2 = 2\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  }
+]

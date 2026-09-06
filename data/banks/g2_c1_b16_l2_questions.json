@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b16l2_01",
+    "question": "Bolada 90 so'm bor edi. U 35 so'mga qalam va 25 so'mga o'chirg'ich oldi. Nechta so'm qoldi?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      50,
+      20
+    ]
+  },
+  {
+    "id": "s2c1b16l2_02",
+    "question": "Konteynerda 100 ta shar bor edi. 40 tasi qizil, 35 tasi ko'k sharni olishdi. Nechta qoldi?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      35,
+      15
+    ]
+  },
+  {
+    "id": "s2c1b16l2_03",
+    "question": "75 - (25 + 20) ni qulay hisoblang.",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      40,
+      20
+    ]
+  },
+  {
+    "id": "s2c1b16l2_04",
+    "question": "Xatoni toping: 60 - (20 + 10) = 50. To'g'ri javob qancha?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      50,
+      40
+    ]
+  },
+  {
+    "id": "s2c1b16l2_05",
+    "question": "88 - (28 + 30) ni qulay hisoblang.",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      40,
+      20
+    ]
+  },
+  {
+    "id": "s2c1b16l2_06",
+    "question": "Fermada 50 ta tovuq bor edi. 12 tasi va yana 8 tasi sotildi. Nechta qoldi?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      40,
+      20
+    ]
+  },
+  {
+    "id": "s2c1b16l2_07",
+    "question": "100 - (33 + 47) ni hisoblang.",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      30,
+      10
+    ]
+  },
+  {
+    "id": "s2c1b16l2_08",
+    "question": "70 - (20 + 30) ning qiymati 30 ga teng.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c1b16l2_09",
+    "question": "45 - (15 + 12) ni qulay hisoblang.",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      28,
+      8
+    ]
+  },
+  {
+    "id": "s2c1b16l2_10",
+    "question": "Taqqoslang: 90 - (40 + 20) __ 30",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  }
+]

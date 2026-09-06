@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b47l2_01",
+    "question": "64 sonining yarmini toping.",
+    "correctAnswer": 32,
+    "wrongAnswers": [
+      16,
+      48
+    ]
+  },
+  {
+    "id": "s3c3b47l2_02",
+    "question": "Qirrasi 6 cm kubning to'la sirt yuzi necha cm2?  (6 * 6 * 6)",
+    "correctAnswer": 216,
+    "wrongAnswers": [
+      36,
+      108
+    ]
+  },
+  {
+    "id": "s3c3b47l2_03",
+    "question": "Aylana diametri 24 cm. Radiusi necha cm?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      24,
+      6
+    ]
+  },
+  {
+    "id": "s3c3b47l2_04",
+    "question": "36 ta shokoladning uchdan biri berildi. Nechta shokolad berildi?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      9,
+      18
+    ]
+  },
+  {
+    "id": "s3c3b47l2_05",
+    "question": "Parallelepiped qirralari yig'indisi 44 cm. (a+b+c) qancha?",
+    "correctAnswer": 11,
+    "wrongAnswers": [
+      4,
+      22
+    ]
+  },
+  {
+    "id": "s3c3b47l2_06",
+    "question": "90 sonining beshdan bir qismini toping.",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      15,
+      20
+    ]
+  },
+  {
+    "id": "s3c3b47l2_07",
+    "question": "Doira 8 sektorga bo'lindi, 6 tasi bo'yaldi. Bo'yalmaganlari nechta?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      6,
+      4
+    ]
+  },
+  {
+    "id": "s3c3b47l2_08",
+    "question": "1 m tasmaning to'rtdan biri necha cm?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      20,
+      50
+    ]
+  },
+  {
+    "id": "s3c3b47l2_09",
+    "question": "Kub yoyilmasini buklash uchun necha marta bukish kerak?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      6,
+      4
+    ]
+  },
+  {
+    "id": "s3c3b47l2_10",
+    "question": "Taqqoslang: 36 ning yarmi __ 36 ning choragi",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  }
+]

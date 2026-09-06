@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b13l2_01",
+    "question": "56 - 29 = ?",
+    "correctAnswer": 27,
+    "wrongAnswers": [
+      37,
+      17
+    ]
+  },
+  {
+    "id": "s2c1b13l2_02",
+    "question": "73 - 38 = ?",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      45,
+      25
+    ]
+  },
+  {
+    "id": "s2c1b13l2_03",
+    "question": "61 - 45 = ?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      26,
+      6
+    ]
+  },
+  {
+    "id": "s2c1b13l2_04",
+    "question": "90 - 53 = ?",
+    "correctAnswer": 37,
+    "wrongAnswers": [
+      47,
+      27
+    ]
+  },
+  {
+    "id": "s2c1b13l2_05",
+    "question": "82 - 27 = ?",
+    "correctAnswer": 55,
+    "wrongAnswers": [
+      65,
+      45
+    ]
+  },
+  {
+    "id": "s2c1b13l2_06",
+    "question": "44 - 19 = ?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      35,
+      15
+    ]
+  },
+  {
+    "id": "s2c1b13l2_07",
+    "question": "Kutubxonada 72 ta kitob bor edi. 35 tasi berildi. Nechta qoldi?",
+    "correctAnswer": 37,
+    "wrongAnswers": [
+      47,
+      27
+    ]
+  },
+  {
+    "id": "s2c1b13l2_08",
+    "question": "Bolada 60 so'm bor edi. 28 so'mlik daftar oldi. Nechta so'm qoldi?",
+    "correctAnswer": 32,
+    "wrongAnswers": [
+      42,
+      22
+    ]
+  },
+  {
+    "id": "s2c1b13l2_09",
+    "question": "81 - 47 ayirishda javob 34 ga teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c1b13l2_10",
+    "question": "Xatoni toping: 63 - 28 = 45. To'g'ri javob qancha?",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      45,
+      34
+    ]
+  }
+]

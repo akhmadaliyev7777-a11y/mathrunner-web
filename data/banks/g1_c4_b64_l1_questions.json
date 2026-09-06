@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b64l1_01",
+    "question": "7 + 8 = ?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      5,
+      25
+    ]
+  },
+  {
+    "id": "s1c4b64l1_02",
+    "question": "34 + 25 = ?",
+    "correctAnswer": 59,
+    "wrongAnswers": [
+      49,
+      69
+    ]
+  },
+  {
+    "id": "s1c4b64l1_03",
+    "question": "46 + 6 = ?",
+    "correctAnswer": 52,
+    "wrongAnswers": [
+      42,
+      62
+    ]
+  },
+  {
+    "id": "s1c4b64l1_04",
+    "question": "15 - 9 = ?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      16,
+      5
+    ]
+  },
+  {
+    "id": "s1c4b64l1_05",
+    "question": "70 - 45 = ?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      35,
+      24
+    ]
+  },
+  {
+    "id": "s1c4b64l1_06",
+    "question": "Taqqoslang: 45 __ 54",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c4b64l1_07",
+    "question": "x + 20 = 50. x qancha?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      70,
+      40
+    ]
+  },
+  {
+    "id": "s1c4b64l1_08",
+    "question": "Qaysi son juft: 21, 23, 24, 27?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      21,
+      23
+    ]
+  },
+  {
+    "id": "s1c4b64l1_09",
+    "question": "Kvadrat tomoni 6 sm. Perimetri necha sm?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      12,
+      36
+    ]
+  },
+  {
+    "id": "s1c4b64l1_10",
+    "question": "17 sonida nechta o'nlik bor?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      17,
+      7
+    ]
+  }
+]

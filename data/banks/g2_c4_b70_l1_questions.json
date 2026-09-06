@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b70l1_01",
+    "question": "Aylana chizish uchun qaysi asbob kerak?",
+    "correctAnswer": "sirkul",
+    "wrongAnswers": [
+      "chizg'ich",
+      "goniya"
+    ]
+  },
+  {
+    "id": "s2c4b70l1_02",
+    "question": "Aylana markazidan aylanagacha bo'lgan kesma nima deb ataladi?",
+    "correctAnswer": "radius",
+    "wrongAnswers": [
+      "diametr",
+      "vatar"
+    ]
+  },
+  {
+    "id": "s2c4b70l1_03",
+    "question": "Aylananing ikki nuqtasini markaz orqali tutashtiruvchi kesma nima?",
+    "correctAnswer": "diametr",
+    "wrongAnswers": [
+      "radius",
+      "yoy"
+    ]
+  },
+  {
+    "id": "s2c4b70l1_04",
+    "question": "Radius 3 sm bo'lsa, diametr necha sm?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      3,
+      9
+    ]
+  },
+  {
+    "id": "s2c4b70l1_05",
+    "question": "Diametr 10 sm bo'lsa, radius necha sm?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      10,
+      20
+    ]
+  },
+  {
+    "id": "s2c4b70l1_06",
+    "question": "Doira — bu ...",
+    "correctAnswer": "aylana bilan chegaralangan yuza",
+    "wrongAnswers": [
+      "egri chiziq",
+      "kesma"
+    ]
+  },
+  {
+    "id": "s2c4b70l1_07",
+    "question": "Radius 7 sm. Diametr necha sm?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      7,
+      21
+    ]
+  },
+  {
+    "id": "s2c4b70l1_08",
+    "question": "Diametr radiusdan 2 marta uzun.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c4b70l1_09",
+    "question": "Bir aylananing barcha radiuslari har xil uzunlikda.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c4b70l1_10",
+    "question": "Diametr 16 sm. Radius necha sm?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      16,
+      32
+    ]
+  }
+]

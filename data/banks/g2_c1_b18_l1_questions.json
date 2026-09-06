@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b18l1_01",
+    "question": "Jadval: dushanba 12 ta, seshanba 15 ta, chorshanba 9 ta kitob sotildi. 3 kunda jami nechta?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      27,
+      24
+    ]
+  },
+  {
+    "id": "s2c1b18l1_02",
+    "question": "Yuqoridagi jadvalda eng ko'p qaysi kuni sotildi?",
+    "correctAnswer": "seshanba",
+    "wrongAnswers": [
+      "dushanba",
+      "chorshanba"
+    ]
+  },
+  {
+    "id": "s2c1b18l1_03",
+    "question": "Diagramma: 1-sinfda 25, 2-sinfda 28, 3-sinfda 22 o'quvchi. Jami nechta?",
+    "correctAnswer": 75,
+    "wrongAnswers": [
+      65,
+      85
+    ]
+  },
+  {
+    "id": "s2c1b18l1_04",
+    "question": "Jadval: Alida 8 ta, Valida 5 ta, Sardorda 11 ta marka. Alida Validan nechtaga ko'p?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      13,
+      6
+    ]
+  },
+  {
+    "id": "s2c1b18l1_05",
+    "question": "Jadval bo'yicha 3 bolada jami nechta marka (8 + 5 + 11)?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      14,
+      19
+    ]
+  },
+  {
+    "id": "s2c1b18l1_06",
+    "question": "Diagramma: yakshanba 30 ta, shanba 45 ta chipta sotildi. Shanba nechtaga ko'p?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      75,
+      25
+    ]
+  },
+  {
+    "id": "s2c1b18l1_07",
+    "question": "Jadval: bahorda 18, yozda 24, kuzda 12 kun yomg'ir yog'di. Jami nechta kun?",
+    "correctAnswer": 54,
+    "wrongAnswers": [
+      44,
+      64
+    ]
+  },
+  {
+    "id": "s2c1b18l1_08",
+    "question": "Jadvalga ko'ra kuzda yozdan nechta kam yomg'irli kun bo'lgan?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      36,
+      6
+    ]
+  },
+  {
+    "id": "s2c1b18l1_09",
+    "question": "Diagrammada ustun qancha baland bo'lsa, son shuncha katta.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c1b18l1_10",
+    "question": "Jadval: 4 ta polkada 10 tadan kitob. Jami nechta kitob (10+10+10+10)?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      14,
+      20
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b39l2_01",
+    "question": "37 ta 3 litrli va 48 ta 2 litrli bankada kompot bor. Jami necha litr?",
+    "correctAnswer": 207,
+    "wrongAnswers": [
+      197,
+      217
+    ]
+  },
+  {
+    "id": "s3c3b39l2_02",
+    "question": "19 dm3 + 63 litr = ? litr  (1 dm3 = 1 litr)",
+    "correctAnswer": 82,
+    "wrongAnswers": [
+      80,
+      84
+    ]
+  },
+  {
+    "id": "s3c3b39l2_03",
+    "question": "(228 litr - 192 dm3) : 12 = ?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      4,
+      2
+    ]
+  },
+  {
+    "id": "s3c3b39l2_04",
+    "question": "Bochkada 96 litr suv. Uni 8 litrlik chelaklarga quysak, nechta chelak?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      11,
+      13
+    ]
+  },
+  {
+    "id": "s3c3b39l2_05",
+    "question": "Idish hajmi 25 dm3. Unga 25 litr suv sig'adimi?  (Ha = 1, Yo'q = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b39l2_06",
+    "question": "Kubning bir qirrasi 3 dm. Uning hajmi necha dm3?",
+    "correctAnswer": 27,
+    "wrongAnswers": [
+      9,
+      12
+    ]
+  },
+  {
+    "id": "s3c3b39l2_07",
+    "question": "200 litr suvni 40 litrlik idishlarga to'ldirsak, nechta idish kerak?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "s3c3b39l2_08",
+    "question": "7 dm3 + 8 000 cm3 = ? dm3",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      14,
+      16
+    ]
+  },
+  {
+    "id": "s3c3b39l2_09",
+    "question": "Taqqoslang: 1 m3 __ 1 000 litr",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s3c3b39l2_10",
+    "question": "Akvarium hajmi 60 dm3. Uning uchdan bir qismiga suv quyildi. Necha litr suv quyildi?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      30,
+      15
+    ]
+  }
+]

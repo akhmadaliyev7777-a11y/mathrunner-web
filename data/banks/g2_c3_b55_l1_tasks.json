@@ -1,0 +1,52 @@
+[
+  {
+    "id": "g2c3b55l1_bk_01",
+    "text": "3 soni 12 ning bo'luvchisi",
+    "isTrue": true
+  },
+  {
+    "id": "g2c3b55l1_bk_02",
+    "text": "5 soni 12 ning bo'luvchisi",
+    "isTrue": false
+  },
+  {
+    "id": "g2c3b55l1_bk_03",
+    "text": "4 soni 20 ning bo'luvchisi",
+    "isTrue": true
+  },
+  {
+    "id": "g2c3b55l1_bk_04",
+    "text": "6 soni 20 ning bo'luvchisi",
+    "isTrue": false
+  },
+  {
+    "id": "g2c3b55l1_bk_05",
+    "text": "15 soni 3 ga karrali",
+    "isTrue": true
+  },
+  {
+    "id": "g2c3b55l1_bk_06",
+    "text": "16 soni 3 ga karrali",
+    "isTrue": false
+  },
+  {
+    "id": "g2c3b55l1_bk_07",
+    "text": "18 soni 6 ga karrali",
+    "isTrue": true
+  },
+  {
+    "id": "g2c3b55l1_bk_08",
+    "text": "22 soni 6 ga karrali",
+    "isTrue": false
+  },
+  {
+    "id": "g2c3b55l1_bk_09",
+    "text": "7 soni 21 ning bo'luvchisi",
+    "isTrue": true
+  },
+  {
+    "id": "g2c3b55l1_bk_10",
+    "text": "8 soni 21 ning bo'luvchisi",
+    "isTrue": false
+  }
+]

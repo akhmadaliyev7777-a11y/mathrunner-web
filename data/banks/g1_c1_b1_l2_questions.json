@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b1l2_01",
+    "question": "Rasmda quyosh tepada, o't pastda. Quyosh qayerda?",
+    "correctAnswer": "tepada",
+    "wrongAnswers": [
+      "pastda",
+      "chapda"
+    ]
+  },
+  {
+    "id": "s1c1b1l2_02",
+    "question": "Kitob stolning ustida. Kitob stolga nisbatan qayerda?",
+    "correctAnswer": "ustida",
+    "wrongAnswers": [
+      "ostida",
+      "chap tomonida"
+    ]
+  },
+  {
+    "id": "s1c1b1l2_03",
+    "question": "Bola o'ng qo'lida qalam ushlab turibdi. Qalam qaysi qo'lda?",
+    "correctAnswer": "o'ng qo'lda",
+    "wrongAnswers": [
+      "chap qo'lda",
+      "ikkala qo'lda"
+    ]
+  },
+  {
+    "id": "s1c1b1l2_04",
+    "question": "Poyezd vagonlari qatorida birinchi vagondan keyin nechanchi vagon keladi?",
+    "correctAnswer": "ikkinchi",
+    "wrongAnswers": [
+      "uchinchi",
+      "oxirgi"
+    ]
+  },
+  {
+    "id": "s1c1b1l2_05",
+    "question": "Rasmda it uyning oldida, mushuk uyning orqasida. Kim orqada?",
+    "correctAnswer": "mushuk",
+    "wrongAnswers": [
+      "it",
+      "ikkalasi"
+    ]
+  },
+  {
+    "id": "s1c1b1l2_06",
+    "question": "3 ta olma qatorda turibdi. O'rtadagi olma nechanchi?",
+    "correctAnswer": "ikkinchi",
+    "wrongAnswers": [
+      "birinchi",
+      "uchinchi"
+    ]
+  },
+  {
+    "id": "s1c1b1l2_07",
+    "question": "\"Chap\" va \"o'ng\" — fazoviy munosabatni bildiradi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b1l2_08",
+    "question": "Agar shar qutining ichida bo'lsa, u qutining tashqarisida turadi.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b1l2_09",
+    "question": "Zinapoyada bola yuqoriga chiqmoqda. U qaysi tomonga harakatlanmoqda?",
+    "correctAnswer": "yuqoriga",
+    "wrongAnswers": [
+      "pastga",
+      "chapga"
+    ]
+  },
+  {
+    "id": "s1c1b1l2_10",
+    "question": "Beshta bola qatorda. Oxirgi boladan keyin yana bola bormi?",
+    "correctAnswer": "yo'q",
+    "wrongAnswers": [
+      "ha, bitta",
+      "ha, ikkita"
+    ]
+  }
+]

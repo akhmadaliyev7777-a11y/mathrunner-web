@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak4_blok74_level2_mas_01", "question": "Bog' to'g'ri to'rtburchak: 25 m × 15 m. Uni 2 qator sim bilan o'rash uchun necha metr sim kerak?", "correctAnswer": 160, "wrongAnswers": [80, 750]},
+  {"id": "sinf4_chorak4_blok74_level2_mas_02", "question": "Kvadrat asosli piramidaning yoqlari, qirralari va uchlari yig'indisi nechi?", "correctAnswer": 18, "wrongAnswers": [16, 14]},
+  {"id": "sinf4_chorak4_blok74_level2_mas_03", "question": "To'g'ri to'rtburchak xona 8 m × 5 m. 1 m² pol qoplamasi 40 000 so'm. Butun polni qoplash necha so'm?", "correctAnswer": 1600000, "wrongAnswers": [520000, 1040000]},
+  {"id": "sinf4_chorak4_blok74_level2_mas_04", "question": "Bir burchak to'g'ri burchakdan 20° kichik. U necha gradus?", "correctAnswer": 70, "wrongAnswers": [110, 90]},
+  {"id": "sinf4_chorak4_blok74_level2_mas_05", "question": "Kubning bir yog'i yuzasi 9 sm². Uning barcha 6 yog'i yuzasi jami necha sm²?", "correctAnswer": 54, "wrongAnswers": [15, 81]},
+  {"id": "sinf4_chorak4_blok74_level2_mas_06", "question": "Aziz kvadratning perimetrini tomon × tomon deb hisobladi. Xatosi nimada?", "correctAnswer": "Perimetr = tomon × 4. Tomon × tomon — bu YUZA", "wrongAnswers": ["Xato yo'q", "Perimetr = tomon × 2"]},
+  {"id": "sinf4_chorak4_blok74_level2_mas_07", "question": "Uchburchakli prizmaning 5 ta yoqi, 9 ta qirrasi va 6 ta uchi bor. Ular yig'indisi nechi?", "correctAnswer": 20, "wrongAnswers": [18, 22]},
+  {"id": "sinf4_chorak4_blok74_level2_mas_08", "question": "Radiusi 5 sm bo'lgan doiraning eng uzun kesmasi (diametri) necha sm?", "correctAnswer": 10, "wrongAnswers": [25, 15]},
+  {"id": "sinf4_chorak4_blok74_level2_mas_09", "question": "Devor 4 m × 3 m. Bir banka bo'yoq 6 m² ni bo'yaydi. Devorni bo'yash uchun necha banka kerak?", "correctAnswer": 2, "wrongAnswers": [1, 12]},
+  {"id": "sinf4_chorak4_blok74_level2_mas_10", "question": "Ikki burchak yig'indisi yoyiq burchak (180°). Biri 110° bo'lsa, ikkinchisi necha gradus?", "correctAnswer": 70, "wrongAnswers": [90, 290]}
+]

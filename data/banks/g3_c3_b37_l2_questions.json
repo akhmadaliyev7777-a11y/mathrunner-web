@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b37l2_01",
+    "question": "1 dm 3 cm 4 mm + 5 dm 8 cm 6 mm = ? mm",
+    "correctAnswer": 730,
+    "wrongAnswers": [
+      720,
+      740
+    ]
+  },
+  {
+    "id": "s3c3b37l2_02",
+    "question": "8 m 7 cm - 2 m 34 cm = ? cm  (8 m 7 cm = 807 cm)",
+    "correctAnswer": 573,
+    "wrongAnswers": [
+      583,
+      563
+    ]
+  },
+  {
+    "id": "s3c3b37l2_03",
+    "question": "(5 km 329 m - 4 km 48 m) : 3 = ? m",
+    "correctAnswer": 427,
+    "wrongAnswers": [
+      437,
+      417
+    ]
+  },
+  {
+    "id": "s3c3b37l2_04",
+    "question": "6 km 280 m + 12 km 925 m = ? m",
+    "correctAnswer": 19205,
+    "wrongAnswers": [
+      19105,
+      19305
+    ]
+  },
+  {
+    "id": "s3c3b37l2_05",
+    "question": "1 m 5 dm ni 3 ga bo'ling. Javob necha cm?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      45,
+      55
+    ]
+  },
+  {
+    "id": "s3c3b37l2_06",
+    "question": "Sim uzunligi 4 m 20 cm. Undan 60 cm lik bo'laklar kesildi. Nechta bo'lak chiqdi?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      6,
+      8
+    ]
+  },
+  {
+    "id": "s3c3b37l2_07",
+    "question": "Yo'l 12 km 600 m. Uning yarmi necha m?",
+    "correctAnswer": 6300,
+    "wrongAnswers": [
+      6600,
+      6200
+    ]
+  },
+  {
+    "id": "s3c3b37l2_08",
+    "question": "3 m 45 cm + 2 m 78 cm = ? cm",
+    "correctAnswer": 623,
+    "wrongAnswers": [
+      613,
+      633
+    ]
+  },
+  {
+    "id": "s3c3b37l2_09",
+    "question": "Taqqoslang: 2 m __ 199 cm",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s3c3b37l2_10",
+    "question": "Kesma 1 m 8 dm. Bu necha cm?",
+    "correctAnswer": 180,
+    "wrongAnswers": [
+      18,
+      1800
+    ]
+  }
+]

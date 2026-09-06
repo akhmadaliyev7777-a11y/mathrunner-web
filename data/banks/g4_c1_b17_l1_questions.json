@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok17_level1_diag_01", "question": "Ustunli diagrammada dushanba 8, seshanba 12, chorshanba 6 ni ko'rsatadi. Eng baland ustun qaysi kun?", "correctAnswer": "seshanba", "wrongAnswers": ["dushanba", "chorshanba"]},
+  {"id": "sinf4_chorak1_blok17_level1_diag_02", "question": "Diagrammada 1-sinf 15, 2-sinf 20, 3-sinf 25 ta daraxt ekdi. 3-sinf nechta ekdi?", "correctAnswer": 25, "wrongAnswers": [20, 60]},
+  {"id": "sinf4_chorak1_blok17_level1_diag_03", "question": "Chiziqli diagrammada harorat: soat 6 da 10°, soat 9 da 15°, soat 12 da 20°. Soat 9 da harorat necha edi?", "correctAnswer": 15, "wrongAnswers": [10, 20]},
+  {"id": "sinf4_chorak1_blok17_level1_diag_04", "question": "Ustunli diagrammada 4 ta ustun: 5, 10, 15, 20. Ularning yig'indisi nechi?", "correctAnswer": 50, "wrongAnswers": [45, 20]},
+  {"id": "sinf4_chorak1_blok17_level1_diag_05", "question": "Diagrammada olma 30, nok 10. Olma nokdan necha marta ko'p?", "correctAnswer": 3, "wrongAnswers": [20, 40]},
+  {"id": "sinf4_chorak1_blok17_level1_diag_06", "question": "Chiziqli diagrammada ertalab 12°, tushda 24° edi. Harorat qancha ko'tarilgan?", "correctAnswer": 12, "wrongAnswers": [36, 2]},
+  {"id": "sinf4_chorak1_blok17_level1_diag_07", "question": "Ustunli diagrammada eng past ustun 4, eng baland 16. Ular orasidagi farq nechi?", "correctAnswer": 12, "wrongAnswers": [20, 4]},
+  {"id": "sinf4_chorak1_blok17_level1_diag_08", "question": "Ustunli diagrammani o'qishda qiymatni nimaga qarab aniqlaymiz?", "correctAnswer": "Ustunning balandligiga (shkalaga)", "wrongAnswers": ["Ustunning rangiga", "Ustunlar soniga"]},
+  {"id": "sinf4_chorak1_blok17_level1_diag_09", "question": "Ustunli diagrammada 3 kun sotuvi: 20, 30, 40 dona. Uch kunda jami nechta dona sotilgan?", "correctAnswer": 90, "wrongAnswers": [30, 40]},
+  {"id": "sinf4_chorak1_blok17_level1_diag_10", "question": "Chiziqli diagrammada chiziq pastga tushsa, bu nimani bildiradi?", "correctAnswer": "Qiymat kamayganini", "wrongAnswers": ["Qiymat ortganini", "Qiymat o'zgarmaganini"]}
+]

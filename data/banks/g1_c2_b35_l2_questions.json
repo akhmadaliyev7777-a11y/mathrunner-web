@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b35l2_01",
+    "question": "(20 + 30) - 10 = ?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      60,
+      0
+    ]
+  },
+  {
+    "id": "s1c2b35l2_02",
+    "question": "60 - (20 + 20) = ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      100,
+      40
+    ]
+  },
+  {
+    "id": "s1c2b35l2_03",
+    "question": "(50 - 20) + 30 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      40,
+      100
+    ]
+  },
+  {
+    "id": "s1c2b35l2_04",
+    "question": "100 - (40 + 30) = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      170,
+      70
+    ]
+  },
+  {
+    "id": "s1c2b35l2_05",
+    "question": "(15 + 15) + (10 + 10) = ?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      30,
+      40
+    ]
+  },
+  {
+    "id": "s1c2b35l2_06",
+    "question": "80 - (50 - 20) = ?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      110,
+      10
+    ]
+  },
+  {
+    "id": "s1c2b35l2_07",
+    "question": "Taqqoslang: (30 + 20) - 10 __ 50",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c2b35l2_08",
+    "question": "(40 + 10) - (20 + 10) = ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      80,
+      30
+    ]
+  },
+  {
+    "id": "s1c2b35l2_09",
+    "question": "Qavsli ifodada avval qavs ichidagi amal bajariladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c2b35l2_10",
+    "question": "Xato: \"90 - (30 + 30) = 90\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      90,
+      60
+    ]
+  }
+]

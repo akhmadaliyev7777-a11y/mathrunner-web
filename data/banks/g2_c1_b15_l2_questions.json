@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b15l2_01",
+    "question": "Do'konda 50 kg olma va 30 kg nok bor edi. 20 kg olma sotildi. Nechta kg meva qoldi?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      80,
+      40
+    ]
+  },
+  {
+    "id": "s2c1b15l2_02",
+    "question": "Avtobusda 24 ayol va 18 erkak bor edi. 4 ayol tushdi. Nechta yo'lovchi qoldi?",
+    "correctAnswer": 38,
+    "wrongAnswers": [
+      42,
+      46
+    ]
+  },
+  {
+    "id": "s2c1b15l2_03",
+    "question": "(36 + 29) - 6 ni qulay hisoblang.",
+    "correctAnswer": 59,
+    "wrongAnswers": [
+      65,
+      53
+    ]
+  },
+  {
+    "id": "s2c1b15l2_04",
+    "question": "(55 + 40) - 5 ni qulay hisoblang.",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      95,
+      85
+    ]
+  },
+  {
+    "id": "s2c1b15l2_05",
+    "question": "Bog'da 60 ta olma va 25 ta nok daraxti bor. 10 ta olma daraxti kesildi. Nechta daraxt qoldi?",
+    "correctAnswer": 75,
+    "wrongAnswers": [
+      85,
+      65
+    ]
+  },
+  {
+    "id": "s2c1b15l2_06",
+    "question": "(42 + 17) - 12 ni qulay hisoblang.",
+    "correctAnswer": 47,
+    "wrongAnswers": [
+      59,
+      42
+    ]
+  },
+  {
+    "id": "s2c1b15l2_07",
+    "question": "(63 + 20) - 3 ni qulay hisoblang.",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      83,
+      60
+    ]
+  },
+  {
+    "id": "s2c1b15l2_08",
+    "question": "(70 + 15) - 15 ning qiymati 70 ga teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c1b15l2_09",
+    "question": "Xatoni toping: (40 + 22) - 20 = 22. To'g'ri javob qancha?",
+    "correctAnswer": 42,
+    "wrongAnswers": [
+      22,
+      20
+    ]
+  },
+  {
+    "id": "s2c1b15l2_10",
+    "question": "(80 + 14) - 60 ni qulay hisoblang.",
+    "correctAnswer": 34,
+    "wrongAnswers": [
+      94,
+      24
+    ]
+  }
+]

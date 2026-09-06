@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b10l1_01",
+    "question": "(39 287 + 19 485) - 16 287 = ?",
+    "correctAnswer": 42485,
+    "wrongAnswers": [
+      41485,
+      44485
+    ]
+  },
+  {
+    "id": "s3c1b10l1_02",
+    "question": "270 492 - (129 685 + 140 492) = ?",
+    "correctAnswer": 315,
+    "wrongAnswers": [
+      345,
+      335
+    ]
+  },
+  {
+    "id": "s3c1b10l1_03",
+    "question": "80 000 - (5 600 : 7 + 42 376) = ?",
+    "correctAnswer": 36824,
+    "wrongAnswers": [
+      37124,
+      37024
+    ]
+  },
+  {
+    "id": "s3c1b10l1_04",
+    "question": "6 000 + 3 * 400 - 900 = ?",
+    "correctAnswer": 6300,
+    "wrongAnswers": [
+      6270,
+      6500
+    ]
+  },
+  {
+    "id": "s3c1b10l1_05",
+    "question": "Amallar tartibi bo'yicha: 100 000 - 25 * 400 = ?",
+    "correctAnswer": 90000,
+    "wrongAnswers": [
+      99900,
+      89000
+    ]
+  },
+  {
+    "id": "s3c1b10l1_06",
+    "question": "(12 000 - 4 000) : 100 + 250 = ?",
+    "correctAnswer": 330,
+    "wrongAnswers": [
+      258,
+      1050
+    ]
+  },
+  {
+    "id": "s3c1b10l1_07",
+    "question": "7 * (3 000 + 200) = ?",
+    "correctAnswer": 22400,
+    "wrongAnswers": [
+      21000,
+      23800
+    ]
+  },
+  {
+    "id": "s3c1b10l1_08",
+    "question": "500 + 60 * 7 - 120 = ?",
+    "correctAnswer": 800,
+    "wrongAnswers": [
+      620,
+      830
+    ]
+  },
+  {
+    "id": "s3c1b10l1_09",
+    "question": "Amallar tartibi bo'yicha oldin qaysi amal bajariladi: 8 + 6 * 5 ?  (ko'paytirish = 1, qo'shish = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c1b10l1_10",
+    "question": "(90 - 18) : 8 + 11 = ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      83,
+      18
+    ]
+  }
+]

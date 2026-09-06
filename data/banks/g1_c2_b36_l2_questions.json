@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b36l2_01",
+    "question": "9 + 8 = ?",
+    "correctAnswer": 17,
+    "wrongAnswers": [
+      16,
+      18
+    ]
+  },
+  {
+    "id": "s1c2b36l2_02",
+    "question": "63 - 40 = ?",
+    "correctAnswer": 23,
+    "wrongAnswers": [
+      33,
+      13
+    ]
+  },
+  {
+    "id": "s1c2b36l2_03",
+    "question": "(10 + 20) + 30 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      50,
+      70
+    ]
+  },
+  {
+    "id": "s1c2b36l2_04",
+    "question": "50 - (20 + 10) = ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      80,
+      40
+    ]
+  },
+  {
+    "id": "s1c2b36l2_05",
+    "question": "34 + 25 = 59 bo'lsa, 59 - 25 nechaga teng?",
+    "correctAnswer": 34,
+    "wrongAnswers": [
+      25,
+      59
+    ]
+  },
+  {
+    "id": "s1c2b36l2_06",
+    "question": "20 + 30 + 40 = ?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      80,
+      100
+    ]
+  },
+  {
+    "id": "s1c2b36l2_07",
+    "question": "Bir savatda 24, boshqasida 35 ta olma. Jami nechta?",
+    "correctAnswer": 59,
+    "wrongAnswers": [
+      11,
+      69
+    ]
+  },
+  {
+    "id": "s1c2b36l2_08",
+    "question": "Qavsli ifodada avval qavs ichidagi amal bajariladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c2b36l2_09",
+    "question": "13 - 7 = ?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": "s1c2b36l2_10",
+    "question": "Xato: \"46 + 23 = 79\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 69,
+    "wrongAnswers": [
+      79,
+      59
+    ]
+  }
+]

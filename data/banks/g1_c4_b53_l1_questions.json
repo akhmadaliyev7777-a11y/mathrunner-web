@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b53l1_01",
+    "question": "Ko'pburchakning perimetri nima?",
+    "correctAnswer": "barcha tomonlar uzunligining yig'indisi",
+    "wrongAnswers": [
+      "eng katta tomon",
+      "tomonlar soni"
+    ]
+  },
+  {
+    "id": "s1c4b53l1_02",
+    "question": "Muntazam ko'pburchakda barcha tomonlar ...",
+    "correctAnswer": "teng",
+    "wrongAnswers": [
+      "har xil",
+      "ikkitasi teng"
+    ]
+  },
+  {
+    "id": "s1c4b53l1_03",
+    "question": "Uchburchak tomonlari 3 sm, 4 sm, 5 sm. Perimetri necha sm?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      7,
+      20
+    ]
+  },
+  {
+    "id": "s1c4b53l1_04",
+    "question": "Kvadratning bir tomoni 5 sm. Perimetri necha sm?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      10,
+      25
+    ]
+  },
+  {
+    "id": "s1c4b53l1_05",
+    "question": "To'g'ri to'rtburchak: eni 3 sm, bo'yi 7 sm. Perimetri necha sm?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      10,
+      21
+    ]
+  },
+  {
+    "id": "s1c4b53l1_06",
+    "question": "Uchburchakning nechta tomoni bor?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "s1c4b53l1_07",
+    "question": "Kvadratning perimetrini topish uchun bir tomonini nechaga ko'paytirish kerak (yoki 4 marta qo'shish)?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s1c4b53l1_08",
+    "question": "Tomonlari 6 sm dan bo'lgan muntazam uchburchak perimetri necha sm?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      12,
+      24
+    ]
+  },
+  {
+    "id": "s1c4b53l1_09",
+    "question": "Perimetr — ko'pburchak chegarasining uzunligi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b53l1_10",
+    "question": "To'rtburchak tomonlari 2 sm, 2 sm, 2 sm, 2 sm. Perimetri necha sm?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      4,
+      6
+    ]
+  }
+]

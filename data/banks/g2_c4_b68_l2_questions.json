@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b68l2_01",
+    "question": "15 * 6 = ?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      75,
+      96
+    ]
+  },
+  {
+    "id": "s2c4b68l2_02",
+    "question": "17 * 4 = ?",
+    "correctAnswer": 68,
+    "wrongAnswers": [
+      51,
+      72
+    ]
+  },
+  {
+    "id": "s2c4b68l2_03",
+    "question": "26 * 3 = ?",
+    "correctAnswer": 78,
+    "wrongAnswers": [
+      52,
+      81
+    ]
+  },
+  {
+    "id": "s2c4b68l2_04",
+    "question": "19 * 5 = ?",
+    "correctAnswer": 95,
+    "wrongAnswers": [
+      76,
+      100
+    ]
+  },
+  {
+    "id": "s2c4b68l2_05",
+    "question": "28 * 3 = ?",
+    "correctAnswer": 84,
+    "wrongAnswers": [
+      56,
+      87
+    ]
+  },
+  {
+    "id": "s2c4b68l2_06",
+    "question": "24 * 4 = ?",
+    "correctAnswer": 96,
+    "wrongAnswers": [
+      72,
+      100
+    ]
+  },
+  {
+    "id": "s2c4b68l2_07",
+    "question": "Bir qutida 24 ta shokolad. 3 ta qutida jami nechta?",
+    "correctAnswer": 72,
+    "wrongAnswers": [
+      27,
+      12
+    ]
+  },
+  {
+    "id": "s2c4b68l2_08",
+    "question": "Bir bola kuniga 15 bet o'qiydi. 4 kunda necha bet?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      19,
+      11
+    ]
+  },
+  {
+    "id": "s2c4b68l2_09",
+    "question": "Xato: \"14 * 3 = 42\" emas deyildi. 14 * 3 aslida nechaga teng?",
+    "correctAnswer": 42,
+    "wrongAnswers": [
+      32,
+      52
+    ]
+  },
+  {
+    "id": "s2c4b68l2_10",
+    "question": "27 * 3 = ?",
+    "correctAnswer": 81,
+    "wrongAnswers": [
+      71,
+      91
+    ]
+  }
+]

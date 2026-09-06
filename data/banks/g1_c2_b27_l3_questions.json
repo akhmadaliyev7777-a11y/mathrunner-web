@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b27l3_01",
+    "question": "16 - 7 = ?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      19,
+      10
+    ]
+  },
+  {
+    "id": "s1c2b27l3_02",
+    "question": "14 - 8 = ?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      16,
+      7
+    ]
+  },
+  {
+    "id": "s1c2b27l3_03",
+    "question": "17 - 8 = ?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      19,
+      10
+    ]
+  },
+  {
+    "id": "s1c2b27l3_04",
+    "question": "15 - 9 = ?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      16,
+      7
+    ]
+  },
+  {
+    "id": "s1c2b27l3_05",
+    "question": "13 - 7 = ?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      16,
+      7
+    ]
+  },
+  {
+    "id": "s1c2b27l3_06",
+    "question": "18 - 9 = ?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      19,
+      10
+    ]
+  },
+  {
+    "id": "s1c2b27l3_07",
+    "question": "Vazada 14 ta gul bor edi, 6 tasi so'ldi. Nechta qoldi?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      20,
+      7
+    ]
+  },
+  {
+    "id": "s1c2b27l3_08",
+    "question": "Bolada 15 ta marka bor edi, 8 tasini berdi. Nechta qoldi?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      23,
+      6
+    ]
+  },
+  {
+    "id": "s1c2b27l3_09",
+    "question": "17 - 5 - 4 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      9,
+      7
+    ]
+  },
+  {
+    "id": "s1c2b27l3_10",
+    "question": "Xato: \"13 - 9 = 6\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      6,
+      5
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok25_level1_kat_01", "question": "Katak-qog'ozda shakl 12 ta to'liq katakni egallagan. Har katak 1 sm². Yuzasi necha sm²?", "correctAnswer": 12, "wrongAnswers": [1, 24]},
+  {"id": "sinf4_chorak2_blok25_level1_kat_02", "question": "To'g'ri to'rtburchak eni 5 katak, bo'yi 3 katak. Uning yuzasi necha katak?", "correctAnswer": 15, "wrongAnswers": [8, 16]},
+  {"id": "sinf4_chorak2_blok25_level1_kat_03", "question": "\"Klassiklar\" o'yini kvadrat kataklardan iborat, har katak tomoni 40 sm. Bitta katakning perimetri necha sm?", "correctAnswer": 160, "wrongAnswers": [80, 320]},
+  {"id": "sinf4_chorak2_blok25_level1_kat_04", "question": "Katakli maydonda shakl 6 ta to'liq va 4 ta yarim katakni egallagan. Har katak 1 sm². Yuzasi necha sm²?", "correctAnswer": 8, "wrongAnswers": [10, 6]},
+  {"id": "sinf4_chorak2_blok25_level1_kat_05", "question": "3×3 katakli kvadrat nechta kichik katakdan iborat?", "correctAnswer": 9, "wrongAnswers": [6, 12]},
+  {"id": "sinf4_chorak2_blok25_level1_kat_06", "question": "Shakl 20 ta katakni egallagan. Har katak 1 sm². Agar har katakni 2 sm² qilsak, umumiy yuza qancha bo'ladi?", "correctAnswer": 40, "wrongAnswers": [22, 20]},
+  {"id": "sinf4_chorak2_blok25_level1_kat_07", "question": "Katakli qog'ozda to'g'ri to'rtburchak 4×6 katak. Uning yuzasi necha katak?", "correctAnswer": 24, "wrongAnswers": [10, 20]},
+  {"id": "sinf4_chorak2_blok25_level1_kat_08", "question": "Bir katak tomoni 10 sm. 5 ta katakdan iborat yo'lakning uzunligi necha sm?", "correctAnswer": 50, "wrongAnswers": [15, 500]},
+  {"id": "sinf4_chorak2_blok25_level1_kat_09", "question": "Katakli maydonda kvadrat 16 katakni egallagan. Uning bir tomoni necha katak?", "correctAnswer": 4, "wrongAnswers": [8, 16]},
+  {"id": "sinf4_chorak2_blok25_level1_kat_10", "question": "Shakl 10 ta to'liq va 6 ta yarim katakdan iborat. Har katak 1 sm². Yuzasi necha sm²?", "correctAnswer": 13, "wrongAnswers": [16, 10]}
+]

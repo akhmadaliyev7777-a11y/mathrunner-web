@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b24l3_01",
+    "question": "1000 - 340 = ?",
+    "correctAnswer": 660,
+    "wrongAnswers": [
+      760,
+      560
+    ]
+  },
+  {
+    "id": "s2c2b24l3_02",
+    "question": "1000 - 675 = ?",
+    "correctAnswer": 325,
+    "wrongAnswers": [
+      425,
+      225
+    ]
+  },
+  {
+    "id": "s2c2b24l3_03",
+    "question": "904 - 238 = ?",
+    "correctAnswer": 666,
+    "wrongAnswers": [
+      766,
+      566
+    ]
+  },
+  {
+    "id": "s2c2b24l3_04",
+    "question": "610 - 555 = ?",
+    "correctAnswer": 55,
+    "wrongAnswers": [
+      155,
+      -45
+    ]
+  },
+  {
+    "id": "s2c2b24l3_05",
+    "question": "830 - 291 = ?",
+    "correctAnswer": 539,
+    "wrongAnswers": [
+      639,
+      439
+    ]
+  },
+  {
+    "id": "s2c2b24l3_06",
+    "question": "700 - 306 = ?",
+    "correctAnswer": 394,
+    "wrongAnswers": [
+      494,
+      294
+    ]
+  },
+  {
+    "id": "s2c2b24l3_07",
+    "question": "1000 - 1 = ?",
+    "correctAnswer": 999,
+    "wrongAnswers": [
+      900,
+      1001
+    ]
+  },
+  {
+    "id": "s2c2b24l3_08",
+    "question": "Bir sonni o'yladim: unga 260 qo'shsam, 700 bo'ldi. Qaysi son?",
+    "correctAnswer": 440,
+    "wrongAnswers": [
+      960,
+      540
+    ]
+  },
+  {
+    "id": "s2c2b24l3_09",
+    "question": "Bir sonni o'yladim: undan 145 ni ayirsam, 300 bo'ldi. Qaysi son?",
+    "correctAnswer": 445,
+    "wrongAnswers": [
+      155,
+      448
+    ]
+  },
+  {
+    "id": "s2c2b24l3_10",
+    "question": "900 - 450 ayirishda javob 450 ga teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "g3c1b7l1_ord_01",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      45210,
+      45012,
+      44980,
+      45301
+    ],
+    "ascending": true
+  },
+  {
+    "id": "g3c1b7l1_ord_02",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      123456,
+      132456,
+      113456,
+      122456
+    ],
+    "ascending": false
+  },
+  {
+    "id": "g3c1b7l1_ord_03",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      700000,
+      70000,
+      7000000,
+      700700
+    ],
+    "ascending": true
+  },
+  {
+    "id": "g3c1b7l1_ord_04",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      89076,
+      89706,
+      89067,
+      90006
+    ],
+    "ascending": false
+  },
+  {
+    "id": "g3c1b7l1_ord_05",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      340500,
+      304500,
+      345000,
+      300450
+    ],
+    "ascending": true
+  },
+  {
+    "id": "g3c1b7l1_ord_06",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      12345,
+      21345,
+      11345,
+      10999
+    ],
+    "ascending": false
+  },
+  {
+    "id": "g3c1b7l1_ord_07",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      608000,
+      680000,
+      600800,
+      608800
+    ],
+    "ascending": true
+  },
+  {
+    "id": "g3c1b7l1_ord_08",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      95000,
+      950000,
+      90500,
+      99500
+    ],
+    "ascending": false
+  },
+  {
+    "id": "g3c1b7l1_ord_09",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      250000,
+      205000,
+      255000,
+      200500
+    ],
+    "ascending": true
+  },
+  {
+    "id": "g3c1b7l1_ord_10",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      74100,
+      74010,
+      74001,
+      74110
+    ],
+    "ascending": false
+  }
+]

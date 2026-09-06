@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b39l1_01",
+    "question": "1 dm3 necha cm3?",
+    "correctAnswer": 1000,
+    "wrongAnswers": [
+      100,
+      10000
+    ]
+  },
+  {
+    "id": "s3c3b39l1_02",
+    "question": "1 cm3 necha mm3?",
+    "correctAnswer": 1000,
+    "wrongAnswers": [
+      100,
+      10000
+    ]
+  },
+  {
+    "id": "s3c3b39l1_03",
+    "question": "7 m3 necha dm3?",
+    "correctAnswer": 7000,
+    "wrongAnswers": [
+      700,
+      70000
+    ]
+  },
+  {
+    "id": "s3c3b39l1_04",
+    "question": "1 dm3 necha litr?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      10,
+      100
+    ]
+  },
+  {
+    "id": "s3c3b39l1_05",
+    "question": "5 litr necha dm3?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      50,
+      500
+    ]
+  },
+  {
+    "id": "s3c3b39l1_06",
+    "question": "12 dm3 necha cm3?",
+    "correctAnswer": 12000,
+    "wrongAnswers": [
+      1200,
+      120000
+    ]
+  },
+  {
+    "id": "s3c3b39l1_07",
+    "question": "3 000 cm3 necha dm3?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      30,
+      300
+    ]
+  },
+  {
+    "id": "s3c3b39l1_08",
+    "question": "Taqqoslang: 1 dm3 __ 1 litr",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s3c3b39l1_09",
+    "question": "2 m3 necha dm3?",
+    "correctAnswer": 2000,
+    "wrongAnswers": [
+      200,
+      20000
+    ]
+  },
+  {
+    "id": "s3c3b39l1_10",
+    "question": "5 cm3 necha mm3?",
+    "correctAnswer": 5000,
+    "wrongAnswers": [
+      500,
+      50000
+    ]
+  }
+]

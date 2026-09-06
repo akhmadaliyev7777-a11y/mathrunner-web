@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b22l2_01",
+    "question": "13 sonida nechta birlik bor (o'nlikdan tashqari)?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      13,
+      10
+    ]
+  },
+  {
+    "id": "s1c2b22l2_02",
+    "question": "17 sonida nechta birlik bor (o'nlikdan tashqari)?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      17,
+      10
+    ]
+  },
+  {
+    "id": "s1c2b22l2_03",
+    "question": "11 sonida nechta birlik bor (o'nlikdan tashqari)?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      11,
+      10
+    ]
+  },
+  {
+    "id": "s1c2b22l2_04",
+    "question": "19 sonida nechta birlik bor (o'nlikdan tashqari)?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      19,
+      10
+    ]
+  },
+  {
+    "id": "s1c2b22l2_05",
+    "question": "15 sonida nechta birlik bor (o'nlikdan tashqari)?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      15,
+      10
+    ]
+  },
+  {
+    "id": "s1c2b22l2_06",
+    "question": "1 o'nlik va 4 birlikdan iborat son qaysi?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      41,
+      15
+    ]
+  },
+  {
+    "id": "s1c2b22l2_07",
+    "question": "16 sonida nechta o'nlik bor?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      16,
+      6
+    ]
+  },
+  {
+    "id": "s1c2b22l2_08",
+    "question": "\"O'n sakkiz\" soni raqamlarda qanday yoziladi?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      81,
+      108
+    ]
+  },
+  {
+    "id": "s1c2b22l2_09",
+    "question": "12 = 10 + ?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      12,
+      20
+    ]
+  },
+  {
+    "id": "s1c2b22l2_10",
+    "question": "20 sonida nechta birlik bor?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      2,
+      20
+    ]
+  }
+]

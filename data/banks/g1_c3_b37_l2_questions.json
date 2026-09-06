@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b37l2_01",
+    "question": "Bog'da 8 ta olma daraxti va 5 ta nok daraxti bor. Jami nechta daraxt?",
+    "correctAnswer": 13,
+    "wrongAnswers": [
+      3,
+      40
+    ]
+  },
+  {
+    "id": "s1c3b37l2_02",
+    "question": "Avtobusda 20 yo'lovchi bor edi, 6 kishi chiqdi. Nechta qoldi?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      26,
+      13
+    ]
+  },
+  {
+    "id": "s1c3b37l2_03",
+    "question": "Sinfda 12 o'g'il, 15 qiz bor. Jami nechta o'quvchi?",
+    "correctAnswer": 27,
+    "wrongAnswers": [
+      3,
+      30
+    ]
+  },
+  {
+    "id": "s1c3b37l2_04",
+    "question": "Anorda 9 ta shar bor edi, 3 tasi yorildi. Nechta qoldi?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      12,
+      5
+    ]
+  },
+  {
+    "id": "s1c3b37l2_05",
+    "question": "Kitobda 30 bet. Bola 12 betini o'qidi. Necha bet qoldi?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      42,
+      17
+    ]
+  },
+  {
+    "id": "s1c3b37l2_06",
+    "question": "Hovlida 7 ta o'rdak va 8 ta g'oz bor. Jami nechta qush?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      1,
+      56
+    ]
+  },
+  {
+    "id": "s1c3b37l2_07",
+    "question": "Do'konda 25 kg olma bor edi, 10 kg sotildi. Nechta kg qoldi?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      35,
+      14
+    ]
+  },
+  {
+    "id": "s1c3b37l2_08",
+    "question": "Bir qutida 14 ta, boshqasida 6 ta qalam. Jami nechta?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      8,
+      80
+    ]
+  },
+  {
+    "id": "s1c3b37l2_09",
+    "question": "\"Qancha qoldi?\" savoli ko'pincha ayirish bilan yechiladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b37l2_10",
+    "question": "Xato: \"5 + 3\" masalaning javobi 7 deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      7,
+      9
+    ]
+  }
+]

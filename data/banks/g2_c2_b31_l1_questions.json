@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b31l1_01",
+    "question": "1 soat necha minut?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      100,
+      6
+    ]
+  },
+  {
+    "id": "s2c2b31l1_02",
+    "question": "2 soat necha minut?",
+    "correctAnswer": 120,
+    "wrongAnswers": [
+      200,
+      20
+    ]
+  },
+  {
+    "id": "s2c2b31l1_03",
+    "question": "Yarim soat necha minut?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      50,
+      15
+    ]
+  },
+  {
+    "id": "s2c2b31l1_04",
+    "question": "1 soat 20 minut necha minut?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      120,
+      60
+    ]
+  },
+  {
+    "id": "s2c2b31l1_05",
+    "question": "90 minut necha soat necha minut?  (soat sonini yozing)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      90,
+      2
+    ]
+  },
+  {
+    "id": "s2c2b31l1_06",
+    "question": "Yarim soatdan 10 minut ko'p vaqt necha minut?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      20,
+      50
+    ]
+  },
+  {
+    "id": "s2c2b31l1_07",
+    "question": "Taqqoslang: 1 soat __ 55 minut",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s2c2b31l1_08",
+    "question": "Taqqoslang: 120 minut __ 2 soat",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s2c2b31l1_09",
+    "question": "Dars 45 minut, tanaffus 10 minut. Jami necha minut?",
+    "correctAnswer": 55,
+    "wrongAnswers": [
+      35,
+      65
+    ]
+  },
+  {
+    "id": "s2c2b31l1_10",
+    "question": "Soat 3:00 dan 5:00 gacha necha soat o'tadi?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      3,
+      8
+    ]
+  }
+]

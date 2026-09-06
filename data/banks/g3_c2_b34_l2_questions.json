@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b34l2_01",
+    "question": "4 704 : 336 = ?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      13,
+      15
+    ]
+  },
+  {
+    "id": "s3c2b34l2_02",
+    "question": "To'g'ri to'rtburchak: eni 15 cm, bo'yi 9 cm. Perimetri necha cm?",
+    "correctAnswer": 48,
+    "wrongAnswers": [
+      45,
+      50
+    ]
+  },
+  {
+    "id": "s3c2b34l2_03",
+    "question": "Basseyn yuzi 72 m2, bo'yi 12 m. Eni necha m?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": "s3c2b34l2_04",
+    "question": "Anvar 96 : 4 ni hisoblab, 22 deb yozdi. To'g'ri javob qancha?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      22,
+      26
+    ]
+  },
+  {
+    "id": "s3c2b34l2_05",
+    "question": "48 cm tasmaning 1/3 qismi necha cm?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      12,
+      24
+    ]
+  },
+  {
+    "id": "s3c2b34l2_06",
+    "question": "Paletkada 8 to'liq va 4 yarim katak bo'yalgan. Yuza taxminan qancha?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      8,
+      12
+    ]
+  },
+  {
+    "id": "s3c2b34l2_07",
+    "question": "9 000 000 : 900 = ?",
+    "correctAnswer": 10000,
+    "wrongAnswers": [
+      1000,
+      100000
+    ]
+  },
+  {
+    "id": "s3c2b34l2_08",
+    "question": "936 o'quvchi 26 tadan sinflarga bo'lindi. Nechta sinf?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      35,
+      37
+    ]
+  },
+  {
+    "id": "s3c2b34l2_09",
+    "question": "Muntazam 10-burchak tomoni 4 cm. Perimetri necha cm?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      14,
+      36
+    ]
+  },
+  {
+    "id": "s3c2b34l2_10",
+    "question": "Hisoblamasdan:  6 300 : 7 __ 6 300 : 9",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  }
+]

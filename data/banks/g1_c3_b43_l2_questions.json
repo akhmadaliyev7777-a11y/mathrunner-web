@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b43l2_01",
+    "question": "\"Bog'da 8 ta olma daraxti bor.\" — bu masalaning sharti to'liqmi (savol yo'q)?",
+    "correctAnswer": "yo'q, savol yetishmaydi",
+    "wrongAnswers": [
+      "ha, to'liq",
+      "ortiqcha ma'lumot bor"
+    ]
+  },
+  {
+    "id": "s1c3b43l2_02",
+    "question": "\"6 ta nok va 4 ta olma bor. Jami nechta meva?\" Javobi qancha?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      2,
+      24
+    ]
+  },
+  {
+    "id": "s1c3b43l2_03",
+    "question": "Masalada javob topish uchun yetarli ma'lumot bo'lmasa, masala qanday?",
+    "correctAnswer": "yechib bo'lmaydi",
+    "wrongAnswers": [
+      "oson",
+      "javobi 0"
+    ]
+  },
+  {
+    "id": "s1c3b43l2_04",
+    "question": "1, 3, 5, 7, ... — keyingi son qaysi (qonuniyat)?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      11
+    ]
+  },
+  {
+    "id": "s1c3b43l2_05",
+    "question": "2, 4, 6, 8, ... — keyingi son qaysi?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      9,
+      12
+    ]
+  },
+  {
+    "id": "s1c3b43l2_06",
+    "question": "10, 20, 30, ... — keyingi son qaysi?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      35,
+      50
+    ]
+  },
+  {
+    "id": "s1c3b43l2_07",
+    "question": "Ketma-ketlik: 20, 18, 16, ... — keyingi son qaysi?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      15,
+      12
+    ]
+  },
+  {
+    "id": "s1c3b43l2_08",
+    "question": "5, 10, 15, 20, ... — keyingi son qaysi?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      21,
+      30
+    ]
+  },
+  {
+    "id": "s1c3b43l2_09",
+    "question": "Masala shartida ba'zan ortiqcha (kerak bo'lmagan) ma'lumot bo'lishi mumkin.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b43l2_10",
+    "question": "1, 2, 4, 8, ... — bu 1-sinf uchun murakkab qonuniyat. Oldingi qadamlar: har safar oldingi songa o'zi qo'shiladi. Keyingisi qancha?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      12,
+      10
+    ]
+  }
+]

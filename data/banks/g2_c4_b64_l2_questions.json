@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b64l2_01",
+    "question": "80 : 10 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      80,
+      800
+    ]
+  },
+  {
+    "id": "s2c4b64l2_02",
+    "question": "700 : 100 = ?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      70,
+      700
+    ]
+  },
+  {
+    "id": "s2c4b64l2_03",
+    "question": "6 * 10 + 5 = ?",
+    "correctAnswer": 65,
+    "wrongAnswers": [
+      15,
+      60
+    ]
+  },
+  {
+    "id": "s2c4b64l2_04",
+    "question": "300 : 100 * 4 = ?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      3,
+      1200
+    ]
+  },
+  {
+    "id": "s2c4b64l2_05",
+    "question": "1 ta qutida 10 ta qalam. 8 ta qutida nechta qalam?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      18,
+      800
+    ]
+  },
+  {
+    "id": "s2c4b64l2_06",
+    "question": "900 ta kitob 100 tadan javonlarga qo'yildi. Nechta javon kerak?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      90,
+      900
+    ]
+  },
+  {
+    "id": "s2c4b64l2_07",
+    "question": "10 * 10 = ?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      20,
+      1000
+    ]
+  },
+  {
+    "id": "s2c4b64l2_08",
+    "question": "Taqqoslang: 7 * 10 __ 800 : 100",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s2c4b64l2_09",
+    "question": "Sonni 10 ga ko'paytirsak, oxiriga bitta 0 qo'shiladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c4b64l2_10",
+    "question": "Xato: \"5 * 100 = 50\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 500,
+    "wrongAnswers": [
+      50,
+      5000
+    ]
+  }
+]

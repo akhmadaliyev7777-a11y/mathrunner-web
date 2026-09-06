@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak4_blok64_level2_pir_01", "question": "Beshburchakli piramidaning nechta yon yoqi bor?", "correctAnswer": 5, "wrongAnswers": [6, 10]},
+  {"id": "sinf4_chorak4_blok64_level2_pir_02", "question": "Beshburchakli piramidaning jami nechta yoqi bor?", "correctAnswer": 6, "wrongAnswers": [5, 10]},
+  {"id": "sinf4_chorak4_blok64_level2_pir_03", "question": "Oltiburchakli piramidaning nechta uchi bor?", "correctAnswer": 7, "wrongAnswers": [6, 12]},
+  {"id": "sinf4_chorak4_blok64_level2_pir_04", "question": "Prizma va piramidaning asosiy farqi nimada?", "correctAnswer": "Prizmada 2 ta asos, piramidada 1 ta asos va 1 ta cho'qqi bor", "wrongAnswers": ["Farqi yo'q", "Piramidada 2 ta asos bor"]},
+  {"id": "sinf4_chorak4_blok64_level2_pir_05", "question": "Kvadrat asosli piramidaning yoqlari, qirralari va uchlari soni yig'indisi nechi?", "correctAnswer": 18, "wrongAnswers": [16, 20]},
+  {"id": "sinf4_chorak4_blok64_level2_pir_06", "question": "Uchburchakli piramida (tetraedr) da barcha yoqlar qanday bo'lishi mumkin?", "correctAnswer": "Barchasi uchburchak", "wrongAnswers": ["Barchasi kvadrat", "Bittasi doira"]},
+  {"id": "sinf4_chorak4_blok64_level2_pir_07", "question": "Beshburchakli piramidaning nechta qirrasi bor?", "correctAnswer": 10, "wrongAnswers": [5, 6]},
+  {"id": "sinf4_chorak4_blok64_level2_pir_08", "question": "Aziz kvadrat asosli piramidaning 4 ta yoqi bor dedi. To'g'rimi?", "correctAnswer": "Yo'q, 5 ta: 1 asos + 4 yon yoq", "wrongAnswers": ["Ha, to'g'ri", "6 ta yoqi bor"]},
+  {"id": "sinf4_chorak4_blok64_level2_pir_09", "question": "Piramidaning barcha yon qirralari qayerda birlashadi?", "correctAnswer": "Cho'qqida (bitta uchda)", "wrongAnswers": ["Asosda", "Hech qayerda"]},
+  {"id": "sinf4_chorak4_blok64_level2_pir_10", "question": "Oltiburchakli piramidaning nechta yoqi bor?", "correctAnswer": 7, "wrongAnswers": [6, 12]}
+]

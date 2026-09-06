@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak4_blok63_level2_yoy_01", "question": "Kubning yoyilmasida nechta kvadrat bo'ladi?", "correctAnswer": 6, "wrongAnswers": [4, 8]},
+  {"id": "sinf4_chorak4_blok63_level2_yoy_02", "question": "Uchburchakli prizmaning yoyilmasida nechta uchburchak bo'ladi?", "correctAnswer": 2, "wrongAnswers": [3, 1]},
+  {"id": "sinf4_chorak4_blok63_level2_yoy_03", "question": "Yoyilma nima?", "correctAnswer": "Fazoviy shaklning tekislikka yozilgan ko'rinishi", "wrongAnswers": ["Shaklning soyasi", "Shaklning yarmi"]},
+  {"id": "sinf4_chorak4_blok63_level2_yoy_04", "question": "Kuboid yoyilmasida nechta to'g'ri to'rtburchak bo'ladi?", "correctAnswer": 6, "wrongAnswers": [4, 12]},
+  {"id": "sinf4_chorak4_blok63_level2_yoy_05", "question": "Uchburchakli prizma yoyilmasida nechta to'rtburchak bo'ladi?", "correctAnswer": 3, "wrongAnswers": [2, 5]},
+  {"id": "sinf4_chorak4_blok63_level2_yoy_06", "question": "Kubning yoyilmasi qanday shaklga buklanadi?", "correctAnswer": "kub", "wrongAnswers": ["kuboid", "piramida"]},
+  {"id": "sinf4_chorak4_blok63_level2_yoy_07", "question": "Rost yoki yolg'on: har qanday 6 ta kvadratdan iborat shakl kubga buklanadi.", "correctAnswer": "Yolg'on", "wrongAnswers": ["Rost", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak4_blok63_level2_yoy_08", "question": "Yoyilmani buklaganda yoqlar bir-birini qanday qoplashi kerak?", "correctAnswer": "Bir-biriga tegib turishi, ustma-ust tushmasligi kerak", "wrongAnswers": ["Ustma-ust tushishi kerak", "Ahamiyati yo'q"]},
+  {"id": "sinf4_chorak4_blok63_level2_yoy_09", "question": "Kuboidning yoyilmasida qarama-qarshi yoqlar qanday bo'ladi?", "correctAnswer": "O'zaro teng", "wrongAnswers": ["Har xil", "Bittasi katta"]},
+  {"id": "sinf4_chorak4_blok63_level2_yoy_10", "question": "Uchburchakli prizma yoyilmasidagi jami yoq soni nechi?", "correctAnswer": 5, "wrongAnswers": [6, 3]}
+]

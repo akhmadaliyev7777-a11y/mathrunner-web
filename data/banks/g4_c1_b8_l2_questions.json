@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok8_level2_bok_01", "question": "24 ning nechta bo'luvchisi bor?", "correctAnswer": 8, "wrongAnswers": [6, 12]},
+  {"id": "sinf4_chorak1_blok8_level2_bok_02", "question": "Quyidagilardan qaysi biri 6 ning karralisi EMAS?", "correctAnswer": 20, "wrongAnswers": [18, 24]},
+  {"id": "sinf4_chorak1_blok8_level2_bok_03", "question": "36 ni 9 ga bo'lsak nechi chiqadi?", "correctAnswer": 4, "wrongAnswers": [5, 3]},
+  {"id": "sinf4_chorak1_blok8_level2_bok_04", "question": "Har doim / ba'zan / hech qachon to'g'ri: \"10 ga karrali son 5 ga ham karrali.\"", "correctAnswer": "Har doim", "wrongAnswers": ["Ba'zan", "Hech qachon"]},
+  {"id": "sinf4_chorak1_blok8_level2_bok_05", "question": "1 dan 20 gacha bo'lgan sonlar orasida 3 ga nechta son karrali?", "correctAnswer": 6, "wrongAnswers": [7, 5]},
+  {"id": "sinf4_chorak1_blok8_level2_bok_06", "question": "12 va 18 ning umumiy bo'luvchilaridan eng kattasi qaysi?", "correctAnswer": 6, "wrongAnswers": [12, 3]},
+  {"id": "sinf4_chorak1_blok8_level2_bok_07", "question": "Alisher: \"15 soni 5 ning bo'luvchisi\" dedi. To'g'rimi?", "correctAnswer": "Yo'q, 15 — 5 ning KARRALISI", "wrongAnswers": ["Ha, to'g'ri", "15 — 5 ning ham bo'luvchisi, ham karralisi"]},
+  {"id": "sinf4_chorak1_blok8_level2_bok_08", "question": "10 soni qaysi sonning karralisi?", "correctAnswer": 2, "wrongAnswers": [3, 4]},
+  {"id": "sinf4_chorak1_blok8_level2_bok_09", "question": "8 ning karralilari: 8, 16, ... Keyingisi qaysi?", "correctAnswer": 24, "wrongAnswers": [20, 32]},
+  {"id": "sinf4_chorak1_blok8_level2_bok_10", "question": "36 ning bo'luvchisi bo'lgan, ammo 24 ning bo'luvchisi bo'lmagan son qaysi?", "correctAnswer": 9, "wrongAnswers": [6, 4]}
+]

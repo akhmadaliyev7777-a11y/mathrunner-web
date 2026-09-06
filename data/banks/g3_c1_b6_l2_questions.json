@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b6l2_01",
+    "question": "3 800 * 100 = ?",
+    "correctAnswer": 380000,
+    "wrongAnswers": [
+      38000,
+      3800000
+    ]
+  },
+  {
+    "id": "s3c1b6l2_02",
+    "question": "90 * 100 = ?",
+    "correctAnswer": 9000,
+    "wrongAnswers": [
+      900,
+      90000
+    ]
+  },
+  {
+    "id": "s3c1b6l2_03",
+    "question": "123 * 1 000 = ?",
+    "correctAnswer": 123000,
+    "wrongAnswers": [
+      12300,
+      1230000
+    ]
+  },
+  {
+    "id": "s3c1b6l2_04",
+    "question": "4 560 * 100 = ?",
+    "correctAnswer": 456000,
+    "wrongAnswers": [
+      45600,
+      4560000
+    ]
+  },
+  {
+    "id": "s3c1b6l2_05",
+    "question": "38 * 10 000 = ?",
+    "correctAnswer": 380000,
+    "wrongAnswers": [
+      38000,
+      3800000
+    ]
+  },
+  {
+    "id": "s3c1b6l2_06",
+    "question": "700 * 1 000 = ?",
+    "correctAnswer": 700000,
+    "wrongAnswers": [
+      70000,
+      7000000
+    ]
+  },
+  {
+    "id": "s3c1b6l2_07",
+    "question": "12 300 * 200 = ?",
+    "correctAnswer": 2460000,
+    "wrongAnswers": [
+      246000,
+      24600000
+    ]
+  },
+  {
+    "id": "s3c1b6l2_08",
+    "question": "Ko'p xonali sonni yozganda minglar sinfining tagiga nechta chiziq chiziladi?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "s3c1b6l2_09",
+    "question": "Millionlar sinfining tagiga nechta chiziq chiziladi?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      2,
+      1
+    ]
+  },
+  {
+    "id": "s3c1b6l2_10",
+    "question": "48 000 000 : 8 = ?",
+    "correctAnswer": 6000000,
+    "wrongAnswers": [
+      600000,
+      60000000
+    ]
+  }
+]

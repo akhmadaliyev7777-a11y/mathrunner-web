@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak4_blok71_level1_grad_01", "question": "Burchak o'lchov birligi qanday nomlanadi?", "correctAnswer": "gradus", "wrongAnswers": ["santimetr", "litr"]},
+  {"id": "sinf4_chorak4_blok71_level1_grad_02", "question": "To'g'ri burchak necha gradus?", "correctAnswer": 90, "wrongAnswers": [45, 180]},
+  {"id": "sinf4_chorak4_blok71_level1_grad_03", "question": "Yoyiq burchak necha gradus?", "correctAnswer": 180, "wrongAnswers": [90, 360]},
+  {"id": "sinf4_chorak4_blok71_level1_grad_04", "question": "Yarim to'g'ri burchak necha gradus?", "correctAnswer": 45, "wrongAnswers": [30, 90]},
+  {"id": "sinf4_chorak4_blok71_level1_grad_05", "question": "Taqqoslang: 60° __ 90°", "correctAnswer": "<", "wrongAnswers": [">", "="]},
+  {"id": "sinf4_chorak4_blok71_level1_grad_06", "question": "Taqqoslang: o'tmas burchak __ to'g'ri burchak", "correctAnswer": ">", "wrongAnswers": ["<", "="]},
+  {"id": "sinf4_chorak4_blok71_level1_grad_07", "question": "To'liq aylanish (butun burilish) necha gradus?", "correctAnswer": 360, "wrongAnswers": [180, 90]},
+  {"id": "sinf4_chorak4_blok71_level1_grad_08", "question": "Taqqoslang: 120° __ 100°", "correctAnswer": ">", "wrongAnswers": ["<", "="]},
+  {"id": "sinf4_chorak4_blok71_level1_grad_09", "question": "30° li burchak to'g'ri burchakning qanchasini tashkil qiladi?", "correctAnswer": "uchdan biri", "wrongAnswers": ["yarmi", "to'rtdan biri"]},
+  {"id": "sinf4_chorak4_blok71_level1_grad_10", "question": "Taqqoslang: yoyiq burchak __ 2 ta to'g'ri burchak", "correctAnswer": "=", "wrongAnswers": [">", "<"]}
+]

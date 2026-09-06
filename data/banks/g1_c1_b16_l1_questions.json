@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b16l1_01",
+    "question": "3 + 4 = 7 ifodada 7 nima deb ataladi?",
+    "correctAnswer": "yig'indi",
+    "wrongAnswers": [
+      "qo'shiluvchi",
+      "ayirma"
+    ]
+  },
+  {
+    "id": "s1c1b16l1_02",
+    "question": "3 + 4 = 7 ifodada 3 va 4 nima deb ataladi?",
+    "correctAnswer": "qo'shiluvchilar",
+    "wrongAnswers": [
+      "yig'indilar",
+      "ayriluvchilar"
+    ]
+  },
+  {
+    "id": "s1c1b16l1_03",
+    "question": "Birinchi qo'shiluvchi 5, ikkinchisi 2. Yig'indi qancha?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      3,
+      8
+    ]
+  },
+  {
+    "id": "s1c1b16l1_04",
+    "question": "Qo'shiluvchi 6, yig'indi 9. Ikkinchi qo'shiluvchi qancha?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      15,
+      4
+    ]
+  },
+  {
+    "id": "s1c1b16l1_05",
+    "question": "2 + 6 = 8. Bu yerda 8 nima?",
+    "correctAnswer": "yig'indi",
+    "wrongAnswers": [
+      "qo'shiluvchi",
+      "ayirma"
+    ]
+  },
+  {
+    "id": "s1c1b16l1_06",
+    "question": "Qo'shish amalida ikkita qo'shiluvchi va bitta yig'indi bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b16l1_07",
+    "question": "Qo'shiluvchilar 4 va 4. Yig'indi qancha?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      0,
+      16
+    ]
+  },
+  {
+    "id": "s1c1b16l1_08",
+    "question": "5 + 5 = 10 ifodada nechta qo'shiluvchi bor?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "s1c1b16l1_09",
+    "question": "Yig'indi har bir qo'shiluvchidan katta yoki teng bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b16l1_10",
+    "question": "Qo'shiluvchi 0, ikkinchi qo'shiluvchi 7. Yig'indi qancha?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      0,
+      8
+    ]
+  }
+]

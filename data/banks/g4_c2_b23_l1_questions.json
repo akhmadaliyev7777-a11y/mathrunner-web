@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok23_level1_kop_01", "question": "Mashina 1-kuni 240 km, 2-kuni 315 km yurdi. Jami necha km yurgan?", "correctAnswer": 555, "wrongAnswers": [75, 545]},
+  {"id": "sinf4_chorak2_blok23_level1_kop_02", "question": "Poyezd 60 km/soat tezlikda 6 soat yurdi. Necha km yo'l bosdi?", "correctAnswer": 360, "wrongAnswers": [10, 66]},
+  {"id": "sinf4_chorak2_blok23_level1_kop_03", "question": "45 000 so'mlik va 38 000 so'mlik ikki xarid qilindi. Jami qancha to'landi?", "correctAnswer": 83000, "wrongAnswers": [83, 7000]},
+  {"id": "sinf4_chorak2_blok23_level1_kop_04", "question": "Ikki shahar orasi 480 km. Mashina 240 km yurdi. Yana necha km qoldi?", "correctAnswer": 240, "wrongAnswers": [720, 200]},
+  {"id": "sinf4_chorak2_blok23_level1_kop_05", "question": "12 500 − 4 300 = ?", "correctAnswer": 8200, "wrongAnswers": [8800, 16800]},
+  {"id": "sinf4_chorak2_blok23_level1_kop_06", "question": "Samolyot 800 km/soat tezlikda 3 soat uchdi. Necha km uchgan?", "correctAnswer": 2400, "wrongAnswers": [24, 803]},
+  {"id": "sinf4_chorak2_blok23_level1_kop_07", "question": "Omborda 25 000 kg bug'doy bor edi. 8 000 kg olib ketildi. Necha kg qoldi?", "correctAnswer": 17000, "wrongAnswers": [33000, 17]},
+  {"id": "sinf4_chorak2_blok23_level1_kop_08", "question": "Velosipedchi 15 km/soat tezlikda 4 soat yurdi. Yo'l qancha?", "correctAnswer": 60, "wrongAnswers": [19, 11]},
+  {"id": "sinf4_chorak2_blok23_level1_kop_09", "question": "3 ta yuk mashinasi har biri 1 500 quti tashidi. Jami nechta quti tashigan?", "correctAnswer": 4500, "wrongAnswers": [4503, 3000]},
+  {"id": "sinf4_chorak2_blok23_level1_kop_10", "question": "Ikki avtobusda jami 96 yo'lovchi bor. Birinchisida 54 kishi. Ikkinchisida nechta?", "correctAnswer": 42, "wrongAnswers": [150, 40]}
+]

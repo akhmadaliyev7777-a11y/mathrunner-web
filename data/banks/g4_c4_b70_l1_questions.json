@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak4_blok70_level1_bur_01", "question": "90° li burchak qanday nomlanadi?", "correctAnswer": "to'g'ri burchak", "wrongAnswers": ["o'tkir burchak", "o'tmas burchak"]},
+  {"id": "sinf4_chorak4_blok70_level1_bur_02", "question": "90° dan kichik burchak qanday nomlanadi?", "correctAnswer": "o'tkir burchak", "wrongAnswers": ["to'g'ri burchak", "o'tmas burchak"]},
+  {"id": "sinf4_chorak4_blok70_level1_bur_03", "question": "90° dan katta, 180° dan kichik burchak qanday nomlanadi?", "correctAnswer": "o'tmas burchak", "wrongAnswers": ["o'tkir burchak", "to'g'ri burchak"]},
+  {"id": "sinf4_chorak4_blok70_level1_bur_04", "question": "180° li burchak qanday nomlanadi?", "correctAnswer": "yoyiq burchak", "wrongAnswers": ["to'g'ri burchak", "o'tmas burchak"]},
+  {"id": "sinf4_chorak4_blok70_level1_bur_05", "question": "Rost yoki yolg'on: 45° li burchak — o'tkir burchak.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak4_blok70_level1_bur_06", "question": "Rost yoki yolg'on: 120° li burchak — to'g'ri burchak.", "correctAnswer": "Yolg'on", "wrongAnswers": ["Rost", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak4_blok70_level1_bur_07", "question": "Kvadratning har bir burchagi qanday burchak?", "correctAnswer": "to'g'ri burchak", "wrongAnswers": ["o'tkir burchak", "o'tmas burchak"]},
+  {"id": "sinf4_chorak4_blok70_level1_bur_08", "question": "Rost yoki yolg'on: yoyiq burchakning tomonlari bitta to'g'ri chiziqni hosil qiladi.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak4_blok70_level1_bur_09", "question": "60° li burchak qanday burchak?", "correctAnswer": "o'tkir burchak", "wrongAnswers": ["to'g'ri burchak", "o'tmas burchak"]},
+  {"id": "sinf4_chorak4_blok70_level1_bur_10", "question": "Rost yoki yolg'on: 95° li burchak — o'tkir burchak.", "correctAnswer": "Yolg'on", "wrongAnswers": ["Rost", "Aniqlab bo'lmaydi"]}
+]

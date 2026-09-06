@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b14l1_01",
+    "question": "2 069 501 * 3 = ?",
+    "correctAnswer": 6208503,
+    "wrongAnswers": [
+      6208500,
+      6208803
+    ]
+  },
+  {
+    "id": "s3c1b14l1_02",
+    "question": "73 957 * 7 = ?",
+    "correctAnswer": 517699,
+    "wrongAnswers": [
+      517692,
+      518399
+    ]
+  },
+  {
+    "id": "s3c1b14l1_03",
+    "question": "45 812 * 6 = ?",
+    "correctAnswer": 274872,
+    "wrongAnswers": [
+      274866,
+      275472
+    ]
+  },
+  {
+    "id": "s3c1b14l1_04",
+    "question": "129 034 * 4 = ?",
+    "correctAnswer": 516136,
+    "wrongAnswers": [
+      516132,
+      516536
+    ]
+  },
+  {
+    "id": "s3c1b14l1_05",
+    "question": "806 504 * 2 = ?",
+    "correctAnswer": 1613008,
+    "wrongAnswers": [
+      1613006,
+      1613208
+    ]
+  },
+  {
+    "id": "s3c1b14l1_06",
+    "question": "599 * 3 = ?",
+    "correctAnswer": 1797,
+    "wrongAnswers": [
+      1697,
+      1897
+    ]
+  },
+  {
+    "id": "s3c1b14l1_07",
+    "question": "3 272 * 5 = ?",
+    "correctAnswer": 16360,
+    "wrongAnswers": [
+      16260,
+      16460
+    ]
+  },
+  {
+    "id": "s3c1b14l1_08",
+    "question": "12 500 * 4 = ?",
+    "correctAnswer": 50000,
+    "wrongAnswers": [
+      49000,
+      51000
+    ]
+  },
+  {
+    "id": "s3c1b14l1_09",
+    "question": "305 040 * 2 = ?",
+    "correctAnswer": 610080,
+    "wrongAnswers": [
+      610060,
+      610100
+    ]
+  },
+  {
+    "id": "s3c1b14l1_10",
+    "question": "7 * 88 888 = ?",
+    "correctAnswer": 622216,
+    "wrongAnswers": [
+      622206,
+      622226
+    ]
+  }
+]

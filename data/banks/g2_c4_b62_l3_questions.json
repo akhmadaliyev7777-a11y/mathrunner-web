@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b62l3_01",
+    "question": "Bir songa 17 qo'shsak, 45 bo'ladi. Tenglama: x + 17 = 45. x qancha?",
+    "correctAnswer": 28,
+    "wrongAnswers": [
+      62,
+      38
+    ]
+  },
+  {
+    "id": "s2c4b62l3_02",
+    "question": "Sondan 24 ni ayirsak, 30 qoladi. x qancha?",
+    "correctAnswer": 54,
+    "wrongAnswers": [
+      6,
+      44
+    ]
+  },
+  {
+    "id": "s2c4b62l3_03",
+    "question": "Bir sonni 4 ga ko'paytirsak, 28 chiqadi. x qancha?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      24,
+      32
+    ]
+  },
+  {
+    "id": "s2c4b62l3_04",
+    "question": "Bir sonni 3 ga bo'lsak, 9 chiqadi. x qancha?",
+    "correctAnswer": 27,
+    "wrongAnswers": [
+      3,
+      12
+    ]
+  },
+  {
+    "id": "s2c4b62l3_05",
+    "question": "Qutida bir nechta olma bor edi. 12 ta qo'shilgach, 40 ta bo'ldi. Boshda nechta edi?",
+    "correctAnswer": 28,
+    "wrongAnswers": [
+      52,
+      38
+    ]
+  },
+  {
+    "id": "s2c4b62l3_06",
+    "question": "Anvarda x ta marka bor. U 15 tasini bergach, 22 tasi qoldi. x qancha?",
+    "correctAnswer": 37,
+    "wrongAnswers": [
+      7,
+      47
+    ]
+  },
+  {
+    "id": "s2c4b62l3_07",
+    "question": "x + 130 = 400 tenglamada x qancha?",
+    "correctAnswer": 270,
+    "wrongAnswers": [
+      530,
+      370
+    ]
+  },
+  {
+    "id": "s2c4b62l3_08",
+    "question": "x - 250 = 300 tenglamada x qancha?",
+    "correctAnswer": 550,
+    "wrongAnswers": [
+      50,
+      450
+    ]
+  },
+  {
+    "id": "s2c4b62l3_09",
+    "question": "5 * x = 45 tenglamada x qancha?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      40,
+      50
+    ]
+  },
+  {
+    "id": "s2c4b62l3_10",
+    "question": "x + 16 = 45 tenglamaning ildizini toping va tekshiring: 29 + 16 nechaga teng?",
+    "correctAnswer": 45,
+    "wrongAnswers": [
+      40,
+      50
+    ]
+  }
+]

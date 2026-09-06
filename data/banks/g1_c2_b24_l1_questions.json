@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b24l1_01",
+    "question": "Taqqoslang: 12 __ 17",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c2b24l1_02",
+    "question": "Taqqoslang: 20 __ 14",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s1c2b24l1_03",
+    "question": "Taqqoslang: 15 __ 15",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s1c2b24l1_04",
+    "question": "Taqqoslang: 11 __ 19",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c2b24l1_05",
+    "question": "Taqqoslang: 18 __ 8",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s1c2b24l1_06",
+    "question": "Taqqoslang: 13 __ 16",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c2b24l1_07",
+    "question": "Taqqoslang: 9 __ 12",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c2b24l1_08",
+    "question": "Taqqoslang: 16 __ 16",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s1c2b24l1_09",
+    "question": "12, 18, 15 sonlaridan eng kattasi qaysi?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      12,
+      15
+    ]
+  },
+  {
+    "id": "s1c2b24l1_10",
+    "question": "20 dan kichik eng katta son qaysi?",
+    "correctAnswer": 19,
+    "wrongAnswers": [
+      20,
+      18
+    ]
+  }
+]

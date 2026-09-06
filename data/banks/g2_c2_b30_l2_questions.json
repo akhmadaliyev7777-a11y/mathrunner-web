@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b30l2_01",
+    "question": "x + 240 = 500 tenglamada x qancha?",
+    "correctAnswer": 260,
+    "wrongAnswers": [
+      740,
+      360
+    ]
+  },
+  {
+    "id": "s2c2b30l2_02",
+    "question": "x - 150 = 300 tenglamada x qancha?",
+    "correctAnswer": 450,
+    "wrongAnswers": [
+      150,
+      350
+    ]
+  },
+  {
+    "id": "s2c2b30l2_03",
+    "question": "700 - x = 250 tenglamada x qancha?",
+    "correctAnswer": 450,
+    "wrongAnswers": [
+      950,
+      350
+    ]
+  },
+  {
+    "id": "s2c2b30l2_04",
+    "question": "Noma'lum qo'shiluvchini topish uchun yig'indidan ma'lum qo'shiluvchini ... .",
+    "correctAnswer": "ayiramiz",
+    "wrongAnswers": [
+      "qo'shamiz",
+      "taqqoslaymiz"
+    ]
+  },
+  {
+    "id": "s2c2b30l2_05",
+    "question": "Noma'lum kamayuvchini topish uchun ayirma bilan ayriluvchini ... .",
+    "correctAnswer": "qo'shamiz",
+    "wrongAnswers": [
+      "ayiramiz",
+      "taqqoslaymiz"
+    ]
+  },
+  {
+    "id": "s2c2b30l2_06",
+    "question": "x + 90 = 90 tenglamada x qancha?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      90,
+      180
+    ]
+  },
+  {
+    "id": "s2c2b30l2_07",
+    "question": "45 + x = 120 tenglamada x qancha?",
+    "correctAnswer": 75,
+    "wrongAnswers": [
+      165,
+      85
+    ]
+  },
+  {
+    "id": "s2c2b30l2_08",
+    "question": "x - 60 = 40 tenglamaning ildizi 100 ga teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c2b30l2_09",
+    "question": "x + 30 = 80 tenglamaning ildizi 110 ga teng.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c2b30l2_10",
+    "question": "Xatoni toping: 500 - x = 200 uchun x = 700 deyildi. To'g'ri x qancha?",
+    "correctAnswer": 300,
+    "wrongAnswers": [
+      700,
+      400
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b33l2_01",
+    "question": "345 + 278 = ?",
+    "correctAnswer": 623,
+    "wrongAnswers": [
+      523,
+      723
+    ]
+  },
+  {
+    "id": "s2c2b33l2_02",
+    "question": "506 + 194 = ?",
+    "correctAnswer": 700,
+    "wrongAnswers": [
+      600,
+      800
+    ]
+  },
+  {
+    "id": "s2c2b33l2_03",
+    "question": "420 + 380 = ?",
+    "correctAnswer": 800,
+    "wrongAnswers": [
+      700,
+      900
+    ]
+  },
+  {
+    "id": "s2c2b33l2_04",
+    "question": "700 - 265 = ?",
+    "correctAnswer": 435,
+    "wrongAnswers": [
+      535,
+      335
+    ]
+  },
+  {
+    "id": "s2c2b33l2_05",
+    "question": "830 - 445 = ?",
+    "correctAnswer": 385,
+    "wrongAnswers": [
+      485,
+      285
+    ]
+  },
+  {
+    "id": "s2c2b33l2_06",
+    "question": "x + 260 = 600 tenglamada x qancha?",
+    "correctAnswer": 340,
+    "wrongAnswers": [
+      860,
+      440
+    ]
+  },
+  {
+    "id": "s2c2b33l2_07",
+    "question": "4 m 5 dm necha sm?",
+    "correctAnswer": 450,
+    "wrongAnswers": [
+      45,
+      405
+    ]
+  },
+  {
+    "id": "s2c2b33l2_08",
+    "question": "1 soat 15 minut necha minut?",
+    "correctAnswer": 75,
+    "wrongAnswers": [
+      115,
+      60
+    ]
+  },
+  {
+    "id": "s2c2b33l2_09",
+    "question": "Do'konda 500 ta non bor edi. 285 tasi sotildi, 100 tasi keltirildi. Nechta bor?",
+    "correctAnswer": 315,
+    "wrongAnswers": [
+      685,
+      215
+    ]
+  },
+  {
+    "id": "s2c2b33l2_10",
+    "question": "465 = 400 + 60 + 5.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

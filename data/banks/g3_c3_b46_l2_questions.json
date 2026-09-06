@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b46l2_01",
+    "question": "24 sonining yarmi (1/2 qismi) nechaga teng?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      6,
+      8
+    ]
+  },
+  {
+    "id": "s3c3b46l2_02",
+    "question": "36 sonining uchdan bir (1/3) qismi nechaga teng?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      9,
+      18
+    ]
+  },
+  {
+    "id": "s3c3b46l2_03",
+    "question": "40 sonining to'rtdan bir (1/4) qismi nechaga teng?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      8,
+      20
+    ]
+  },
+  {
+    "id": "s3c3b46l2_04",
+    "question": "60 sonining beshdan bir (1/5) qismi nechaga teng?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      10,
+      15
+    ]
+  },
+  {
+    "id": "s3c3b46l2_05",
+    "question": "12 cm tasmaning 1/3 qismi necha cm?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "s3c3b46l2_06",
+    "question": "18 cm tasmaning 1/2 qismi necha cm?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      6,
+      12
+    ]
+  },
+  {
+    "id": "s3c3b46l2_07",
+    "question": "Sinfda 36 o'quvchi. Ularning yarmi qizlar. Nechta qiz bor?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      12,
+      24
+    ]
+  },
+  {
+    "id": "s3c3b46l2_08",
+    "question": "48 ta olmaning to'rtdan biri chirigan. Nechta olma chirigan?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      8,
+      16
+    ]
+  },
+  {
+    "id": "s3c3b46l2_09",
+    "question": "Sonning 1/n qismini topish uchun sonni nimaga bo'lamiz?  (n ga = 1, n ni ko'paytiramiz = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b46l2_10",
+    "question": "81 sonining uchdan bir qismini toping.",
+    "correctAnswer": 27,
+    "wrongAnswers": [
+      24,
+      30
+    ]
+  }
+]

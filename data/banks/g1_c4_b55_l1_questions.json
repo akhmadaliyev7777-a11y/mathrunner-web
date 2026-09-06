@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b55l1_01",
+    "question": "Burchakning uchidan chiqqan ikki nur nima deb ataladi?",
+    "correctAnswer": "burchak tomonlari",
+    "wrongAnswers": [
+      "kesmalar",
+      "to'g'ri chiziqlar"
+    ]
+  },
+  {
+    "id": "s1c4b55l1_02",
+    "question": "To'g'ri burchakni tekshirish uchun qaysi asbob ishlatiladi?",
+    "correctAnswer": "goniya",
+    "wrongAnswers": [
+      "chizg'ich",
+      "sirkul"
+    ]
+  },
+  {
+    "id": "s1c4b55l1_03",
+    "question": "Goniyadan kichik burchak qanday?",
+    "correctAnswer": "o'tkir burchak",
+    "wrongAnswers": [
+      "o'tmas burchak",
+      "to'g'ri burchak"
+    ]
+  },
+  {
+    "id": "s1c4b55l1_04",
+    "question": "Goniyadan katta burchak qanday?",
+    "correctAnswer": "o'tmas burchak",
+    "wrongAnswers": [
+      "o'tkir burchak",
+      "to'g'ri burchak"
+    ]
+  },
+  {
+    "id": "s1c4b55l1_05",
+    "question": "Barcha tomonlari teng to'rtburchak qanday nomlanadi (kvadratdan tashqari)?",
+    "correctAnswer": "romb",
+    "wrongAnswers": [
+      "trapetsiya",
+      "uchburchak"
+    ]
+  },
+  {
+    "id": "s1c4b55l1_06",
+    "question": "Faqat ikki tomoni parallel to'rtburchak qanday nomlanadi?",
+    "correctAnswer": "trapetsiya",
+    "wrongAnswers": [
+      "romb",
+      "kvadrat"
+    ]
+  },
+  {
+    "id": "s1c4b55l1_07",
+    "question": "To'rtburchakda nechta burchak bor?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "s1c4b55l1_08",
+    "question": "Kvadrat — romb turi ham (barcha tomonlari teng).",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b55l1_09",
+    "question": "Uchburchakda nechta burchak bor?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "s1c4b55l1_10",
+    "question": "Xato: \"o'tkir burchak to'g'ri burchakdan katta\" deyildi. To'g'ri: o'tkir burchak to'g'ri burchakdan ...",
+    "correctAnswer": "kichik",
+    "wrongAnswers": [
+      "katta",
+      "teng"
+    ]
+  }
+]

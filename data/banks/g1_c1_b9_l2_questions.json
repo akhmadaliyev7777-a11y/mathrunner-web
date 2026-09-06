@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b9l2_01",
+    "question": "2 + 3 = ?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "s1c1b9l2_02",
+    "question": "5 - 2 = ?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "s1c1b9l2_03",
+    "question": "1 + 4 = ?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "s1c1b9l2_04",
+    "question": "4 - 3 = ?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      0
+    ]
+  },
+  {
+    "id": "s1c1b9l2_05",
+    "question": "3 + 2 = ?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "s1c1b9l2_06",
+    "question": "5 - 5 = ?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": "s1c1b9l2_07",
+    "question": "Taqqoslang: 2 + 2 __ 5",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c1b9l2_08",
+    "question": "Taqqoslang: 1 + 4 __ 3 + 2",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s1c1b9l2_09",
+    "question": "Bor edi 4 ta shar, 2 tasi yorildi. Nechta qoldi?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      6,
+      1
+    ]
+  },
+  {
+    "id": "s1c1b9l2_10",
+    "question": "Xato: \"2 + 2 = 5\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      5,
+      3
+    ]
+  }
+]

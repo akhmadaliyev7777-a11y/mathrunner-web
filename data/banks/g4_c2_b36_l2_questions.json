@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok36_level2_yuza_01", "question": "Barg palletka ostiga qo'yildi: 14 ta to'liq va 10 ta yarim katakni qopladi. Har katak 1 sm². Bargning taxminiy yuzasi necha sm²?", "correctAnswer": 19, "wrongAnswers": [24, 14]},
+  {"id": "sinf4_chorak2_blok36_level2_yuza_02", "question": "Ko'l xaritada 20 ta to'liq va 12 ta yarim katakni egallaydi. Har katak 100 m² ni bildiradi. Ko'lning taxminiy yuzasi necha m²?", "correctAnswer": 2600, "wrongAnswers": [3200, 2000]},
+  {"id": "sinf4_chorak2_blok36_level2_yuza_03", "question": "Shakl 10 ta to'liq va 8 ta yarim katak. Aziz yuzani 10 + 8 = 18 sm² dedi. Xatosi nimada?", "correctAnswer": "Yarim kataklarni 2 ga bo'lish kerak: 10 + 4 = 14 sm²", "wrongAnswers": ["Xato yo'q", "10 − 8 = 2 sm²"]},
+  {"id": "sinf4_chorak2_blok36_level2_yuza_04", "question": "Bir shakl 30 katakni, boshqasi 25 katakni egallaydi. Birinchi shakl yuzasi ikkinchisidan qancha katak ko'p?", "correctAnswer": 5, "wrongAnswers": [55, 750]},
+  {"id": "sinf4_chorak2_blok36_level2_yuza_05", "question": "Nostandart shakl 18 ta to'liq va 14 ta yarim katak. Taxminiy yuza necha sm²?", "correctAnswer": 25, "wrongAnswers": [32, 18]},
+  {"id": "sinf4_chorak2_blok36_level2_yuza_06", "question": "Katakli qog'ozda L-shakl: 6 katak va 4 katakdan iborat. Umumiy yuzasi necha katak?", "correctAnswer": 10, "wrongAnswers": [24, 2]},
+  {"id": "sinf4_chorak2_blok36_level2_yuza_07", "question": "Har katak 2 sm² bo'lsa, 15 ta to'liq katakni egallagan shaklning yuzasi necha sm²?", "correctAnswer": 30, "wrongAnswers": [17, 15]},
+  {"id": "sinf4_chorak2_blok36_level2_yuza_08", "question": "Palletka bilan o'lchangan yuza — bu qanday qiymat?", "correctAnswer": "taqribiy", "wrongAnswers": ["aniq", "har doim to'g'ri"]},
+  {"id": "sinf4_chorak2_blok36_level2_yuza_09", "question": "Ikki bola bir xil bargni palletka bilan o'lchadi: biri 20 sm², ikkinchisi 22 sm² topdi. Bu mumkinmi?", "correctAnswer": "Ha, palletka taxminiy natija beradi", "wrongAnswers": ["Yo'q, faqat bittasi to'g'ri", "Yo'q, yuza doim aniq"]},
+  {"id": "sinf4_chorak2_blok36_level2_yuza_10", "question": "Katakli qog'ozda kvadrat 36 katakni egallaydi. Uning perimetri necha katak tomon?", "correctAnswer": 24, "wrongAnswers": [36, 12]}
+]

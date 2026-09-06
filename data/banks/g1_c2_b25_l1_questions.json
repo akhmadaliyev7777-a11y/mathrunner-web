@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b25l1_01",
+    "question": "(4 + 3) + 2 = ?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      5,
+      10
+    ]
+  },
+  {
+    "id": "s1c2b25l1_02",
+    "question": "10 - (2 + 3) = ?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      15,
+      11
+    ]
+  },
+  {
+    "id": "s1c2b25l1_03",
+    "question": "(8 - 5) + 6 = ?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      19,
+      3
+    ]
+  },
+  {
+    "id": "s1c2b25l1_04",
+    "question": "Qavs ichidagi amal nechanchi bo'lib bajariladi?",
+    "correctAnswer": "birinchi",
+    "wrongAnswers": [
+      "ikkinchi",
+      "oxirgi"
+    ]
+  },
+  {
+    "id": "s1c2b25l1_05",
+    "question": "5 + (4 + 1) = ?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      9,
+      11
+    ]
+  },
+  {
+    "id": "s1c2b25l1_06",
+    "question": "(6 + 6) - 2 = ?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      14,
+      4
+    ]
+  },
+  {
+    "id": "s1c2b25l1_07",
+    "question": "12 - (4 + 4) = ?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      20,
+      8
+    ]
+  },
+  {
+    "id": "s1c2b25l1_08",
+    "question": "(3 + 3) + (2 + 2) = ?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      8,
+      12
+    ]
+  },
+  {
+    "id": "s1c2b25l1_09",
+    "question": "(2 + 5) + 3 va 2 + (5 + 3) natijalari teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c2b25l1_10",
+    "question": "Xato: \"(4 + 2) + 1 = 5\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      5,
+      6
+    ]
+  }
+]

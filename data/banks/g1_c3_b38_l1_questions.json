@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b38l1_01",
+    "question": "Robotning 6 ta katta va 4 ta kichik qismi bor. Robotda jami nechta qism?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      2,
+      24
+    ]
+  },
+  {
+    "id": "s1c3b38l1_02",
+    "question": "Bir qutida 15 ta qizil va 12 ta ko'k tugma bor. Jami nechta tugma?",
+    "correctAnswer": 27,
+    "wrongAnswers": [
+      3,
+      30
+    ]
+  },
+  {
+    "id": "s1c3b38l1_03",
+    "question": "Sardorda 8 ta, ukasida 7 ta marka bor. Ikkalasida jami nechta?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      1,
+      56
+    ]
+  },
+  {
+    "id": "s1c3b38l1_04",
+    "question": "Butun = qism + qism. 20 = 12 + ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      32,
+      7
+    ]
+  },
+  {
+    "id": "s1c3b38l1_05",
+    "question": "Xatjildlar: 30 tasi oq, 20 tasi rangli. Jami nechta xatjild?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      10,
+      60
+    ]
+  },
+  {
+    "id": "s1c3b38l1_06",
+    "question": "Butunni topish uchun qismlarni nima qilamiz?",
+    "correctAnswer": "qo'shamiz",
+    "wrongAnswers": [
+      "ayiramiz",
+      "taqqoslaymiz"
+    ]
+  },
+  {
+    "id": "s1c3b38l1_07",
+    "question": "Bir tokchada 14 ta, ikkinchisida 16 ta kitob. Jami nechta?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      2,
+      60
+    ]
+  },
+  {
+    "id": "s1c3b38l1_08",
+    "question": "9 ta qizil va 9 ta yashil olma. Jami nechta olma?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      0,
+      81
+    ]
+  },
+  {
+    "id": "s1c3b38l1_09",
+    "question": "Ikki qismni qo'shsak, butun hosil bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b38l1_10",
+    "question": "Guruhda 25 bola bor: 13 o'g'il, qolgani qiz. Nechta qiz? (butunning bir qismini topish emas — jami savoli)",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      12,
+      38
+    ]
+  }
+]

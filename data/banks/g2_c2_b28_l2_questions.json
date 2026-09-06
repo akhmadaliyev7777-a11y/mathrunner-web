@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b28l2_01",
+    "question": "Uchburchak tomonlari 45 mm, 30 mm, 25 mm. Perimetri necha mm?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      90,
+      110
+    ]
+  },
+  {
+    "id": "s2c2b28l2_02",
+    "question": "Kvadratning tomoni 12 mm. Perimetri necha mm?",
+    "correctAnswer": 48,
+    "wrongAnswers": [
+      24,
+      36
+    ]
+  },
+  {
+    "id": "s2c2b28l2_03",
+    "question": "Siniq chiziq bo'g'inlari: 20 mm, 35 mm, 15 mm. Uzunligi necha mm?",
+    "correctAnswer": 70,
+    "wrongAnswers": [
+      55,
+      85
+    ]
+  },
+  {
+    "id": "s2c2b28l2_04",
+    "question": "To'g'ri to'rtburchak: eni 3 sm, bo'yi 5 sm. Perimetri necha sm?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      8,
+      15
+    ]
+  },
+  {
+    "id": "s2c2b28l2_05",
+    "question": "Uchburchak perimetri 90 mm. Ikki tomoni 40 mm va 20 mm. Uchinchisi necha mm?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      60,
+      150
+    ]
+  },
+  {
+    "id": "s2c2b28l2_06",
+    "question": "5 bo'g'inli siniq chiziq, har bo'g'ini 8 sm. Uzunligi necha sm?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      13,
+      45
+    ]
+  },
+  {
+    "id": "s2c2b28l2_07",
+    "question": "Taqqoslang: 1 dm __ 99 mm",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s2c2b28l2_08",
+    "question": "2 sm 4 mm + 3 sm 6 mm = ? mm",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      50,
+      70
+    ]
+  },
+  {
+    "id": "s2c2b28l2_09",
+    "question": "1 sm 5 mm = 15 mm.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c2b28l2_10",
+    "question": "Xatoni toping: kvadrat tomoni 10 mm, perimetri 30 mm deyildi. To'g'ri perimetr necha mm?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      30,
+      20
+    ]
+  }
+]

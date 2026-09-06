@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b54l2_01",
+    "question": "(x - 45) * 7 = 336 tenglamani yeching. x = ?",
+    "correctAnswer": 93,
+    "wrongAnswers": [
+      83,
+      103
+    ]
+  },
+  {
+    "id": "s3c3b54l2_02",
+    "question": "x + 18 = 23 * 2 - 22 tenglamani yeching. x = ?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      4,
+      8
+    ]
+  },
+  {
+    "id": "s3c3b54l2_03",
+    "question": "y - 23 = 45 * 8 - 200 tenglamani yeching. y = ?",
+    "correctAnswer": 183,
+    "wrongAnswers": [
+      173,
+      193
+    ]
+  },
+  {
+    "id": "s3c3b54l2_04",
+    "question": "(y - 8) * 4 = 72 tenglamani yeching. y = ?",
+    "correctAnswer": 26,
+    "wrongAnswers": [
+      24,
+      28
+    ]
+  },
+  {
+    "id": "s3c3b54l2_05",
+    "question": "k : 5 + 8 = 12 tenglamani yeching. k = ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      4,
+      16
+    ]
+  },
+  {
+    "id": "s3c3b54l2_06",
+    "question": "(24 + m) : 9 = 15 tenglamani yeching. m = ?",
+    "correctAnswer": 111,
+    "wrongAnswers": [
+      101,
+      121
+    ]
+  },
+  {
+    "id": "s3c3b54l2_07",
+    "question": "x + 278 + 332 ifodani eng sodda ko'rinishga keltiring. Natija: x + ?",
+    "correctAnswer": 610,
+    "wrongAnswers": [
+      600,
+      620
+    ]
+  },
+  {
+    "id": "s3c3b54l2_08",
+    "question": "Tarkibli tenglama nima?  (bir tomonida bir nechta amal bo'lgan tenglama = 1, faqat bitta amal = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b54l2_09",
+    "question": "242 * x = 484 tenglamada x qancha?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      3,
+      1
+    ]
+  },
+  {
+    "id": "s3c3b54l2_10",
+    "question": "x * 3 = 30 * 40 tenglamani yeching. x = ?",
+    "correctAnswer": 400,
+    "wrongAnswers": [
+      300,
+      500
+    ]
+  }
+]

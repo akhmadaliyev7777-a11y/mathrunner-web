@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b21l2_01",
+    "question": "171 : 3 = ?",
+    "correctAnswer": 57,
+    "wrongAnswers": [
+      54,
+      61
+    ]
+  },
+  {
+    "id": "s3c2b21l2_02",
+    "question": "128 : 4 = ?",
+    "correctAnswer": 32,
+    "wrongAnswers": [
+      29,
+      36
+    ]
+  },
+  {
+    "id": "s3c2b21l2_03",
+    "question": "255 : 5 = ?",
+    "correctAnswer": 51,
+    "wrongAnswers": [
+      48,
+      55
+    ]
+  },
+  {
+    "id": "s3c2b21l2_04",
+    "question": "216 : 6 = ?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      33,
+      40
+    ]
+  },
+  {
+    "id": "s3c2b21l2_05",
+    "question": "145 : 5 ni (150 - 5) : 5 ko'rinishida hisoblang. Javob qancha?",
+    "correctAnswer": 29,
+    "wrongAnswers": [
+      25,
+      30
+    ]
+  },
+  {
+    "id": "s3c2b21l2_06",
+    "question": "Bo'linuvchini qulay ko'rinishga keltiring: 96 : 8 = (80 + 16) : 8 = ?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      10,
+      14
+    ]
+  },
+  {
+    "id": "s3c2b21l2_07",
+    "question": "Taqqoslang: 126 : 6 __ 96 : 6",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s3c2b21l2_08",
+    "question": "Bogda 240 ta tup ko'chat 8 qatorga teng ekildi. Har qatorda nechta tup?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      32,
+      28
+    ]
+  },
+  {
+    "id": "s3c2b21l2_09",
+    "question": "6 ta bir xil qutida 306 ta olma bor. Bitta qutida nechta?",
+    "correctAnswer": 51,
+    "wrongAnswers": [
+      49,
+      53
+    ]
+  },
+  {
+    "id": "s3c2b21l2_10",
+    "question": "(400 + 60) : 4 = ?",
+    "correctAnswer": 115,
+    "wrongAnswers": [
+      110,
+      120
+    ]
+  }
+]

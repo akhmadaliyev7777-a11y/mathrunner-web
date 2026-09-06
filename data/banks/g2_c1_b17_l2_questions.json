@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b17l2_01",
+    "question": "Bolada 45 so'm bor edi. Onasi yana 30 so'm berdi, u 25 so'mga kitob oldi. Nechta so'm qoldi?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      40,
+      100
+    ]
+  },
+  {
+    "id": "s2c1b17l2_02",
+    "question": "Vazada 24 ta gul bor edi. 8 tasi so'ldi, keyin 15 ta yangi gul qo'yildi. Nechta gul bo'ldi?",
+    "correctAnswer": 31,
+    "wrongAnswers": [
+      47,
+      17
+    ]
+  },
+  {
+    "id": "s2c1b17l2_03",
+    "question": "Birinchi savatda 36 ta olma, ikkinchisida 12 taga kam. Ikkinchi savatda nechta olma?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      48,
+      25
+    ]
+  },
+  {
+    "id": "s2c1b17l2_04",
+    "question": "Teskari masala: 3 ta bola qoldi, boshda 5 tasi ketgan edi. Boshda nechta bola bor edi?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      2,
+      15
+    ]
+  },
+  {
+    "id": "s2c1b17l2_05",
+    "question": "Sinfda 30 o'quvchi. Ekskursiyaga 22 tasi bordi. Nechtasi bormadi?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      52,
+      12
+    ]
+  },
+  {
+    "id": "s2c1b17l2_06",
+    "question": "Molxonada 20 ta sigir va 15 ta buzoq bor edi. 5 ta buzoq sotildi. Jami nechta hayvon qoldi?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      40,
+      35
+    ]
+  },
+  {
+    "id": "s2c1b17l2_07",
+    "question": "Bir sonni o'yladim: unga 14 qo'shib, keyin 6 ni ayirsam, 30 bo'ladi. Qaysi son?",
+    "correctAnswer": 22,
+    "wrongAnswers": [
+      38,
+      50
+    ]
+  },
+  {
+    "id": "s2c1b17l2_08",
+    "question": "Idishda 50 litr suv bor edi. 18 litr olindi, keyin 22 litr quyildi. Nechta litr bo'ldi?",
+    "correctAnswer": 54,
+    "wrongAnswers": [
+      46,
+      90
+    ]
+  },
+  {
+    "id": "s2c1b17l2_09",
+    "question": "Bog'da 40 ta daraxt bor, ulardan bir qismi olma. Demak, nok daraxti 15 ta.",
+    "correctAnswer": "Aniqlab bo'lmaydi",
+    "wrongAnswers": [
+      "Rost",
+      "Yolg'on"
+    ]
+  },
+  {
+    "id": "s2c1b17l2_10",
+    "question": "Dilnoza \"25 + 17 - 12\" ni hisoblab, 34 deb javob berdi. To'g'ri javob qancha?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      34,
+      20
+    ]
+  }
+]

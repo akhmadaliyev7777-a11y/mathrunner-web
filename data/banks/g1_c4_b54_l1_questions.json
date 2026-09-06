@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b54l1_01",
+    "question": "To'g'ri to'rtburchakning qarama-qarshi tomonlari teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b54l1_02",
+    "question": "Kvadratning barcha tomonlari teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b54l1_03",
+    "question": "To'g'ri to'rtburchakning hamma tomoni har doim teng.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b54l1_04",
+    "question": "To'g'ri to'rtburchakning eni 6 sm. Qarama-qarshi tomoni necha sm?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      12,
+      3
+    ]
+  },
+  {
+    "id": "s1c4b54l1_05",
+    "question": "To'g'ri to'rtburchakda nechta to'g'ri burchak bor?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s1c4b54l1_06",
+    "question": "To'g'ri burchakdan kichik burchak qanday ataladi?",
+    "correctAnswer": "o'tkir burchak",
+    "wrongAnswers": [
+      "o'tmas burchak",
+      "to'g'ri burchak"
+    ]
+  },
+  {
+    "id": "s1c4b54l1_07",
+    "question": "To'g'ri burchakdan katta burchak qanday ataladi?",
+    "correctAnswer": "o'tmas burchak",
+    "wrongAnswers": [
+      "o'tkir burchak",
+      "to'g'ri burchak"
+    ]
+  },
+  {
+    "id": "s1c4b54l1_08",
+    "question": "Kvadratning har bir burchagi qanday?",
+    "correctAnswer": "to'g'ri burchak",
+    "wrongAnswers": [
+      "o'tkir burchak",
+      "o'tmas burchak"
+    ]
+  },
+  {
+    "id": "s1c4b54l1_09",
+    "question": "Kitob varag'ining burchagi qanday burchak?",
+    "correctAnswer": "to'g'ri burchak",
+    "wrongAnswers": [
+      "o'tkir burchak",
+      "o'tmas burchak"
+    ]
+  },
+  {
+    "id": "s1c4b54l1_10",
+    "question": "Kvadrat — bu qanday to'g'ri to'rtburchak?",
+    "correctAnswer": "barcha tomonlari teng bo'lgan",
+    "wrongAnswers": [
+      "katta",
+      "kichik"
+    ]
+  }
+]

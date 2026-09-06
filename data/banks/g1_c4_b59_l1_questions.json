@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b59l1_01",
+    "question": "Taqqoslang: 30 __ 30",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s1c4b59l1_02",
+    "question": "Taqqoslang: 25 __ 40",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c4b59l1_03",
+    "question": "Taqqoslang: 60 __ 15",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s1c4b59l1_04",
+    "question": "Taqqoslang: 18 __ 18",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s1c4b59l1_05",
+    "question": "Taqqoslang: 45 __ 54",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c4b59l1_06",
+    "question": "Taqqoslang: 70 __ 70",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s1c4b59l1_07",
+    "question": "Taqqoslang: 12 __ 21",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c4b59l1_08",
+    "question": "Taqqoslang: 90 __ 9",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s1c4b59l1_09",
+    "question": "Taqqoslang: 20 + 10 __ 40 - 5",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c4b59l1_10",
+    "question": "Ikki son teng bo'lsa, orasiga qaysi belgi qo'yamiz?",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  }
+]

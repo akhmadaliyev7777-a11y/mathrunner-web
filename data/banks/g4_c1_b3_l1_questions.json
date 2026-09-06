@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok3_level1_form_01", "question": "Mashina 60 km/soat tezlik bilan 3 soat yurdi. Necha km yo'l bosdi?", "correctAnswer": 180, "wrongAnswers": [20, 63]},
+  {"id": "sinf4_chorak1_blok3_level1_form_02", "question": "1 ta daftar 4 000 so'm. 5 ta daftar necha so'm turadi?", "correctAnswer": 20000, "wrongAnswers": [9000, 24000]},
+  {"id": "sinf4_chorak1_blok3_level1_form_03", "question": "Ishchi soatiga 8 ta detal yasaydi. 4 soatda nechta yasaydi?", "correctAnswer": 32, "wrongAnswers": [12, 24]},
+  {"id": "sinf4_chorak1_blok3_level1_form_04", "question": "Poyezd 80 km/soat tezlikda 5 soat yurdi. Yo'l qancha?", "correctAnswer": 400, "wrongAnswers": [16, 85]},
+  {"id": "sinf4_chorak1_blok3_level1_form_05", "question": "Bir qop un 3 kg. 6 qop necha kg?", "correctAnswer": 18, "wrongAnswers": [9, 20]},
+  {"id": "sinf4_chorak1_blok3_level1_form_06", "question": "Velosipedchi 12 km/soat tezlikda 2 soat yurdi. Necha km?", "correctAnswer": 24, "wrongAnswers": [6, 14]},
+  {"id": "sinf4_chorak1_blok3_level1_form_07", "question": "Bir soatda 15 ta non yopiladi. 3 soatda nechta non yopiladi?", "correctAnswer": 45, "wrongAnswers": [18, 35]},
+  {"id": "sinf4_chorak1_blok3_level1_form_08", "question": "1 kg olma 9 000 so'm. 3 kg olma necha so'm?", "correctAnswer": 27000, "wrongAnswers": [12000, 3000]},
+  {"id": "sinf4_chorak1_blok3_level1_form_09", "question": "Traktor soatiga 4 gektar yer haydaydi. 7 soatda necha gektar haydaydi?", "correctAnswer": 28, "wrongAnswers": [11, 3]},
+  {"id": "sinf4_chorak1_blok3_level1_form_10", "question": "Piyoda 5 km/soat tezlikda 4 soat yurdi. Necha km yo'l bosdi?", "correctAnswer": 20, "wrongAnswers": [9, 1]}
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b61l1_01",
+    "question": "Do'konda bloknot 15 000 so'm, ruchka 3 000 so'm. Anvar 2 bloknot va 5 ruchka oldi. Jami qancha?",
+    "correctAnswer": 45000,
+    "wrongAnswers": [
+      30000,
+      15015
+    ]
+  },
+  {
+    "id": "s3c4b61l1_02",
+    "question": "4 ta bir xil daftar 12 000 so'm. Bitta daftar qancha turadi?",
+    "correctAnswer": 3000,
+    "wrongAnswers": [
+      4000,
+      8000
+    ]
+  },
+  {
+    "id": "s3c4b61l1_03",
+    "question": "Bir kg go'sht 85 000 so'm. 4 kg go'sht qancha turadi?",
+    "correctAnswer": 340000,
+    "wrongAnswers": [
+      85004,
+      300000
+    ]
+  },
+  {
+    "id": "s3c4b61l1_04",
+    "question": "Onam 5 non (4 000 so'mdan) va 2 sut (8 000 so'mdan) oldi. Jami qancha?",
+    "correctAnswer": 36000,
+    "wrongAnswers": [
+      20000,
+      16000
+    ]
+  },
+  {
+    "id": "s3c4b61l1_05",
+    "question": "Bir chipta 25 000 so'm. 8 ta chipta qancha turadi?",
+    "correctAnswer": 200000,
+    "wrongAnswers": [
+      25008,
+      160000
+    ]
+  },
+  {
+    "id": "s3c4b61l1_06",
+    "question": "Qandolat 18 000 so'm/kg. 3 kg qandolat qancha?",
+    "correctAnswer": 54000,
+    "wrongAnswers": [
+      18003,
+      21000
+    ]
+  },
+  {
+    "id": "s3c4b61l1_07",
+    "question": "12 ta bir xil qalam 36 000 so'm. Bitta qalam qancha?",
+    "correctAnswer": 3000,
+    "wrongAnswers": [
+      24,
+      48000
+    ]
+  },
+  {
+    "id": "s3c4b61l1_08",
+    "question": "Bola 50 000 so'mga 12 000 so'mlik kitob va 3 000 so'mlik 5 ta daftar oldi. Qaytim qancha?",
+    "correctAnswer": 23000,
+    "wrongAnswers": [
+      27000,
+      20000
+    ]
+  },
+  {
+    "id": "s3c4b61l1_09",
+    "question": "Bir qop kartoshka 45 000 so'm. 6 qop qancha turadi?",
+    "correctAnswer": 270000,
+    "wrongAnswers": [
+      45006,
+      240000
+    ]
+  },
+  {
+    "id": "s3c4b61l1_10",
+    "question": "7 ta bir xil o'yinchoq 84 000 so'm. Bitta o'yinchoq qancha?",
+    "correctAnswer": 12000,
+    "wrongAnswers": [
+      77000,
+      91000
+    ]
+  }
+]

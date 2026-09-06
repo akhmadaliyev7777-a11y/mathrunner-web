@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b7l2_01",
+    "question": "28 570 sonini xona qo'shiluvchilari yig'indisi shaklida yozganda nechta qo'shiluvchi bo'ladi?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      5,
+      3
+    ]
+  },
+  {
+    "id": "s3c1b7l2_02",
+    "question": "40 308 sonini xona qo'shiluvchilari yig'indisi shaklida yozganda nechta qo'shiluvchi bo'ladi?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      4,
+      2
+    ]
+  },
+  {
+    "id": "s3c1b7l2_03",
+    "question": "730 806 sonini xona qo'shiluvchilari yig'indisi shaklida yozganda nechta qo'shiluvchi bo'ladi?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      5,
+      3
+    ]
+  },
+  {
+    "id": "s3c1b7l2_04",
+    "question": "90 384 sonini xona qo'shiluvchilari yig'indisi shaklida yozganda nechta qo'shiluvchi bo'ladi?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      5,
+      3
+    ]
+  },
+  {
+    "id": "s3c1b7l2_05",
+    "question": "507 006 sonini xona qo'shiluvchilari yig'indisi shaklida yozganda nechta qo'shiluvchi bo'ladi?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      4,
+      2
+    ]
+  },
+  {
+    "id": "s3c1b7l2_06",
+    "question": "126 700 sonini xona qo'shiluvchilari yig'indisi shaklida yozganda nechta qo'shiluvchi bo'ladi?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      5,
+      3
+    ]
+  },
+  {
+    "id": "s3c1b7l2_07",
+    "question": "40 000 + 300 + 8 yig'indisi qaysi songa teng?",
+    "correctAnswer": 40308,
+    "wrongAnswers": [
+      4308,
+      400308
+    ]
+  },
+  {
+    "id": "s3c1b7l2_08",
+    "question": "Yozing: 300 000 + 50 000 + 6 000 + 800 + 90 + 4 = ?",
+    "correctAnswer": 356894,
+    "wrongAnswers": [
+      35689,
+      3560894
+    ]
+  },
+  {
+    "id": "s3c1b7l2_09",
+    "question": "500 000 + 7 000 + 6 = ?",
+    "correctAnswer": 507006,
+    "wrongAnswers": [
+      50706,
+      507060
+    ]
+  },
+  {
+    "id": "s3c1b7l2_10",
+    "question": "800 000 + 60 000 + 500 = ?",
+    "correctAnswer": 860500,
+    "wrongAnswers": [
+      86500,
+      806500
+    ]
+  }
+]

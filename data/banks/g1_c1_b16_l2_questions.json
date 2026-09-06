@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b16l2_01",
+    "question": "9 - 4 = 5 ifodada 9 nima deb ataladi?",
+    "correctAnswer": "kamayuvchi",
+    "wrongAnswers": [
+      "ayriluvchi",
+      "ayirma"
+    ]
+  },
+  {
+    "id": "s1c1b16l2_02",
+    "question": "9 - 4 = 5 ifodada 4 nima deb ataladi?",
+    "correctAnswer": "ayriluvchi",
+    "wrongAnswers": [
+      "kamayuvchi",
+      "ayirma"
+    ]
+  },
+  {
+    "id": "s1c1b16l2_03",
+    "question": "9 - 4 = 5 ifodada 5 nima deb ataladi?",
+    "correctAnswer": "ayirma",
+    "wrongAnswers": [
+      "kamayuvchi",
+      "ayriluvchi"
+    ]
+  },
+  {
+    "id": "s1c1b16l2_04",
+    "question": "Kamayuvchi 8, ayriluvchi 3. Ayirma qancha?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      11,
+      6
+    ]
+  },
+  {
+    "id": "s1c1b16l2_05",
+    "question": "Kamayuvchi 10, ayirma 6. Ayriluvchi qancha?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      16,
+      5
+    ]
+  },
+  {
+    "id": "s1c1b16l2_06",
+    "question": "Ayriluvchi 2, ayirma 5. Kamayuvchi qancha?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      3,
+      10
+    ]
+  },
+  {
+    "id": "s1c1b16l2_07",
+    "question": "7 - 3 = 4. Bu yerda 4 nima?",
+    "correctAnswer": "ayirma",
+    "wrongAnswers": [
+      "kamayuvchi",
+      "ayriluvchi"
+    ]
+  },
+  {
+    "id": "s1c1b16l2_08",
+    "question": "Ayirmani topish uchun kamayuvchidan ayriluvchini ayiramiz.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b16l2_09",
+    "question": "Kamayuvchi 6, ayriluvchi 6. Ayirma qancha?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      12,
+      1
+    ]
+  },
+  {
+    "id": "s1c1b16l2_10",
+    "question": "Xato: \"kamayuvchi 8, ayriluvchi 2, ayirma 10\" deyildi. To'g'ri ayirma qancha?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      10,
+      4
+    ]
+  }
+]

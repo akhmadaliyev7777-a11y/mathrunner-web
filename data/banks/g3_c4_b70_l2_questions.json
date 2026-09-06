@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b70l2_01",
+    "question": "8 soat 13 minut 10 sekund - 2 soat 14 minut 55 sekund = ?  (javobni minutda, sekundni tashlab: 5 soat 58 minut -> 358 minut)",
+    "correctAnswer": 358,
+    "wrongAnswers": [
+      360,
+      357
+    ]
+  },
+  {
+    "id": "s3c4b70l2_02",
+    "question": "Daftarga bo'yi 12 cm, eni bo'yidan 3 marta kichik bo'lgan to'g'ri to'rtburchak chizildi. Yuzi necha cm2?  (eni = 4)",
+    "correctAnswer": 48,
+    "wrongAnswers": [
+      36,
+      16
+    ]
+  },
+  {
+    "id": "s3c4b70l2_03",
+    "question": "Yuzi 9 cm2 bo'lgan to'g'ri to'rtburchakning perimetri eng kichik qancha bo'lishi mumkin?  (3x3 kvadrat -> P = 12)",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      9,
+      18
+    ]
+  },
+  {
+    "id": "s3c4b70l2_04",
+    "question": "Bir usta 5 ta stol yasadi, har biriga 120 000 so'm oldi. Materialga 250 000 so'm ketdi. Foyda qancha?",
+    "correctAnswer": 350000,
+    "wrongAnswers": [
+      600000,
+      250000
+    ]
+  },
+  {
+    "id": "s3c4b70l2_05",
+    "question": "324 ta rasmning uchdan biri Nil bo'yida olingan. Nechta rasm?",
+    "correctAnswer": 108,
+    "wrongAnswers": [
+      81,
+      162
+    ]
+  },
+  {
+    "id": "s3c4b70l2_06",
+    "question": "8 000 - (729 * 8 + 543) : 25 - 2 736 = ?  (729*8=5832, +543=6375, :25=255)",
+    "correctAnswer": 5009,
+    "wrongAnswers": [
+      5109,
+      4909
+    ]
+  },
+  {
+    "id": "s3c4b70l2_07",
+    "question": "Kuboid 5 x 4 x 3 dm. Hajmi necha dm3?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      12,
+      47
+    ]
+  },
+  {
+    "id": "s3c4b70l2_08",
+    "question": "Bir sonni o'yladim, 5 ga ko'paytirdim, 200 ni ayirdim, 300 chiqdi. O'ylagan son qancha?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      500,
+      60
+    ]
+  },
+  {
+    "id": "s3c4b70l2_09",
+    "question": "27 810 : 270 va 81 270 : 270 ni taqqoslang.  (103 va 301, kichik = 1-si)  (1-si kichik = 1)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b70l2_10",
+    "question": "Taqqoslang: 90 - 9 * 3 __ 60 - 36 : 6",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  }
+]

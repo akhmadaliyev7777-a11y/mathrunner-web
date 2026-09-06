@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok17_level2_diag_01", "question": "Ustunli diagrammada: A — 12, B — 8, C — 12, D — 4. Nechta ustun eng baland balandlikka teng?", "correctAnswer": 2, "wrongAnswers": [1, 4]},
+  {"id": "sinf4_chorak1_blok17_level2_diag_02", "question": "Chiziqli diagrammada 3 kun: 10, 25, 15 mijoz. Qaysi oraliqda sotuv eng ko'p o'sgan?", "correctAnswer": "1-kundan 2-kunga", "wrongAnswers": ["2-kundan 3-kunga", "O'zgarish yo'q"]},
+  {"id": "sinf4_chorak1_blok17_level2_diag_03", "question": "Diagrammada A 20 ni, B 10 ni ko'rsatadi. Aziz: \"A B dan 10 marta ko'p\" dedi. Xatosi nimada?", "correctAnswer": "10 marta emas, 2 marta (yoki 10 taga) ko'p", "wrongAnswers": ["Xato yo'q", "Aslida A B dan kam"]},
+  {"id": "sinf4_chorak1_blok17_level2_diag_04", "question": "Ustunli diagrammada 5 ta sinf daraxt ekdi: 10, 15, 10, 20, 15. Jami nechta daraxt?", "correctAnswer": 70, "wrongAnswers": [75, 20]},
+  {"id": "sinf4_chorak1_blok17_level2_diag_05", "question": "Chiziqli diagrammada har 2 soatda harorat: 12°, 16°, 22°, 24°. Eng katta o'sish qaysi oraliqda?", "correctAnswer": "2-o'lchovdan 3-o'lchovga", "wrongAnswers": ["1-o'lchovdan 2-o'lchovga", "3-o'lchovdan 4-o'lchovga"]},
+  {"id": "sinf4_chorak1_blok17_level2_diag_06", "question": "Ustunli diagrammada A 30, B 45. B ni A ga tenglashtirish uchun B dan qancha ayirish kerak?", "correctAnswer": 15, "wrongAnswers": [45, 75]},
+  {"id": "sinf4_chorak1_blok17_level2_diag_07", "question": "Diagrammada: qizil 25, ko'k 25, yashil 10. Qizil va ko'k birgalikda yashildan necha marta ko'p?", "correctAnswer": 5, "wrongAnswers": [15, 2]},
+  {"id": "sinf4_chorak1_blok17_level2_diag_08", "question": "Chiziqli diagrammada chiziq gorizontal (tekis) borsa, bu nimani bildiradi?", "correctAnswer": "Qiymat o'zgarmaganini", "wrongAnswers": ["Qiymat ortganini", "Ma'lumot yo'qligini"]},
+  {"id": "sinf4_chorak1_blok17_level2_diag_09", "question": "Ustunli diagrammada bir bo'linma 5 birlikni bildiradi. Ustun 4 bo'linma balandlikda. Bu qancha?", "correctAnswer": 20, "wrongAnswers": [4, 9]},
+  {"id": "sinf4_chorak1_blok17_level2_diag_10", "question": "So'rovda: it 12, mushuk 9, to'tiqush 3, boshqa 6. Jami nechta odam so'ralgan?", "correctAnswer": 30, "wrongAnswers": [27, 12]}
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b6l1_01",
+    "question": "37 + 3 = ?  (yaxlit songacha)",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      30,
+      41
+    ]
+  },
+  {
+    "id": "s2c1b6l1_02",
+    "question": "54 + 6 = ?  (yaxlit songacha)",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      50,
+      61
+    ]
+  },
+  {
+    "id": "s2c1b6l1_03",
+    "question": "62 + 8 = ?  (yaxlit songacha)",
+    "correctAnswer": 70,
+    "wrongAnswers": [
+      60,
+      71
+    ]
+  },
+  {
+    "id": "s2c1b6l1_04",
+    "question": "81 + 9 = ?  (yaxlit songacha)",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      80,
+      91
+    ]
+  },
+  {
+    "id": "s2c1b6l1_05",
+    "question": "26 + 4 = ?  (yaxlit songacha)",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      20,
+      31
+    ]
+  },
+  {
+    "id": "s2c1b6l1_06",
+    "question": "73 + 7 = ?  (yaxlit songacha)",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      70,
+      81
+    ]
+  },
+  {
+    "id": "s2c1b6l1_07",
+    "question": "40 - 3 = ?",
+    "correctAnswer": 37,
+    "wrongAnswers": [
+      47,
+      36
+    ]
+  },
+  {
+    "id": "s2c1b6l1_08",
+    "question": "60 - 6 = ?",
+    "correctAnswer": 54,
+    "wrongAnswers": [
+      64,
+      53
+    ]
+  },
+  {
+    "id": "s2c1b6l1_09",
+    "question": "90 - 8 = ?",
+    "correctAnswer": 82,
+    "wrongAnswers": [
+      92,
+      81
+    ]
+  },
+  {
+    "id": "s2c1b6l1_10",
+    "question": "50 - 7 = ?",
+    "correctAnswer": 43,
+    "wrongAnswers": [
+      53,
+      42
+    ]
+  }
+]

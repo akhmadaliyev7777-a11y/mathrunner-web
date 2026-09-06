@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b27l2_01",
+    "question": "7 448 : 7 = ?",
+    "correctAnswer": 1064,
+    "wrongAnswers": [
+      1054,
+      1074
+    ]
+  },
+  {
+    "id": "s3c2b27l2_02",
+    "question": "(720 : 9 + 20) : 10 = ?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      8,
+      12
+    ]
+  },
+  {
+    "id": "s3c2b27l2_03",
+    "question": "84 848 : 8 = ?",
+    "correctAnswer": 10606,
+    "wrongAnswers": [
+      10506,
+      10706
+    ]
+  },
+  {
+    "id": "s3c2b27l2_04",
+    "question": "Anvar 96 : 4 ni hisoblab, 22 deb yozdi. To'g'ri javob qancha?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      22,
+      26
+    ]
+  },
+  {
+    "id": "s3c2b27l2_05",
+    "question": "420 000 : 6 = ?",
+    "correctAnswer": 70000,
+    "wrongAnswers": [
+      60000,
+      80000
+    ]
+  },
+  {
+    "id": "s3c2b27l2_06",
+    "question": "Bir sonni o'yladim, 6 ga bo'ldim, 15 chiqdi. O'ylagan son qancha?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      21,
+      9
+    ]
+  },
+  {
+    "id": "s3c2b27l2_07",
+    "question": "1 000 : 8 = ?",
+    "correctAnswer": 125,
+    "wrongAnswers": [
+      105,
+      135
+    ]
+  },
+  {
+    "id": "s3c2b27l2_08",
+    "question": "312 ta o'quvchi 8 ta avtobusga teng joylashdi. Bitta avtobusda nechta o'quvchi?",
+    "correctAnswer": 39,
+    "wrongAnswers": [
+      38,
+      40
+    ]
+  },
+  {
+    "id": "s3c2b27l2_09",
+    "question": "Son 8 ga bo'lganda to'liqsiz bo'linma 100, qoldiq 7. Bu son qancha?",
+    "correctAnswer": 807,
+    "wrongAnswers": [
+      800,
+      808
+    ]
+  },
+  {
+    "id": "s3c2b27l2_10",
+    "question": "Hisoblamasdan taqqoslang:  240 : 4 __ 240 : 6",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  }
+]

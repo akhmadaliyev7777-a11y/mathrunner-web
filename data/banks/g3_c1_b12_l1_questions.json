@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b12l1_01",
+    "question": "38 * 100 = ?",
+    "correctAnswer": 3800,
+    "wrongAnswers": [
+      380,
+      38000
+    ]
+  },
+  {
+    "id": "s3c1b12l1_02",
+    "question": "4 560 * 100 = ?",
+    "correctAnswer": 456000,
+    "wrongAnswers": [
+      45600,
+      4560000
+    ]
+  },
+  {
+    "id": "s3c1b12l1_03",
+    "question": "123 * 1 000 = ?",
+    "correctAnswer": 123000,
+    "wrongAnswers": [
+      12300,
+      1230000
+    ]
+  },
+  {
+    "id": "s3c1b12l1_04",
+    "question": "90 * 1 000 = ?",
+    "correctAnswer": 90000,
+    "wrongAnswers": [
+      9000,
+      900000
+    ]
+  },
+  {
+    "id": "s3c1b12l1_05",
+    "question": "2 705 * 200 = ?",
+    "correctAnswer": 541000,
+    "wrongAnswers": [
+      54100,
+      5410000
+    ]
+  },
+  {
+    "id": "s3c1b12l1_06",
+    "question": "38 000 * 1 000 = ?",
+    "correctAnswer": 38000000,
+    "wrongAnswers": [
+      3800000,
+      380000000
+    ]
+  },
+  {
+    "id": "s3c1b12l1_07",
+    "question": "70 000 : 10 = ?",
+    "correctAnswer": 7000,
+    "wrongAnswers": [
+      700,
+      70000
+    ]
+  },
+  {
+    "id": "s3c1b12l1_08",
+    "question": "48 000 : 100 = ?",
+    "correctAnswer": 480,
+    "wrongAnswers": [
+      48,
+      4800
+    ]
+  },
+  {
+    "id": "s3c1b12l1_09",
+    "question": "600 000 : 1 000 = ?",
+    "correctAnswer": 600,
+    "wrongAnswers": [
+      60,
+      6000
+    ]
+  },
+  {
+    "id": "s3c1b12l1_10",
+    "question": "3 200 : 100 = ?",
+    "correctAnswer": 32,
+    "wrongAnswers": [
+      3,
+      320
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok18_level2_cham_01", "question": "Bir sinfda 27 o'quvchi, ikkinchisida 32. Taxminan jami nechta o'quvchi bor?", "correctAnswer": 60, "wrongAnswers": [50, 6]},
+  {"id": "sinf4_chorak1_blok18_level2_cham_02", "question": "Vali: \"47 ni o'nlikka yaxlitlaganda 40 chiqadi, chunki 4 ni olamiz\" dedi. Xatosi nimada?", "correctAnswer": "47 ga 50 yaqinroq (birlar 7 ≥ 5), demak 50 bo'ladi", "wrongAnswers": ["Xato yo'q, 40 to'g'ri", "47 → 47 bo'ladi"]},
+  {"id": "sinf4_chorak1_blok18_level2_cham_03", "question": "Grafikda (0,0), (1,2), (2,4), (3,6) nuqtalar chizilgan. (4, ...) nuqtaning ordinatasi qancha bo'ladi?", "correctAnswer": 8, "wrongAnswers": [6, 10]},
+  {"id": "sinf4_chorak1_blok18_level2_cham_04", "question": "384 kishilik zalda taxminan nechta 100 kishilik guruh bor?", "correctAnswer": 4, "wrongAnswers": [3, 40]},
+  {"id": "sinf4_chorak1_blok18_level2_cham_05", "question": "Chamalang: 312 + 289 taxminan qancha? Eng yaqin javob.", "correctAnswer": 600, "wrongAnswers": [500, 700]},
+  {"id": "sinf4_chorak1_blok18_level2_cham_06", "question": "Bir qutida 48 ta, ikkinchisida 53 ta shokolad. Aniq hisoblamay, jami taxminan nechta?", "correctAnswer": 100, "wrongAnswers": [90, 110]},
+  {"id": "sinf4_chorak1_blok18_level2_cham_07", "question": "Grafik chiziq har qadamda 3 ga ko'tariladi, boshi 0 da. 5-qadamda qiymat qancha?", "correctAnswer": 15, "wrongAnswers": [8, 18]},
+  {"id": "sinf4_chorak1_blok18_level2_cham_08", "question": "Kitob do'konida 6 ta javon, har birida taxminan 100 ta kitob. Do'konda taxminan nechta kitob bor?", "correctAnswer": 600, "wrongAnswers": [106, 60]},
+  {"id": "sinf4_chorak1_blok18_level2_cham_09", "question": "199 + 199 ni qulay usulda hisoblang.", "correctAnswer": 398, "wrongAnswers": [388, 400]},
+  {"id": "sinf4_chorak1_blok18_level2_cham_10", "question": "Sarvar: \"68 ni yuzlikka yaxlitlaganda 68 chiqadi\" dedi. Xatosi nimada?", "correctAnswer": "68 ga 100 yaqinroq, demak 100 bo'ladi", "wrongAnswers": ["Xato yo'q", "68 → 0 bo'ladi"]}
+]

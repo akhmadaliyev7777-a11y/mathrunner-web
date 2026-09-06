@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b44l2_01",
+    "question": "Doira 6 ta teng sektorga bo'lindi. Bitta sektor doiraning qanday ulushi?  (1/6 = 1, 1/3 = 2, 6/1 = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b44l2_02",
+    "question": "Doira 4 ta teng sektorga bo'lindi. Bitta sektor nima deyiladi?  (chorak = 1, yarim = 2, uchdan bir = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b44l2_03",
+    "question": "Sirkul oyog'ining ochilishi 5 cm bo'lsa, chizilgan aylananing radiusi necha cm?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      10,
+      2
+    ]
+  },
+  {
+    "id": "s3c3b44l2_04",
+    "question": "Naqsh (ornament) qanday hosil qilinadi?  (bir xil elementni takrorlab = 1, tasodifiy = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b44l2_05",
+    "question": "Doira 8 ta teng sektorga bo'lindi, 5 tasi bo'yaldi. Bo'yalmagan sektorlar nechta?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      5,
+      2
+    ]
+  },
+  {
+    "id": "s3c3b44l2_06",
+    "question": "Doira — bu aylana bilan chegaralangan tekislik qismi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c3b44l2_07",
+    "question": "Diametri 12 cm doirani teng ikkiga bo'lsak, hosil bo'lgan har bir qism nima deyiladi?  (yarim doira = 1, chorak = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b44l2_08",
+    "question": "Bir aylanada 3 ta radius chizildi. Ular necha cm, agar diametr 20 cm bo'lsa?  (bitta radius)",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      20,
+      5
+    ]
+  },
+  {
+    "id": "s3c3b44l2_09",
+    "question": "Doiraviy diagrammada butun doira nimani bildiradi?  (hammasi / 100% = 1, yarmi = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b44l2_10",
+    "question": "Aylana bo'ylab 12 ta teng nuqta belgilandi. Ular aylanani nechta teng yoyga bo'ladi?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      6,
+      24
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b33l3_01",
+    "question": "Paletkada 6 ta to'liq va 4 ta yarim katak bo'yalgan. Shakl yuzi taxminan qancha (kvadrat birlik)?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      6,
+      10
+    ]
+  },
+  {
+    "id": "s3c2b33l3_02",
+    "question": "Paletkada 10 ta to'liq va 6 ta yarim katak bo'yalgan. Shakl yuzi taxminan qancha?",
+    "correctAnswer": 13,
+    "wrongAnswers": [
+      10,
+      16
+    ]
+  },
+  {
+    "id": "s3c2b33l3_03",
+    "question": "12 cm tasmaning 1/3 qismi necha cm?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "s3c2b33l3_04",
+    "question": "18 cm tasmaning 1/2 qismi necha cm?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      6,
+      12
+    ]
+  },
+  {
+    "id": "s3c2b33l3_05",
+    "question": "24 cm tasmaning 1/4 qismi necha cm?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      4,
+      8
+    ]
+  },
+  {
+    "id": "s3c2b33l3_06",
+    "question": "Nostandart shakl 2 ta to'g'ri to'rtburchakka bo'lindi: 6*4 va 3*5. Umumiy yuza necha kvadrat birlik?",
+    "correctAnswer": 39,
+    "wrongAnswers": [
+      24,
+      15
+    ]
+  },
+  {
+    "id": "s3c2b33l3_07",
+    "question": "Doira 8 ta teng sektorga bo'lingan, 3 tasi bo'yalgan. Bo'yalgan qism doiraning qanday ulushi?  (3/8 = 1, 1/8 = 2, 3/5 = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c2b33l3_08",
+    "question": "36 ta pechenening 1/3 qismini yedik. Nechta pechene yedik?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      9,
+      18
+    ]
+  },
+  {
+    "id": "s3c2b33l3_09",
+    "question": "Guruch yordamida yuza o'lchashda nima taxminan aniqlanadi?  (yuza = 1, perimetr = 2, hajm = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c2b33l3_10",
+    "question": "Chorak — bu butunning to'rtdan bir qismi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

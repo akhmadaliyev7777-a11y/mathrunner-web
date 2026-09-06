@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b18l2_01",
+    "question": "Olma 22 800 so'm/kg. 7 kg olma qancha turadi?",
+    "correctAnswer": 159600,
+    "wrongAnswers": [
+      159000,
+      160600
+    ]
+  },
+  {
+    "id": "s3c1b18l2_02",
+    "question": "Onam 3 kg go'sht (85 000 so'm/kg) va 2 non (4 000 so'm) oldi. Jami qancha to'ladi?",
+    "correctAnswer": 263000,
+    "wrongAnswers": [
+      89000,
+      247000
+    ]
+  },
+  {
+    "id": "s3c1b18l2_03",
+    "question": "5 ta bir xil kitob 75 000 so'm. 8 ta kitob qancha?",
+    "correctAnswer": 120000,
+    "wrongAnswers": [
+      75008,
+      112500
+    ]
+  },
+  {
+    "id": "s3c1b18l2_04",
+    "question": "Muslima n ta tugma sotib oldi. Bitta tugma 2 300 so'm. n = 6 bo'lsa, u qancha to'laydi?",
+    "correctAnswer": 13800,
+    "wrongAnswers": [
+      13700,
+      13900
+    ]
+  },
+  {
+    "id": "s3c1b18l2_05",
+    "question": "Katta pirog va 4 ta kulcha uchun 152 000 so'm to'landi. Pirog 120 000 so'm bo'lsa, bitta kulcha qancha?",
+    "correctAnswer": 8000,
+    "wrongAnswers": [
+      32000,
+      7000
+    ]
+  },
+  {
+    "id": "s3c1b18l2_06",
+    "question": "Do'konda daftar 6 000 so'm, ruchka 3 000 so'm. 4 daftar va 5 ruchka qancha turadi?",
+    "correctAnswer": 39000,
+    "wrongAnswers": [
+      38000,
+      9000
+    ]
+  },
+  {
+    "id": "s3c1b18l2_07",
+    "question": "Bir qop un 120 000 so'm. Do'konga 20 qop keldi. Barcha unning qiymati qancha?",
+    "correctAnswer": 2400000,
+    "wrongAnswers": [
+      120020,
+      240000
+    ]
+  },
+  {
+    "id": "s3c1b18l2_08",
+    "question": "Taqqoslang: 3 kg * 40 000 so'm __ 4 kg * 30 000 so'm",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s3c1b18l2_09",
+    "question": "1 chipta 45 000 so'm. Oila 4 kishi. Barcha chiptalar qancha turadi?",
+    "correctAnswer": 180000,
+    "wrongAnswers": [
+      49000,
+      135000
+    ]
+  },
+  {
+    "id": "s3c1b18l2_10",
+    "question": "Bir sonni o'yladim: unga narxi 5 000 so'mlik 3 ta qalam qiymatini qo'shsam, 20 000 chiqdi. O'ylagan son qancha?",
+    "correctAnswer": 5000,
+    "wrongAnswers": [
+      15000,
+      25000
+    ]
+  }
+]

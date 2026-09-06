@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b15l1_01",
+    "question": "Nuqta — chizmadagi eng kichik belgi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b15l1_02",
+    "question": "To'g'ri chiziqni chizg'ich yordamida chizamiz.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b15l1_03",
+    "question": "Egri chiziqni chizg'ich bilan chizib bo'lmaydi (u tekis emas).",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b15l1_04",
+    "question": "Nuqtalarni qanday belgilaymiz?",
+    "correctAnswer": "lotin harflari bilan (A, B, C)",
+    "wrongAnswers": [
+      "sonlar bilan",
+      "rang bilan"
+    ]
+  },
+  {
+    "id": "s1c1b15l1_05",
+    "question": "Kesmaning nechta uchi bor?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "s1c1b15l1_06",
+    "question": "Siniq chiziq nimadan tuziladi?",
+    "correctAnswer": "bir nechta kesmadan",
+    "wrongAnswers": [
+      "bitta nuqtadan",
+      "doiradan"
+    ]
+  },
+  {
+    "id": "s1c1b15l1_07",
+    "question": "AB kesmaning uchlari qaysilar?",
+    "correctAnswer": "A va B",
+    "wrongAnswers": [
+      "faqat A",
+      "faqat B"
+    ]
+  },
+  {
+    "id": "s1c1b15l1_08",
+    "question": "To'g'ri chiziqning uzunligini o'lchab bo'ladimi?",
+    "correctAnswer": "yo'q",
+    "wrongAnswers": [
+      "ha",
+      "ba'zan"
+    ]
+  },
+  {
+    "id": "s1c1b15l1_09",
+    "question": "Chizg'ichning cheti bo'ylab tortilgan chiziq qanday chiziq bo'ladi?",
+    "correctAnswer": "to'g'ri chiziq",
+    "wrongAnswers": [
+      "egri chiziq",
+      "siniq chiziq"
+    ]
+  },
+  {
+    "id": "s1c1b15l1_10",
+    "question": "3 ta kesmadan tuzilgan yopiq siniq chiziq qanday shakl hosil qiladi?",
+    "correctAnswer": "uchburchak",
+    "wrongAnswers": [
+      "kvadrat",
+      "doira"
+    ]
+  }
+]

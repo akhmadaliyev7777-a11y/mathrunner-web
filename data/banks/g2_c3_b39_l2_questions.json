@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b39l2_01",
+    "question": "To'g'ri to'rtburchak: eni 3 dm, bo'yi 6 dm. Yuzi necha dm2?  (3 * 6)",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      9,
+      36
+    ]
+  },
+  {
+    "id": "s2c3b39l2_02",
+    "question": "Kvadrat tomoni 4 dm. Yuzi necha dm2?  (4 * 4)",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      8,
+      12
+    ]
+  },
+  {
+    "id": "s2c3b39l2_03",
+    "question": "Xona yuzi 8 m2. Bu necha dm2?",
+    "correctAnswer": 800,
+    "wrongAnswers": [
+      80,
+      8000
+    ]
+  },
+  {
+    "id": "s2c3b39l2_04",
+    "question": "2 dm2 50 cm2 necha cm2?",
+    "correctAnswer": 250,
+    "wrongAnswers": [
+      25,
+      2050
+    ]
+  },
+  {
+    "id": "s2c3b39l2_05",
+    "question": "Bir plitka yuzi 5 dm2. 6 ta plitka jami necha dm2?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      11,
+      36
+    ]
+  },
+  {
+    "id": "s2c3b39l2_06",
+    "question": "To'g'ri to'rtburchak eni 5 sm, bo'yi 7 sm. Yuzi necha cm2?",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      12,
+      24
+    ]
+  },
+  {
+    "id": "s2c3b39l2_07",
+    "question": "9 dm2 - 350 cm2 = ? cm2  (9 dm2 = 900 cm2)",
+    "correctAnswer": 550,
+    "wrongAnswers": [
+      650,
+      450
+    ]
+  },
+  {
+    "id": "s2c3b39l2_08",
+    "question": "Taqqoslang: 5 dm2 __ 500 cm2",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s2c3b39l2_09",
+    "question": "1 m2 = 100 dm2.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b39l2_10",
+    "question": "Xato: 1 dm2 = 10 cm2 deyildi. To'g'ri javob necha cm2?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      10,
+      1000
+    ]
+  }
+]

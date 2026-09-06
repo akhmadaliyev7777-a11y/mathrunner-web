@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok27_level2_birga_01", "question": "Ikki mashina bir-biriga qarab yo'lga chiqdi (40 va 60 km/soat). Ular soatiga qancha yaqinlashadi?", "correctAnswer": 100, "wrongAnswers": [20, 240]},
+  {"id": "sinf4_chorak2_blok27_level2_birga_02", "question": "Ikki piyoda bir-biriga qarab yuradi (5 va 4 km/soat). Ular orasi 18 km. Necha soatdan keyin uchrashadi?", "correctAnswer": 2, "wrongAnswers": [9, 18]},
+  {"id": "sinf4_chorak2_blok27_level2_birga_03", "question": "Ikki poyezd bir-biriga qarab keladi (50 va 70 km/soat). Ular orasi 360 km. Necha soatdan keyin uchrashadi?", "correctAnswer": 3, "wrongAnswers": [120, 240]},
+  {"id": "sinf4_chorak2_blok27_level2_birga_04", "question": "Ikki mashina bir-biriga qarab kelmoqda: 30 va 20 km/soat. Aziz yaqinlashish tezligini 30 − 20 = 10 deb topdi. Xatosi nimada?", "correctAnswer": "Bir-biriga qarab kelganda tezliklar QO'SHILADI: 30 + 20 = 50", "wrongAnswers": ["Xato yo'q", "Ko'paytirish kerak edi"]},
+  {"id": "sinf4_chorak2_blok27_level2_birga_05", "question": "Ikki velosipedchi bir-biriga qarab yo'lga chiqdi (10 va 15 km/soat), orasi 75 km. 2 soatdan keyin ular orasi qancha qoladi?", "correctAnswer": 25, "wrongAnswers": [50, 75]},
+  {"id": "sinf4_chorak2_blok27_level2_birga_06", "question": "A va B nuqtalar orasi 40 km. Ikki jism bir-biriga qarab 4 va 6 km/soat tezlikda yo'lga chiqdi. Uchrashuv joyi A dan necha km uzoqda?", "correctAnswer": 16, "wrongAnswers": [24, 20]},
+  {"id": "sinf4_chorak2_blok27_level2_birga_07", "question": "Yaqinlashish tezligi 45 km/soat. 3 soatda jismlar bir-biriga qancha yaqinlashadi?", "correctAnswer": 135, "wrongAnswers": [48, 15]},
+  {"id": "sinf4_chorak2_blok27_level2_birga_08", "question": "Ikki mashina bir-biriga qarab kelmoqda: 55 va 45 km/soat, orasi 200 km. Necha soatda uchrashadi?", "correctAnswer": 2, "wrongAnswers": [100, 4]},
+  {"id": "sinf4_chorak2_blok27_level2_birga_09", "question": "Ikki piyoda 6 va 6 km/soat tezlikda bir-biriga qarab yuradi. Ular orasi 48 km. Necha soatda uchrashadi?", "correctAnswer": 4, "wrongAnswers": [8, 12]},
+  {"id": "sinf4_chorak2_blok27_level2_birga_10", "question": "Ikki jism bir-biriga qarab yo'lga chiqib, 5 soatdan keyin uchrashdi. Yaqinlashish tezligi 30 km/soat bo'lsa, ular dastlab bir-biridan qancha uzoqda edi?", "correctAnswer": 150, "wrongAnswers": [6, 35]}
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b3l1_01",
+    "question": "a + 7 ifodaning qiymatini toping, a = 5 bo'lsa.",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      13,
+      10
+    ]
+  },
+  {
+    "id": "s2c1b3l1_02",
+    "question": "a + 7 ifodaning qiymatini toping, a = 20 bo'lsa.",
+    "correctAnswer": 27,
+    "wrongAnswers": [
+      28,
+      25
+    ]
+  },
+  {
+    "id": "s2c1b3l1_03",
+    "question": "15 - b ifodaning qiymatini toping, b = 6 bo'lsa.",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      10,
+      7
+    ]
+  },
+  {
+    "id": "s2c1b3l1_04",
+    "question": "15 - b ifodaning qiymatini toping, b = 9 bo'lsa.",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      7,
+      4
+    ]
+  },
+  {
+    "id": "s2c1b3l1_05",
+    "question": "c + c ifodaning qiymatini toping, c = 8 bo'lsa.",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      17,
+      14
+    ]
+  },
+  {
+    "id": "s2c1b3l1_06",
+    "question": "40 - d ifodaning qiymatini toping, d = 25 bo'lsa.",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      16,
+      13
+    ]
+  },
+  {
+    "id": "s2c1b3l1_07",
+    "question": "m + 30 ifodaning qiymatini toping, m = 45 bo'lsa.",
+    "correctAnswer": 75,
+    "wrongAnswers": [
+      76,
+      73
+    ]
+  },
+  {
+    "id": "s2c1b3l1_08",
+    "question": "50 - k ifodaning qiymatini toping, k = 50 bo'lsa.",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "s2c1b3l1_09",
+    "question": "\"7 va 8 sonlarining yig'indisi\" ifodasini qaysi yozuv bildiradi?",
+    "correctAnswer": "7 + 8",
+    "wrongAnswers": [
+      "7 - 8",
+      "8 - 7"
+    ]
+  },
+  {
+    "id": "s2c1b3l1_10",
+    "question": "\"20 sonidan 6 sonini ayirish\" ifodasi qiymati qancha?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      26,
+      16
+    ]
+  }
+]

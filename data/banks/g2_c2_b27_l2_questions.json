@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b27l2_01",
+    "question": "2 m 3 dm necha dm?",
+    "correctAnswer": 23,
+    "wrongAnswers": [
+      230,
+      5
+    ]
+  },
+  {
+    "id": "s2c2b27l2_02",
+    "question": "4 m 5 dm necha sm?",
+    "correctAnswer": 450,
+    "wrongAnswers": [
+      45,
+      405
+    ]
+  },
+  {
+    "id": "s2c2b27l2_03",
+    "question": "1 m 8 dm necha sm?",
+    "correctAnswer": 180,
+    "wrongAnswers": [
+      18,
+      108
+    ]
+  },
+  {
+    "id": "s2c2b27l2_04",
+    "question": "3 m 40 sm = ? sm",
+    "correctAnswer": 340,
+    "wrongAnswers": [
+      34,
+      304
+    ]
+  },
+  {
+    "id": "s2c2b27l2_05",
+    "question": "150 sm = ? m ? sm  (m sonini yozing)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      15,
+      150
+    ]
+  },
+  {
+    "id": "s2c2b27l2_06",
+    "question": "65 dm = ? m ? dm  (m sonini yozing)",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      65,
+      5
+    ]
+  },
+  {
+    "id": "s2c2b27l2_07",
+    "question": "Taqqoslang: 2 m __ 190 sm",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s2c2b27l2_08",
+    "question": "Taqqoslang: 3 m 5 dm __ 35 dm",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s2c2b27l2_09",
+    "question": "Bir taxta 2 m, ikkinchisi 3 m 5 dm. Ikkalasi necha dm?",
+    "correctAnswer": 55,
+    "wrongAnswers": [
+      7,
+      550
+    ]
+  },
+  {
+    "id": "s2c2b27l2_10",
+    "question": "Arqon uzunligi 8 m edi. 250 sm kesildi. Necha sm qoldi?",
+    "correctAnswer": 550,
+    "wrongAnswers": [
+      250,
+      1050
+    ]
+  }
+]

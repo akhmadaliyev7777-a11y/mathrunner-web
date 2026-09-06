@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b65l3_01",
+    "question": "25 * 4 = ?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      75,
+      104
+    ]
+  },
+  {
+    "id": "s2c4b65l3_02",
+    "question": "250 * 3 = ?",
+    "correctAnswer": 750,
+    "wrongAnswers": [
+      500,
+      753
+    ]
+  },
+  {
+    "id": "s2c4b65l3_03",
+    "question": "125 * 8 = ?",
+    "correctAnswer": 1000,
+    "wrongAnswers": [
+      875,
+      1008
+    ]
+  },
+  {
+    "id": "s2c4b65l3_04",
+    "question": "60 * 9 = ?",
+    "correctAnswer": 540,
+    "wrongAnswers": [
+      480,
+      549
+    ]
+  },
+  {
+    "id": "s2c4b65l3_05",
+    "question": "45 * 6 = ?",
+    "correctAnswer": 270,
+    "wrongAnswers": [
+      225,
+      276
+    ]
+  },
+  {
+    "id": "s2c4b65l3_06",
+    "question": "18 * 5 = ?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      72,
+      95
+    ]
+  },
+  {
+    "id": "s2c4b65l3_07",
+    "question": "Bir sonni 4 ga ko'paytirdim, 800 chiqdi. Qaysi son?",
+    "correctAnswer": 200,
+    "wrongAnswers": [
+      400,
+      804
+    ]
+  },
+  {
+    "id": "s2c4b65l3_08",
+    "question": "20 * 5 * 2 = ?",
+    "correctAnswer": 200,
+    "wrongAnswers": [
+      100,
+      27
+    ]
+  },
+  {
+    "id": "s2c4b65l3_09",
+    "question": "Zalda 20 qator, har qatorda 30 o'rindiq. Jami nechta o'rindiq?",
+    "correctAnswer": 600,
+    "wrongAnswers": [
+      50,
+      6000
+    ]
+  },
+  {
+    "id": "s2c4b65l3_10",
+    "question": "40 * 5 - 100 = ?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      300,
+      200
+    ]
+  }
+]

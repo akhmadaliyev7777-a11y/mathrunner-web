@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b17l2_01",
+    "question": "□ + 3 = 8. □ qancha?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      11,
+      4
+    ]
+  },
+  {
+    "id": "s1c1b17l2_02",
+    "question": "2 + □ = 9. □ qancha?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      11,
+      6
+    ]
+  },
+  {
+    "id": "s1c1b17l2_03",
+    "question": "□ + 5 = 10. □ qancha?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      15,
+      4
+    ]
+  },
+  {
+    "id": "s1c1b17l2_04",
+    "question": "4 + □ = 7. □ qancha?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      11,
+      2
+    ]
+  },
+  {
+    "id": "s1c1b17l2_05",
+    "question": "Noma'lum qo'shiluvchini topish uchun yig'indidan ma'lum qo'shiluvchini ...",
+    "correctAnswer": "ayiramiz",
+    "wrongAnswers": [
+      "qo'shamiz",
+      "taqqoslaymiz"
+    ]
+  },
+  {
+    "id": "s1c1b17l2_06",
+    "question": "□ + 6 = 6. □ qancha?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      6,
+      12
+    ]
+  },
+  {
+    "id": "s1c1b17l2_07",
+    "question": "1 + □ = 5. □ qancha?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      6,
+      3
+    ]
+  },
+  {
+    "id": "s1c1b17l2_08",
+    "question": "□ + 4 = 9 tenglamada □ = 5.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b17l2_09",
+    "question": "3 + □ = 8 tenglamada □ = 11.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b17l2_10",
+    "question": "Xato: \"□ + 2 = 7\" uchun □ = 9 deyildi. To'g'ri □ qancha?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      9,
+      4
+    ]
+  }
+]

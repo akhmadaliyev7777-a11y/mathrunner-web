@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok30_level2_kechik_01", "question": "Birinchi mashina 50 km/soat bilan yo'lga chiqdi va 3 soat yolg'iz yurdi. Shu 3 soatda u necha km yo'l bosdi?", "correctAnswer": 150, "wrongAnswers": [53, 15]},
+  {"id": "sinf4_chorak2_blok30_level2_kechik_02", "question": "Piyoda 5 km/soat bilan yurdi. 2 soatdan keyin velosipedchi uning ortidan chiqdi. Velosipedchi chiqqanda piyoda necha km oldinda edi?", "correctAnswer": 10, "wrongAnswers": [30, 5]},
+  {"id": "sinf4_chorak2_blok30_level2_kechik_03", "question": "Birinchi jism 40 km lead oldi. Ikkinchi jism uni quvmoqda, quvib yetish tezligi 20 km/soat. Necha soatda yetib oladi?", "correctAnswer": 2, "wrongAnswers": [8, 800]},
+  {"id": "sinf4_chorak2_blok30_level2_kechik_04", "question": "Birinchi mashina 2 soat oldin 30 km/soat bilan chiqdi (60 km oldinda). Ikkinchisi ham 30 km/soat. Nima bo'ladi?", "correctAnswer": "Tezliklar teng — ikkinchisi hech qachon quvib yeta olmaydi", "wrongAnswers": ["10 soatda yetadi", "2 soatda yetadi"]},
+  {"id": "sinf4_chorak2_blok30_level2_kechik_05", "question": "Birinchi mashina 1 soat oldin 60 km/soat bilan chiqdi (60 km oldinda). Ikkinchisi 90 km/soat. Necha soatda quvib yetadi?", "correctAnswer": 2, "wrongAnswers": [1, 3]},
+  {"id": "sinf4_chorak2_blok30_level2_kechik_06", "question": "Poyezd A 09:00 da 50 km/soat bilan jo'nadi. Poyezd B 11:00 da xuddi shu yo'ldan 70 km/soat bilan jo'nadi. B jo'naganda A qancha oldinda edi?", "correctAnswer": 100, "wrongAnswers": [50, 140]},
+  {"id": "sinf4_chorak2_blok30_level2_kechik_07", "question": "Birinchi jism 3 soat oldin chiqib, 60 km lead oldi. Uning tezligi qancha edi?", "correctAnswer": 20, "wrongAnswers": [63, 180]},
+  {"id": "sinf4_chorak2_blok30_level2_kechik_08", "question": "Otliq 20 km/soat bilan chiqdi. 2 soatdan keyin mashina 60 km/soat bilan quvdi. Mashina otliqni necha soatda quvib yetadi?", "correctAnswer": 1, "wrongAnswers": [2, 3]},
+  {"id": "sinf4_chorak2_blok30_level2_kechik_09", "question": "Birinchi mashina 40 km/soat bilan 3 soat oldin chiqdi. Ikkinchisi 60 km/soat. Ular uchrashganda birinchi mashina jami necha soat yurgan bo'ladi?", "correctAnswer": 9, "wrongAnswers": [6, 3]},
+  {"id": "sinf4_chorak2_blok30_level2_kechik_10", "question": "Sekin mashina 2 soat oldin chiqdi (30 km/soat). Tez mashina ham 30 km/soat bilan quvdi. Nima bo'ladi?", "correctAnswer": "Hech qachon quvib yeta olmaydi (tezliklar teng)", "wrongAnswers": ["1 soatda yetadi", "2 soatda yetadi"]}
+]

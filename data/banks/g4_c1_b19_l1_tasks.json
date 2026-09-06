@@ -1,0 +1,20 @@
+[
+  {"id": "sinf4_chorak1_blok19_level1_venn_01", "prompt": "Har bir o'quvchini to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring", "setAName": "Futbolni yoqtiradiganlar", "setBName": "Basketbolni yoqtiradiganlar", "elements": [
+    {"value": "Aziz", "zone": "onlyA"}, {"value": "Bek", "zone": "both"}, {"value": "Dilnoza", "zone": "onlyB"}, {"value": "Karim", "zone": "neither"}
+  ]},
+  {"id": "sinf4_chorak1_blok19_level1_venn_02", "prompt": "Har bir bolani to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring", "setAName": "It boqadiganlar", "setBName": "Mushuk boqadiganlar", "elements": [
+    {"value": "Ali", "zone": "both"}, {"value": "Vali", "zone": "onlyA"}, {"value": "Guli", "zone": "onlyB"}, {"value": "Nodir", "zone": "neither"}, {"value": "Sami", "zone": "both"}, {"value": "Laylo", "zone": "onlyA"}
+  ]},
+  {"id": "sinf4_chorak1_blok19_level1_venn_03", "prompt": "Har bir o'quvchini to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring", "setAName": "Matematikani yaxshi ko'radiganlar", "setBName": "Ona tilini yaxshi ko'radiganlar", "elements": [
+    {"value": "Anvar", "zone": "onlyA"}, {"value": "Bahrom", "zone": "onlyB"}, {"value": "Diyor", "zone": "both"}, {"value": "Elyor", "zone": "neither"}, {"value": "Farrux", "zone": "both"}, {"value": "Gavhar", "zone": "onlyA"}, {"value": "Hilola", "zone": "onlyB"}, {"value": "Islom", "zone": "neither"}
+  ]},
+  {"id": "sinf4_chorak1_blok19_level1_venn_04", "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring", "setAName": "5 ga karrali sonlar", "setBName": "6 ga karrali sonlar", "elements": [
+    {"value": "10", "zone": "onlyA"}, {"value": "12", "zone": "onlyB"}, {"value": "30", "zone": "both"}, {"value": "18", "zone": "onlyB"}, {"value": "25", "zone": "onlyA"}, {"value": "7", "zone": "neither"}
+  ]},
+  {"id": "sinf4_chorak1_blok19_level1_venn_05", "prompt": "Har bir o'quvchini to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring", "setAName": "Sport bo'limiga qatnaydiganlar", "setBName": "Musiqa maktabiga qatnaydiganlar", "elements": [
+    {"value": "Olim", "zone": "onlyA"}, {"value": "Salim", "zone": "both"}, {"value": "Kamola", "zone": "onlyB"}, {"value": "Jasur", "zone": "neither"}
+  ]},
+  {"id": "sinf4_chorak1_blok19_level1_venn_06", "prompt": "Har bir sonni to'g'ri to'plamga (yoki hech qaysisiga) joylashtiring", "setAName": "3 ga karrali sonlar", "setBName": "5 ga karrali sonlar", "elements": [
+    {"value": "9", "zone": "onlyA"}, {"value": "15", "zone": "both"}, {"value": "20", "zone": "onlyB"}, {"value": "30", "zone": "both"}, {"value": "12", "zone": "onlyA"}, {"value": "25", "zone": "onlyB"}, {"value": "7", "zone": "neither"}, {"value": "45", "zone": "both"}
+  ]}
+]

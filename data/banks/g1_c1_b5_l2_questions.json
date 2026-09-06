@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b5l2_01",
+    "question": "7 ta o'g'il va 7 ta qiz. Nechtaga ko'p yoki kam?",
+    "correctAnswer": "teng, farqi yo'q",
+    "wrongAnswers": [
+      "o'g'il 1 taga ko'p",
+      "qiz 2 taga ko'p"
+    ]
+  },
+  {
+    "id": "s1c1b5l2_02",
+    "question": "Taqqoslang: 6 ta olma __ 9 ta olma",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c1b5l2_03",
+    "question": "Taqqoslang: 5 ta tugma __ 5 ta ilmoq",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s1c1b5l2_04",
+    "question": "Taqqoslang: 8 ta qush __ 3 ta qush",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s1c1b5l2_05",
+    "question": "10 ta shar va 7 ta ip. Nechta sharga ip yetmaydi?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      17,
+      4
+    ]
+  },
+  {
+    "id": "s1c1b5l2_06",
+    "question": "4 ta likopcha va 4 ta qoshiq. Guruhlar ...",
+    "correctAnswer": "teng",
+    "wrongAnswers": [
+      "teng emas",
+      "likopcha ko'p"
+    ]
+  },
+  {
+    "id": "s1c1b5l2_07",
+    "question": "Bir savatda 3 ta, ikkinchisida 8 ta olma. Qaysi savatda kam?",
+    "correctAnswer": "birinchi savatda",
+    "wrongAnswers": [
+      "ikkinchi savatda",
+      "teng"
+    ]
+  },
+  {
+    "id": "s1c1b5l2_08",
+    "question": "Agar har bir bolaga bittadan olma yetsa, bolalar va olmalar soni teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b5l2_09",
+    "question": "6 ta it, 6 ta suyak. Har bir itga suyak ...",
+    "correctAnswer": "yetadi",
+    "wrongAnswers": [
+      "yetmaydi",
+      "ortib qoladi 2 ta"
+    ]
+  },
+  {
+    "id": "s1c1b5l2_10",
+    "question": "9 ta va 9 ta. Bu ikki guruh o'rtasida qaysi belgi to'g'ri?",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  }
+]

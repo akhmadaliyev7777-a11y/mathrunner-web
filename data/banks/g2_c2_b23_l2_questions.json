@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b23l2_01",
+    "question": "345 + 234 = ?",
+    "correctAnswer": 579,
+    "wrongAnswers": [
+      479,
+      679
+    ]
+  },
+  {
+    "id": "s2c2b23l2_02",
+    "question": "528 + 361 = ?",
+    "correctAnswer": 889,
+    "wrongAnswers": [
+      789,
+      989
+    ]
+  },
+  {
+    "id": "s2c2b23l2_03",
+    "question": "207 + 480 = ?",
+    "correctAnswer": 687,
+    "wrongAnswers": [
+      587,
+      787
+    ]
+  },
+  {
+    "id": "s2c2b23l2_04",
+    "question": "614 + 275 = ?",
+    "correctAnswer": 889,
+    "wrongAnswers": [
+      789,
+      989
+    ]
+  },
+  {
+    "id": "s2c2b23l2_05",
+    "question": "450 + 340 = ?",
+    "correctAnswer": 790,
+    "wrongAnswers": [
+      690,
+      890
+    ]
+  },
+  {
+    "id": "s2c2b23l2_06",
+    "question": "163 + 526 = ?",
+    "correctAnswer": 689,
+    "wrongAnswers": [
+      589,
+      789
+    ]
+  },
+  {
+    "id": "s2c2b23l2_07",
+    "question": "Kutubxonada 340 ta o'zbekcha va 250 ta ruscha kitob bor. Jami nechta?",
+    "correctAnswer": 590,
+    "wrongAnswers": [
+      490,
+      690
+    ]
+  },
+  {
+    "id": "s2c2b23l2_08",
+    "question": "Bir omborda 415 qop, ikkinchisida 372 qop un bor. Jami nechta qop?",
+    "correctAnswer": 787,
+    "wrongAnswers": [
+      687,
+      887
+    ]
+  },
+  {
+    "id": "s2c2b23l2_09",
+    "question": "Taqqoslang: 234 + 300 __ 500",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s2c2b23l2_10",
+    "question": "Xatoni toping: 250 + 340 = 690. To'g'ri javob qancha?",
+    "correctAnswer": 590,
+    "wrongAnswers": [
+      690,
+      490
+    ]
+  }
+]

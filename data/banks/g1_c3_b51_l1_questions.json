@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b51l1_01",
+    "question": "Bir son o'yladim: unga 8 qo'shsam, 20 bo'ladi. Qaysi son?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      28,
+      13
+    ]
+  },
+  {
+    "id": "s1c3b51l1_02",
+    "question": "Bir son o'yladim: undan 6 ni ayirsam, 14 bo'ladi. Qaysi son?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      8,
+      21
+    ]
+  },
+  {
+    "id": "s1c3b51l1_03",
+    "question": "Bir son o'yladim: unga 10 qo'shsam, 35 bo'ladi. Qaysi son?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      45,
+      24
+    ]
+  },
+  {
+    "id": "s1c3b51l1_04",
+    "question": "Bir son o'yladim: undan 15 ni ayirsam, 0 bo'ladi. Qaysi son?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      0,
+      30
+    ]
+  },
+  {
+    "id": "s1c3b51l1_05",
+    "question": "Bir kesma 12 sm, boshqasi 8 sm. Jami necha sm?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      4,
+      96
+    ]
+  },
+  {
+    "id": "s1c3b51l1_06",
+    "question": "Bir qopda 20 kg, boshqasida 30 kg un. Jami necha kg?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      10,
+      60
+    ]
+  },
+  {
+    "id": "s1c3b51l1_07",
+    "question": "40 va 25 — farqi qancha?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      65,
+      14
+    ]
+  },
+  {
+    "id": "s1c3b51l1_08",
+    "question": "□ + 20 = 45. □ qancha?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      65,
+      24
+    ]
+  },
+  {
+    "id": "s1c3b51l1_09",
+    "question": "\"Bir son o'yladim, unga qo'shdim\" masalasi ayirish bilan orqaga yechiladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b51l1_10",
+    "question": "1 dm necha sm?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      1,
+      100
+    ]
+  }
+]

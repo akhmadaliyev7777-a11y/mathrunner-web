@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok47_level1_masa_01", "question": "1 fut necha duymga teng?", "correctAnswer": 12, "wrongAnswers": [10, 3]},
+  {"id": "sinf4_chorak3_blok47_level1_masa_02", "question": "1 yard necha futga teng?", "correctAnswer": 3, "wrongAnswers": [12, 36]},
+  {"id": "sinf4_chorak3_blok47_level1_masa_03", "question": "2 fut necha duym?", "correctAnswer": 24, "wrongAnswers": [14, 20]},
+  {"id": "sinf4_chorak3_blok47_level1_masa_04", "question": "1 yard necha duym?", "correctAnswer": 36, "wrongAnswers": [15, 12]},
+  {"id": "sinf4_chorak3_blok47_level1_masa_05", "question": "24 duym necha fut?", "correctAnswer": 2, "wrongAnswers": [12, 288]},
+  {"id": "sinf4_chorak3_blok47_level1_masa_06", "question": "Devorning uzunligi 5 yard. Bu necha fut?", "correctAnswer": 15, "wrongAnswers": [8, 60]},
+  {"id": "sinf4_chorak3_blok47_level1_masa_07", "question": "3 fut 6 duym — bu jami necha duym?", "correctAnswer": 42, "wrongAnswers": [9, 36]},
+  {"id": "sinf4_chorak3_blok47_level1_masa_08", "question": "Bir taxta 4 fut. Undan 18 duymlik bo'lak kesildi. Necha duym qoldi?", "correctAnswer": 30, "wrongAnswers": [22, 66]},
+  {"id": "sinf4_chorak3_blok47_level1_masa_09", "question": "Xona bo'yi 12 fut, eni 9 fut. Perimetri necha fut?", "correctAnswer": 42, "wrongAnswers": [21, 108]},
+  {"id": "sinf4_chorak3_blok47_level1_masa_10", "question": "2 yard necha fut?", "correctAnswer": 6, "wrongAnswers": [24, 72]}
+]

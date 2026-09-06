@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b55l2_01",
+    "question": "Uchburchakning barcha burchagi o'tkir. Bu qanday uchburchak?",
+    "correctAnswer": "o'tkir burchakli uchburchak",
+    "wrongAnswers": [
+      "to'g'ri burchakli",
+      "o'tmas burchakli"
+    ]
+  },
+  {
+    "id": "s1c4b55l2_02",
+    "question": "Bir to'rtburchakning 4 ta to'g'ri burchagi va teng tomonlari bor. Bu qaysi shakl?",
+    "correctAnswer": "kvadrat",
+    "wrongAnswers": [
+      "trapetsiya",
+      "romb"
+    ]
+  },
+  {
+    "id": "s1c4b55l2_03",
+    "question": "Beshburchakda nechta burchak bor?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "s1c4b55l2_04",
+    "question": "Oltiburchakda nechta tomon bor?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": "s1c4b55l2_05",
+    "question": "To'g'ri to'rtburchakning 4 ta burchagi ham qanday?",
+    "correctAnswer": "to'g'ri",
+    "wrongAnswers": [
+      "o'tkir",
+      "o'tmas"
+    ]
+  },
+  {
+    "id": "s1c4b55l2_06",
+    "question": "Bir burchak goniyaga to'liq mos tushdi. U qanday burchak?",
+    "correctAnswer": "to'g'ri burchak",
+    "wrongAnswers": [
+      "o'tkir",
+      "o'tmas"
+    ]
+  },
+  {
+    "id": "s1c4b55l2_07",
+    "question": "Trapetsiya — to'rtburchak turi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b55l2_08",
+    "question": "Romb — uchburchak turi.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b55l2_09",
+    "question": "To'rtburchak turlaridan biri: to'g'ri to'rtburchak, romb, trapetsiya. Yana bir tur?",
+    "correctAnswer": "kvadrat",
+    "wrongAnswers": [
+      "doira",
+      "nur"
+    ]
+  },
+  {
+    "id": "s1c4b55l2_10",
+    "question": "Uchburchakning bitta burchagi to'g'ri bo'lsa, u qanday uchburchak?",
+    "correctAnswer": "to'g'ri burchakli uchburchak",
+    "wrongAnswers": [
+      "o'tkir burchakli",
+      "muntazam"
+    ]
+  }
+]

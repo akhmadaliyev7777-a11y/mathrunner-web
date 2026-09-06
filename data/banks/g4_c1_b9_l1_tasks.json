@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok9_level1_alomat_01", "text": "1 480 soni 5 ga bo'linadimi?", "isTrue": true},
+  {"id": "sinf4_chorak1_blok9_level1_alomat_02", "text": "327 soni 2 ga bo'linadimi?", "isTrue": false},
+  {"id": "sinf4_chorak1_blok9_level1_alomat_03", "text": "6 500 soni 10 ga bo'linadimi?", "isTrue": true},
+  {"id": "sinf4_chorak1_blok9_level1_alomat_04", "text": "845 soni 5 ga bo'linadimi?", "isTrue": true},
+  {"id": "sinf4_chorak1_blok9_level1_alomat_05", "text": "1 234 soni 2 ga bo'linadimi?", "isTrue": true},
+  {"id": "sinf4_chorak1_blok9_level1_alomat_06", "text": "975 soni 10 ga bo'linadimi?", "isTrue": false},
+  {"id": "sinf4_chorak1_blok9_level1_alomat_07", "text": "563 soni 5 ga bo'linadimi?", "isTrue": false},
+  {"id": "sinf4_chorak1_blok9_level1_alomat_08", "text": "2 006 soni 2 ga bo'linadimi?", "isTrue": true},
+  {"id": "sinf4_chorak1_blok9_level1_alomat_09", "text": "4 005 soni 10 ga bo'linadimi?", "isTrue": false},
+  {"id": "sinf4_chorak1_blok9_level1_alomat_10", "text": "789 soni 2 ga bo'linadimi?", "isTrue": false}
+]

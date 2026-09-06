@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b4l2_01",
+    "question": "Eni 5 cm, bo'yi 6 cm bo'lgan to'g'ri to'rtburchakning perimetri necha cm?  (P = (a + b) * 2)",
+    "correctAnswer": 22,
+    "wrongAnswers": [
+      16,
+      18
+    ]
+  },
+  {
+    "id": "s3c1b4l2_02",
+    "question": "Eni 5 cm, bo'yi 6 cm bo'lgan to'g'ri to'rtburchakning yuzi necha cm2?  (S = a * b)",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      45,
+      20
+    ]
+  },
+  {
+    "id": "s3c1b4l2_03",
+    "question": "Eni 6 cm, bo'yi 9 cm bo'lgan to'g'ri to'rtburchakning perimetri necha cm?  (P = (a + b) * 2)",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      34,
+      24
+    ]
+  },
+  {
+    "id": "s3c1b4l2_04",
+    "question": "Eni 6 cm, bo'yi 9 cm bo'lgan to'g'ri to'rtburchakning yuzi necha cm2?  (S = a * b)",
+    "correctAnswer": 54,
+    "wrongAnswers": [
+      24,
+      36
+    ]
+  },
+  {
+    "id": "s3c1b4l2_05",
+    "question": "Tomoni 4 cm bo'lgan kvadratning perimetri necha cm?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      32,
+      4
+    ]
+  },
+  {
+    "id": "s3c1b4l2_06",
+    "question": "Tomoni 6 cm bo'lgan kvadratning yuzi necha cm2?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      42,
+      18
+    ]
+  },
+  {
+    "id": "s3c1b4l2_07",
+    "question": "Kvadratning perimetri 48 cm. Uning tomoni necha cm?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      24,
+      48
+    ]
+  },
+  {
+    "id": "s3c1b4l2_08",
+    "question": "5 dm2 necha cm2?",
+    "correctAnswer": 500,
+    "wrongAnswers": [
+      50,
+      5000
+    ]
+  },
+  {
+    "id": "s3c1b4l2_09",
+    "question": "2 m2 3 dm2 necha dm2?",
+    "correctAnswer": 203,
+    "wrongAnswers": [
+      23,
+      230
+    ]
+  },
+  {
+    "id": "s3c1b4l2_10",
+    "question": "Eni 10 cm, bo'yi 10 cm bo'lgan kvadratning yuzi necha cm2?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      40,
+      20
+    ]
+  }
+]

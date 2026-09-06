@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b18l1_01",
+    "question": "Bitta daftar 5 000 so'm. 6 ta daftar qancha turadi?  (qiymat = narx * miqdor)",
+    "correctAnswer": 30000,
+    "wrongAnswers": [
+      5006,
+      25000
+    ]
+  },
+  {
+    "id": "s3c1b18l1_02",
+    "question": "Bitta daftar 3 000 so'm. 4 ta daftar qancha turadi?  (qiymat = narx * miqdor)",
+    "correctAnswer": 12000,
+    "wrongAnswers": [
+      3004,
+      9000
+    ]
+  },
+  {
+    "id": "s3c1b18l1_03",
+    "question": "Bitta daftar 8 000 so'm. 8 ta daftar qancha turadi?  (qiymat = narx * miqdor)",
+    "correctAnswer": 64000,
+    "wrongAnswers": [
+      8008,
+      56000
+    ]
+  },
+  {
+    "id": "s3c1b18l1_04",
+    "question": "8 ta bir xil ruchka 32 000 so'm turadi. Bitta ruchka qancha?  (narx = qiymat : miqdor)",
+    "correctAnswer": 4000,
+    "wrongAnswers": [
+      400,
+      31992
+    ]
+  },
+  {
+    "id": "s3c1b18l1_05",
+    "question": "5 ta bir xil ruchka 20 000 so'm turadi. Bitta ruchka qancha?  (narx = qiymat : miqdor)",
+    "correctAnswer": 4000,
+    "wrongAnswers": [
+      400,
+      19995
+    ]
+  },
+  {
+    "id": "s3c1b18l1_06",
+    "question": "Bitta kulcha 6 000 so'm. 42 000 so'mga nechta kulcha olish mumkin?  (miqdor = qiymat : narx)",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      1,
+      36000
+    ]
+  },
+  {
+    "id": "s3c1b18l1_07",
+    "question": "Jadval: narx = 4 000 so'm, miqdor = 6 ta. Qiymat qancha?",
+    "correctAnswer": 24000,
+    "wrongAnswers": [
+      10000,
+      240000
+    ]
+  },
+  {
+    "id": "s3c1b18l1_08",
+    "question": "Narx 3 000 so'm, qiymat 21 000 so'm. Miqdor qancha?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      6,
+      8
+    ]
+  },
+  {
+    "id": "s3c1b18l1_09",
+    "question": "1 kg olma 12 000 so'm. 9 kg olma qancha?",
+    "correctAnswer": 108000,
+    "wrongAnswers": [
+      12009,
+      96000
+    ]
+  },
+  {
+    "id": "s3c1b18l1_10",
+    "question": "Qiymat 36 000 so'm, miqdor 4 ta. Narx qancha?",
+    "correctAnswer": 9000,
+    "wrongAnswers": [
+      8000,
+      10000
+    ]
+  }
+]

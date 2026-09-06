@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok40_level1_bol_01", "question": "84 : 4 = ?", "correctAnswer": 21, "wrongAnswers": [22, 20]},
+  {"id": "sinf4_chorak3_blok40_level1_bol_02", "question": "96 : 3 = ?", "correctAnswer": 32, "wrongAnswers": [33, 31]},
+  {"id": "sinf4_chorak3_blok40_level1_bol_03", "question": "150 : 5 = ?", "correctAnswer": 30, "wrongAnswers": [35, 25]},
+  {"id": "sinf4_chorak3_blok40_level1_bol_04", "question": "720 : 8 = ?", "correctAnswer": 90, "wrongAnswers": [80, 91]},
+  {"id": "sinf4_chorak3_blok40_level1_bol_05", "question": "246 : 2 = ?", "correctAnswer": 123, "wrongAnswers": [124, 122]},
+  {"id": "sinf4_chorak3_blok40_level1_bol_06", "question": "639 : 3 = ?", "correctAnswer": 213, "wrongAnswers": [212, 313]},
+  {"id": "sinf4_chorak3_blok40_level1_bol_07", "question": "800 : 4 = ?", "correctAnswer": 200, "wrongAnswers": [250, 20]},
+  {"id": "sinf4_chorak3_blok40_level1_bol_08", "question": "175 : 5 = ?", "correctAnswer": 35, "wrongAnswers": [34, 25]},
+  {"id": "sinf4_chorak3_blok40_level1_bol_09", "question": "560 : 7 = ?", "correctAnswer": 80, "wrongAnswers": [70, 81]},
+  {"id": "sinf4_chorak3_blok40_level1_bol_10", "question": "900 : 9 = ?", "correctAnswer": 100, "wrongAnswers": [90, 10]}
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b26l1_01",
+    "question": "340 + 250 = ?",
+    "correctAnswer": 590,
+    "wrongAnswers": [
+      490,
+      690
+    ]
+  },
+  {
+    "id": "s2c2b26l1_02",
+    "question": "415 + 372 = ?",
+    "correctAnswer": 787,
+    "wrongAnswers": [
+      687,
+      887
+    ]
+  },
+  {
+    "id": "s2c2b26l1_03",
+    "question": "600 + 208 = ?",
+    "correctAnswer": 808,
+    "wrongAnswers": [
+      708,
+      908
+    ]
+  },
+  {
+    "id": "s2c2b26l1_04",
+    "question": "700 - 340 = ?",
+    "correctAnswer": 360,
+    "wrongAnswers": [
+      460,
+      260
+    ]
+  },
+  {
+    "id": "s2c2b26l1_05",
+    "question": "620 - 285 = ?",
+    "correctAnswer": 335,
+    "wrongAnswers": [
+      435,
+      235
+    ]
+  },
+  {
+    "id": "s2c2b26l1_06",
+    "question": "Taqqoslang: 456 __ 465",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s2c2b26l1_07",
+    "question": "374 sonida nechta yuzlik bor?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      4,
+      7
+    ]
+  },
+  {
+    "id": "s2c2b26l1_08",
+    "question": "500 + 60 + 3 = ?",
+    "correctAnswer": 563,
+    "wrongAnswers": [
+      5063,
+      530
+    ]
+  },
+  {
+    "id": "s2c2b26l1_09",
+    "question": "Eng katta uch xonali son qaysi?",
+    "correctAnswer": 999,
+    "wrongAnswers": [
+      100,
+      1000
+    ]
+  },
+  {
+    "id": "s2c2b26l1_10",
+    "question": "Uch qutida 150, 220 va 330 ta mix. Jami nechta?",
+    "correctAnswer": 700,
+    "wrongAnswers": [
+      600,
+      800
+    ]
+  }
+]

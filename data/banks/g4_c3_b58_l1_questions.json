@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok58_level1_yolv_01", "question": "Avtomobil 09:00 da jo'nab, 12:00 da yetib bordi. Yo'lda qancha vaqt (soat) bo'ldi?", "correctAnswer": 3, "wrongAnswers": [12, 21]},
+  {"id": "sinf4_chorak3_blok58_level1_yolv_02", "question": "Mashina 240 km yo'lni 60 km/soat tezlikda bosdi. Necha soat yo'lda bo'ldi?", "correctAnswer": 4, "wrongAnswers": [180, 300]},
+  {"id": "sinf4_chorak3_blok58_level1_yolv_03", "question": "Poyezd 14:00 da jo'nab, 4 soat yurdi. Soat nechada yetib bordi?", "correctAnswer": "18:00", "wrongAnswers": ["10:00", "16:00"]},
+  {"id": "sinf4_chorak3_blok58_level1_yolv_04", "question": "Avtobus 80 km/soat tezlikda 2 soat va yana yarim soat yurdi. Necha km bosdi?", "correctAnswer": 200, "wrongAnswers": [160, 82]},
+  {"id": "sinf4_chorak3_blok58_level1_yolv_05", "question": "Mashina 08:00 da jo'nadi, 1 soat dam oldi, keyin yana 2 soat yurdi. Jami necha soat yo'lda bo'ldi (dam bilan)?", "correctAnswer": 3, "wrongAnswers": [2, 4]},
+  {"id": "sinf4_chorak3_blok58_level1_yolv_06", "question": "300 km masofani mashina 5 soatda bosdi. Uning tezligi qancha?", "correctAnswer": 60, "wrongAnswers": [305, 15]},
+  {"id": "sinf4_chorak3_blok58_level1_yolv_07", "question": "Yo'l 180 km. Mashina 45 km/soat tezlikda yo'lda. 2 soatdan keyin yana necha km qoladi?", "correctAnswer": 90, "wrongAnswers": [135, 45]},
+  {"id": "sinf4_chorak3_blok58_level1_yolv_08", "question": "Avtomobil 10:30 da jo'nadi, 13:00 da yetib bordi. Yo'lda qancha vaqt bo'ldi?", "correctAnswer": "2 soat 30 minut", "wrongAnswers": ["3 soat", "2 soat"]},
+  {"id": "sinf4_chorak3_blok58_level1_yolv_09", "question": "Ikki shahar orasi 400 km. Mashina 100 km/soat tezlikda yo'lga chiqdi. Necha soatda yetib boradi?", "correctAnswer": 4, "wrongAnswers": [40, 500]},
+  {"id": "sinf4_chorak3_blok58_level1_yolv_10", "question": "Poyezd 3 soatda 210 km yurdi. Bir soatda o'rtacha necha km bosgan?", "correctAnswer": 70, "wrongAnswers": [630, 63]}
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b22l2_01",
+    "question": "21 : 4 = 5 (qoldiq ?). Qoldiqni toping.",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c2b22l2_02",
+    "question": "65 : 7 = 9 (qoldiq ?). Qoldiqni toping.",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "s3c2b22l2_03",
+    "question": "50 : 8 = 6 (qoldiq ?). Qoldiqni toping.",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "s3c2b22l2_04",
+    "question": "83 : 9 = 9 (qoldiq ?). Qoldiqni toping.",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "s3c2b22l2_05",
+    "question": "Tekshiring: 21 : 4 = 5 (qoldiq 1). 4 * 5 + 1 = ?",
+    "correctAnswer": 21,
+    "wrongAnswers": [
+      20,
+      22
+    ]
+  },
+  {
+    "id": "s3c2b22l2_06",
+    "question": "Bo'luvchi 5, to'liqsiz bo'linma 12, qoldiq 3. Bo'linuvchi (a = b * c + r) qancha?",
+    "correctAnswer": 63,
+    "wrongAnswers": [
+      60,
+      65
+    ]
+  },
+  {
+    "id": "s3c2b22l2_07",
+    "question": "Bo'luvchi 7, to'liqsiz bo'linma 8, qoldiq 4. Bo'linuvchi qancha?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      56,
+      64
+    ]
+  },
+  {
+    "id": "s3c2b22l2_08",
+    "question": "65 : 7 = ? (to'liqsiz bo'linma)",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s3c2b22l2_09",
+    "question": "Agar qoldiq nolga teng bo'lsa, bo'linish to'liq bajarilgan bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c2b22l2_10",
+    "question": "100 : 9 amalida qoldiq qancha?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      9,
+      0
+    ]
+  }
+]

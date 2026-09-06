@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b70l1_01",
+    "question": "Kvadratning tomoni 12 cm. Yuzi necha cm2?",
+    "correctAnswer": 144,
+    "wrongAnswers": [
+      48,
+      24
+    ]
+  },
+  {
+    "id": "s3c4b70l1_02",
+    "question": "36 sonining uchdan bir qismi qancha?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      9,
+      18
+    ]
+  },
+  {
+    "id": "s3c4b70l1_03",
+    "question": "v = 25 km/h, t = 4 h. Masofa qancha?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      29,
+      21
+    ]
+  },
+  {
+    "id": "s3c4b70l1_04",
+    "question": "Bo'luvchi 8, to'liqsiz bo'linma 12, qoldiq 5. Bo'linuvchi qancha?",
+    "correctAnswer": 101,
+    "wrongAnswers": [
+      96,
+      106
+    ]
+  },
+  {
+    "id": "s3c4b70l1_05",
+    "question": "x + 240 = 600 tenglamani yeching. x = ?",
+    "correctAnswer": 360,
+    "wrongAnswers": [
+      350,
+      370
+    ]
+  },
+  {
+    "id": "s3c4b70l1_06",
+    "question": "4 m3 27 dm3 va 4 270 dm3 ni taqqoslang.  (4 m3 27 dm3 = 4027 dm3)  (kichik = <)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b70l1_07",
+    "question": "Ishchi soatiga 15 ta detal yasaydi. 6 soatda nechta?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      21,
+      9
+    ]
+  },
+  {
+    "id": "s3c4b70l1_08",
+    "question": "Taqqoslang: 4 m3 27 dm3 __ 4 270 dm3",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s3c4b70l1_09",
+    "question": "Aylana radiusi 8 cm. Diametri necha cm?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      8,
+      24
+    ]
+  },
+  {
+    "id": "s3c4b70l1_10",
+    "question": "48 ta olmaning to'rtdan biri chirigan. Nechta olma sog'?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      12,
+      24
+    ]
+  }
+]

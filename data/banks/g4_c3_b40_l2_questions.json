@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok40_level2_bol_01", "question": "17 : 5 = ? (qoldiqli bo'lish)", "correctAnswer": "3 (qoldiq 2)", "wrongAnswers": ["3 (qoldiq 1)", "4 (qoldiq 0)"]},
+  {"id": "sinf4_chorak3_blok40_level2_bol_02", "question": "50 : 8 = ? (qoldiqli bo'lish)", "correctAnswer": "6 (qoldiq 2)", "wrongAnswers": ["6 (qoldiq 1)", "7 (qoldiq 0)"]},
+  {"id": "sinf4_chorak3_blok40_level2_bol_03", "question": "Qoldiqli bo'lishda qoldiq bo'luvchiga nisbatan qanday bo'lishi kerak?", "correctAnswer": "Bo'luvchidan kichik", "wrongAnswers": ["Bo'luvchidan katta", "Bo'luvchiga teng"]},
+  {"id": "sinf4_chorak3_blok40_level2_bol_04", "question": "29 ta olmani 6 tadan qutilarga solamiz. Nechta to'liq quti chiqadi va nechta olma ortadi?", "correctAnswer": "4 quti, 5 olma ortadi", "wrongAnswers": ["5 quti, 0 ortadi", "4 quti, 1 ortadi"]},
+  {"id": "sinf4_chorak3_blok40_level2_bol_05", "question": "23 : 4 = 5 (qoldiq 3). Aziz javobni tekshirish uchun 5 × 4 + 3 = 23 dedi. To'g'rimi?", "correctAnswer": "Ha, to'g'ri: bo'linma × bo'luvchi + qoldiq = bo'linuvchi", "wrongAnswers": ["Yo'q, qoldiqni qo'shmaslik kerak", "Yo'q, 5 × 4 = 20"]},
+  {"id": "sinf4_chorak3_blok40_level2_bol_06", "question": "45 : 6 bo'lishda qoldiq nechi?", "correctAnswer": 3, "wrongAnswers": [0, 6]},
+  {"id": "sinf4_chorak3_blok40_level2_bol_07", "question": "Qaysi son 7 ga bo'linganda qoldiq 0 beradi?", "correctAnswer": 42, "wrongAnswers": [43, 40]},
+  {"id": "sinf4_chorak3_blok40_level2_bol_08", "question": "100 : 9 bo'lishda butun qism (bo'linma) nechi?", "correctAnswer": 11, "wrongAnswers": [12, 10]},
+  {"id": "sinf4_chorak3_blok40_level2_bol_09", "question": "Bir avtobusga 40 kishi sig'adi. 130 kishini tashish uchun avtobus necha marta qatnaydi?", "correctAnswer": 4, "wrongAnswers": [3, 5]},
+  {"id": "sinf4_chorak3_blok40_level2_bol_10", "question": "38 : 5 bo'lishda bo'linma nechi?", "correctAnswer": 7, "wrongAnswers": [8, 6]}
+]

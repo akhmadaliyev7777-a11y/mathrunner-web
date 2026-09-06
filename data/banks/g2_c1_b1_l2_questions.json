@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b1l2_01",
+    "question": "30 + 50 = ?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      70,
+      90
+    ]
+  },
+  {
+    "id": "s2c1b1l2_02",
+    "question": "45 + 5 = ?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      40,
+      60
+    ]
+  },
+  {
+    "id": "s2c1b1l2_03",
+    "question": "26 + 40 = ?",
+    "correctAnswer": 66,
+    "wrongAnswers": [
+      56,
+      76
+    ]
+  },
+  {
+    "id": "s2c1b1l2_04",
+    "question": "63 + 7 = ?",
+    "correctAnswer": 70,
+    "wrongAnswers": [
+      60,
+      80
+    ]
+  },
+  {
+    "id": "s2c1b1l2_05",
+    "question": "80 + 20 = ?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      90,
+      110
+    ]
+  },
+  {
+    "id": "s2c1b1l2_06",
+    "question": "54 + 30 = ?",
+    "correctAnswer": 84,
+    "wrongAnswers": [
+      74,
+      94
+    ]
+  },
+  {
+    "id": "s2c1b1l2_07",
+    "question": "70 - 40 = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      40,
+      20
+    ]
+  },
+  {
+    "id": "s2c1b1l2_08",
+    "question": "58 - 8 = ?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      60,
+      40
+    ]
+  },
+  {
+    "id": "s2c1b1l2_09",
+    "question": "90 - 60 = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      40,
+      20
+    ]
+  },
+  {
+    "id": "s2c1b1l2_10",
+    "question": "20 + 30 + 40 = ?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      80,
+      100
+    ]
+  }
+]

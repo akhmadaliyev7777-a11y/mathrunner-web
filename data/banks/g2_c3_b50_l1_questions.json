@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b50l1_01",
+    "question": "8 * 6 = ?",
+    "correctAnswer": 48,
+    "wrongAnswers": [
+      40,
+      56
+    ]
+  },
+  {
+    "id": "s2c3b50l1_02",
+    "question": "6 * 10 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      54,
+      66
+    ]
+  },
+  {
+    "id": "s2c3b50l1_03",
+    "question": "6 * 6 = ?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      30,
+      42
+    ]
+  },
+  {
+    "id": "s2c3b50l1_04",
+    "question": "2 * 6 = ?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      10,
+      14
+    ]
+  },
+  {
+    "id": "s2c3b50l1_05",
+    "question": "4 * 6 = ?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      20,
+      28
+    ]
+  },
+  {
+    "id": "s2c3b50l1_06",
+    "question": "6 * 9 = ?",
+    "correctAnswer": 54,
+    "wrongAnswers": [
+      48,
+      60
+    ]
+  },
+  {
+    "id": "s2c3b50l1_07",
+    "question": "6 * ? = 42",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      8,
+      6
+    ]
+  },
+  {
+    "id": "s2c3b50l1_08",
+    "question": "1 * 6 = ?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": "s2c3b50l1_09",
+    "question": "3 * 6 = ?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      15,
+      21
+    ]
+  },
+  {
+    "id": "s2c3b50l1_10",
+    "question": "5 * 6 = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      25,
+      35
+    ]
+  }
+]

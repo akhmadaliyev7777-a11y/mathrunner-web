@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok34_level1_chama_01", "text": "34 × 6 > 150?", "isTrue": true},
+  {"id": "sinf4_chorak2_blok34_level1_chama_02", "text": "62 × 18 < 1000?", "isTrue": false},
+  {"id": "sinf4_chorak2_blok34_level1_chama_03", "text": "288 ÷ 4 < 100?", "isTrue": true},
+  {"id": "sinf4_chorak2_blok34_level1_chama_04", "text": "864 ÷ 8 > 150?", "isTrue": false},
+  {"id": "sinf4_chorak2_blok34_level1_chama_05", "text": "245 + 358 > 500?", "isTrue": true},
+  {"id": "sinf4_chorak2_blok34_level1_chama_06", "text": "412 + 189 > 700?", "isTrue": false},
+  {"id": "sinf4_chorak2_blok34_level1_chama_07", "text": "700 − 265 < 500?", "isTrue": true},
+  {"id": "sinf4_chorak2_blok34_level1_chama_08", "text": "620 − 180 > 500?", "isTrue": false},
+  {"id": "sinf4_chorak2_blok34_level1_chama_09", "text": "48 × 5 > 200?", "isTrue": true},
+  {"id": "sinf4_chorak2_blok34_level1_chama_10", "text": "150 ÷ 3 > 60?", "isTrue": false}
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b26l2_01",
+    "question": "7 + 5 = ?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      2,
+      13
+    ]
+  },
+  {
+    "id": "s1c2b26l2_02",
+    "question": "8 + 6 = ?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      4,
+      15
+    ]
+  },
+  {
+    "id": "s1c2b26l2_03",
+    "question": "9 + 5 = ?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      4,
+      15
+    ]
+  },
+  {
+    "id": "s1c2b26l2_04",
+    "question": "6 + 8 = ?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      4,
+      15
+    ]
+  },
+  {
+    "id": "s1c2b26l2_05",
+    "question": "7 + 7 = ?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      4,
+      15
+    ]
+  },
+  {
+    "id": "s1c2b26l2_06",
+    "question": "9 + 8 = ?",
+    "correctAnswer": 17,
+    "wrongAnswers": [
+      7,
+      18
+    ]
+  },
+  {
+    "id": "s1c2b26l2_07",
+    "question": "8 + 7 = ?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      5,
+      16
+    ]
+  },
+  {
+    "id": "s1c2b26l2_08",
+    "question": "5 + 9 = ?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      4,
+      15
+    ]
+  },
+  {
+    "id": "s1c2b26l2_09",
+    "question": "6 + 9 = ?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      14,
+      16
+    ]
+  },
+  {
+    "id": "s1c2b26l2_10",
+    "question": "Xato: \"7 + 6 = 12\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 13,
+    "wrongAnswers": [
+      12,
+      14
+    ]
+  }
+]

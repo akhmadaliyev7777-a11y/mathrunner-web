@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b50l1_01",
+    "question": "12 + 15 = 27 yozuvi nima?  (tenglik = 1, tengsizlik = 2, tenglama = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b50l1_02",
+    "question": "b < 5 yozuvi nima?  (tengsizlik = 1, tenglik = 2, tenglama = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b50l1_03",
+    "question": "x + 8 = 20 yozuvi nima?  (tenglama = 1, tenglik = 2, tengsizlik = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b50l1_04",
+    "question": "Sonli nurda A(12) nuqtadan: 3 o'ngga, 5 chapga, 4 o'ngga yurdik. Qaysi nuqtaga keldik?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      12,
+      13
+    ]
+  },
+  {
+    "id": "s3c3b50l1_05",
+    "question": "Sonli nurda A(7) nuqtadan: 2 o'ngga, 1 chapga, 3 o'ngga yurdik. Qaysi nuqtaga keldik?",
+    "correctAnswer": 11,
+    "wrongAnswers": [
+      10,
+      12
+    ]
+  },
+  {
+    "id": "s3c3b50l1_06",
+    "question": "Umida 1 sekundda 2 metr yuguradi. 22 metrni qancha vaqtda bosib o'tadi?",
+    "correctAnswer": 11,
+    "wrongAnswers": [
+      10,
+      12
+    ]
+  },
+  {
+    "id": "s3c3b50l1_07",
+    "question": "561 + 119 = 680 va 600 - 134 < 450 yozuvlaridan qaysi biri tengsizlik?  (2-si = 1, 1-si = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b50l1_08",
+    "question": "Tenglama — ichida noma'lum (harf) bo'lgan tenglik.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c3b50l1_09",
+    "question": "Balet raqsda qiz 1 sakrashda 3 metr uchadi. 5 sakrashda necha metr?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      8,
+      18
+    ]
+  },
+  {
+    "id": "s3c3b50l1_10",
+    "question": "'17 - n = 9', 'b < 5', 'm : 4 = 48' yozuvlaridan nechtasi tenglama?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  }
+]

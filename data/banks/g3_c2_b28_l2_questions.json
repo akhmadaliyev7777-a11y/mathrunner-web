@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b28l2_01",
+    "question": "431 600 : 830 = ?",
+    "correctAnswer": 520,
+    "wrongAnswers": [
+      510,
+      620
+    ]
+  },
+  {
+    "id": "s3c2b28l2_02",
+    "question": "133 400 : 290 = ?",
+    "correctAnswer": 460,
+    "wrongAnswers": [
+      450,
+      560
+    ]
+  },
+  {
+    "id": "s3c2b28l2_03",
+    "question": "345 040 : 20 = ?",
+    "correctAnswer": 17252,
+    "wrongAnswers": [
+      17242,
+      17352
+    ]
+  },
+  {
+    "id": "s3c2b28l2_04",
+    "question": "24 000 : 120 = ?",
+    "correctAnswer": 200,
+    "wrongAnswers": [
+      190,
+      300
+    ]
+  },
+  {
+    "id": "s3c2b28l2_05",
+    "question": "48 600 : 270 = ?",
+    "correctAnswer": 180,
+    "wrongAnswers": [
+      170,
+      280
+    ]
+  },
+  {
+    "id": "s3c2b28l2_06",
+    "question": "Hisoblamasdan taqqoslang:  12 798 : 3 __ 12 798 : 9",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s3c2b28l2_07",
+    "question": "200 000 001 : 3 = ?",
+    "correctAnswer": 66666667,
+    "wrongAnswers": [
+      66666657,
+      66666677
+    ]
+  },
+  {
+    "id": "s3c2b28l2_08",
+    "question": "Bo'lishni ko'paytirish bilan tekshiramiz: 774 : 129 = 6.  129 * 6 = ?",
+    "correctAnswer": 774,
+    "wrongAnswers": [
+      770,
+      780
+    ]
+  },
+  {
+    "id": "s3c2b28l2_09",
+    "question": "9 900 : 900 = ?",
+    "correctAnswer": 11,
+    "wrongAnswers": [
+      10,
+      12
+    ]
+  },
+  {
+    "id": "s3c2b28l2_10",
+    "question": "9 900 : 900 = ?",
+    "correctAnswer": 11,
+    "wrongAnswers": [
+      10,
+      12
+    ]
+  }
+]

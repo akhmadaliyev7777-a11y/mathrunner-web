@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b58l2_01",
+    "question": "Kubning nechta yog'i bor?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      4,
+      8
+    ]
+  },
+  {
+    "id": "s1c4b58l2_02",
+    "question": "Kubning har bir yog'i qanday shakl?",
+    "correctAnswer": "kvadrat",
+    "wrongAnswers": [
+      "uchburchak",
+      "doira"
+    ]
+  },
+  {
+    "id": "s1c4b58l2_03",
+    "question": "Koptok (to'p) qaysi hajmli shaklga o'xshaydi?",
+    "correctAnswer": "shar",
+    "wrongAnswers": [
+      "kub",
+      "konus"
+    ]
+  },
+  {
+    "id": "s1c4b58l2_04",
+    "question": "Gugurt qutisi qaysi hajmli shaklga o'xshaydi?",
+    "correctAnswer": "kuboid",
+    "wrongAnswers": [
+      "shar",
+      "konus"
+    ]
+  },
+  {
+    "id": "s1c4b58l2_05",
+    "question": "Muzqaymoq rojkasi qaysi hajmli shakl?",
+    "correctAnswer": "konus",
+    "wrongAnswers": [
+      "silindr",
+      "kub"
+    ]
+  },
+  {
+    "id": "s1c4b58l2_06",
+    "question": "Konserva bankasi qaysi hajmli shaklga o'xshaydi?",
+    "correctAnswer": "silindr",
+    "wrongAnswers": [
+      "kub",
+      "konus"
+    ]
+  },
+  {
+    "id": "s1c4b58l2_07",
+    "question": "Misr ehromlari qaysi hajmli shaklga o'xshaydi?",
+    "correctAnswer": "piramida",
+    "wrongAnswers": [
+      "silindr",
+      "shar"
+    ]
+  },
+  {
+    "id": "s1c4b58l2_08",
+    "question": "Kub — barcha qirralari teng bo'lgan hajmli shakl.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b58l2_09",
+    "question": "Shar — yassi shakl.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b58l2_10",
+    "question": "Kub va kuboid — qaysi umumiy guruhga kiradi?",
+    "correctAnswer": "hajmli shakllar",
+    "wrongAnswers": [
+      "yassi shakllar",
+      "chiziqlar"
+    ]
+  }
+]

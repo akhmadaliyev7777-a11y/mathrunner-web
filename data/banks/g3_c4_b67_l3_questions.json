@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b67l3_01",
+    "question": "Doira va uchburchak ichiga 8 ta nuqta shunday qo'yilsinki, doirada 6 ta, uchburchakda 5 ta nuqta bo'lsin. Ikkala shaklda ham bo'lgan nuqtalar nechta?  (6 + 5 - 8)",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "s3c4b67l3_02",
+    "question": "'2, 9, 0' raqamlaridan foydalanib nechta uch xonali son yasash mumkin (raqamlar takrorlanmaydi, birinchi raqam 0 bo'lmaydi)?  (290, 209, 902, 920)",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      6,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b67l3_03",
+    "question": "Sehrli kvadratda har qator, ustun va diagonaldagi sonlar yig'indisi bir xil. Agar bir qatorda 17, 19, 21 bo'lsa, yig'indi qancha?",
+    "correctAnswer": 57,
+    "wrongAnswers": [
+      47,
+      60
+    ]
+  },
+  {
+    "id": "s3c4b67l3_04",
+    "question": "25 o'quvchidan 15 tasi it, 12 tasi mushuk saqlaydi. 3 tasi hech qaysisini saqlamaydi. Ikkalasini ham saqlaydiganlar nechta?  (22 kamida bittasi; 15 + 12 - 22)",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      7,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b67l3_05",
+    "question": "'Har qanday juft son 2 ga bo'linadi' — bu rost mulohazami?  (Rost = 1, Yolg'on = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b67l3_06",
+    "question": "3 ta turli kitobni javonga nechta xil tartibda terish mumkin?  (3 * 2 * 1)",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      3,
+      9
+    ]
+  },
+  {
+    "id": "s3c4b67l3_07",
+    "question": "'1, 5, 6' raqamlaridan nechta ikki xonali son yasash mumkin (raqamlar takrorlanmaydi)?  (15, 16, 51, 56, 61, 65)",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      9,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b67l3_08",
+    "question": "Venn diagrammasida A doirasida 7, kesishmada 3, B doirasida 5 (kesishmadan tashqari) bo'lsa, jami nechta element bor?  (7 + 3 + 5)",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      10,
+      12
+    ]
+  },
+  {
+    "id": "s3c4b67l3_09",
+    "question": "'Barcha tub sonlar toq' — bu rost mulohazami?  (Yo'q, chunki 2 juft va tub = 2)",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b67l3_10",
+    "question": "Kombinatorikada tanlash tartibi muhim bo'lsa, natijalar soni ko'proq bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

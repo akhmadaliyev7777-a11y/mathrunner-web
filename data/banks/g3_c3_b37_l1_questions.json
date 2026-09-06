@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b37l1_01",
+    "question": "3 km necha m?",
+    "correctAnswer": 3000,
+    "wrongAnswers": [
+      3,
+      300
+    ]
+  },
+  {
+    "id": "s3c3b37l1_02",
+    "question": "6 m necha cm?",
+    "correctAnswer": 600,
+    "wrongAnswers": [
+      6,
+      60
+    ]
+  },
+  {
+    "id": "s3c3b37l1_03",
+    "question": "4 dm necha mm?",
+    "correctAnswer": 400,
+    "wrongAnswers": [
+      4,
+      40
+    ]
+  },
+  {
+    "id": "s3c3b37l1_04",
+    "question": "5 km necha m?",
+    "correctAnswer": 5000,
+    "wrongAnswers": [
+      5,
+      500
+    ]
+  },
+  {
+    "id": "s3c3b37l1_05",
+    "question": "8 m necha dm?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      8,
+      90
+    ]
+  },
+  {
+    "id": "s3c3b37l1_06",
+    "question": "5 000 m necha km?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      50,
+      500
+    ]
+  },
+  {
+    "id": "s3c3b37l1_07",
+    "question": "7 m 2 dm 3 cm necha cm?",
+    "correctAnswer": 723,
+    "wrongAnswers": [
+      7203,
+      73
+    ]
+  },
+  {
+    "id": "s3c3b37l1_08",
+    "question": "1 m 6 dm necha cm?",
+    "correctAnswer": 160,
+    "wrongAnswers": [
+      16,
+      1600
+    ]
+  },
+  {
+    "id": "s3c3b37l1_09",
+    "question": "Taqqoslang: 1 km __ 950 m",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s3c3b37l1_10",
+    "question": "340 cm necha m necha cm?  (m sonini yozing)",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      4,
+      340
+    ]
+  }
+]

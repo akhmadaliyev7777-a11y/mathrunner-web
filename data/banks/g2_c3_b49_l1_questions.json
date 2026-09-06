@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b49l1_01",
+    "question": "2 * 8 = ?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      14,
+      18
+    ]
+  },
+  {
+    "id": "s2c3b49l1_02",
+    "question": "3 * 6 = ?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      15,
+      21
+    ]
+  },
+  {
+    "id": "s2c3b49l1_03",
+    "question": "4 * 7 = ?",
+    "correctAnswer": 28,
+    "wrongAnswers": [
+      24,
+      32
+    ]
+  },
+  {
+    "id": "s2c3b49l1_04",
+    "question": "5 * 9 = ?",
+    "correctAnswer": 45,
+    "wrongAnswers": [
+      40,
+      50
+    ]
+  },
+  {
+    "id": "s2c3b49l1_05",
+    "question": "12 : 3 = ?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      5,
+      3
+    ]
+  },
+  {
+    "id": "s2c3b49l1_06",
+    "question": "20 : 4 = ?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      6,
+      4
+    ]
+  },
+  {
+    "id": "s2c3b49l1_07",
+    "question": "35 : 5 = ?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      8,
+      6
+    ]
+  },
+  {
+    "id": "s2c3b49l1_08",
+    "question": "16 : 2 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      9,
+      7
+    ]
+  },
+  {
+    "id": "s2c3b49l1_09",
+    "question": "17 — juft son deyildi. To'g'rimi? (Rost = 1, Yolg'on = 2)",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "s2c3b49l1_10",
+    "question": "6 ni 3 marta orttiring.",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      9,
+      2
+    ]
+  }
+]

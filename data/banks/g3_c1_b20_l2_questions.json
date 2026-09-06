@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b20l2_01",
+    "question": "Amallar tartibi: 300 000 - 40 * 500 + 12 000 = ?",
+    "correctAnswer": 292000,
+    "wrongAnswers": [
+      291900,
+      292120
+    ]
+  },
+  {
+    "id": "s3c1b20l2_02",
+    "question": "(72 000 - 12 000) : 100 + 380 = ?",
+    "correctAnswer": 980,
+    "wrongAnswers": [
+      386,
+      440
+    ]
+  },
+  {
+    "id": "s3c1b20l2_03",
+    "question": "Bir sonni o'yladim, 3 ga ko'paytirdim, 12 qo'shdim, natijani 3 ga bo'ldim (: 3), o'ylagan sonimni ayirdim. Natija qancha?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      3,
+      12
+    ]
+  },
+  {
+    "id": "s3c1b20l2_04",
+    "question": "Anvar 500 * 60 ni hisoblab, 3 000 deb yozdi. To'g'ri javob qancha?",
+    "correctAnswer": 30000,
+    "wrongAnswers": [
+      3000,
+      300000
+    ]
+  },
+  {
+    "id": "s3c1b20l2_05",
+    "question": "345 soniga 200 va 128 sonlari ayirmasini qo'shing. Natija qancha?",
+    "correctAnswer": 417,
+    "wrongAnswers": [
+      617,
+      633
+    ]
+  },
+  {
+    "id": "s3c1b20l2_06",
+    "question": "12 ta bir xil daftar 60 000 so'm. 20 ta daftar qancha turadi?",
+    "correctAnswer": 100000,
+    "wrongAnswers": [
+      60020,
+      80000
+    ]
+  },
+  {
+    "id": "s3c1b20l2_07",
+    "question": "Zavod kuniga 2 400 ta detal chiqaradi. 5 kunda nechta detal?",
+    "correctAnswer": 12000,
+    "wrongAnswers": [
+      10000,
+      14000
+    ]
+  },
+  {
+    "id": "s3c1b20l2_08",
+    "question": "Taqqoslang: 1 soat 15 minut __ 80 minut",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s3c1b20l2_09",
+    "question": "Ikki ko'p xonali sonni qo'shganda yig'indi doim toq son bo'ladi.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c1b20l2_10",
+    "question": "Yigirma million to'rt yuz ming sonini raqamlar bilan yozing.",
+    "correctAnswer": 20400000,
+    "wrongAnswers": [
+      204000000,
+      2040000
+    ]
+  }
+]

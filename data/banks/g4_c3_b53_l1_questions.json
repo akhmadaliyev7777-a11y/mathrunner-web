@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok53_level1_masa_01", "question": "Dala hovlida 24 tup pomidor bor. Ularning 1/3 qismi pishdi. Nechta tup pishgan?", "correctAnswer": 8, "wrongAnswers": [3, 72]},
+  {"id": "sinf4_chorak3_blok53_level1_masa_02", "question": "Lagerda 60 bola bor. Ularning 1/4 qismi suzishga ketdi. Nechta bola suzishga ketdi?", "correctAnswer": 15, "wrongAnswers": [4, 240]},
+  {"id": "sinf4_chorak3_blok53_level1_masa_03", "question": "Bog'da 40 ta daraxt. 3/4 qismi olma daraxti. Nechta olma daraxti bor?", "correctAnswer": 30, "wrongAnswers": [10, 4]},
+  {"id": "sinf4_chorak3_blok53_level1_masa_04", "question": "Lager 21 kun davom etadi. 2/3 qismi o'tdi. Necha kun o'tgan?", "correctAnswer": 14, "wrongAnswers": [7, 63]},
+  {"id": "sinf4_chorak3_blok53_level1_masa_05", "question": "Dala hovlida 100 kg kartoshka yig'ildi. 2/5 qismi sotildi. Necha kg sotildi?", "correctAnswer": 40, "wrongAnswers": [60, 250]},
+  {"id": "sinf4_chorak3_blok53_level1_masa_06", "question": "Hovuz 1/2 qismgacha suv bilan to'ldi. Hovuz sig'imi 200 litr. Necha litr suv bor?", "correctAnswer": 100, "wrongAnswers": [2, 400]},
+  {"id": "sinf4_chorak3_blok53_level1_masa_07", "question": "Lagerda 48 bolaning 1/6 qismi kasal bo'ldi. Nechta bola kasal?", "correctAnswer": 8, "wrongAnswers": [6, 288]},
+  {"id": "sinf4_chorak3_blok53_level1_masa_08", "question": "Dala hovlida 36 tup gul: 1/4 qismi qizil, qolgani sariq. Nechta sariq gul bor?", "correctAnswer": 27, "wrongAnswers": [9, 4]},
+  {"id": "sinf4_chorak3_blok53_level1_masa_09", "question": "18 ta bola lagerga ketdi, bu butun sinfning 1/2 qismi. Sinfda jami nechta o'quvchi bor?", "correctAnswer": 36, "wrongAnswers": [9, 20]},
+  {"id": "sinf4_chorak3_blok53_level1_masa_10", "question": "Yer uchastkasining 3/5 qismiga bug'doy ekildi. Uchastka 50 sotix. Necha sotixga bug'doy ekildi?", "correctAnswer": 30, "wrongAnswers": [10, 5]}
+]

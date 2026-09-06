@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b32l2_01",
+    "question": "Zavod 800 ta detal tayyorlashi kerak. 1-smena 260, 2-smena 315 ta tayyorladi. Yana nechtasi kerak?",
+    "correctAnswer": 225,
+    "wrongAnswers": [
+      575,
+      235
+    ]
+  },
+  {
+    "id": "s2c2b32l2_02",
+    "question": "Bir sonni o'yladim: unga 340 qo'shib, keyin 150 ni ayirsam, 600 bo'ladi. Qaysi son?",
+    "correctAnswer": 410,
+    "wrongAnswers": [
+      790,
+      510
+    ]
+  },
+  {
+    "id": "s2c2b32l2_03",
+    "question": "Yo'l 950 m. Bola 400 m yurdi, keyin 250 m yugurdi. Yana necha m qoldi?",
+    "correctAnswer": 300,
+    "wrongAnswers": [
+      650,
+      400
+    ]
+  },
+  {
+    "id": "s2c2b32l2_04",
+    "question": "Ombor: 500 qop un. Kuni bo'yi 3 marta olib ketishdi: 120, 95, 140 qop. Nechta qoldi?",
+    "correctAnswer": 145,
+    "wrongAnswers": [
+      355,
+      155
+    ]
+  },
+  {
+    "id": "s2c2b32l2_05",
+    "question": "45 minut + 45 minut = ? minut",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      80,
+      100
+    ]
+  },
+  {
+    "id": "s2c2b32l2_06",
+    "question": "Ikki sonning yig'indisi 720. Biri ikkinchisidan 80 ga katta. Kichigi qancha?",
+    "correctAnswer": 320,
+    "wrongAnswers": [
+      400,
+      640
+    ]
+  },
+  {
+    "id": "s2c2b32l2_07",
+    "question": "Kitob narxi 350 so'm, daftar 180 so'm. 1000 so'mdan nechta qaytim?",
+    "correctAnswer": 470,
+    "wrongAnswers": [
+      530,
+      370
+    ]
+  },
+  {
+    "id": "s2c2b32l2_08",
+    "question": "Taqqoslang: 630 - 280 __ 350",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s2c2b32l2_09",
+    "question": "Xatoni toping: 700 - 250 - 150 = 400. To'g'ri javob qancha?",
+    "correctAnswer": 300,
+    "wrongAnswers": [
+      400,
+      350
+    ]
+  },
+  {
+    "id": "s2c2b32l2_10",
+    "question": "3 ta idishda 250, 175, 300 litr suv. Jami necha litr?",
+    "correctAnswer": 725,
+    "wrongAnswers": [
+      625,
+      825
+    ]
+  }
+]

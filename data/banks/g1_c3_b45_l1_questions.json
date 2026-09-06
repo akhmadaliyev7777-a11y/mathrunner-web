@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b45l1_01",
+    "question": "Uzunlik o'lchov birligi qaysi?",
+    "correctAnswer": "santimetr (sm)",
+    "wrongAnswers": [
+      "kilogramm (kg)",
+      "litr (l)"
+    ]
+  },
+  {
+    "id": "s1c3b45l1_02",
+    "question": "Kesma uzunligini qaysi asbob bilan o'lchaymiz?",
+    "correctAnswer": "chizg'ich bilan",
+    "wrongAnswers": [
+      "tarozi bilan",
+      "stakan bilan"
+    ]
+  },
+  {
+    "id": "s1c3b45l1_03",
+    "question": "AB kesma 5 sm, BC kesma 4 sm. AC (agar bir to'g'ri chiziqda bo'lsa) necha sm?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      1,
+      20
+    ]
+  },
+  {
+    "id": "s1c3b45l1_04",
+    "question": "8 sm li kesmadan 3 sm kesib olindi. Necha sm qoldi?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      11,
+      4
+    ]
+  },
+  {
+    "id": "s1c3b45l1_05",
+    "question": "Kesma 6 sm edi, 4 sm ga uzaytirdik. Yangi uzunlik necha sm?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      2,
+      24
+    ]
+  },
+  {
+    "id": "s1c3b45l1_06",
+    "question": "Qaysi biri uzunroq: 7 sm li kesma yoki 5 sm li kesma?",
+    "correctAnswer": "7 sm li kesma",
+    "wrongAnswers": [
+      "5 sm li kesma",
+      "teng"
+    ]
+  },
+  {
+    "id": "s1c3b45l1_07",
+    "question": "Chizg'ichda 0 dan 10 gacha bo'linmalar bor. Bu necha sm?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      11,
+      1
+    ]
+  },
+  {
+    "id": "s1c3b45l1_08",
+    "question": "Taqqoslang: 7 sm __ 5 sm",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s1c3b45l1_09",
+    "question": "Ikkita kesma: 3 sm va 3 sm. Ularning uzunligi ...",
+    "correctAnswer": "teng",
+    "wrongAnswers": [
+      "har xil",
+      "biri uzun"
+    ]
+  },
+  {
+    "id": "s1c3b45l1_10",
+    "question": "MN kesma 10 sm. Undan 10 sm kesib olsak, necha sm qoladi?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      10,
+      20
+    ]
+  }
+]

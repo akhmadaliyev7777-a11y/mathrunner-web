@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b39l1_01",
+    "question": "Butun 10. Bir qismi 6. Ikkinchi qismi qancha?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      16,
+      5
+    ]
+  },
+  {
+    "id": "s1c3b39l1_02",
+    "question": "10 ta qalamdan 7 tasi rangli, qolgani oddiy. Nechta oddiy qalam?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      17,
+      2
+    ]
+  },
+  {
+    "id": "s1c3b39l1_03",
+    "question": "Butun 8, bir qismi 8. Ikkinchi qismi qancha?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      16,
+      1
+    ]
+  },
+  {
+    "id": "s1c3b39l1_04",
+    "question": "Qismni topish uchun butundan ma'lum qismni nima qilamiz?",
+    "correctAnswer": "ayiramiz",
+    "wrongAnswers": [
+      "qo'shamiz",
+      "taqqoslaymiz"
+    ]
+  },
+  {
+    "id": "s1c3b39l1_05",
+    "question": "9 ta bolada 5 tasi o'g'il. Nechta qiz?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      14,
+      3
+    ]
+  },
+  {
+    "id": "s1c3b39l1_06",
+    "question": "Butun 7, qismlari 3 va ?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      10,
+      3
+    ]
+  },
+  {
+    "id": "s1c3b39l1_07",
+    "question": "10 = 4 + ?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      14,
+      5
+    ]
+  },
+  {
+    "id": "s1c3b39l1_08",
+    "question": "Qismni topish uchun ayirish amalidan foydalanamiz.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b39l1_09",
+    "question": "6 ta stolda 2 tasi yumaloq. Nechta yumaloq bo'lmagan stol?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      8,
+      3
+    ]
+  },
+  {
+    "id": "s1c3b39l1_10",
+    "question": "Butun 5, bir qismi 0. Ikkinchi qismi qancha?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      0,
+      10
+    ]
+  }
+]

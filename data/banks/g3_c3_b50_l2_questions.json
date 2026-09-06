@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b50l2_01",
+    "question": "Tengsizlikning o'ng tomonini hisoblang: x < 415 * 2 : 10 - 3 * (999 - 826 - 147). Javob qancha?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "s3c3b50l2_02",
+    "question": "Sonli nurda 0 dan 15 gacha 3 birlikli qadamlar bilan yursak, nechta qadam kerak?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "s3c3b50l2_03",
+    "question": "Sonli nurda A(20) dan 8 chapga, keyin 3 o'ngga yurdik. Qaysi nuqtaga keldik?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      16,
+      14
+    ]
+  },
+  {
+    "id": "s3c3b50l2_04",
+    "question": "'532 - 118 = 414' — bu tenglik to'g'rimi?  (Rost = 1, Yolg'on = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b50l2_05",
+    "question": "Sakrog'ichli bola 1 sakrashda 2 metr, 12 sakrashda necha metr yuradi?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      14,
+      22
+    ]
+  },
+  {
+    "id": "s3c3b50l2_06",
+    "question": "x = 6 bo'lsa, x + 8 < 20 tengsizligi to'g'rimi?  (Rost = 1, Yolg'on = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b50l2_07",
+    "question": "Sonli nurda C(30) dan 12 chapga yurdik. Qaysi nuqtaga keldik?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      42,
+      17
+    ]
+  },
+  {
+    "id": "s3c3b50l2_08",
+    "question": "'9 * 5' va '45' — bu tenglikmi?  (Rost = 1, Yolg'on = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b50l2_09",
+    "question": "Poyezd 1 minutda 800 metr yuradi. 5 minutda necha metr?",
+    "correctAnswer": 4000,
+    "wrongAnswers": [
+      400,
+      4800
+    ]
+  },
+  {
+    "id": "s3c3b50l2_10",
+    "question": "Tengsizlikning bir nechta yechimi bo'lishi mumkin.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "g2c2b22l1_ord_01",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      234,
+      243,
+      324,
+      342,
+      423
+    ],
+    "ascending": true
+  },
+  {
+    "id": "g2c2b22l1_ord_02",
+    "prompt": "Sonlarni kamayish tartibida joylashtiring",
+    "numbers": [
+      560,
+      506,
+      650,
+      605,
+      656
+    ],
+    "ascending": false
+  },
+  {
+    "id": "g2c2b22l1_ord_03",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      111,
+      121,
+      112,
+      211,
+      122
+    ],
+    "ascending": true
+  },
+  {
+    "id": "g2c2b22l1_ord_04",
+    "prompt": "Sonlarni kamayish tartibida joylashtiring",
+    "numbers": [
+      789,
+      798,
+      879,
+      897,
+      987
+    ],
+    "ascending": false
+  },
+  {
+    "id": "g2c2b22l1_ord_05",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      400,
+      40,
+      404,
+      440,
+      44
+    ],
+    "ascending": true
+  },
+  {
+    "id": "g2c2b22l1_ord_06",
+    "prompt": "Sonlarni kamayish tartibida joylashtiring",
+    "numbers": [
+      615,
+      651,
+      561,
+      516,
+      165
+    ],
+    "ascending": false
+  },
+  {
+    "id": "g2c2b22l1_ord_07",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      900,
+      899,
+      909,
+      990,
+      908
+    ],
+    "ascending": true
+  },
+  {
+    "id": "g2c2b22l1_ord_08",
+    "prompt": "Sonlarni kamayish tartibida joylashtiring",
+    "numbers": [
+      123,
+      213,
+      132,
+      231,
+      312
+    ],
+    "ascending": false
+  },
+  {
+    "id": "g2c2b22l1_ord_09",
+    "prompt": "Sonlarni o'sish tartibida joylashtiring",
+    "numbers": [
+      707,
+      770,
+      700,
+      777,
+      717
+    ],
+    "ascending": true
+  },
+  {
+    "id": "g2c2b22l1_ord_10",
+    "prompt": "Sonlarni kamayish tartibida joylashtiring",
+    "numbers": [
+      250,
+      205,
+      520,
+      502,
+      255
+    ],
+    "ascending": false
+  }
+]

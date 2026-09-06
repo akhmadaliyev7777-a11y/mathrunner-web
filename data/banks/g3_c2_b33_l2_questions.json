@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b33l2_01",
+    "question": "5 dm2 necha cm2?",
+    "correctAnswer": 500,
+    "wrongAnswers": [
+      50,
+      5000
+    ]
+  },
+  {
+    "id": "s3c2b33l2_02",
+    "question": "3 m2 necha dm2?",
+    "correctAnswer": 300,
+    "wrongAnswers": [
+      30,
+      3000
+    ]
+  },
+  {
+    "id": "s3c2b33l2_03",
+    "question": "45 dm2 13 cm2 + 11 dm2 51 cm2 = ? cm2",
+    "correctAnswer": 4564,
+    "wrongAnswers": [
+      4554,
+      4574
+    ]
+  },
+  {
+    "id": "s3c2b33l2_04",
+    "question": "5 m2 3 dm2 necha dm2?",
+    "correctAnswer": 503,
+    "wrongAnswers": [
+      53,
+      5003
+    ]
+  },
+  {
+    "id": "s3c2b33l2_05",
+    "question": "2 m2 necha cm2?",
+    "correctAnswer": 20000,
+    "wrongAnswers": [
+      2000,
+      200000
+    ]
+  },
+  {
+    "id": "s3c2b33l2_06",
+    "question": "Taqqoslang: 1 m2 __ 100 dm2",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s3c2b33l2_07",
+    "question": "1 kvadrat metr necha kvadrat detsimetr?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      10,
+      1000
+    ]
+  },
+  {
+    "id": "s3c2b33l2_08",
+    "question": "289 dm2 = ? m2 ? dm2  (m2 sonini yozing)",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      3,
+      289
+    ]
+  },
+  {
+    "id": "s3c2b33l2_09",
+    "question": "7 dm2 necha cm2?",
+    "correctAnswer": 700,
+    "wrongAnswers": [
+      70,
+      7000
+    ]
+  },
+  {
+    "id": "s3c2b33l2_10",
+    "question": "400 cm2 necha dm2?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      40,
+      2
+    ]
+  }
+]

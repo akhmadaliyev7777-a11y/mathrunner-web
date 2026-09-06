@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b11l2_01",
+    "question": "80 - (20 + 35) = ?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      35,
+      95
+    ]
+  },
+  {
+    "id": "s2c1b11l2_02",
+    "question": "100 - (40 + 25) = ?",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      45,
+      85
+    ]
+  },
+  {
+    "id": "s2c1b11l2_03",
+    "question": "17 + 3 + 60 = ?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      77,
+      70
+    ]
+  },
+  {
+    "id": "s2c1b11l2_04",
+    "question": "1 m necha sm?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      10,
+      1000
+    ]
+  },
+  {
+    "id": "s2c1b11l2_05",
+    "question": "Bir sonni o'yladim: undan 9 ni ayirsam, 25 bo'ladi. Qaysi son?",
+    "correctAnswer": 34,
+    "wrongAnswers": [
+      16,
+      9
+    ]
+  },
+  {
+    "id": "s2c1b11l2_06",
+    "question": "5 + 7 = 12 bo'lsa, 12 - 5 qancha?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      5,
+      17
+    ]
+  },
+  {
+    "id": "s2c1b11l2_07",
+    "question": "Do'konda 60 kg kartoshka bor edi. 22 kg sotildi, 15 kg qo'shildi. Nechta kg bo'ldi?",
+    "correctAnswer": 53,
+    "wrongAnswers": [
+      37,
+      67
+    ]
+  },
+  {
+    "id": "s2c1b11l2_08",
+    "question": "50 - (10 + 20) = 20.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c1b11l2_09",
+    "question": "Xatoni toping: 44 + 8 = 51. To'g'ri javob qancha?",
+    "correctAnswer": 52,
+    "wrongAnswers": [
+      51,
+      53
+    ]
+  },
+  {
+    "id": "s2c1b11l2_10",
+    "question": "Uchburchak tomonlari 12 sm, 15 sm, 9 sm. Perimetri qancha sm?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      27,
+      24
+    ]
+  }
+]

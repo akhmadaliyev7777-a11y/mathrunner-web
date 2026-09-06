@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b8l2_01",
+    "question": "80 - (20 + 15) = ?",
+    "correctAnswer": 45,
+    "wrongAnswers": [
+      75,
+      55
+    ]
+  },
+  {
+    "id": "s2c1b8l2_02",
+    "question": "70 - (30 + 25) = ?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      65,
+      25
+    ]
+  },
+  {
+    "id": "s2c1b8l2_03",
+    "question": "90 - (40 + 18) = ?",
+    "correctAnswer": 32,
+    "wrongAnswers": [
+      68,
+      42
+    ]
+  },
+  {
+    "id": "s2c1b8l2_04",
+    "question": "60 - (10 + 27) = ?",
+    "correctAnswer": 23,
+    "wrongAnswers": [
+      77,
+      33
+    ]
+  },
+  {
+    "id": "s2c1b8l2_05",
+    "question": "100 - (50 + 22) = ?",
+    "correctAnswer": 28,
+    "wrongAnswers": [
+      72,
+      38
+    ]
+  },
+  {
+    "id": "s2c1b8l2_06",
+    "question": "85 - (25 + 30) = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      90,
+      40
+    ]
+  },
+  {
+    "id": "s2c1b8l2_07",
+    "question": "Avvaliga 90 so'm bor edi. 30 so'mga ruchka, 25 so'mga daftar oldi. Nechta so'm qoldi?",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      45,
+      25
+    ]
+  },
+  {
+    "id": "s2c1b8l2_08",
+    "question": "Kitobda 100 bet. Bola dushanba 30 bet, seshanba 40 bet o'qidi. Nechta bet qoldi?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      70,
+      20
+    ]
+  },
+  {
+    "id": "s2c1b8l2_09",
+    "question": "80 - (20 + 30) ifodaning qiymati 30 ga teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c1b8l2_10",
+    "question": "60 - (10 + 15) ifodaning qiymati 45 ga teng.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

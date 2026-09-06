@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b28l1_01",
+    "question": "10, 20, 30, ... — keyingi son qaysi?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      30,
+      50
+    ]
+  },
+  {
+    "id": "s1c2b28l1_02",
+    "question": "50, 40, 30, ... — keyingi son qaysi?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      30,
+      10
+    ]
+  },
+  {
+    "id": "s1c2b28l1_03",
+    "question": "20 + 30 = ?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      40,
+      60
+    ]
+  },
+  {
+    "id": "s1c2b28l1_04",
+    "question": "70 - 40 = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      40,
+      20
+    ]
+  },
+  {
+    "id": "s1c2b28l1_05",
+    "question": "40 + 40 = ?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      70,
+      90
+    ]
+  },
+  {
+    "id": "s1c2b28l1_06",
+    "question": "100 - 60 = ?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      50,
+      30
+    ]
+  },
+  {
+    "id": "s1c2b28l1_07",
+    "question": "Yaxlit son deb qanday sonlarga aytiladi?",
+    "correctAnswer": "nol bilan tugaydigan sonlarga",
+    "wrongAnswers": [
+      "katta sonlarga",
+      "juft sonlarga"
+    ]
+  },
+  {
+    "id": "s1c2b28l1_08",
+    "question": "60 sonida nechta o'nlik bor?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      60,
+      1
+    ]
+  },
+  {
+    "id": "s1c2b28l1_09",
+    "question": "8 ta o'nlik nechani beradi?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      8,
+      18
+    ]
+  },
+  {
+    "id": "s1c2b28l1_10",
+    "question": "10, 20, 30, 40, 50 — bu qatorda nechta son bor?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      6
+    ]
+  }
+]

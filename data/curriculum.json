@@ -1,0 +1,7072 @@
+{
+ "generatedAt": "2026-09-06",
+ "source": "castles_data.dart",
+ "totals": {
+  "levels": 574,
+  "testLevels": 501,
+  "gameLevels": 73,
+  "questions": 5020,
+  "gameTasks": 647
+ },
+ "gameKindsSupported": [
+  "test",
+  "set",
+  "numberOrder",
+  "placeValue",
+  "balanceScale",
+  "symmetry",
+  "netFold",
+  "equationGrid",
+  "algorithmConveyor"
+ ],
+ "grades": [
+  {
+   "grade": 1,
+   "kingdom": "forest",
+   "kingdomTitle": "O'rmon olami",
+   "color": {
+    "accent": "#4AD07A",
+    "accentDark": "#2f9d57",
+    "head": "linear-gradient(160deg,#7FD6FF,#4FC0F7 40%,#2F8A55)"
+   },
+   "levelCount": 135,
+   "blockCount": 64,
+   "castleRange": [
+    1,
+    135
+   ],
+   "choraks": [
+    {
+     "chorak": 1,
+     "roman": "I",
+     "blocks": [
+      {
+       "blok": 1,
+       "name": "Belgilar: shakl/rang/o'lcham; kattaliklarni taqqoslash; fazoviy munosabatlar (tepa/past/chap/o'ng)",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c1_b1_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b1_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c1_b1_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b1_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 2,
+       "name": "Narsalar sanog'i (1-9)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c1_b2_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b2_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 3,
+       "name": "Yassi va hajmli shakllar (nomlash, farqlash)",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c1_b3_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b3_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 4,
+       "name": "Vaqt bo'yicha ketma-ketlik (hafta kunlari, oldin/keyin)",
+       "topic": "logicSequencing",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c1_b4_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b4_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 5,
+       "name": "Narsalar guruhi: teng (=) / teng emas (≠); ko'p/kam/shuncha",
+       "topic": "logicSequencing",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c1_b5_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b5_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c1_b5_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b5_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 6,
+       "name": "1-10 gacha sonlar: sanoq tartibi, oldingi/keyingi son, qo'shnilar",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g1_c1_b6_l1",
+         "level": 1,
+         "gameKind": "numberOrder",
+         "count": 10,
+         "bank": "banks/g1_c1_b6_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c1_b6_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b6_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 7,
+       "name": "Qo'shish va ayirish amali (10 ichida); \"+\"/\"−\", yig'indi/ayirma",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c1_b7_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b7_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c1_b7_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b7_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 8,
+       "name": "Sonlarni taqqoslash (>, <, =)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c1_b8_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b8_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 9,
+       "name": "1, 2, 3, 4, 5 sonlari va raqamlari; sonlar tarkibi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c1_b9_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b9_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c1_b9_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b9_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 10,
+       "name": "1-5: butun va qismlar; chizg'ich/sonlar o'qida amallar",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c1_b10_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b10_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c1_b10_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b10_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 11,
+       "name": "6, 7, 8, 9 sonlari va raqamlari; tarkibi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c1_b11_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b11_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c1_b11_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b11_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 12,
+       "name": "0 soni; 10 soni va tarkibi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c1_b12_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b12_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c1_b12_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b12_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 13,
+       "name": "1-10 taqqoslash, o'sish/kamayish tartibi; natural sonlar",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g1_c1_b13_l1",
+         "level": 1,
+         "gameKind": "numberOrder",
+         "count": 10,
+         "bank": "banks/g1_c1_b13_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c1_b13_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b13_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 14,
+       "name": "Juft va toq sonlar",
+       "topic": "logicSequencing",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g1_c1_b14_l1",
+         "level": 1,
+         "gameKind": "algorithmConveyor",
+         "count": 10,
+         "bank": "banks/g1_c1_b14_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c1_b14_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b14_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 15,
+       "name": "Nuqta, to'g'ri/egri chiziq; kesma, siniq chiziq",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c1_b15_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b15_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c1_b15_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b15_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 16,
+       "name": "Qo'shish hadlari (qo'shiluvchi, yig'indi); ayirish hadlari (kamayuvchi, ayriluvchi, ayirma)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c1_b16_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b16_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c1_b16_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b16_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 17,
+       "name": "Noma'lum qo'shiluvchi / kamayuvchi / ayriluvchini topish",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g1_c1_b17_l1",
+         "level": 1,
+         "gameKind": "balanceScale",
+         "count": 10,
+         "bank": "banks/g1_c1_b17_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c1_b17_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b17_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c1_b17_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b17_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 18,
+       "name": "Qo'shish va ayirish bog'liqligi (teskari amal); o'rin almashtirish xossasi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c1_b18_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b18_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c1_b18_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b18_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 19,
+       "name": "Qo'shish jadvali (10 ichida)",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g1_c1_b19_l1",
+         "level": 1,
+         "gameKind": "equationGrid",
+         "count": 10,
+         "bank": "banks/g1_c1_b19_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c1_b19_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b19_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 20,
+       "name": "Harfiy ifodalarni taqqoslash (a + 6 > a + 3); sonli ifoda va qiymati",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c1_b20_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b20_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c1_b20_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b20_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 21,
+       "name": "1-chorak yakuniy testi (aralash B1-B20)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c1_b21_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b21_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c1_b21_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c1_b21_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      }
+     ],
+     "levelCount": 39,
+     "blockCount": 21
+    },
+    {
+     "chorak": 2,
+     "roman": "II",
+     "blocks": [
+      {
+       "blok": 22,
+       "name": "11-20 gacha sonlar: ikki xonali son, o'nlik/birlik, o'nlikda yozilishi",
+       "topic": "measurement",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g1_c2_b22_l1",
+         "level": 1,
+         "gameKind": "placeValue",
+         "count": 10,
+         "bank": "banks/g1_c2_b22_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c2_b22_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b22_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 23,
+       "name": "11-20 sonlar tarkibi (11-12 … 19-20); juft/toq qoida",
+       "topic": "logicSequencing",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c2_b23_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b23_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c2_b23_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b23_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c2_b23_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b23_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 24,
+       "name": "Sonlarni taqqoslash (20 ichida)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c2_b24_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b24_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 25,
+       "name": "Qavslar: amallar tartibi, qavs qo'yish (20 ichida)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c2_b25_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b25_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c2_b25_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b25_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 26,
+       "name": "Bir xonali sonlarni o'nlikdan o'tib qo'shish (to'liq o'nlikni ajratish)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c2_b26_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b26_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c2_b26_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b26_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c2_b26_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b26_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 27,
+       "name": "Sonlarni ayirish: bo'laklab / o'nlikdan ayirish usuli",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c2_b27_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b27_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c2_b27_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b27_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c2_b27_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b27_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 28,
+       "name": "Yaxlit sonlar (o'ntaliklar): o'ntalab sanash, qo'shish/ayirish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c2_b28_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b28_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c2_b28_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b28_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 29,
+       "name": "21-100 gacha sonlar: o'qilishi, yozilishi, xona birliklari (cho't)",
+       "topic": "measurement",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g1_c2_b29_l1",
+         "level": 1,
+         "gameKind": "placeValue",
+         "count": 10,
+         "bank": "banks/g1_c2_b29_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c2_b29_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b29_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c2_b29_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b29_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 30,
+       "name": "Ikki xonali sonlarni taqqoslash va tartiblash",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g1_c2_b30_l1",
+         "level": 1,
+         "gameKind": "numberOrder",
+         "count": 10,
+         "bank": "banks/g1_c2_b30_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c2_b30_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b30_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 31,
+       "name": "Ikki xonali sonlarni qo'shish (birlikka birlik, o'nlikka o'nlik; xonadan o'tmasdan)",
+       "topic": "measurement",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g1_c2_b31_l1",
+         "level": 1,
+         "gameKind": "equationGrid",
+         "count": 10,
+         "bank": "banks/g1_c2_b31_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c2_b31_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b31_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c2_b31_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b31_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 32,
+       "name": "Ikki xonali sonlarni ayirish (birlikdan birlik, o'nlikdan o'nlik)",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c2_b32_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b32_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c2_b32_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b32_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c2_b32_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b32_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 33,
+       "name": "Qo'shish bilan ayirish orasidagi bog'lanish (teskari misollar)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c2_b33_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b33_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 34,
+       "name": "Ko'p komponentli qo'shish; guruhlash xossasi ((a+b)+c = a+(b+c))",
+       "topic": "logicSequencing",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c2_b34_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b34_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c2_b34_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b34_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 35,
+       "name": "Tarkibli ifodalar; qavsli tarkibli ifodalarda amallar tartibi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c2_b35_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b35_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c2_b35_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b35_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 36,
+       "name": "2-chorak yakuniy: misol va masalalar yechish (aralash)",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c2_b36_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b36_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c2_b36_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c2_b36_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      }
+     ],
+     "levelCount": 34,
+     "blockCount": 15
+    },
+    {
+     "chorak": 3,
+     "roman": "III",
+     "blocks": [
+      {
+       "blok": 37,
+       "name": "Masala tarkibi (shart, savol, yechim, javob); yechish rejasi; sodda masala; shart berish usullari",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c3_b37_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b37_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c3_b37_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b37_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c3_b37_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b37_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 38,
+       "name": "Butunni topishga doir masalalar (qism + qism = butun)",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c3_b38_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b38_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c3_b38_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b38_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 39,
+       "name": "Qismlarni topishga doir masalalar (butun − qism = qism); mustahkamlash",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c3_b39_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b39_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c3_b39_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b39_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 40,
+       "name": "Sonni orttirish / kamaytirishga doir masalalar; qanchaga katta/kichik",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c3_b40_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b40_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c3_b40_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b40_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c3_b40_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b40_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 41,
+       "name": "Taqqoslashga doir masalalar (\"qancha ko'p / qancha kam\")",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c3_b41_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b41_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c3_b41_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b41_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 42,
+       "name": "Murakkab ifodalar. Amallar tartibi (qavsli/qavssiz)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c3_b42_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b42_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c3_b42_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b42_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 43,
+       "name": "Masala sharti va savoli; tarkibli (ikki amalli) masalalar; ketma-ketlik va mantiqiy masalalar",
+       "topic": "wordProblems",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g1_c3_b43_l1",
+         "level": 1,
+         "gameKind": "set",
+         "count": 10,
+         "bank": "banks/g1_c3_b43_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c3_b43_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b43_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c3_b43_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b43_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 44,
+       "name": "3-chorak oraliq takrorlash (B37-B43, masalalar)",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c3_b44_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b44_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c3_b44_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b44_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 45,
+       "name": "Uzunlik: santimetr (sm); kesma va uning uzunligi",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c3_b45_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b45_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c3_b45_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b45_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 46,
+       "name": "Detsimetr (dm), 1 dm = 10 sm; uzunlik birliklarini aylantirish",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c3_b46_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b46_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c3_b46_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b46_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c3_b46_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b46_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 47,
+       "name": "Ko'pburchaklar tomonlarining uzunligi (yig'indi)",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c3_b47_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b47_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 48,
+       "name": "Massa; massa birligi kilogramm (kg); kg da qo'shish/ayirish",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c3_b48_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b48_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c3_b48_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b48_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 49,
+       "name": "Hajm: litr (l); idishlar sig'imi",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c3_b49_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b49_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c3_b49_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b49_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 50,
+       "name": "Kattalik tushunchasi (uzunlik/massa/hajm); kattaliklar xossalari; noma'lum qo'shiluvchi",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c3_b50_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b50_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c3_b50_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b50_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 51,
+       "name": "3-chorak yakuniy: masalalar yechish (\"bir son o'yladim\")",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c3_b51_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b51_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c3_b51_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c3_b51_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      }
+     ],
+     "levelCount": 33,
+     "blockCount": 15
+    },
+    {
+     "chorak": 4,
+     "roman": "IV",
+     "blocks": [
+      {
+       "blok": 52,
+       "name": "Kesma: o'lchash, berilgan uzunlikda chizish, xossalari (yig'indi/ayirma); siniq chiziq uzunligi",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c4_b52_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b52_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c4_b52_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b52_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c4_b52_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b52_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 53,
+       "name": "Ko'pburchak, tomoni, muntazam ko'pburchak; perimetr (barcha tomonlar yig'indisi); kvadrat/to'g'ri to'rtburchak perimetri",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c4_b53_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b53_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c4_b53_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b53_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c4_b53_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b53_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 54,
+       "name": "To'g'ri to'rtburchak va kvadrat: qarama-qarshi tomonlar tengligi; to'g'ri/o'tkir/o'tmas burchak",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c4_b54_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b54_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c4_b54_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b54_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 55,
+       "name": "Burchak turlari; to'rtburchak turlari (trapetsiya, romb, to'g'ri to'rtburchak)",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c4_b55_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b55_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c4_b55_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b55_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 56,
+       "name": "Sohalar va chegaralar; teng shakllar; qismlardan shakl tuzish (Tangram)",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c4_b56_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b56_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c4_b56_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b56_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 57,
+       "name": "Simmetriya o'qi (vertikal/gorizontal/diagonal); simmetriya o'qlariga ega yassi shakllar",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g1_c4_b57_l1",
+         "level": 1,
+         "gameKind": "symmetry",
+         "count": 10,
+         "bank": "banks/g1_c4_b57_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c4_b57_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b57_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 58,
+       "name": "Hajmli shakllar (kub, kuboid, shar, silindr, konus, piramida, prizma)",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g1_c4_b58_l1",
+         "level": 1,
+         "gameKind": "netFold",
+         "count": 10,
+         "bank": "banks/g1_c4_b58_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c4_b58_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b58_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 59,
+       "name": "Tenglik va tengsizliklar (=, >, <)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c4_b59_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b59_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 60,
+       "name": "Sonli va harfiy ifodalar; harfiy ifoda qiymati (o'rniga qo'yish); ifodalarni soddalashtirish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c4_b60_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b60_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c4_b60_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b60_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c4_b60_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b60_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 61,
+       "name": "O'rin almashtirish va guruhlash xossalari (o'zgaruvchi bilan); o'zgaruvchili tengsizliklar",
+       "topic": "logicSequencing",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c4_b61_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b61_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c4_b61_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b61_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 62,
+       "name": "Tenglamalar: yechish, tekshirish, ildiz; masalalarni tenglama yordamida yechish",
+       "topic": "wordProblems",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g1_c4_b62_l1",
+         "level": 1,
+         "gameKind": "balanceScale",
+         "count": 10,
+         "bank": "banks/g1_c4_b62_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c4_b62_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b62_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c4_b62_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b62_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 63,
+       "name": "Kesma va uzunligi: tenglik / tengsizlik (F + A = S)",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c4_b63_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b63_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 64,
+       "name": "Yillik takrorlash: barcha amallar, geometriya, o'lchov, tenglama",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g1_c4_b64_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b64_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c4_b64_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b64_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g1_c4_b64_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g1_c4_b64_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      }
+     ],
+     "levelCount": 29,
+     "blockCount": 13
+    }
+   ]
+  },
+  {
+   "grade": 2,
+   "kingdom": "city",
+   "kingdomTitle": "Shahar olami",
+   "color": {
+    "accent": "#FF5CD0",
+    "accentDark": "#c43fa6",
+    "head": "linear-gradient(160deg,#5C7FF5,#8055EE 45%,#4A2F9E)"
+   },
+   "levelCount": 152,
+   "blockCount": 72,
+   "castleRange": [
+    136,
+    287
+   ],
+   "choraks": [
+    {
+     "chorak": 1,
+     "roman": "I",
+     "blocks": [
+      {
+       "blok": 1,
+       "name": "Takrorlash: 100 gacha sonlar, qo'shish-ayirish, taqqoslash, guruhlash",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c1_b1_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b1_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c1_b1_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b1_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 2,
+       "name": "Chiziqlar (to'g'ri/egri/nuqta/nur/kesma); siniq chiziq va perimetr",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c1_b2_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b2_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c1_b2_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b2_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 3,
+       "name": "Sonli va harfiy ifoda, ifoda qiymatini topish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c1_b3_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b3_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 4,
+       "name": "Takrorlash: birlik aylantirish, o'zaro teskari masalalar",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c1_b4_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b4_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c1_b4_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b4_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 5,
+       "name": "Xona birliklari, xona qo'shiluvchilari; 100 ichida qo'shish-ayirish",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c1_b5_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b5_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c1_b5_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b5_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 6,
+       "name": "Yaxlit songacha qo'shish / yaxlit sondan ayirish; o'nlikdan ayirish (31+9, 30−7)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c1_b6_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b6_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c1_b6_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b6_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 7,
+       "name": "To'liq o'nlik hosil qilib qo'shish (21+39)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c1_b7_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b7_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c1_b7_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b7_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 8,
+       "name": "Ikki xonali sondan ayirish (50−22); sondan yig'indini ayirish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c1_b8_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b8_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c1_b8_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b8_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 9,
+       "name": "Xonadan o'tib qo'shish (25+6, 6+25)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c1_b9_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b9_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c1_b9_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b9_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 10,
+       "name": "Xonadan o'tib ayirish (33−7, 43−7)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c1_b10_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b10_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c1_b10_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b10_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 11,
+       "name": "1-chorak oraliq takrorlash (B1-B10)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c1_b11_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b11_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c1_b11_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b11_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 12,
+       "name": "Ikki xonali + ikki xonali qo'shish (28+14); ustun ko'rinishiga kirish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c1_b12_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b12_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c1_b12_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b12_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 13,
+       "name": "Ikki xonali sonlarni ayirish (43−16)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c1_b13_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b13_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c1_b13_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b13_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 14,
+       "name": "Ustunli qo'shish/ayirish algoritmi; guruhlash xossasi; og'zaki usullar",
+       "topic": "logicSequencing",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c1_b14_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b14_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c1_b14_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b14_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c1_b14_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b14_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 15,
+       "name": "Yig'indidan sonni ayirish xossasi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c1_b15_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b15_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c1_b15_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b15_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 16,
+       "name": "Sondan yig'indini ayirish xossasi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c1_b16_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b16_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c1_b16_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b16_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 17,
+       "name": "Masalalar yechish (aralash +/−, teskari masala)",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c1_b17_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b17_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c1_b17_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b17_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 18,
+       "name": "Amaliy topshiriqlar (jadval / diagramma o'qish)",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c1_b18_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b18_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 19,
+       "name": "1-chorak yakuniy testi; Venn diagrammasi",
+       "topic": "wordProblems",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g2_c1_b19_l1",
+         "level": 1,
+         "gameKind": "set",
+         "count": 10,
+         "bank": "banks/g2_c1_b19_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c1_b19_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c1_b19_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      }
+     ],
+     "levelCount": 37,
+     "blockCount": 19
+    },
+    {
+     "chorak": 2,
+     "roman": "II",
+     "blocks": [
+      {
+       "blok": 20,
+       "name": "Uch xonali sonlar: yuzlar xonasi, o'qilishi va yozilishi",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g2_c2_b20_l1",
+         "level": 1,
+         "gameKind": "placeValue",
+         "count": 10,
+         "bank": "banks/g2_c2_b20_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c2_b20_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b20_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 21,
+       "name": "Xona qo'shiluvchilari yig'indisi; to'liq o'nlik",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c2_b21_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b21_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c2_b21_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b21_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 22,
+       "name": "Uch xonali sonlarni taqqoslash va tartiblash",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g2_c2_b22_l1",
+         "level": 1,
+         "gameKind": "numberOrder",
+         "count": 10,
+         "bank": "banks/g2_c2_b22_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c2_b22_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b22_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 23,
+       "name": "Uch xonali sonlarni qo'shish (yuzliklarni yuzlikka)",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c2_b23_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b23_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c2_b23_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b23_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 24,
+       "name": "Uch xonali sonlarni ayirish (xonadan birlik qarz olish)",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c2_b24_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b24_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c2_b24_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b24_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c2_b24_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b24_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 25,
+       "name": "Aralash 3 xonali qo'shish/ayirish; bir nechta qo'shiluvchi; masalalar",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c2_b25_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b25_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c2_b25_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b25_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c2_b25_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b25_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 26,
+       "name": "2-chorak oraliq takrorlash (B20-B25)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c2_b26_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b26_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c2_b26_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b26_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 27,
+       "name": "Uzunlik: metr, detsimetr, santimetr va o'zaro aylantirish",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c2_b27_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b27_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c2_b27_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b27_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c2_b27_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b27_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 28,
+       "name": "Millimetr; siniq chiziq uzunligi va ko'pburchak perimetri",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c2_b28_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b28_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c2_b28_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b28_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 29,
+       "name": "Qo'shish va ayirishning bog'liqligi (teskari amal bilan tekshirish)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c2_b29_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b29_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c2_b29_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b29_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 30,
+       "name": "Tenglamalar: noma'lum qo'shiluvchi / kamayuvchi / ayriluvchi",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g2_c2_b30_l1",
+         "level": 1,
+         "gameKind": "balanceScale",
+         "count": 10,
+         "bank": "banks/g2_c2_b30_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c2_b30_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b30_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 31,
+       "name": "Soat va minut ishtirok etgan ifodalarni hisoblash",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c2_b31_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b31_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c2_b31_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b31_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 32,
+       "name": "Masalalar yechish; soat/minut takrorlash",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c2_b32_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b32_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c2_b32_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b32_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 33,
+       "name": "2-chorak yakuniy testi; Venn/vazn mantig'i",
+       "topic": "logicSequencing",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g2_c2_b33_l1",
+         "level": 1,
+         "gameKind": "set",
+         "count": 10,
+         "bank": "banks/g2_c2_b33_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c2_b33_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c2_b33_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      }
+     ],
+     "levelCount": 31,
+     "blockCount": 14
+    },
+    {
+     "chorak": 3,
+     "roman": "III",
+     "blocks": [
+      {
+       "blok": 34,
+       "name": "To'g'ri chiziq, nur, kesma; yassi sirt, tekislik",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c3_b34_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b34_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b34_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b34_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 35,
+       "name": "Burchak va uning turlari (o'tkir, to'g'ri, o'tmas)",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c3_b35_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b35_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b35_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b35_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 36,
+       "name": "To'g'ri to'rtburchak va kvadrat; burchaklari xossalari",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c3_b36_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b36_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b36_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b36_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 37,
+       "name": "To'g'ri burchak yasash; tomonlar xossalari; katakli qog'ozda shakl",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c3_b37_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b37_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b37_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b37_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 38,
+       "name": "Yuz tushunchasi; katak qog'ozda yuzni hisoblash (butun/yarim katak)",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c3_b38_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b38_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b38_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b38_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 39,
+       "name": "Yuz o'lchov birliklari (cm², dm², m²); masalalar",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c3_b39_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b39_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b39_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b39_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 40,
+       "name": "3-chorak oraliq-1 takrorlash (geometriya)",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c3_b40_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b40_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b40_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b40_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 41,
+       "name": "Ko'paytirish: tushuncha, komponentlar, o'rin almashtirish xossasi, to'g'ri to'rtburchak yuzi (a·b)",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c3_b41_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b41_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b41_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b41_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b41_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b41_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 42,
+       "name": "1 ga va 2 ga ko'paytirish jadvali",
+       "topic": "wordProblems",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g2_c3_b42_l1",
+         "level": 1,
+         "gameKind": "equationGrid",
+         "count": 10,
+         "bank": "banks/g2_c3_b42_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b42_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b42_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 43,
+       "name": "Bo'lish: tushuncha va komponentlar; sonni 2 ga bo'lish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c3_b43_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b43_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b43_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b43_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b43_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b43_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 44,
+       "name": "Juft va toq sonlar",
+       "topic": "logicSequencing",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g2_c3_b44_l1",
+         "level": 1,
+         "gameKind": "algorithmConveyor",
+         "count": 10,
+         "bank": "banks/g2_c3_b44_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b44_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b44_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 45,
+       "name": "3 ga ko'paytirish va bo'lish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c3_b45_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b45_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b45_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b45_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 46,
+       "name": "4 ga ko'paytirish va bo'lish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c3_b46_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b46_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b46_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b46_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 47,
+       "name": "5 ga ko'paytirish va bo'lish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c3_b47_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b47_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b47_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b47_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 48,
+       "name": "Sonni bir necha marta orttirish / kamaytirish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c3_b48_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b48_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b48_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b48_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 49,
+       "name": "3-chorak oraliq-2 takrorlash (x/: 1-5, juft-toq)",
+       "topic": "logicSequencing",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c3_b49_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b49_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b49_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b49_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 50,
+       "name": "6 ga ko'paytirish va bo'lish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c3_b50_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b50_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b50_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b50_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 51,
+       "name": "7 ga ko'paytirish va bo'lish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c3_b51_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b51_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b51_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b51_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 52,
+       "name": "8 ga ko'paytirish va bo'lish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c3_b52_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b52_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b52_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b52_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 53,
+       "name": "9 ga ko'paytirish va bo'lish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c3_b53_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b53_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b53_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b53_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 54,
+       "name": "To'liq ko'paytirish jadvali (Pifagor); x/: o'zaro bog'liqligi",
+       "topic": "wordProblems",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g2_c3_b54_l1",
+         "level": 1,
+         "gameKind": "equationGrid",
+         "count": 10,
+         "bank": "banks/g2_c3_b54_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b54_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b54_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 55,
+       "name": "Bo'luvchilar va karralilar",
+       "topic": "logicSequencing",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g2_c3_b55_l1",
+         "level": 1,
+         "gameKind": "algorithmConveyor",
+         "count": 10,
+         "bank": "banks/g2_c3_b55_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b55_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b55_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 56,
+       "name": "Masalalar yechish; 3-chorak yakuniy testi",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c3_b56_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b56_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b56_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b56_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c3_b56_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c3_b56_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 57,
+       "name": "Mantiqiy masalalar (kombinatorika, sovg'a xaltachasi)",
+       "topic": "wordProblems",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g2_c3_b57_l1",
+         "level": 1,
+         "gameKind": "set",
+         "count": 10,
+         "bank": "banks/g2_c3_b57_l1_tasks.json",
+         "webSupported": true
+        }
+       ]
+      }
+     ],
+     "levelCount": 50,
+     "blockCount": 24
+    },
+    {
+     "chorak": 4,
+     "roman": "IV",
+     "blocks": [
+      {
+       "blok": 58,
+       "name": "Ko'paytirishning o'rin almashtirish va guruhlash xossalari (qulay hisoblash)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c4_b58_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b58_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c4_b58_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b58_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 59,
+       "name": "1 va 0 ishtirokidagi ko'paytirish va bo'lish; aralash x/:",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c4_b59_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b59_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c4_b59_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b59_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 60,
+       "name": "Amallar tartibi (qavssiz): avval x/:, keyin +/−",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c4_b60_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b60_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c4_b60_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b60_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 61,
+       "name": "Qavsli ifodalar: amallar bajarilish tartibi",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g2_c4_b61_l1",
+         "level": 1,
+         "gameKind": "equationGrid",
+         "count": 10,
+         "bank": "banks/g2_c4_b61_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c4_b61_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b61_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c4_b61_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b61_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 62,
+       "name": "Tenglamalar: tuzish, yechish, ildiz, tekshirish",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g2_c4_b62_l1",
+         "level": 1,
+         "gameKind": "balanceScale",
+         "count": 10,
+         "bank": "banks/g2_c4_b62_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c4_b62_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b62_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c4_b62_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b62_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 63,
+       "name": "Masalalar yechish; 4-chorak oraliq takrorlash",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c4_b63_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b63_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c4_b63_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b63_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 64,
+       "name": "10 ga va 100 ga ko'paytirish va bo'lish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c4_b64_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b64_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c4_b64_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b64_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 65,
+       "name": "Yaxlit sonlarni ko'paytirish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c4_b65_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b65_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c4_b65_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b65_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c4_b65_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b65_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 66,
+       "name": "Yaxlit sonlarni bo'lish (bo'linuvchi/bo'luvchidan nollarni tashlash)",
+       "topic": "logicSequencing",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c4_b66_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b66_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c4_b66_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b66_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 67,
+       "name": "Yig'indini songa ko'paytirish; taqsimot xossasi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c4_b67_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b67_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c4_b67_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b67_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c4_b67_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b67_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 68,
+       "name": "Ikki xonali sonni bir xonali songa ko'paytirish (algoritm)",
+       "topic": "logicSequencing",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c4_b68_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b68_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c4_b68_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b68_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 69,
+       "name": "Hajmli shakllar (parallelepiped, kub, sirt); hajm, kubik santimetr",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g2_c4_b69_l1",
+         "level": 1,
+         "gameKind": "netFold",
+         "count": 10,
+         "bank": "banks/g2_c4_b69_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c4_b69_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b69_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 70,
+       "name": "Aylana va doira: radius, diametr, sirkul bilan chizish",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c4_b70_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b70_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c4_b70_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b70_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 71,
+       "name": "Yillik takrorlash: barcha amallar, geometriya, o'lchov birliklari",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g2_c4_b71_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b71_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c4_b71_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b71_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g2_c4_b71_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g2_c4_b71_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 72,
+       "name": "Mantiqiy topshiriqlar (bannerlar, muzli katok)",
+       "topic": "logicSequencing",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g2_c4_b72_l1",
+         "level": 1,
+         "gameKind": "set",
+         "count": 10,
+         "bank": "banks/g2_c4_b72_l1_tasks.json",
+         "webSupported": true
+        }
+       ]
+      }
+     ],
+     "levelCount": 34,
+     "blockCount": 15
+    }
+   ]
+  },
+  {
+   "grade": 3,
+   "kingdom": "space",
+   "kingdomTitle": "Koinot olami",
+   "color": {
+    "accent": "#4FC0F7",
+    "accentDark": "#2f7fb0",
+    "head": "linear-gradient(160deg,#2B2478,#161240 55%,#0D0A24)"
+   },
+   "levelCount": 150,
+   "blockCount": 71,
+   "castleRange": [
+    288,
+    437
+   ],
+   "choraks": [
+    {
+     "chorak": 1,
+     "roman": "I",
+     "blocks": [
+      {
+       "blok": 1,
+       "name": "Takrorlash: 100 gacha / uch xonali sonlar, qo'shish-ayirish xossalari",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c1_b1_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b1_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b1_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b1_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 2,
+       "name": "Takrorlash: uzunlik birliklari (mm-km) va aylantirish",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c1_b2_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b2_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 3,
+       "name": "Takrorlash: x/:, 0 va 1 xossalari, nol bilan tugaydigan sonlar, taqsimot xossasi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c1_b3_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b3_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b3_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b3_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 4,
+       "name": "Takrorlash: vaqt (soat/minut), to'g'ri to'rtburchak P va S",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c1_b4_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b4_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b4_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b4_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 5,
+       "name": "Ko'p xonali sonlar, sinf/xona, pozitsion sanoq, Rim raqamlari",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c1_b5_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b5_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b5_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b5_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 6,
+       "name": "Millionlab sonlarni o'qish/yozish, sinf chiziqlari",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c1_b6_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b6_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b6_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b6_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 7,
+       "name": "Ko'p xonali sonlarni taqqoslash/tartiblash, yoyilma / xona qo'shiluvchilari",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g3_c1_b7_l1",
+         "level": 1,
+         "gameKind": "numberOrder",
+         "count": 10,
+         "bank": "banks/g3_c1_b7_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b7_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b7_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 8,
+       "name": "Ustunli qo'shish (millionlab); gektar, harfiy ifodalar (n ta)",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c1_b8_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b8_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b8_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b8_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 9,
+       "name": "Ustunli ayirish, sinflar bo'yicha; km/m aralash, siniq chiziq",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c1_b9_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b9_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b9_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b9_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 10,
+       "name": "Qo'shish/ayirish aralash, qulay usullar, amallar tartibi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c1_b10_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b10_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b10_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b10_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b10_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b10_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 11,
+       "name": "1-chorak oraliq yakuniy testi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c1_b11_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b11_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b11_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b11_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 12,
+       "name": "x/: 10/100/1000, yaxlit sonlarni x/:",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c1_b12_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b12_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b12_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b12_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 13,
+       "name": "Ustunli x(2-xonax1), x(3-xonax1); yig'indini songa ko'paytirish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c1_b13_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b13_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b13_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b13_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 14,
+       "name": "Ustunli x(ko'p xonax1); valyuta kursi grafigi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c1_b14_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b14_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b14_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b14_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 15,
+       "name": "Ustunli x(x2-xona), x(x3-xona); keshbek",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g3_c1_b15_l1",
+         "level": 1,
+         "gameKind": "equationGrid",
+         "count": 10,
+         "bank": "banks/g3_c1_b15_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b15_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b15_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b15_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b15_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 16,
+       "name": "Yaxlit sonlarni x(qiymatli qism), o'rtasida nol; muntazam ko'pburchak",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c1_b16_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b16_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b16_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b16_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 17,
+       "name": "Masalalar yechish (aralash amallar)",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c1_b17_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b17_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b17_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b17_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 18,
+       "name": "Narx, miqdor, qiymat (C = a·n); masalalar",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c1_b18_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b18_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b18_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b18_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 19,
+       "name": "Soat, minut, sekund; vaqt birliklarini maydalash/yiriklashtirish",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c1_b19_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b19_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 20,
+       "name": "1-chorak yakuniy testi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c1_b20_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b20_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b20_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b20_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c1_b20_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c1_b20_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      }
+     ],
+     "levelCount": 41,
+     "blockCount": 20
+    },
+    {
+     "chorak": 2,
+     "roman": "II",
+     "blocks": [
+      {
+       "blok": 21,
+       "name": "Yig'indini songa bo'lish; bo'linuvchini qulay qo'shiluvchilarga ajratish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c2_b21_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b21_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c2_b21_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b21_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 22,
+       "name": "Qoldiq, qoldiqli bo'lish algoritmi, b·c + r = a tekshirish",
+       "topic": "logicSequencing",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c2_b22_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b22_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c2_b22_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b22_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 23,
+       "name": "Burchakli bo'lish (long division), to'liqsiz bo'linuvchi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c2_b23_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b23_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c2_b23_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b23_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c2_b23_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b23_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 24,
+       "name": "Amallar tartibi + ≤ belgisi; 10/5/8/1 ga qoldiqlar; kvartal",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c2_b24_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b24_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c2_b24_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b24_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 25,
+       "name": "Bo'linmada 0; 0 bilan tugagan sonlarni bo'lish; yaxlit sonlarni bo'lish; A0-A6",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c2_b25_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b25_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c2_b25_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b25_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 26,
+       "name": "Bo'lishning geometrik ma'nosi (kesmada); masalalar",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c2_b26_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b26_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c2_b26_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b26_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 27,
+       "name": "2-chorak oraliq yakuniy testi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c2_b27_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b27_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c2_b27_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b27_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 28,
+       "name": "Ikki va uch xonali songa burchakli bo'lish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c2_b28_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b28_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c2_b28_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b28_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c2_b28_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b28_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 29,
+       "name": "Bo'luvchilar va karralilar",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g3_c2_b29_l1",
+         "level": 1,
+         "gameKind": "algorithmConveyor",
+         "count": 10,
+         "bank": "banks/g3_c2_b29_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c2_b29_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b29_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 30,
+       "name": "Amaliy: siniq chiziq, Rim raqamlari amallari, vaqt↔massa",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c2_b30_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b30_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c2_b30_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b30_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 31,
+       "name": "Kesmani teng bo'laklarga bo'lish; to'g'ri to'rtburchak perimetri formulalari",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c2_b31_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b31_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c2_b31_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b31_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 32,
+       "name": "Muntazam shakllar perimetri; simmetriya o'qi; nostandart shakl perimetri",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g3_c2_b32_l1",
+         "level": 1,
+         "gameKind": "symmetry",
+         "count": 10,
+         "bank": "banks/g3_c2_b32_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c2_b32_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b32_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 33,
+       "name": "Yuz birliklari aylantirish; ulushlar (vizual); paletka/guruch usuli; nostandart shakl yuzi",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g3_c2_b33_l1",
+         "level": 1,
+         "gameKind": "fractionStrip",
+         "count": 10,
+         "bank": "banks/g3_c2_b33_l1_tasks.json",
+         "webSupported": false
+        },
+        {
+         "id": "g3_c2_b33_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b33_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c2_b33_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b33_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 34,
+       "name": "2-chorak yakuniy testi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c2_b34_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b34_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c2_b34_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c2_b34_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 35,
+       "name": "Venn diagrammasi (kesishma so'z masala), sehrli kvadrat",
+       "topic": "wordProblems",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g3_c2_b35_l1",
+         "level": 1,
+         "gameKind": "set",
+         "count": 10,
+         "bank": "banks/g3_c2_b35_l1_tasks.json",
+         "webSupported": true
+        }
+       ]
+      }
+     ],
+     "levelCount": 32,
+     "blockCount": 15
+    },
+    {
+     "chorak": 3,
+     "roman": "III",
+     "blocks": [
+      {
+       "blok": 36,
+       "name": "Massa: kg/g, tonna/sentner, netto/tara/brutto",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c3_b36_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b36_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c3_b36_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b36_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 37,
+       "name": "Uzunlik birliklari va bog'liqligi",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c3_b37_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b37_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c3_b37_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b37_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 38,
+       "name": "Yuz birliklari (mm² qo'shiladi), munosabatlar, masalalar; gektar/ar",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c3_b38_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b38_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c3_b38_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b38_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c3_b38_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b38_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 39,
+       "name": "Hajm birliklari (mm³/cm³/dm³), litr = dm³, masalalar",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c3_b39_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b39_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c3_b39_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b39_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 40,
+       "name": "3-chorak oraliq-1 yakuniy testi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c3_b40_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b40_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c3_b40_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b40_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 41,
+       "name": "Yuzlarni paletka yordamida (estimation-first: \"qaysi sonlar oralig'ida\")",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c3_b41_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b41_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c3_b41_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b41_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 42,
+       "name": "Parallelepiped/kub, yoq/qirra/uch, qirralar yig'indisi (a·12, 4·(a+b+c))",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c3_b42_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b42_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c3_b42_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b42_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 43,
+       "name": "Kub va parallelepiped yoyilmasi, sirt yuzi",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g3_c3_b43_l1",
+         "level": 1,
+         "gameKind": "netFold",
+         "count": 10,
+         "bank": "banks/g3_c3_b43_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c3_b43_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b43_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 44,
+       "name": "Doira/aylana, radius/diametr, sirkul, aylana yasash, ornament",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c3_b44_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b44_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c3_b44_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b44_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 45,
+       "name": "Doirani teng bo'laklarga bo'lish, sektor; doiraning ulushlari (kasr belgilari 1/2, 1/3, 1/4)",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g3_c3_b45_l1",
+         "level": 1,
+         "gameKind": "fractionStrip",
+         "count": 10,
+         "bank": "banks/g3_c3_b45_l1_tasks.json",
+         "webSupported": false
+        },
+        {
+         "id": "g3_c3_b45_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b45_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 46,
+       "name": "Doiraning ulushi + soat/minut; sonning ulushini topish (1/n ni bo'lish)",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g3_c3_b46_l1",
+         "level": 1,
+         "gameKind": "fractionStrip",
+         "count": 10,
+         "bank": "banks/g3_c3_b46_l1_tasks.json",
+         "webSupported": false
+        },
+        {
+         "id": "g3_c3_b46_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b46_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 47,
+       "name": "3-chorak oraliq-2 yakuniy testi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c3_b47_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b47_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c3_b47_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b47_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 48,
+       "name": "Parallel va perpendikular to'g'ri chiziqlar",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c3_b48_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b48_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c3_b48_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b48_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 49,
+       "name": "Koordinata nuri, nuqta koordinatasi, taqqoslash",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g3_c3_b49_l1",
+         "level": 1,
+         "gameKind": "numberOrder",
+         "count": 10,
+         "bank": "banks/g3_c3_b49_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c3_b49_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b49_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 50,
+       "name": "Tenglik/tengsizlik/tenglama/ifoda; sonli nurda +/− harakat, masalalar",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c3_b50_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b50_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c3_b50_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b50_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 51,
+       "name": "Sodda tenglamalar (tarozi vizuali); tengsizlik yechimlari nurda",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g3_c3_b51_l1",
+         "level": 1,
+         "gameKind": "balanceScale",
+         "count": 10,
+         "bank": "banks/g3_c3_b51_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c3_b51_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b51_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 52,
+       "name": "Koordinata burchagi (OX/OY), nuqta yasash",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g3_c3_b52_l1",
+         "level": 1,
+         "gameKind": "coordinatePath",
+         "count": 10,
+         "bank": "banks/g3_c3_b52_l1_tasks.json",
+         "webSupported": false
+        },
+        {
+         "id": "g3_c3_b52_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b52_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 53,
+       "name": "O'qli simmetriya, simmetrik shakllar",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g3_c3_b53_l1",
+         "level": 1,
+         "gameKind": "symmetry",
+         "count": 10,
+         "bank": "banks/g3_c3_b53_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c3_b53_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b53_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 54,
+       "name": "Tarkibli tenglamalar, soddalashtirish",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g3_c3_b54_l1",
+         "level": 1,
+         "gameKind": "balanceScale",
+         "count": 10,
+         "bank": "banks/g3_c3_b54_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c3_b54_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b54_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 55,
+       "name": "3-chorak yakuniy testi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c3_b55_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b55_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c3_b55_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b55_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c3_b55_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c3_b55_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      }
+     ],
+     "levelCount": 42,
+     "blockCount": 20
+    },
+    {
+     "chorak": 4,
+     "roman": "IV",
+     "blocks": [
+      {
+       "blok": 56,
+       "name": "Perimetr (P=a·4); yuza (a·a, a·b, a·b:2); kuboid hajmi (V=a·b·c, V=S·h)",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c4_b56_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b56_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c4_b56_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b56_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c4_b56_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b56_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 57,
+       "name": "Qoldiqli bo'lish formulasi (a=b·c+r); pud/tirsak; amaliy masalalar",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c4_b57_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b57_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c4_b57_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b57_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 58,
+       "name": "Tezlik/vaqt/masofa; s=v·t, v=s:t, t=s:v (bir jismli)",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c4_b58_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b58_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c4_b58_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b58_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 59,
+       "name": "Harakatga doir masalalar (bir jismli, bosqichli)",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c4_b59_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b59_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c4_b59_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b59_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 60,
+       "name": "Narx/miqdor/qiymat (C=p·n, p=C:n, n=C:p); qaytim",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c4_b60_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b60_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c4_b60_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b60_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 61,
+       "name": "Qiymatga doir masalalar",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c4_b61_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b61_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c4_b61_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b61_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 62,
+       "name": "Ish unumdorligi (A=w·t, w=A:t, t=A:w), masalalar",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c4_b62_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b62_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c4_b62_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b62_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 63,
+       "name": "4-chorak oraliq-1 yakuniy testi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c4_b63_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b63_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c4_b63_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b63_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 64,
+       "name": "To'plam, elementlar, teng to'plam, qismto'plam, tegishlilik (∈, ∉)",
+       "topic": "logicSequencing",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g3_c4_b64_l1",
+         "level": 1,
+         "gameKind": "set",
+         "count": 10,
+         "bank": "banks/g3_c4_b64_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c4_b64_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b64_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 65,
+       "name": "Eyler-Venn diagrammasi; qismto'plam (⊂), bo'sh to'plam (∅)",
+       "topic": "logicSequencing",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g3_c4_b65_l1",
+         "level": 1,
+         "gameKind": "set",
+         "count": 10,
+         "bank": "banks/g3_c4_b65_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c4_b65_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b65_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 66,
+       "name": "To'plamlar kesishmasi (∩) va birlashmasi (∪)",
+       "topic": "logicSequencing",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g3_c4_b66_l1",
+         "level": 1,
+         "gameKind": "set",
+         "count": 10,
+         "bank": "banks/g3_c4_b66_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c4_b66_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b66_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 67,
+       "name": "Venn so'z masalalar (inclusion-exclusion); rost/yolg'on mulohaza",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c4_b67_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b67_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c4_b67_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b67_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c4_b67_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b67_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 68,
+       "name": "4-chorak oraliq-2 yakuniy testi",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c4_b68_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b68_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c4_b68_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b68_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 69,
+       "name": "Yillik takror: katta sonlar, amallar (qit'alar sayohati)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c4_b69_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b69_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c4_b69_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b69_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c4_b69_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b69_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 70,
+       "name": "Yillik takror: unumdorlik/qiymat, geometriya, kasr/ulush, tengsizlik",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g3_c4_b70_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b70_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c4_b70_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b70_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g3_c4_b70_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g3_c4_b70_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 71,
+       "name": "Venn, kombinatorika (2,9,0 → sonlar)",
+       "topic": "logicSequencing",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g3_c4_b71_l1",
+         "level": 1,
+         "gameKind": "set",
+         "count": 10,
+         "bank": "banks/g3_c4_b71_l1_tasks.json",
+         "webSupported": true
+        }
+       ]
+      }
+     ],
+     "levelCount": 35,
+     "blockCount": 16
+    }
+   ]
+  },
+  {
+   "grade": 4,
+   "kingdom": "castle",
+   "kingdomTitle": "Qasr olami",
+   "color": {
+    "accent": "#FFDF6E",
+    "accentDark": "#c47a12",
+    "head": "linear-gradient(160deg,#8055EE,#F8912F 62%,#8A4A1E)"
+   },
+   "levelCount": 137,
+   "blockCount": 75,
+   "castleRange": [
+    438,
+    574
+   ],
+   "choraks": [
+    {
+     "chorak": 1,
+     "roman": "I",
+     "blocks": [
+      {
+       "blok": 1,
+       "name": "Ko'p xonali sonlar: joy qiymati va taqqoslash",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c1_b1_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b1_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c1_b1_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b1_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 2,
+       "name": "Amal hadlari (noma'lum hadni topish)",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c1_b2_l1",
+         "level": 1,
+         "gameKind": "equationGrid",
+         "count": 10,
+         "bank": "banks/g4_c1_b2_l1_tasks.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 3,
+       "name": "Harakat, formula va ish unumdorligi masalalari",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c1_b3_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b3_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c1_b3_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b3_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 4,
+       "name": "Tenglama va tengsizliklar",
+       "topic": "logicSequencing",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c1_b4_l1",
+         "level": 1,
+         "gameKind": "equationGrid",
+         "count": 10,
+         "bank": "banks/g4_c1_b4_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c1_b4_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b4_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 5,
+       "name": "Koordinata nuri va burchagi (takrorlash)",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c1_b5_l1",
+         "level": 1,
+         "gameKind": "coordinatePath",
+         "count": 8,
+         "bank": "banks/g4_c1_b5_l1_tasks.json",
+         "webSupported": false
+        }
+       ]
+      },
+      {
+       "blok": 6,
+       "name": "Vaqt va uning birliklari",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c1_b6_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b6_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 7,
+       "name": "Yuza va perimetr",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c1_b7_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b7_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c1_b7_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b7_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 8,
+       "name": "Bo'luvchilar va karralilar",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c1_b8_l1",
+         "level": 1,
+         "gameKind": "set",
+         "count": 6,
+         "bank": "banks/g4_c1_b8_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c1_b8_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b8_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 9,
+       "name": "Bo'linish alomatlari",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c1_b9_l1",
+         "level": 1,
+         "gameKind": "algorithmConveyor",
+         "count": 10,
+         "bank": "banks/g4_c1_b9_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c1_b9_l2",
+         "level": 2,
+         "gameKind": "algorithmConveyor",
+         "count": 10,
+         "bank": "banks/g4_c1_b9_l2_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c1_b9_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b9_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 10,
+       "name": "Bo'linish va karralilarga doir masalalar",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c1_b10_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b10_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c1_b10_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b10_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 11,
+       "name": "To'plamlar va ma'lumotlarni taqdim etish",
+       "topic": "logicSequencing",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c1_b11_l1",
+         "level": 1,
+         "gameKind": "set",
+         "count": 5,
+         "bank": "banks/g4_c1_b11_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c1_b11_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b11_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 12,
+       "name": "O'rta arifmetik",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c1_b12_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b12_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c1_b12_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b12_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 13,
+       "name": "Chastota",
+       "topic": "logicSequencing",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c1_b13_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b13_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 14,
+       "name": "O'rtachaga doir amaliy masalalar",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c1_b14_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b14_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 15,
+       "name": "Parallel va perpendikular to'g'ri chiziqlar",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c1_b15_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b15_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 16,
+       "name": "Koordinata nuri va koordinata burchagi",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c1_b16_l1",
+         "level": 1,
+         "gameKind": "coordinatePath",
+         "count": 8,
+         "bank": "banks/g4_c1_b16_l1_tasks.json",
+         "webSupported": false
+        },
+        {
+         "id": "g4_c1_b16_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b16_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 17,
+       "name": "Ustunli va chiziqli diagrammalar",
+       "topic": "logicSequencing",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c1_b17_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b17_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c1_b17_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b17_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 18,
+       "name": "Chamalash, grafik va masalalar",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c1_b18_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b18_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c1_b18_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b18_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 19,
+       "name": "Tadqiqot, so'rovnoma va Venn diagrammasi",
+       "topic": "logicSequencing",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c1_b19_l1",
+         "level": 1,
+         "gameKind": "set",
+         "count": 6,
+         "bank": "banks/g4_c1_b19_l1_tasks.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 20,
+       "name": "Algoritmlar va blok-sxemalar",
+       "topic": "logicSequencing",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c1_b20_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b20_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c1_b20_l2",
+         "level": 2,
+         "gameKind": "numberOrder",
+         "count": 6,
+         "bank": "banks/g4_c1_b20_l2_tasks.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 21,
+       "name": "Ko'p bosqichli xarid masalalari",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c1_b21_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b21_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 22,
+       "name": "I chorak yakuniy",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c1_b22_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b22_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c1_b22_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b22_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c1_b22_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c1_b22_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      }
+     ],
+     "levelCount": 38,
+     "blockCount": 22
+    },
+    {
+     "chorak": 2,
+     "roman": "II",
+     "blocks": [
+      {
+       "blok": 23,
+       "name": "Harakat va ko'p xonali sonlar (takrorlash)",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c2_b23_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b23_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 24,
+       "name": "Sonli nur, shkala va nuqta masofasi",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c2_b24_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b24_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c2_b24_l2",
+         "level": 2,
+         "gameKind": "numberOrder",
+         "count": 6,
+         "bank": "banks/g4_c2_b24_l2_tasks.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 25,
+       "name": "Katak yordamida yuza (Klassiklar)",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c2_b25_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b25_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 26,
+       "name": "Yo'l, vaqt, tezlik",
+       "topic": "wordProblems",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c2_b26_l1",
+         "level": 1,
+         "gameKind": "motionLine",
+         "count": 6,
+         "bank": "banks/g4_c2_b26_l1_tasks.json",
+         "webSupported": false
+        },
+        {
+         "id": "g4_c2_b26_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b26_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 27,
+       "name": "Nuqtalarning birgalikdagi harakati (yaqinlashish)",
+       "topic": "wordProblems",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c2_b27_l1",
+         "level": 1,
+         "gameKind": "motionLine",
+         "count": 6,
+         "bank": "banks/g4_c2_b27_l1_tasks.json",
+         "webSupported": false
+        },
+        {
+         "id": "g4_c2_b27_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b27_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c2_b27_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b27_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 28,
+       "name": "Qarama-qarshi harakat",
+       "topic": "wordProblems",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c2_b28_l1",
+         "level": 1,
+         "gameKind": "motionLine",
+         "count": 6,
+         "bank": "banks/g4_c2_b28_l1_tasks.json",
+         "webSupported": false
+        },
+        {
+         "id": "g4_c2_b28_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b28_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 29,
+       "name": "Quvlama harakat",
+       "topic": "wordProblems",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c2_b29_l1",
+         "level": 1,
+         "gameKind": "motionLine",
+         "count": 6,
+         "bank": "banks/g4_c2_b29_l1_tasks.json",
+         "webSupported": false
+        },
+        {
+         "id": "g4_c2_b29_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b29_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c2_b29_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b29_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 30,
+       "name": "Kechikishli harakat",
+       "topic": "wordProblems",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c2_b30_l1",
+         "level": 1,
+         "gameKind": "motionLine",
+         "count": 6,
+         "bank": "banks/g4_c2_b30_l1_tasks.json",
+         "webSupported": false
+        },
+        {
+         "id": "g4_c2_b30_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b30_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 31,
+       "name": "Aniq va taqribiy qiymatlar",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c2_b31_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b31_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 32,
+       "name": "O'nlik, yuzlik va berilgan aniqlikda yaxlitlash",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c2_b32_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b32_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c2_b32_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b32_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 33,
+       "name": "Ortig'i va kami bilan yaxlitlash",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c2_b33_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b33_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c2_b33_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b33_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 34,
+       "name": "Qiymatlarni chamalash",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c2_b34_l1",
+         "level": 1,
+         "gameKind": "algorithmConveyor",
+         "count": 10,
+         "bank": "banks/g4_c2_b34_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c2_b34_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b34_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 35,
+       "name": "Hisoblashning qulay usullari",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c2_b35_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b35_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 36,
+       "name": "Yuzni katak va paletka usulida hisoblash",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c2_b36_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b36_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c2_b36_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b36_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 37,
+       "name": "Ko'pburchak perimetriga doir masalalar",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c2_b37_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b37_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 38,
+       "name": "Amaliy geometrik masalalar",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c2_b38_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b38_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 39,
+       "name": "II chorak yakuniy",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c2_b39_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b39_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c2_b39_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b39_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c2_b39_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c2_b39_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      }
+     ],
+     "levelCount": 31,
+     "blockCount": 17
+    },
+    {
+     "chorak": 3,
+     "roman": "III",
+     "blocks": [
+      {
+       "blok": 40,
+       "name": "Bo'lish (butun va qoldiqli)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c3_b40_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b40_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c3_b40_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b40_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 41,
+       "name": "Ulush, qismlar va sonning qismini topish",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c3_b41_l1",
+         "level": 1,
+         "gameKind": "fractionStrip",
+         "count": 8,
+         "bank": "banks/g4_c3_b41_l1_tasks.json",
+         "webSupported": false
+        },
+        {
+         "id": "g4_c3_b41_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b41_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c3_b41_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b41_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 42,
+       "name": "Kattaliklarning qismlari",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c3_b42_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b42_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c3_b42_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b42_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 43,
+       "name": "To'g'ri, noto'g'ri va aralash kasrlar",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c3_b43_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b43_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c3_b43_l2",
+         "level": 2,
+         "gameKind": "numberOrder",
+         "count": 6,
+         "bank": "banks/g4_c3_b43_l2_tasks.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 44,
+       "name": "Kasrlar sonli nurda",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c3_b44_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b44_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 45,
+       "name": "Noto'g'ri va aralash kasrlarni aylantirish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c3_b45_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b45_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c3_b45_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b45_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 46,
+       "name": "Kasrlarni taqqoslash",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c3_b46_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b46_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c3_b46_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b46_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 47,
+       "name": "O'lchov birliklariga doir masalalar (duym, fut, yard)",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c3_b47_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b47_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 48,
+       "name": "Kasrlarni qo'shish va ayirish",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c3_b48_l1",
+         "level": 1,
+         "gameKind": "fractionStrip",
+         "count": 8,
+         "bank": "banks/g4_c3_b48_l1_tasks.json",
+         "webSupported": false
+        },
+        {
+         "id": "g4_c3_b48_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b48_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c3_b48_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b48_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 49,
+       "name": "Aralash kasrlarni qo'shish va ayirish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c3_b49_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b49_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c3_b49_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b49_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 50,
+       "name": "Birdan kasrni ayirish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c3_b50_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b50_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c3_b50_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b50_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 51,
+       "name": "Butundan va birlikdan o'tib ayirish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c3_b51_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b51_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c3_b51_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b51_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 52,
+       "name": "Kasrni natural songa ko'paytirish",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c3_b52_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b52_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 53,
+       "name": "Kasrlarga doir masalalar",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c3_b53_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b53_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 54,
+       "name": "O'nli kasrlar (tushuncha va o'qilishi)",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c3_b54_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b54_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c3_b54_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b54_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 55,
+       "name": "O'nli kasrlar sonli nurda",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c3_b55_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b55_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 56,
+       "name": "O'nli kasrlarni taqqoslash",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c3_b56_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b56_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c3_b56_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b56_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 57,
+       "name": "Foizlar",
+       "topic": "numberSense",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c3_b57_l1",
+         "level": 1,
+         "gameKind": "fractionStrip",
+         "count": 8,
+         "bank": "banks/g4_c3_b57_l1_tasks.json",
+         "webSupported": false
+        },
+        {
+         "id": "g4_c3_b57_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b57_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 58,
+       "name": "Yo'l vaqtlariga doir masalalar",
+       "topic": "wordProblems",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c3_b58_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b58_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 59,
+       "name": "III chorak yakuniy",
+       "topic": "numberSense",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c3_b59_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b59_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c3_b59_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b59_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c3_b59_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c3_b59_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      }
+     ],
+     "levelCount": 37,
+     "blockCount": 20
+    },
+    {
+     "chorak": 4,
+     "roman": "IV",
+     "blocks": [
+      {
+       "blok": 60,
+       "name": "Simmetriya (o'q va markaziy)",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c4_b60_l1",
+         "level": 1,
+         "gameKind": "symmetry",
+         "count": 6,
+         "bank": "banks/g4_c4_b60_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c4_b60_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b60_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c4_b60_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b60_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 61,
+       "name": "Nostandart shakllar yuzi va fraktal",
+       "topic": "measurement",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c4_b61_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b61_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c4_b61_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b61_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 62,
+       "name": "Kuboid, ko'pburchak va prizma",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c4_b62_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b62_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c4_b62_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b62_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 63,
+       "name": "Prizma va uning yoyilmasi",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c4_b63_l1",
+         "level": 1,
+         "gameKind": "netFold",
+         "count": 6,
+         "bank": "banks/g4_c4_b63_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c4_b63_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b63_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 64,
+       "name": "Uchburchak va piramida",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c4_b64_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b64_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c4_b64_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b64_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 65,
+       "name": "Piramida va uning yoyilmasi",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c4_b65_l1",
+         "level": 1,
+         "gameKind": "netFold",
+         "count": 6,
+         "bank": "banks/g4_c4_b65_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c4_b65_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b65_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 66,
+       "name": "Doira, shar va silindr",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c4_b66_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b66_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c4_b66_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b66_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 67,
+       "name": "Silindr va uning yoyilmasi",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c4_b67_l1",
+         "level": 1,
+         "gameKind": "netFold",
+         "count": 6,
+         "bank": "banks/g4_c4_b67_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c4_b67_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b67_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 68,
+       "name": "Doira, konus va uning yoyilmasi",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c4_b68_l1",
+         "level": 1,
+         "gameKind": "netFold",
+         "count": 6,
+         "bank": "banks/g4_c4_b68_l1_tasks.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c4_b68_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b68_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 69,
+       "name": "Fazoviy shakllarga doir masalalar",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c4_b69_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b69_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 70,
+       "name": "Burchak turlari",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c4_b70_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b70_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 71,
+       "name": "Burchak o'lchovi va gradus",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c4_b71_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b71_l1_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 72,
+       "name": "Burchakni transportir bilan o'lchash",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c4_b72_l1",
+         "level": 1,
+         "gameKind": "protractor",
+         "count": 6,
+         "bank": "banks/g4_c4_b72_l1_tasks.json",
+         "webSupported": false
+        },
+        {
+         "id": "g4_c4_b72_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b72_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 73,
+       "name": "Burchaklarni transportir yordamida yasash",
+       "topic": "shapesSpace",
+       "kind": "game",
+       "levels": [
+        {
+         "id": "g4_c4_b73_l1",
+         "level": 1,
+         "gameKind": "protractor",
+         "count": 6,
+         "bank": "banks/g4_c4_b73_l1_tasks.json",
+         "webSupported": false
+        },
+        {
+         "id": "g4_c4_b73_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b73_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 74,
+       "name": "Geometriyaga doir masalalar (takrorlash)",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c4_b74_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b74_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c4_b74_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b74_l2_questions.json",
+         "webSupported": true
+        }
+       ]
+      },
+      {
+       "blok": 75,
+       "name": "IV chorak yakuniy",
+       "topic": "shapesSpace",
+       "kind": "test",
+       "levels": [
+        {
+         "id": "g4_c4_b75_l1",
+         "level": 1,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b75_l1_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c4_b75_l2",
+         "level": 2,
+         "gameKind": "test",
+         "count": 10,
+         "bank": "banks/g4_c4_b75_l2_questions.json",
+         "webSupported": true
+        },
+        {
+         "id": "g4_c4_b75_l3",
+         "level": 3,
+         "gameKind": "test",
+         "count": 20,
+         "bank": "banks/g4_c4_b75_l3_questions.json",
+         "webSupported": true
+        }
+       ]
+      }
+     ],
+     "levelCount": 31,
+     "blockCount": 16
+    }
+   ]
+  }
+ ]
+}

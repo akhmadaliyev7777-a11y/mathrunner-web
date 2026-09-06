@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok32_level1_yax_01", "question": "374 ni o'nliklargacha yaxlitlang.", "correctAnswer": 370, "wrongAnswers": [380, 400]},
+  {"id": "sinf4_chorak2_blok32_level1_yax_02", "question": "748 ni o'nliklargacha yaxlitlang.", "correctAnswer": 750, "wrongAnswers": [740, 700]},
+  {"id": "sinf4_chorak2_blok32_level1_yax_03", "question": "374 ni yuzliklargacha yaxlitlang.", "correctAnswer": 400, "wrongAnswers": [300, 370]},
+  {"id": "sinf4_chorak2_blok32_level1_yax_04", "question": "748 ni yuzliklargacha yaxlitlang.", "correctAnswer": 700, "wrongAnswers": [800, 750]},
+  {"id": "sinf4_chorak2_blok32_level1_yax_05", "question": "1 236 ni o'nliklargacha yaxlitlang.", "correctAnswer": 1240, "wrongAnswers": [1230, 1200]},
+  {"id": "sinf4_chorak2_blok32_level1_yax_06", "question": "2 850 ni yuzliklargacha yaxlitlang.", "correctAnswer": 2900, "wrongAnswers": [2800, 3000]},
+  {"id": "sinf4_chorak2_blok32_level1_yax_07", "question": "45 ni o'nliklargacha yaxlitlang.", "correctAnswer": 50, "wrongAnswers": [40, 45]},
+  {"id": "sinf4_chorak2_blok32_level1_yax_08", "question": "612 ni o'nliklargacha yaxlitlang.", "correctAnswer": 610, "wrongAnswers": [620, 600]},
+  {"id": "sinf4_chorak2_blok32_level1_yax_09", "question": "3 500 ni mingliklargacha yaxlitlang.", "correctAnswer": 4000, "wrongAnswers": [3000, 3500]},
+  {"id": "sinf4_chorak2_blok32_level1_yax_10", "question": "199 ni o'nliklargacha yaxlitlang.", "correctAnswer": 200, "wrongAnswers": [190, 100]}
+]

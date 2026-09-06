@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b32l2_01",
+    "question": "56 - 34 = ?",
+    "correctAnswer": 22,
+    "wrongAnswers": [
+      32,
+      12
+    ]
+  },
+  {
+    "id": "s1c2b32l2_02",
+    "question": "78 - 45 = ?",
+    "correctAnswer": 33,
+    "wrongAnswers": [
+      43,
+      23
+    ]
+  },
+  {
+    "id": "s1c2b32l2_03",
+    "question": "63 - 21 = ?",
+    "correctAnswer": 42,
+    "wrongAnswers": [
+      52,
+      32
+    ]
+  },
+  {
+    "id": "s1c2b32l2_04",
+    "question": "89 - 57 = ?",
+    "correctAnswer": 32,
+    "wrongAnswers": [
+      42,
+      22
+    ]
+  },
+  {
+    "id": "s1c2b32l2_05",
+    "question": "47 - 26 = ?",
+    "correctAnswer": 21,
+    "wrongAnswers": [
+      31,
+      11
+    ]
+  },
+  {
+    "id": "s1c2b32l2_06",
+    "question": "95 - 62 = ?",
+    "correctAnswer": 33,
+    "wrongAnswers": [
+      43,
+      23
+    ]
+  },
+  {
+    "id": "s1c2b32l2_07",
+    "question": "70 - 40 = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      40,
+      20
+    ]
+  },
+  {
+    "id": "s1c2b32l2_08",
+    "question": "66 - 6 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      70,
+      50
+    ]
+  },
+  {
+    "id": "s1c2b32l2_09",
+    "question": "Bolada 48 so'm bor edi, 25 so'mga daftar oldi. Nechta so'm qoldi?",
+    "correctAnswer": 23,
+    "wrongAnswers": [
+      73,
+      22
+    ]
+  },
+  {
+    "id": "s1c2b32l2_10",
+    "question": "Xato: \"57 - 34 = 33\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 23,
+    "wrongAnswers": [
+      33,
+      13
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b11l2_01",
+    "question": "3 + 4 = ?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      6,
+      8
+    ]
+  },
+  {
+    "id": "s1c1b11l2_02",
+    "question": "5 + 3 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      7,
+      9
+    ]
+  },
+  {
+    "id": "s1c1b11l2_03",
+    "question": "6 + 2 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      7,
+      9
+    ]
+  },
+  {
+    "id": "s1c1b11l2_04",
+    "question": "4 + 4 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      7,
+      9
+    ]
+  },
+  {
+    "id": "s1c1b11l2_05",
+    "question": "2 + 6 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      7,
+      9
+    ]
+  },
+  {
+    "id": "s1c1b11l2_06",
+    "question": "7 + 1 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      7,
+      9
+    ]
+  },
+  {
+    "id": "s1c1b11l2_07",
+    "question": "5 + 4 = ?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s1c1b11l2_08",
+    "question": "1 + 7 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      7,
+      9
+    ]
+  },
+  {
+    "id": "s1c1b11l2_09",
+    "question": "6 + 3 = ?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s1c1b11l2_10",
+    "question": "Xato: \"4 + 3 = 8\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      8,
+      6
+    ]
+  }
+]

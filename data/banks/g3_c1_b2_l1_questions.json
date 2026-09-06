@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b2l1_01",
+    "question": "6 dm necha cm?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      6,
+      600
+    ]
+  },
+  {
+    "id": "s3c1b2l1_02",
+    "question": "9 m necha dm?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      9,
+      900
+    ]
+  },
+  {
+    "id": "s3c1b2l1_03",
+    "question": "2 m necha cm?",
+    "correctAnswer": 200,
+    "wrongAnswers": [
+      2,
+      20
+    ]
+  },
+  {
+    "id": "s3c1b2l1_04",
+    "question": "3 km necha m?",
+    "correctAnswer": 3000,
+    "wrongAnswers": [
+      3,
+      300
+    ]
+  },
+  {
+    "id": "s3c1b2l1_05",
+    "question": "5 cm necha mm?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      5,
+      500
+    ]
+  },
+  {
+    "id": "s3c1b2l1_06",
+    "question": "5 dm necha mm?",
+    "correctAnswer": 500,
+    "wrongAnswers": [
+      5,
+      50
+    ]
+  },
+  {
+    "id": "s3c1b2l1_07",
+    "question": "7 m 2 dm 3 cm necha cm?",
+    "correctAnswer": 723,
+    "wrongAnswers": [
+      7203,
+      73
+    ]
+  },
+  {
+    "id": "s3c1b2l1_08",
+    "question": "1 m 6 dm 2 cm + 3 m 8 dm 5 cm = ? cm  (javobni cm da yozing)",
+    "correctAnswer": 547,
+    "wrongAnswers": [
+      537,
+      647
+    ]
+  },
+  {
+    "id": "s3c1b2l1_09",
+    "question": "Taqqoslang: 1 m __ 90 cm",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s3c1b2l1_10",
+    "question": "5 m 314 cm - 1 m 40 cm = ? cm",
+    "correctAnswer": 674,
+    "wrongAnswers": [
+      974,
+      675
+    ]
+  }
+]

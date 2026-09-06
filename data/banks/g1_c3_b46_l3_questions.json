@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b46l3_01",
+    "question": "Bir taxta 3 dm, ikkinchisi 4 dm. Ikkalasi necha sm?",
+    "correctAnswer": 70,
+    "wrongAnswers": [
+      7,
+      34
+    ]
+  },
+  {
+    "id": "s1c3b46l3_02",
+    "question": "Stolning bo'yi 9 dm. Bu necha sm?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      9,
+      900
+    ]
+  },
+  {
+    "id": "s1c3b46l3_03",
+    "question": "Kesma 6 dm edi, 15 sm kesildi. Necha sm qoldi?",
+    "correctAnswer": 45,
+    "wrongAnswers": [
+      75,
+      9
+    ]
+  },
+  {
+    "id": "s1c3b46l3_04",
+    "question": "2 dm 5 sm va 3 dm 5 sm kesmalar yig'indisi necha sm?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      50,
+      10
+    ]
+  },
+  {
+    "id": "s1c3b46l3_05",
+    "question": "Qaysi uzunroq: 3 dm yoki 25 sm?",
+    "correctAnswer": "3 dm",
+    "wrongAnswers": [
+      "25 sm",
+      "teng"
+    ]
+  },
+  {
+    "id": "s1c3b46l3_06",
+    "question": "1 m necha dm? (1 m = 100 sm, 1 dm = 10 sm)",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      100,
+      1
+    ]
+  },
+  {
+    "id": "s1c3b46l3_07",
+    "question": "8 dm - 5 dm = ? sm",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      3,
+      13
+    ]
+  },
+  {
+    "id": "s1c3b46l3_08",
+    "question": "Taqqoslang: 4 dm __ 39 sm",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s1c3b46l3_09",
+    "question": "1 dm har doim 1 sm dan uzun.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b46l3_10",
+    "question": "Xato: \"30 sm = 30 dm\" deyildi. To'g'ri javob necha dm?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      30,
+      300
+    ]
+  }
+]

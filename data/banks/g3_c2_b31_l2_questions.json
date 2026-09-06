@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b31l2_01",
+    "question": "To'g'ri to'rtburchak: eni 12 cm, bo'yi 8 cm. Perimetri necha cm?  (P = (a + b) * 2)",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      36,
+      42
+    ]
+  },
+  {
+    "id": "s3c2b31l2_02",
+    "question": "To'g'ri to'rtburchak: eni 15 cm, bo'yi 10 cm. Perimetri necha cm?  (P = (a + b) * 2)",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      46,
+      52
+    ]
+  },
+  {
+    "id": "s3c2b31l2_03",
+    "question": "To'g'ri to'rtburchak: eni 20 cm, bo'yi 6 cm. Perimetri necha cm?  (P = (a + b) * 2)",
+    "correctAnswer": 52,
+    "wrongAnswers": [
+      48,
+      54
+    ]
+  },
+  {
+    "id": "s3c2b31l2_04",
+    "question": "To'g'ri to'rtburchak: eni 9 cm, bo'yi 7 cm. Perimetri necha cm?  (P = (a + b) * 2)",
+    "correctAnswer": 32,
+    "wrongAnswers": [
+      28,
+      34
+    ]
+  },
+  {
+    "id": "s3c2b31l2_05",
+    "question": "Basseyn yuzi 98 m2, uzunligi 14 m. Eni necha m?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      6,
+      8
+    ]
+  },
+  {
+    "id": "s3c2b31l2_06",
+    "question": "Basseyn yuzi 98 m2, uzunligi 14 m. Perimetri necha m?  (eni = 7)",
+    "correctAnswer": 42,
+    "wrongAnswers": [
+      40,
+      44
+    ]
+  },
+  {
+    "id": "s3c2b31l2_07",
+    "question": "Poydevor to'g'ri to'rtburchak: bo'yi 30 m, yuzi 810 m2. Eni necha m?",
+    "correctAnswer": 27,
+    "wrongAnswers": [
+      25,
+      28
+    ]
+  },
+  {
+    "id": "s3c2b31l2_08",
+    "question": "P = 2 * a + 2 * b formulasi P = (a + b) * 2 formulasi bilan bir xil natija beradimi?  (Ha = 1, Yo'q = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c2b31l2_09",
+    "question": "Kvadratning perimetri 48 cm. Yuzi necha cm2?  (tomon = 12)",
+    "correctAnswer": 144,
+    "wrongAnswers": [
+      48,
+      96
+    ]
+  },
+  {
+    "id": "s3c2b31l2_10",
+    "question": "Kvadratning perimetri 36 cm. Bir tomoni necha cm?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      6,
+      12
+    ]
+  }
+]

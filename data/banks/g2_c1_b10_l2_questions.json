@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b10l2_01",
+    "question": "34 - 8 = ?",
+    "correctAnswer": 26,
+    "wrongAnswers": [
+      36,
+      25
+    ]
+  },
+  {
+    "id": "s2c1b10l2_02",
+    "question": "42 - 5 = ?",
+    "correctAnswer": 37,
+    "wrongAnswers": [
+      47,
+      36
+    ]
+  },
+  {
+    "id": "s2c1b10l2_03",
+    "question": "63 - 7 = ?",
+    "correctAnswer": 56,
+    "wrongAnswers": [
+      66,
+      55
+    ]
+  },
+  {
+    "id": "s2c1b10l2_04",
+    "question": "91 - 6 = ?",
+    "correctAnswer": 85,
+    "wrongAnswers": [
+      95,
+      84
+    ]
+  },
+  {
+    "id": "s2c1b10l2_05",
+    "question": "56 - 9 = ?",
+    "correctAnswer": 47,
+    "wrongAnswers": [
+      57,
+      46
+    ]
+  },
+  {
+    "id": "s2c1b10l2_06",
+    "question": "70 - 8 = ?",
+    "correctAnswer": 62,
+    "wrongAnswers": [
+      72,
+      61
+    ]
+  },
+  {
+    "id": "s2c1b10l2_07",
+    "question": "Vazada 42 ta gul bor edi. 8 tasi so'ldi. Nechta qoldi?",
+    "correctAnswer": 34,
+    "wrongAnswers": [
+      50,
+      33
+    ]
+  },
+  {
+    "id": "s2c1b10l2_08",
+    "question": "Bola 63 ta rasm chizdi, 7 tasini do'stiga berdi. Nechta qoldi?",
+    "correctAnswer": 56,
+    "wrongAnswers": [
+      70,
+      55
+    ]
+  },
+  {
+    "id": "s2c1b10l2_09",
+    "question": "71 - 6 ayirishda javob 65 ga teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c1b10l2_10",
+    "question": "Xatoni toping: 52 - 8 = 46. To'g'ri javob qancha?",
+    "correctAnswer": 44,
+    "wrongAnswers": [
+      46,
+      43
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b3l1_01",
+    "question": "Doira, kvadrat, uchburchak — bular qanday shakllar?",
+    "correctAnswer": "yassi shakllar",
+    "wrongAnswers": [
+      "hajmli shakllar",
+      "sonlar"
+    ]
+  },
+  {
+    "id": "s1c1b3l1_02",
+    "question": "Shar, kub, konus — bular qanday shakllar?",
+    "correctAnswer": "hajmli shakllar",
+    "wrongAnswers": [
+      "yassi shakllar",
+      "chiziqlar"
+    ]
+  },
+  {
+    "id": "s1c1b3l1_03",
+    "question": "To'p (koptok) qaysi hajmli shaklga o'xshaydi?",
+    "correctAnswer": "shar",
+    "wrongAnswers": [
+      "kub",
+      "piramida"
+    ]
+  },
+  {
+    "id": "s1c1b3l1_04",
+    "question": "Muzqaymoq rojkasi qaysi hajmli shaklga o'xshaydi?",
+    "correctAnswer": "konus",
+    "wrongAnswers": [
+      "kub",
+      "shar"
+    ]
+  },
+  {
+    "id": "s1c1b3l1_05",
+    "question": "Uchta tomoni bo'lgan yassi shakl qaysi?",
+    "correctAnswer": "uchburchak",
+    "wrongAnswers": [
+      "kvadrat",
+      "doira"
+    ]
+  },
+  {
+    "id": "s1c1b3l1_06",
+    "question": "Kubning nechta yog'i (tomoni) bor?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      4,
+      8
+    ]
+  },
+  {
+    "id": "s1c1b3l1_07",
+    "question": "Gugurt qutisi qaysi hajmli shaklga o'xshaydi?",
+    "correctAnswer": "kuboid",
+    "wrongAnswers": [
+      "shar",
+      "konus"
+    ]
+  },
+  {
+    "id": "s1c1b3l1_08",
+    "question": "Doira — yassi shakl.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b3l1_09",
+    "question": "Shar — yassi shakl.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b3l1_10",
+    "question": "Kvadratning nechta tomoni bor?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      3,
+      5
+    ]
+  }
+]

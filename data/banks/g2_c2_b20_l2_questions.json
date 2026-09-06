@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b20l2_01",
+    "question": "345 sonida nechta yuzlik bor?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": "s2c2b20l2_02",
+    "question": "807 sonida nechta yuzlik bor?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      9,
+      0
+    ]
+  },
+  {
+    "id": "s2c2b20l2_03",
+    "question": "260 sonida nechta yuzlik bor?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": "s2c2b20l2_04",
+    "question": "594 sonida nechta yuzlik bor?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      6,
+      9
+    ]
+  },
+  {
+    "id": "s2c2b20l2_05",
+    "question": "130 sonida nechta yuzlik bor?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s2c2b20l2_06",
+    "question": "6 yuzlik, 0 o'nlik va 4 birlikdan iborat son qaysi?",
+    "correctAnswer": 604,
+    "wrongAnswers": [
+      64,
+      640
+    ]
+  },
+  {
+    "id": "s2c2b20l2_07",
+    "question": "\"To'qqiz yuz o'n bir\" soni raqamlarda qanday yoziladi?",
+    "correctAnswer": 911,
+    "wrongAnswers": [
+      9011,
+      9110
+    ]
+  },
+  {
+    "id": "s2c2b20l2_08",
+    "question": "379 sonining o'nliklar xonasidagi raqam qaysi?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      3,
+      9
+    ]
+  },
+  {
+    "id": "s2c2b20l2_09",
+    "question": "Eng katta uch xonali son qaysi?",
+    "correctAnswer": 999,
+    "wrongAnswers": [
+      100,
+      1000
+    ]
+  },
+  {
+    "id": "s2c2b20l2_10",
+    "question": "Eng kichik uch xonali son qaysi?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      10,
+      999
+    ]
+  }
+]

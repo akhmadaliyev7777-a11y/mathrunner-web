@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b48l1_01",
+    "question": "Qancha davom ettirilsa ham kesishmaydigan ikki to'g'ri chiziq nima deyiladi?  (parallel = 1, perpendikular = 2, kesuvchi = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b48l1_02",
+    "question": "To'g'ri burchak (90 gradus) ostida kesishuvchi to'g'ri chiziqlar nima deyiladi?  (perpendikular = 1, parallel = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b48l1_03",
+    "question": "Kvadratning nechta juft parallel tomoni bor?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "s3c3b48l1_04",
+    "question": "To'g'ri to'rtburchakning qarama-qarshi tomonlari qanday?  (parallel = 1, perpendikular = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b48l1_05",
+    "question": "Parallel chiziqlar orasidagi masofa hamma joyda bir xil bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c3b48l1_06",
+    "question": "Perpendikular chiziqlar 45 gradus burchak hosil qiladi.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c3b48l1_07",
+    "question": "Kvadratning qo'shni tomonlari o'zaro qanday?  (perpendikular = 1, parallel = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b48l1_08",
+    "question": "Bir nuqtadan berilgan to'g'ri chiziqqa nechta perpendikular tushirish mumkin?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      0
+    ]
+  },
+  {
+    "id": "s3c3b48l1_09",
+    "question": "Perpendikularlikni qaysi asbob bilan tekshiramiz?  (burchak o'lchagich = 1, sirkul = 2, transportir = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b48l1_10",
+    "question": "Uchburchakning barcha tomonlari o'zaro parallel bo'la oladimi?  (Ha = 1, Yo'q = 2)",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  }
+]

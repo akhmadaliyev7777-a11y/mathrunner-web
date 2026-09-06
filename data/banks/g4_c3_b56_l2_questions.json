@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok56_level2_otaq_01", "question": "0,3; 0,7; 0,5 — o'sish tartibida qaysi to'g'ri?", "correctAnswer": "0,3; 0,5; 0,7", "wrongAnswers": ["0,7; 0,5; 0,3", "0,5; 0,3; 0,7"]},
+  {"id": "sinf4_chorak3_blok56_level2_otaq_02", "question": "0,2; 0,25; 0,15 — eng kichigi qaysi?", "correctAnswer": "0,15", "wrongAnswers": ["0,2", "0,25"]},
+  {"id": "sinf4_chorak3_blok56_level2_otaq_03", "question": "1,1; 1,01; 1,11 — eng kattasi qaysi?", "correctAnswer": "1,11", "wrongAnswers": ["1,1", "1,01"]},
+  {"id": "sinf4_chorak3_blok56_level2_otaq_04", "question": "0,8; 0,08; 0,88 — o'sish tartibida qaysi to'g'ri?", "correctAnswer": "0,08; 0,8; 0,88", "wrongAnswers": ["0,8; 0,08; 0,88", "0,88; 0,8; 0,08"]},
+  {"id": "sinf4_chorak3_blok56_level2_otaq_05", "question": "Aziz 0,5 dan 0,25 katta dedi, chunki 25 > 5. Xatosi nimada?", "correctAnswer": "0,5 = 0,50; 50 > 25, demak 0,5 katta", "wrongAnswers": ["Xato yo'q", "0,25 = 0,250"]},
+  {"id": "sinf4_chorak3_blok56_level2_otaq_06", "question": "3,4; 3,04; 3,44 — eng kichigi qaysi?", "correctAnswer": "3,04", "wrongAnswers": ["3,4", "3,44"]},
+  {"id": "sinf4_chorak3_blok56_level2_otaq_07", "question": "0,9; 0,99; 0,09 — kamayish tartibida qaysi to'g'ri?", "correctAnswer": "0,99; 0,9; 0,09", "wrongAnswers": ["0,9; 0,99; 0,09", "0,09; 0,9; 0,99"]},
+  {"id": "sinf4_chorak3_blok56_level2_otaq_08", "question": "0,6 va 0,60 va 0,600 — bu uch son qanday?", "correctAnswer": "Uchalasi teng", "wrongAnswers": ["0,600 eng katta", "0,6 eng katta"]},
+  {"id": "sinf4_chorak3_blok56_level2_otaq_09", "question": "2,5; 2,05; 2,55 — o'sish tartibida o'rtadagi son qaysi?", "correctAnswer": "2,5", "wrongAnswers": ["2,05", "2,55"]},
+  {"id": "sinf4_chorak3_blok56_level2_otaq_10", "question": "1,7; 1,07 — qaysi biri 1,5 dan katta?", "correctAnswer": "1,7", "wrongAnswers": ["1,07", "ikkalasi"]}
+]

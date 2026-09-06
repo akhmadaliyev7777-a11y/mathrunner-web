@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b9l1_01",
+    "question": "420 025 407 - 238 017 189 = ?",
+    "correctAnswer": 182008218,
+    "wrongAnswers": [
+      182008318,
+      182007218
+    ]
+  },
+  {
+    "id": "s3c1b9l1_02",
+    "question": "1 000 000 - 134 099 = ?",
+    "correctAnswer": 865901,
+    "wrongAnswers": [
+      866001,
+      864901
+    ]
+  },
+  {
+    "id": "s3c1b9l1_03",
+    "question": "982 189 - 468 607 = ?",
+    "correctAnswer": 513582,
+    "wrongAnswers": [
+      513682,
+      512582
+    ]
+  },
+  {
+    "id": "s3c1b9l1_04",
+    "question": "76 232 600 - 45 120 300 = ?",
+    "correctAnswer": 31112300,
+    "wrongAnswers": [
+      31112400,
+      31111300
+    ]
+  },
+  {
+    "id": "s3c1b9l1_05",
+    "question": "89 083 - 47 500 = ?",
+    "correctAnswer": 41583,
+    "wrongAnswers": [
+      41683,
+      40583
+    ]
+  },
+  {
+    "id": "s3c1b9l1_06",
+    "question": "982 189 - (531 405 - 62 798) = ?",
+    "correctAnswer": 513582,
+    "wrongAnswers": [
+      576380,
+      450784
+    ]
+  },
+  {
+    "id": "s3c1b9l1_07",
+    "question": "1 000 000 - (134 099 + 226 088) = ?",
+    "correctAnswer": 639813,
+    "wrongAnswers": [
+      865901,
+      639713
+    ]
+  },
+  {
+    "id": "s3c1b9l1_08",
+    "question": "760 000 - 340 000 = ?",
+    "correctAnswer": 420000,
+    "wrongAnswers": [
+      430000,
+      410000
+    ]
+  },
+  {
+    "id": "s3c1b9l1_09",
+    "question": "Ustunli ayiring: 90 000 - 34 567 = ?",
+    "correctAnswer": 55433,
+    "wrongAnswers": [
+      54433,
+      56433
+    ]
+  },
+  {
+    "id": "s3c1b9l1_10",
+    "question": "1 000 000 - 1 = ?",
+    "correctAnswer": 999999,
+    "wrongAnswers": [
+      900000,
+      1000001
+    ]
+  }
+]

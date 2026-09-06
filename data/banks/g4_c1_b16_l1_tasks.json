@@ -1,0 +1,26 @@
+[
+  {"id": "sinf4_chorak1_blok16_level1_koord_01", "prompt": "Nuqtalarni bosib tik kesma torting", "gridSize": 6, "points": [
+    {"x": 2, "y": 1}, {"x": 2, "y": 5}
+  ]},
+  {"id": "sinf4_chorak1_blok16_level1_koord_02", "prompt": "Nuqtalarni bosib yotiq kesma torting", "gridSize": 6, "points": [
+    {"x": 1, "y": 3}, {"x": 5, "y": 3}
+  ]},
+  {"id": "sinf4_chorak1_blok16_level1_koord_03", "prompt": "Nuqtalarni ketma-ket bosing — qiya chiziq hosil bo'ladi", "gridSize": 6, "points": [
+    {"x": 0, "y": 0}, {"x": 2, "y": 2}, {"x": 4, "y": 4}
+  ]},
+  {"id": "sinf4_chorak1_blok16_level1_koord_04", "prompt": "Koordinatalarni bosib uchburchak yasang", "gridSize": 6, "points": [
+    {"x": 1, "y": 1}, {"x": 4, "y": 1}, {"x": 4, "y": 4}, {"x": 1, "y": 1}
+  ]},
+  {"id": "sinf4_chorak1_blok16_level1_koord_05", "prompt": "Koordinatalarni ketma-ket bosing", "gridSize": 6, "points": [
+    {"x": 2, "y": 0}, {"x": 2, "y": 3}, {"x": 5, "y": 3}
+  ]},
+  {"id": "sinf4_chorak1_blok16_level1_koord_06", "prompt": "Koordinatalarni bosib uchburchak yasang", "gridSize": 6, "points": [
+    {"x": 0, "y": 2}, {"x": 3, "y": 5}, {"x": 6, "y": 2}, {"x": 0, "y": 2}
+  ]},
+  {"id": "sinf4_chorak1_blok16_level1_koord_07", "prompt": "Koordinatalarni ketma-ket bosing — kvadrat hosil bo'ladi", "gridSize": 5, "points": [
+    {"x": 1, "y": 1}, {"x": 1, "y": 4}, {"x": 4, "y": 4}, {"x": 4, "y": 1}, {"x": 1, "y": 1}
+  ]},
+  {"id": "sinf4_chorak1_blok16_level1_koord_08", "prompt": "Koordinatalarni bosib katta kvadrat yasang", "gridSize": 6, "points": [
+    {"x": 0, "y": 0}, {"x": 6, "y": 0}, {"x": 6, "y": 6}, {"x": 0, "y": 6}, {"x": 0, "y": 0}
+  ]}
+]

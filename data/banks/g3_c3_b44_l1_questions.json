@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b44l1_01",
+    "question": "Aylana radiusi 4 cm. Diametri necha cm?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      4,
+      2
+    ]
+  },
+  {
+    "id": "s3c3b44l1_02",
+    "question": "Aylana diametri 10 cm. Radiusi necha cm?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      10,
+      20
+    ]
+  },
+  {
+    "id": "s3c3b44l1_03",
+    "question": "Aylana diametri radiusidan necha marta katta?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "s3c3b44l1_04",
+    "question": "Radiusi 7 cm. Diametri necha cm?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      7,
+      21
+    ]
+  },
+  {
+    "id": "s3c3b44l1_05",
+    "question": "Aylana markazidan uning istalgan nuqtasigacha bo'lgan kesma nima deyiladi?  (radius = 1, diametr = 2, tomon = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b44l1_06",
+    "question": "Aylananing ikki nuqtasini tutashtirib, markazdan o'tuvchi kesma nima deyiladi?  (diametr = 1, radius = 2, yoy = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b44l1_07",
+    "question": "Bitta aylananing barcha radiuslari teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c3b44l1_08",
+    "question": "Aylana qanday asbob bilan chiziladi?  (sirkul = 1, chizg'ich = 2, transportir = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b44l1_09",
+    "question": "Diametri 16 cm bo'lgan aylananing radiusi necha cm?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      16,
+      4
+    ]
+  },
+  {
+    "id": "s3c3b44l1_10",
+    "question": "Radiusi 6 cm. Ikkita radius (diametr) jami necha cm?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      6,
+      18
+    ]
+  }
+]

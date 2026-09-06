@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b61l3_01",
+    "question": "(20 + 4) : 6 + 3 = ?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      4,
+      27
+    ]
+  },
+  {
+    "id": "s2c4b61l3_02",
+    "question": "5 * (3 + 4) - 10 = ?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      35,
+      45
+    ]
+  },
+  {
+    "id": "s2c4b61l3_03",
+    "question": "100 - (7 * 8) = ?",
+    "correctAnswer": 44,
+    "wrongAnswers": [
+      56,
+      156
+    ]
+  },
+  {
+    "id": "s2c4b61l3_04",
+    "question": "(6 + 6) * 2 + 8 = ?",
+    "correctAnswer": 32,
+    "wrongAnswers": [
+      20,
+      40
+    ]
+  },
+  {
+    "id": "s2c4b61l3_05",
+    "question": "Bir qutida 6 ta olma va 4 ta nok bor. 3 ta shunday quti jami nechta meva? (6 + 4) * 3",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      18,
+      42
+    ]
+  },
+  {
+    "id": "s2c4b61l3_06",
+    "question": "Bolada 50 so'm. U 2 ta 8 so'mlik qalam oldi. Nechta so'm qoldi?  50 - 8 * 2",
+    "correctAnswer": 34,
+    "wrongAnswers": [
+      84,
+      42
+    ]
+  },
+  {
+    "id": "s2c4b61l3_07",
+    "question": "(40 - 16) : 3 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      24,
+      18
+    ]
+  },
+  {
+    "id": "s2c4b61l3_08",
+    "question": "9 + (24 : 4) * 2 = ?",
+    "correctAnswer": 21,
+    "wrongAnswers": [
+      30,
+      15
+    ]
+  },
+  {
+    "id": "s2c4b61l3_09",
+    "question": "Taqqoslang: (5 + 3) * 4 __ 5 + 3 * 4",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s2c4b61l3_10",
+    "question": "Xato: \"20 - (2 + 3) * 2 = 30\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      30,
+      15
+    ]
+  }
+]

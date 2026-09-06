@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok20_level1_algo_01", "question": "Algoritm: 1) 5 ni ol. 2) 3 ni qo'sh. 3) 2 ga ko'paytir. Natija nechi?", "correctAnswer": 16, "wrongAnswers": [13, 10]},
+  {"id": "sinf4_chorak1_blok20_level1_algo_02", "question": "Algoritm: 1) 20 ni ol. 2) 4 ga bo'l. 3) 1 ni ayir. Natija nechi?", "correctAnswer": 4, "wrongAnswers": [5, 6]},
+  {"id": "sinf4_chorak1_blok20_level1_algo_03", "question": "Algoritm: 1) sonni ol. 2) 10 qo'sh. 3) 2 ga bo'l. Son 6 bo'lsa, natija nechi?", "correctAnswer": 8, "wrongAnswers": [16, 3]},
+  {"id": "sinf4_chorak1_blok20_level1_algo_04", "question": "Blok-sxema: \"x > 10 mi?\" savoli. x = 7 bo'lsa, javob qanday?", "correctAnswer": "Yo'q", "wrongAnswers": ["Ha", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak1_blok20_level1_algo_05", "question": "Algoritm: 1) 100 ni ol. 2) 50 ni ayir. 3) 25 ni ayir. 4) 5 ga bo'l. Natija nechi?", "correctAnswer": 5, "wrongAnswers": [25, 1]},
+  {"id": "sinf4_chorak1_blok20_level1_algo_06", "question": "Blok-sxema: son juft bo'lsa 2 ga bo'l, toq bo'lsa 1 qo'sh. Son 9. Natija nechi?", "correctAnswer": 10, "wrongAnswers": [4, 8]},
+  {"id": "sinf4_chorak1_blok20_level1_algo_07", "question": "Algoritm: 1) 3 ni ol. 2) 3 ga ko'paytir. 3) 3 ni qo'sh. Natija nechi?", "correctAnswer": 12, "wrongAnswers": [9, 27]},
+  {"id": "sinf4_chorak1_blok20_level1_algo_08", "question": "Algoritm har qadamda sonni 2 baravar oshiradi. Boshi 1. 3 qadamdan keyin son nechi?", "correctAnswer": 8, "wrongAnswers": [6, 16]},
+  {"id": "sinf4_chorak1_blok20_level1_algo_09", "question": "Blok-sxema: \"x = 0 mi?\" ha bo'lsa STOP, aks holda x dan 1 ayir va qayta tekshir. x = 3 dan boshlansa, ayirish necha marta bajariladi?", "correctAnswer": 3, "wrongAnswers": [2, 4]},
+  {"id": "sinf4_chorak1_blok20_level1_algo_10", "question": "Algoritm: 1) 12 ni ol. 2) yarmini ol. 3) yana yarmini ol. Natija nechi?", "correctAnswer": 3, "wrongAnswers": [6, 4]}
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b27l1_01",
+    "question": "(50 + 30) : 8 = ?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      9,
+      11
+    ]
+  },
+  {
+    "id": "s3c2b27l1_02",
+    "question": "92 : 4 = ?",
+    "correctAnswer": 23,
+    "wrongAnswers": [
+      22,
+      24
+    ]
+  },
+  {
+    "id": "s3c2b27l1_03",
+    "question": "53 : 6 amalida qoldiq qancha?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      6,
+      4
+    ]
+  },
+  {
+    "id": "s3c2b27l1_04",
+    "question": "Bo'luvchi 4, to'liqsiz bo'linma 9, qoldiq 2. Bo'linuvchi qancha?",
+    "correctAnswer": 38,
+    "wrongAnswers": [
+      36,
+      40
+    ]
+  },
+  {
+    "id": "s3c2b27l1_05",
+    "question": "6 396 : 6 = ?",
+    "correctAnswer": 1066,
+    "wrongAnswers": [
+      1056,
+      1076
+    ]
+  },
+  {
+    "id": "s3c2b27l1_06",
+    "question": "9 000 : 30 = ?",
+    "correctAnswer": 300,
+    "wrongAnswers": [
+      30,
+      3000
+    ]
+  },
+  {
+    "id": "s3c2b27l1_07",
+    "question": "Son 5 ga bo'lganda to'liqsiz bo'linma 12, qoldiq 3. Bu son qancha?",
+    "correctAnswer": 63,
+    "wrongAnswers": [
+      60,
+      65
+    ]
+  },
+  {
+    "id": "s3c2b27l1_08",
+    "question": "Taqqoslang: 84 : 4 __ 105 : 5",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s3c2b27l1_09",
+    "question": "1 kvartal necha oy?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      4,
+      2
+    ]
+  },
+  {
+    "id": "s3c2b27l1_10",
+    "question": "Bo'lishda qoldiq bo'luvchiga teng bo'lishi mumkin.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

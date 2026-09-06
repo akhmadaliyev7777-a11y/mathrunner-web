@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b26l2_01",
+    "question": "500 - 180 + 120 = ?",
+    "correctAnswer": 440,
+    "wrongAnswers": [
+      200,
+      560
+    ]
+  },
+  {
+    "id": "s2c2b26l2_02",
+    "question": "800 - 250 + 300 = ?",
+    "correctAnswer": 850,
+    "wrongAnswers": [
+      250,
+      750
+    ]
+  },
+  {
+    "id": "s2c2b26l2_03",
+    "question": "230 + 140 + 300 = ?",
+    "correctAnswer": 670,
+    "wrongAnswers": [
+      570,
+      770
+    ]
+  },
+  {
+    "id": "s2c2b26l2_04",
+    "question": "1000 - 250 = ?",
+    "correctAnswer": 750,
+    "wrongAnswers": [
+      850,
+      650
+    ]
+  },
+  {
+    "id": "s2c2b26l2_05",
+    "question": "Maktabda 480 o'quvchi. 235 tasi o'g'il. Nechta qiz?",
+    "correctAnswer": 245,
+    "wrongAnswers": [
+      715,
+      235
+    ]
+  },
+  {
+    "id": "s2c2b26l2_06",
+    "question": "Bir sonni o'yladim: unga 320 qo'shsam, 800 bo'ladi. Qaysi son?",
+    "correctAnswer": 480,
+    "wrongAnswers": [
+      1120,
+      580
+    ]
+  },
+  {
+    "id": "s2c2b26l2_07",
+    "question": "\"Yetti yuz bir\" soni raqamlarda qanday yoziladi?",
+    "correctAnswer": 701,
+    "wrongAnswers": [
+      7001,
+      710
+    ]
+  },
+  {
+    "id": "s2c2b26l2_08",
+    "question": "618 = 600 + 10 + 8.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c2b26l2_09",
+    "question": "Xatoni toping: 350 + 260 = 510. To'g'ri javob qancha?",
+    "correctAnswer": 610,
+    "wrongAnswers": [
+      510,
+      590
+    ]
+  },
+  {
+    "id": "s2c2b26l2_10",
+    "question": "245, 254, 425 sonlaridan eng kichigi qaysi?",
+    "correctAnswer": 245,
+    "wrongAnswers": [
+      254,
+      425
+    ]
+  }
+]

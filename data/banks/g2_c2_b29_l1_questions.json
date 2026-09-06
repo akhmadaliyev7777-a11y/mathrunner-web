@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b29l1_01",
+    "question": "234 + 150 = 384 bo'lsa, 384 - 150 nechaga teng?",
+    "correctAnswer": 234,
+    "wrongAnswers": [
+      150,
+      384
+    ]
+  },
+  {
+    "id": "s2c2b29l1_02",
+    "question": "500 - 220 = 280 bo'lsa, 280 + 220 nechaga teng?",
+    "correctAnswer": 500,
+    "wrongAnswers": [
+      220,
+      280
+    ]
+  },
+  {
+    "id": "s2c2b29l1_03",
+    "question": "Yig'indini tekshirish uchun qaysi amaldan foydalanamiz?",
+    "correctAnswer": "ayirish",
+    "wrongAnswers": [
+      "qo'shish",
+      "taqqoslash"
+    ]
+  },
+  {
+    "id": "s2c2b29l1_04",
+    "question": "Ayirmani tekshirish uchun ayirma bilan ayriluvchini ... .",
+    "correctAnswer": "qo'shamiz",
+    "wrongAnswers": [
+      "ayiramiz",
+      "taqqoslaymiz"
+    ]
+  },
+  {
+    "id": "s2c2b29l1_05",
+    "question": "x + 130 = 400 tenglamada x qancha?",
+    "correctAnswer": 270,
+    "wrongAnswers": [
+      530,
+      370
+    ]
+  },
+  {
+    "id": "s2c2b29l1_06",
+    "question": "x - 45 = 200 tenglamada x qancha?",
+    "correctAnswer": 245,
+    "wrongAnswers": [
+      155,
+      248
+    ]
+  },
+  {
+    "id": "s2c2b29l1_07",
+    "question": "360 - x = 140 tenglamada x qancha?",
+    "correctAnswer": 220,
+    "wrongAnswers": [
+      500,
+      200
+    ]
+  },
+  {
+    "id": "s2c2b29l1_08",
+    "question": "150 + x = 630 tenglamada x qancha?",
+    "correctAnswer": 480,
+    "wrongAnswers": [
+      780,
+      580
+    ]
+  },
+  {
+    "id": "s2c2b29l1_09",
+    "question": "Agar 170 + 230 = 400 bo'lsa, u holda 400 - 230 = 170.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c2b29l1_10",
+    "question": "Agar a - b = c bo'lsa, u holda c + b = a.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

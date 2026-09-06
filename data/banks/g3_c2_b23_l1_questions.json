@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b23l1_01",
+    "question": "9 663 : 3 = ?",
+    "correctAnswer": 3221,
+    "wrongAnswers": [
+      3211,
+      3321
+    ]
+  },
+  {
+    "id": "s3c2b23l1_02",
+    "question": "4 864 : 4 = ?",
+    "correctAnswer": 1216,
+    "wrongAnswers": [
+      1206,
+      1316
+    ]
+  },
+  {
+    "id": "s3c2b23l1_03",
+    "question": "6 396 : 6 = ?",
+    "correctAnswer": 1066,
+    "wrongAnswers": [
+      1056,
+      1166
+    ]
+  },
+  {
+    "id": "s3c2b23l1_04",
+    "question": "8 408 : 8 = ?",
+    "correctAnswer": 1051,
+    "wrongAnswers": [
+      1041,
+      1151
+    ]
+  },
+  {
+    "id": "s3c2b23l1_05",
+    "question": "7 770 : 7 = ?",
+    "correctAnswer": 1110,
+    "wrongAnswers": [
+      1100,
+      1210
+    ]
+  },
+  {
+    "id": "s3c2b23l1_06",
+    "question": "639 : 3 = ?",
+    "correctAnswer": 213,
+    "wrongAnswers": [
+      212,
+      223
+    ]
+  },
+  {
+    "id": "s3c2b23l1_07",
+    "question": "848 : 4 = ?",
+    "correctAnswer": 212,
+    "wrongAnswers": [
+      211,
+      222
+    ]
+  },
+  {
+    "id": "s3c2b23l1_08",
+    "question": "505 : 5 = ?",
+    "correctAnswer": 101,
+    "wrongAnswers": [
+      100,
+      111
+    ]
+  },
+  {
+    "id": "s3c2b23l1_09",
+    "question": "Burchakli bo'lishda bo'linuvchining qaysi xonasidan boshlanadi?  (eng katta = 1, eng kichik = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c2b23l1_10",
+    "question": "Burchakli bo'lish chapdan o'ngga qarab bajariladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

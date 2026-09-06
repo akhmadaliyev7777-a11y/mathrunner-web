@@ -1,0 +1,8 @@
+[
+  {"id": "sinf4_chorak4_blok65_level1_pyoy_01", "prompt": "Bu shaklning yoyilmasi qaysi?", "hint": "Piramidada 1 ta kvadrat asos va 4 ta uchburchak yon yoq bor", "target": "squarePyramid", "options": ["squarePyramid", "cube", "triangularPrism"]},
+  {"id": "sinf4_chorak4_blok65_level1_pyoy_02", "prompt": "Bu shaklning yoyilmasi qaysi?", "hint": "Piramida yoyilmasi: markazda kvadrat, atrofida uchburchaklar", "target": "squarePyramid", "options": ["cube", "squarePyramid", "cylinder"]},
+  {"id": "sinf4_chorak4_blok65_level1_pyoy_03", "prompt": "Bu shaklning yoyilmasi qaysi?", "hint": "Kvadrat asos va 4 ta uchburchak", "target": "squarePyramid", "options": ["squarePyramid", "cuboid", "cone"]},
+  {"id": "sinf4_chorak4_blok65_level1_pyoy_04", "prompt": "Bu shaklning yoyilmasi qaysi?", "hint": "Prizmada 2 ta bir xil asos, piramidada 1 ta asos bor", "target": "triangularPrism", "options": ["triangularPrism", "squarePyramid", "cube"]},
+  {"id": "sinf4_chorak4_blok65_level1_pyoy_05", "prompt": "Bu shaklning yoyilmasi qaysi?", "hint": "Piramidada barcha yon yoqlar bitta cho'qqida birlashadi", "target": "squarePyramid", "options": ["squarePyramid", "triangularPrism", "cylinder"]},
+  {"id": "sinf4_chorak4_blok65_level1_pyoy_06", "prompt": "Bu shaklning yoyilmasi qaysi?", "hint": "Kub 6 ta kvadrat, piramida 1 kvadrat + 4 uchburchak", "target": "cube", "options": ["cube", "squarePyramid", "cone"]}
+]

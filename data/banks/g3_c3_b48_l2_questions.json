@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b48l2_01",
+    "question": "Kub yoqlari orasida nechta juft parallel yoq bor?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      6,
+      2
+    ]
+  },
+  {
+    "id": "s3c3b48l2_02",
+    "question": "Perpendikular chiziqlar necha gradusli burchak hosil qiladi?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      45,
+      60
+    ]
+  },
+  {
+    "id": "s3c3b48l2_03",
+    "question": "Ikki chiziq bir nuqtada kesishdi, lekin to'g'ri burchak hosil qilmadi. Ular perpendikularmi?  (Yo'q = 1, Ha = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b48l2_04",
+    "question": "To'g'ri to'rtburchakning nechta juft parallel tomoni bor?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      4
+    ]
+  },
+  {
+    "id": "s3c3b48l2_05",
+    "question": "Bir to'g'ri chiziqqa perpendikular bo'lgan ikki chiziq o'zaro qanday?  (parallel = 1, perpendikular = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b48l2_06",
+    "question": "Bitta to'g'ri chiziqqa parallel bo'lgan cheksiz ko'p chiziq o'tkazish mumkin.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c3b48l2_07",
+    "question": "Kvadratda o'zaro perpendikular tomonlar juftligi nechta?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b48l2_08",
+    "question": "Yo'lakdagi ikki chekka chiziq bir-biriga qanday?  (parallel = 1, perpendikular = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b48l2_09",
+    "question": "Devor va pol o'zaro qanday?  (perpendikular = 1, parallel = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b48l2_10",
+    "question": "Parallel chiziqlarning umumiy nuqtasi bormi?  (Yo'q = 1, Ha = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  }
+]

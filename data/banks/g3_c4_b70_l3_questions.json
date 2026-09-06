@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b70l3_01",
+    "question": "Sinfda 32 o'quvchi: yarmi sportga, choragi musiqaga, qolgani rasmga boradi. Rasmga nechta o'quvchi boradi?  (32 - 16 - 8)",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      16,
+      4
+    ]
+  },
+  {
+    "id": "s3c4b70l3_02",
+    "question": "Bir tasma 60 cm. Uchdan biri qizil, to'rtdan biri ko'k bo'yaldi. Bo'yalmagan qism necha cm?  (60 - 20 - 15)",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      20,
+      30
+    ]
+  },
+  {
+    "id": "s3c4b70l3_03",
+    "question": "Do'kon 3 kunda 45 600, 38 900 va 52 000 so'mlik mahsulot sotdi. Jami savdo qancha?",
+    "correctAnswer": 136500,
+    "wrongAnswers": [
+      135000,
+      138000
+    ]
+  },
+  {
+    "id": "s3c4b70l3_04",
+    "question": "12 ta bir xil quti 96 kg. 20 ta quti necha kg keladi?",
+    "correctAnswer": 160,
+    "wrongAnswers": [
+      192,
+      180
+    ]
+  },
+  {
+    "id": "s3c4b70l3_05",
+    "question": "Bog'da 8 qator, har qatorda 25 tup uzum. Hosilning to'rtdan biri yig'ib olindi. Nechta tup qoldi?  (200 - 50)",
+    "correctAnswer": 150,
+    "wrongAnswers": [
+      50,
+      175
+    ]
+  },
+  {
+    "id": "s3c4b70l3_06",
+    "question": "Avtomobil 3 soatda 210 km yurdi. Xuddi shu tezlikda 5 soatda necha km yuradi?  (v = 70)",
+    "correctAnswer": 350,
+    "wrongAnswers": [
+      300,
+      420
+    ]
+  },
+  {
+    "id": "s3c4b70l3_07",
+    "question": "Kitob 240 betdan iborat. Anvar har kuni 30 betdan o'qidi. 5 kunda necha bet qoldi?  (240 - 150)",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      150,
+      60
+    ]
+  },
+  {
+    "id": "s3c4b70l3_08",
+    "question": "(x - 45) * 6 = 180 tenglamani yeching. x = ?",
+    "correctAnswer": 75,
+    "wrongAnswers": [
+      30,
+      120
+    ]
+  },
+  {
+    "id": "s3c4b70l3_09",
+    "question": "Bir savatda 30 ta olma. Uchdan biri qizil, beshdan biri sariq, qolgani yashil. Nechta yashil olma bor?  (30 - 10 - 6)",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      20,
+      16
+    ]
+  },
+  {
+    "id": "s3c4b70l3_10",
+    "question": "Butun sonni teng bo'laklarga bo'lganda, bo'laklar soni ko'p bo'lsa, har bir bo'lak kichik bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

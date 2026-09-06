@@ -1,0 +1,8 @@
+[
+  {"id": "sinf4_chorak4_blok67_level1_syoy_01", "prompt": "Bu shaklning yoyilmasi qaysi?", "hint": "Silindr yoyilmasi — to'g'ri to'rtburchak va 2 ta doira", "target": "cylinder", "options": ["cylinder", "cone", "cuboid"]},
+  {"id": "sinf4_chorak4_blok67_level1_syoy_02", "prompt": "Bu shaklning yoyilmasi qaysi?", "hint": "Silindrning ikki asosi — teng doiralar", "target": "cylinder", "options": ["cone", "cylinder", "squarePyramid"]},
+  {"id": "sinf4_chorak4_blok67_level1_syoy_03", "prompt": "Bu shaklning yoyilmasi qaysi?", "hint": "Silindr yon sirti yozilganda to'g'ri to'rtburchak", "target": "cylinder", "options": ["cylinder", "cube", "cone"]},
+  {"id": "sinf4_chorak4_blok67_level1_syoy_04", "prompt": "Bu shaklning yoyilmasi qaysi?", "hint": "Konus yoyilmasi — doira sektori va kichik doira", "target": "cone", "options": ["cone", "cylinder", "cuboid"]},
+  {"id": "sinf4_chorak4_blok67_level1_syoy_05", "prompt": "Bu shaklning yoyilmasi qaysi?", "hint": "Silindr — 2 ta doira va to'g'ri to'rtburchak", "target": "cylinder", "options": ["cylinder", "triangularPrism", "cone"]},
+  {"id": "sinf4_chorak4_blok67_level1_syoy_06", "prompt": "Bu shaklning yoyilmasi qaysi?", "hint": "Kub — 6 ta kvadrat, silindr esa doiralar bilan", "target": "cube", "options": ["cube", "cylinder", "cone"]}
+]

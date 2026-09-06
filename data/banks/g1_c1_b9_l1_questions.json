@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b9l1_01",
+    "question": "3 sonini ikki qismga ajrating: 1 va ?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      3,
+      4
+    ]
+  },
+  {
+    "id": "s1c1b9l1_02",
+    "question": "4 = 2 + ?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "s1c1b9l1_03",
+    "question": "5 = 3 + ?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "s1c1b9l1_04",
+    "question": "2 = 1 + ?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      0
+    ]
+  },
+  {
+    "id": "s1c1b9l1_05",
+    "question": "4 = 1 + ?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "s1c1b9l1_06",
+    "question": "5 = 4 + ?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      0
+    ]
+  },
+  {
+    "id": "s1c1b9l1_07",
+    "question": "Bitta ham narsa yo'q bo'lsa, buni qaysi son bildiradi?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "s1c1b9l1_08",
+    "question": "3 ta qushdan 1 tasi uchib ketdi. Nechta qoldi?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      4,
+      1
+    ]
+  },
+  {
+    "id": "s1c1b9l1_09",
+    "question": "1 va 2 ni qo'shsak nechta bo'ladi?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "s1c1b9l1_10",
+    "question": "5 sonining tarkibi: 2 va ?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  }
+]

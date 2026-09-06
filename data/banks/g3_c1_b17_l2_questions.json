@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b17l2_01",
+    "question": "Dala 3 bo'lakka bo'lingan: 1-si 240 ga, 2-si undan 60 ga kam, 3-si 1-si bilan teng. Jami necha ga?",
+    "correctAnswer": 660,
+    "wrongAnswers": [
+      720,
+      420
+    ]
+  },
+  {
+    "id": "s3c1b17l2_02",
+    "question": "Bir ustaxona kuniga 45 ta stul yasaydi. Bir hafta (7 kun) ishlasa, nechta stul yasaydi?",
+    "correctAnswer": 315,
+    "wrongAnswers": [
+      305,
+      325
+    ]
+  },
+  {
+    "id": "s3c1b17l2_03",
+    "question": "Retsept: 4 ta tort uchun 2 kg 400 g un kerak. Bir tort uchun necha gramm un kerak?",
+    "correctAnswer": 600,
+    "wrongAnswers": [
+      400,
+      960
+    ]
+  },
+  {
+    "id": "s3c1b17l2_04",
+    "question": "Naqshning yuzi 784 cm2. U 4 ta teng bo'lakdan iborat. Bitta bo'lak yuzi necha cm2?",
+    "correctAnswer": 196,
+    "wrongAnswers": [
+      188,
+      204
+    ]
+  },
+  {
+    "id": "s3c1b17l2_05",
+    "question": "Poyezdda 8 ta vagon, har vagonda 54 joy. 3 ta vagon bo'sh. Nechta yo'lovchi bor?",
+    "correctAnswer": 270,
+    "wrongAnswers": [
+      432,
+      216
+    ]
+  },
+  {
+    "id": "s3c1b17l2_06",
+    "question": "6 ta bir xil qalam 9 000 so'm. 10 ta qalam qancha turadi?",
+    "correctAnswer": 15000,
+    "wrongAnswers": [
+      9010,
+      13500
+    ]
+  },
+  {
+    "id": "s3c1b17l2_07",
+    "question": "Bir bola 1 daqiqada 3 ta shar shishiradi. 12 ta shar necha daqiqada shishiriladi?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      36,
+      9
+    ]
+  },
+  {
+    "id": "s3c1b17l2_08",
+    "question": "Taqqoslang: 5 kun * 40 bet __ 4 kun * 50 bet",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s3c1b17l2_09",
+    "question": "Zavod 1-smenada 1 200 ta, 2-smenada 900 ta mahsulot chiqardi. 2-smena 1-smenadan nechta kam?",
+    "correctAnswer": 300,
+    "wrongAnswers": [
+      2100,
+      400
+    ]
+  },
+  {
+    "id": "s3c1b17l2_10",
+    "question": "Bir sonni o'yladim, undan 250 ayirdim, keyin 3 ga ko'paytirdim, 900 chiqdi. O'ylagan son qancha?",
+    "correctAnswer": 550,
+    "wrongAnswers": [
+      300,
+      1150
+    ]
+  }
+]

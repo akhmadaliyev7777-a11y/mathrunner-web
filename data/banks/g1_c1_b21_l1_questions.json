@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b21l1_01",
+    "question": "3 + 5 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      7,
+      9
+    ]
+  },
+  {
+    "id": "s1c1b21l1_02",
+    "question": "6 + 4 = ?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      9,
+      11
+    ]
+  },
+  {
+    "id": "s1c1b21l1_03",
+    "question": "2 + 7 = ?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s1c1b21l1_04",
+    "question": "9 - 3 = ?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      7,
+      5
+    ]
+  },
+  {
+    "id": "s1c1b21l1_05",
+    "question": "10 - 6 = ?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      5,
+      3
+    ]
+  },
+  {
+    "id": "s1c1b21l1_06",
+    "question": "Taqqoslang: 4 + 3 __ 8",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c1b21l1_07",
+    "question": "□ + 4 = 9. □ qancha?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      13,
+      4
+    ]
+  },
+  {
+    "id": "s1c1b21l1_08",
+    "question": "Qaysi son juft: 3, 5, 6, 9?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "s1c1b21l1_09",
+    "question": "6 sonidan keyingi son qaysi?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      5,
+      8
+    ]
+  },
+  {
+    "id": "s1c1b21l1_10",
+    "question": "Kesmaning nechta uchi bor?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  }
+]

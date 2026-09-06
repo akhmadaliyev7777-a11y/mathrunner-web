@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b13l2_01",
+    "question": "355 * 8 = ?",
+    "correctAnswer": 2840,
+    "wrongAnswers": [
+      2832,
+      2920
+    ]
+  },
+  {
+    "id": "s3c1b13l2_02",
+    "question": "818 * 4 = ?",
+    "correctAnswer": 3272,
+    "wrongAnswers": [
+      3268,
+      3312
+    ]
+  },
+  {
+    "id": "s3c1b13l2_03",
+    "question": "829 * 4 = ?",
+    "correctAnswer": 3316,
+    "wrongAnswers": [
+      3312,
+      3356
+    ]
+  },
+  {
+    "id": "s3c1b13l2_04",
+    "question": "780 * 6 = ?",
+    "correctAnswer": 4680,
+    "wrongAnswers": [
+      4674,
+      4740
+    ]
+  },
+  {
+    "id": "s3c1b13l2_05",
+    "question": "781 * 4 = ?",
+    "correctAnswer": 3124,
+    "wrongAnswers": [
+      3024,
+      3224
+    ]
+  },
+  {
+    "id": "s3c1b13l2_06",
+    "question": "243 * 9 = ?",
+    "correctAnswer": 2187,
+    "wrongAnswers": [
+      2077,
+      2287
+    ]
+  },
+  {
+    "id": "s3c1b13l2_07",
+    "question": "Hisoblamasdan taqqoslang:  234 * 5 __ 243 * 6",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s3c1b13l2_08",
+    "question": "607 * 3 = ?",
+    "correctAnswer": 1821,
+    "wrongAnswers": [
+      1801,
+      1841
+    ]
+  },
+  {
+    "id": "s3c1b13l2_09",
+    "question": "Uch xonali sonni bir xonali songa ustun ko'rinishida ko'paytirganda birlardan boshlanadi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c1b13l2_10",
+    "question": "456 * 2 = ?",
+    "correctAnswer": 912,
+    "wrongAnswers": [
+      902,
+      922
+    ]
+  }
+]

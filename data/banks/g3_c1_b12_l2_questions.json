@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b12l2_01",
+    "question": "50 * 700 = ?",
+    "correctAnswer": 35000,
+    "wrongAnswers": [
+      3500,
+      350000
+    ]
+  },
+  {
+    "id": "s3c1b12l2_02",
+    "question": "80 * 600 = ?",
+    "correctAnswer": 48000,
+    "wrongAnswers": [
+      4800,
+      480000
+    ]
+  },
+  {
+    "id": "s3c1b12l2_03",
+    "question": "2 400 : 60 = ?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      4,
+      400
+    ]
+  },
+  {
+    "id": "s3c1b12l2_04",
+    "question": "4 500 : 900 = ?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      1,
+      50
+    ]
+  },
+  {
+    "id": "s3c1b12l2_05",
+    "question": "63 000 : 700 = ?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      9,
+      900
+    ]
+  },
+  {
+    "id": "s3c1b12l2_06",
+    "question": "3 200 : 80 = ?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      4,
+      400
+    ]
+  },
+  {
+    "id": "s3c1b12l2_07",
+    "question": "Namuna: 12 000 : 600 = 120 : 6 = 20.  18 000 : 900 = ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      2,
+      200
+    ]
+  },
+  {
+    "id": "s3c1b12l2_08",
+    "question": "4 500 : 900 = ?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      50,
+      45
+    ]
+  },
+  {
+    "id": "s3c1b12l2_09",
+    "question": "Taqqoslang: 600 * 40 __ 800 * 30",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s3c1b12l2_10",
+    "question": "70 * 800 = ?",
+    "correctAnswer": 56000,
+    "wrongAnswers": [
+      5600,
+      560000
+    ]
+  }
+]

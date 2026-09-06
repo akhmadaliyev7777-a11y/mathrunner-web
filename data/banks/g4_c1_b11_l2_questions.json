@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok11_level2_top_01", "question": "Jadvalda: olma — 8, nok — 5, uzum — 12. Eng ko'p qaysi meva bor?", "correctAnswer": "uzum", "wrongAnswers": ["olma", "nok"]},
+  {"id": "sinf4_chorak1_blok11_level2_top_02", "question": "Diagrammada 1-sinf 20 ta, 2-sinf 35 ta kitob o'qidi. 2-sinf nechta ko'p o'qigan?", "correctAnswer": 15, "wrongAnswers": [55, 20]},
+  {"id": "sinf4_chorak1_blok11_level2_top_03", "question": "So'rovnoma: it — 10 ovoz, mushuk — 7 ovoz, baliq — 3 ovoz. Jami nechta ovoz berilgan?", "correctAnswer": 20, "wrongAnswers": [17, 10]},
+  {"id": "sinf4_chorak1_blok11_level2_top_04", "question": "Chastota jadvalida 4 raqami 3 marta uchraydi. Bu nimani bildiradi?", "correctAnswer": "4 soni ma'lumotlarda 3 marta takrorlangan", "wrongAnswers": ["Jami 4 ta ma'lumot bor", "4 × 3 = 12"]},
+  {"id": "sinf4_chorak1_blok11_level2_top_05", "question": "5 ta o'quvchining bo'yi (sm): 130, 125, 140, 135, 120. Eng baland va eng past bo'y orasidagi farq necha sm?", "correctAnswer": 20, "wrongAnswers": [15, 25]},
+  {"id": "sinf4_chorak1_blok11_level2_top_06", "question": "Jadval: dushanba — 12, seshanba — 15, chorshanba — 9 mijoz. Uch kunda jami nechta mijoz?", "correctAnswer": 36, "wrongAnswers": [27, 45]},
+  {"id": "sinf4_chorak1_blok11_level2_top_07", "question": "Piktogrammada 1 ta rasm = 5 ta mashina. 4 ta rasm nechta mashinani bildiradi?", "correctAnswer": 20, "wrongAnswers": [9, 45]},
+  {"id": "sinf4_chorak1_blok11_level2_top_08", "question": "Ma'lumotlarni ko'rgazmali ko'rsatish uchun quyidagilardan qaysi biri ISHLATILMAYDI?", "correctAnswer": "Tenglama", "wrongAnswers": ["Ustunli diagramma", "Jadval"]},
+  {"id": "sinf4_chorak1_blok11_level2_top_09", "question": "Sinfda 25 o'quvchi. 15 tasi futbolni, qolganlari basketbolni yoqtiradi. Nechtasi basketbolni yoqtiradi?", "correctAnswer": 10, "wrongAnswers": [40, 15]},
+  {"id": "sinf4_chorak1_blok11_level2_top_10", "question": "Ustunli diagrammada eng baland ustun 40 ni, eng past ustun 10 ni ko'rsatadi. Ular orasidagi farq nechi?", "correctAnswer": 30, "wrongAnswers": [50, 4]}
+]

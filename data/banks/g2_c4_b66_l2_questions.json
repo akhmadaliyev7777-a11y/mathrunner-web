@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b66l2_01",
+    "question": "400 : 8 = ?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      60,
+      49
+    ]
+  },
+  {
+    "id": "s2c4b66l2_02",
+    "question": "630 : 9 = ?",
+    "correctAnswer": 70,
+    "wrongAnswers": [
+      80,
+      69
+    ]
+  },
+  {
+    "id": "s2c4b66l2_03",
+    "question": "240 : 6 = ?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      50,
+      39
+    ]
+  },
+  {
+    "id": "s2c4b66l2_04",
+    "question": "350 : 7 = ?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      60,
+      49
+    ]
+  },
+  {
+    "id": "s2c4b66l2_05",
+    "question": "480 : 8 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      70,
+      59
+    ]
+  },
+  {
+    "id": "s2c4b66l2_06",
+    "question": "720 : 9 = ?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      90,
+      79
+    ]
+  },
+  {
+    "id": "s2c4b66l2_07",
+    "question": "800 : 100 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      80,
+      800
+    ]
+  },
+  {
+    "id": "s2c4b66l2_08",
+    "question": "1000 : 10 = ?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      10,
+      1000
+    ]
+  },
+  {
+    "id": "s2c4b66l2_09",
+    "question": "600 ta olma 3 ta yuk mashinasiga teng ortildi. Bittasiga nechtadan?",
+    "correctAnswer": 200,
+    "wrongAnswers": [
+      2,
+      300
+    ]
+  },
+  {
+    "id": "s2c4b66l2_10",
+    "question": "Xato: \"90 : 3 = 3\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      3,
+      300
+    ]
+  }
+]

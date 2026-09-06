@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b55l2_01",
+    "question": "(x - 30) * 5 = 200 tenglamani yeching. x = ?",
+    "correctAnswer": 70,
+    "wrongAnswers": [
+      60,
+      80
+    ]
+  },
+  {
+    "id": "s3c3b55l2_02",
+    "question": "48 sonining to'rtdan bir qismi qancha?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      8,
+      16
+    ]
+  },
+  {
+    "id": "s3c3b55l2_03",
+    "question": "Sonli nurda A(15) dan 6 chapga, 2 o'ngga yurdik. Qaysi nuqtaga keldik?",
+    "correctAnswer": 11,
+    "wrongAnswers": [
+      12,
+      10
+    ]
+  },
+  {
+    "id": "s3c3b55l2_04",
+    "question": "Aylana diametri 18 cm. Radiusi necha cm?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      18,
+      4
+    ]
+  },
+  {
+    "id": "s3c3b55l2_05",
+    "question": "(3, 2) nuqtadan yuqoriga 4 birlik yursak, y koordinatasi qancha?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      2,
+      7
+    ]
+  },
+  {
+    "id": "s3c3b55l2_06",
+    "question": "y - 120 = 15 * 8 tenglamani yeching. y = ?",
+    "correctAnswer": 240,
+    "wrongAnswers": [
+      230,
+      250
+    ]
+  },
+  {
+    "id": "s3c3b55l2_07",
+    "question": "Kub yoyilmasi nechta kvadratdan iborat?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      4,
+      8
+    ]
+  },
+  {
+    "id": "s3c3b55l2_08",
+    "question": "x < 3 tengsizlikning 0 va natural sonlardagi yechimlari nechta?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "s3c3b55l2_09",
+    "question": "Teng tomonli uchburchakning nechta simmetriya o'qi bor?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "s3c3b55l2_10",
+    "question": "Taqqoslang: 36 ning yarmi __ 48 ning choragi",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  }
+]

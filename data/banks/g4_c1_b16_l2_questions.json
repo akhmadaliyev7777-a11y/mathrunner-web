@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok16_level2_koord_01", "question": "A nuqta (3, 5) da joylashgan. Uning birinchi koordinatasi (abssissa) nechi?", "correctAnswer": 3, "wrongAnswers": [5, 8]},
+  {"id": "sinf4_chorak1_blok16_level2_koord_02", "question": "B nuqta (0, 4) da. U qaysi o'q ustida yotadi?", "correctAnswer": "Ordinata (tik) o'qi", "wrongAnswers": ["Abssissa (yotiq) o'qi", "Hech qaysi o'qda emas"]},
+  {"id": "sinf4_chorak1_blok16_level2_koord_03", "question": "(2, 0) nuqta qayerda yotadi?", "correctAnswer": "Abssissa (yotiq) o'qi ustida", "wrongAnswers": ["Ordinata o'qi ustida", "Koordinata boshida"]},
+  {"id": "sinf4_chorak1_blok16_level2_koord_04", "question": "Koordinata boshi qaysi nuqta?", "correctAnswer": "(0, 0)", "wrongAnswers": ["(1, 1)", "(0, 1)"]},
+  {"id": "sinf4_chorak1_blok16_level2_koord_05", "question": "A(1, 2) va B(1, 6) nuqtalar orasidagi masofa necha birlik?", "correctAnswer": 4, "wrongAnswers": [1, 7]},
+  {"id": "sinf4_chorak1_blok16_level2_koord_06", "question": "C(2, 3) va D(7, 3) nuqtalar orasidagi masofa necha birlik?", "correctAnswer": 5, "wrongAnswers": [3, 10]},
+  {"id": "sinf4_chorak1_blok16_level2_koord_07", "question": "Nuqta ordinata o'qidan 2 birlik o'ngda, abssissa o'qidan 4 birlik yuqorida. Uning koordinatalari qaysi?", "correctAnswer": "(2, 4)", "wrongAnswers": ["(4, 2)", "(2, 2)"]},
+  {"id": "sinf4_chorak1_blok16_level2_koord_08", "question": "Aziz (5, 2) nuqtani belgilash uchun avval 5 ta yuqoriga, keyin 2 ta o'ngga yurdi. Xatosi nimada?", "correctAnswer": "Avval 5 ta O'NGGA, keyin 2 ta yuqoriga yurish kerak", "wrongAnswers": ["Xato yo'q", "Avval 2 ta o'ngga yurish kerak"]},
+  {"id": "sinf4_chorak1_blok16_level2_koord_09", "question": "E(4, 4) nuqtaning ordinatasi (ikkinchi koordinatasi) nechi?", "correctAnswer": 4, "wrongAnswers": [8, 0]},
+  {"id": "sinf4_chorak1_blok16_level2_koord_10", "question": "(6, 1) va (6, 4) nuqtalarni tutashtirsak qanday chiziq hosil bo'ladi?", "correctAnswer": "Tik (vertikal) kesma", "wrongAnswers": ["Yotiq kesma", "Og'ma chiziq"]}
+]

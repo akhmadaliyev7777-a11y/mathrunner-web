@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok51_level1_but_01", "question": "3 − 1 1/4 = ?", "correctAnswer": "1 3/4", "wrongAnswers": ["2 3/4", "1 1/4"]},
+  {"id": "sinf4_chorak3_blok51_level1_but_02", "question": "4 − 2 1/3 = ?", "correctAnswer": "1 2/3", "wrongAnswers": ["2 2/3", "1 1/3"]},
+  {"id": "sinf4_chorak3_blok51_level1_but_03", "question": "5 − 1 3/8 = ?", "correctAnswer": "3 5/8", "wrongAnswers": ["4 5/8", "3 3/8"]},
+  {"id": "sinf4_chorak3_blok51_level1_but_04", "question": "2 − 1/6 = ?", "correctAnswer": "1 5/6", "wrongAnswers": ["2 5/6", "1 1/6"]},
+  {"id": "sinf4_chorak3_blok51_level1_but_05", "question": "6 − 3 2/5 = ?", "correctAnswer": "2 3/5", "wrongAnswers": ["3 3/5", "2 2/5"]},
+  {"id": "sinf4_chorak3_blok51_level1_but_06", "question": "3 − 2 4/7 = ?", "correctAnswer": "3/7", "wrongAnswers": ["1 3/7", "4/7"]},
+  {"id": "sinf4_chorak3_blok51_level1_but_07", "question": "10 − 4 1/2 = ?", "correctAnswer": "5 1/2", "wrongAnswers": ["6 1/2", "5"]},
+  {"id": "sinf4_chorak3_blok51_level1_but_08", "question": "1 − 3/10 = ?", "correctAnswer": "7/10", "wrongAnswers": ["3/10", "1 7/10"]},
+  {"id": "sinf4_chorak3_blok51_level1_but_09", "question": "Butun sondan aralash kasrni ayirishda butundan olingan 1 birlik qaysi maxrajli kasrga aylantiriladi?", "correctAnswer": "Ayiriladigan kasr bilan bir xil maxraj", "wrongAnswers": ["Har doim maxraj 10", "Har doim maxraj 2"]},
+  {"id": "sinf4_chorak3_blok51_level1_but_10", "question": "7 − 5 5/6 = ?", "correctAnswer": "1 1/6", "wrongAnswers": ["2 1/6", "1 5/6"]}
+]

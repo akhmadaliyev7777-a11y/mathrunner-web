@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3c3b45l1_frac_01",
+    "prompt": "Tasmaning 1/2 qismini bo'yang",
+    "denominator": 2,
+    "numerator": 1
+  },
+  {
+    "id": "g3c3b45l1_frac_02",
+    "prompt": "Tasmaning 1/3 qismini bo'yang",
+    "denominator": 3,
+    "numerator": 1
+  },
+  {
+    "id": "g3c3b45l1_frac_03",
+    "prompt": "Tasmaning 1/4 qismini bo'yang",
+    "denominator": 4,
+    "numerator": 1
+  },
+  {
+    "id": "g3c3b45l1_frac_04",
+    "prompt": "Tasmaning 1/6 qismini bo'yang",
+    "denominator": 6,
+    "numerator": 1
+  },
+  {
+    "id": "g3c3b45l1_frac_05",
+    "prompt": "Tasmaning 1/3 qismini bo'yang",
+    "denominator": 3,
+    "numerator": 1
+  },
+  {
+    "id": "g3c3b45l1_frac_06",
+    "prompt": "Tasmaning 1/4 qismini bo'yang",
+    "denominator": 4,
+    "numerator": 1
+  },
+  {
+    "id": "g3c3b45l1_frac_07",
+    "prompt": "Tasmaning 1/2 qismini bo'yang",
+    "denominator": 2,
+    "numerator": 1
+  },
+  {
+    "id": "g3c3b45l1_frac_08",
+    "prompt": "Tasmaning 1/5 qismini bo'yang",
+    "denominator": 5,
+    "numerator": 1
+  },
+  {
+    "id": "g3c3b45l1_frac_09",
+    "prompt": "Tasmaning 1/8 qismini bo'yang",
+    "denominator": 8,
+    "numerator": 1
+  },
+  {
+    "id": "g3c3b45l1_frac_10",
+    "prompt": "Tasmaning 1/6 qismini bo'yang",
+    "denominator": 6,
+    "numerator": 1
+  }
+]

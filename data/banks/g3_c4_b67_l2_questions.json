@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b67l2_01",
+    "question": "'99 soni 3 ga karrali' — bu rost mulohaza.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c4b67l2_02",
+    "question": "'Bir yilda 10 oy bor' — bu rost mulohaza.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c4b67l2_03",
+    "question": "'1 - eng kichik natural son' — bu rost mulohaza.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c4b67l2_04",
+    "question": "'345 sonining raqamlari yig'indisi 12 ga teng' — bu rost mulohaza.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c4b67l2_05",
+    "question": "'Fevral oyida har doim 31 kun bo'ladi' — bu rost mulohaza.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c4b67l2_06",
+    "question": "'2 * 8 = 16' — bu rost mulohaza.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c4b67l2_07",
+    "question": "'Barcha to'rtburchaklarning 4 ta burchagi bor' — bu rost mulohaza.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c4b67l2_08",
+    "question": "'118 va 7 sonlari ko'paytmasi 826 ga teng' — bu rost mulohaza.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c4b67l2_09",
+    "question": "Rost mulohaza — bu qanday tasdiq?  (to'g'ri tasdiq = 1, noto'g'ri tasdiq = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b67l2_10",
+    "question": "'x + 3 = 10' — bu rost mulohazami yoki yolg'onmi?  (aniqlab bo'lmaydi (x noma'lum) = 3)",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      1,
+      2
+    ]
+  }
+]

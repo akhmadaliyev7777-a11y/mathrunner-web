@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b3l2_01",
+    "question": "80 * 40 = ?",
+    "correctAnswer": 3200,
+    "wrongAnswers": [
+      320,
+      3280
+    ]
+  },
+  {
+    "id": "s3c1b3l2_02",
+    "question": "60 * 80 = ?",
+    "correctAnswer": 4800,
+    "wrongAnswers": [
+      480,
+      4860
+    ]
+  },
+  {
+    "id": "s3c1b3l2_03",
+    "question": "80 * 70 = ?",
+    "correctAnswer": 5600,
+    "wrongAnswers": [
+      560,
+      5680
+    ]
+  },
+  {
+    "id": "s3c1b3l2_04",
+    "question": "800 : 100 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      80,
+      1
+    ]
+  },
+  {
+    "id": "s3c1b3l2_05",
+    "question": "Taqsimot xossasi bilan hisoblang: 7 * (10 + 4)",
+    "correctAnswer": 98,
+    "wrongAnswers": [
+      56,
+      128
+    ]
+  },
+  {
+    "id": "s3c1b3l2_06",
+    "question": "(5 + 6) * 6 = ?",
+    "correctAnswer": 66,
+    "wrongAnswers": [
+      60,
+      96
+    ]
+  },
+  {
+    "id": "s3c1b3l2_07",
+    "question": "90 * 8 + 210 : 7 = ?",
+    "correctAnswer": 750,
+    "wrongAnswers": [
+      550,
+      810
+    ]
+  },
+  {
+    "id": "s3c1b3l2_08",
+    "question": "Taqqoslang: 50 * 7 __ 35 * 10",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s3c1b3l2_09",
+    "question": "Namuna: 50 * 70 = 3500.  60 * 70 = ?",
+    "correctAnswer": 4200,
+    "wrongAnswers": [
+      420,
+      4270
+    ]
+  },
+  {
+    "id": "s3c1b3l2_10",
+    "question": "7 * (10 + 4) = ?",
+    "correctAnswer": 98,
+    "wrongAnswers": [
+      74,
+      84
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b30l2_01",
+    "question": "Taqqoslang: 34 __ 43",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c2b30l2_02",
+    "question": "Taqqoslang: 58 __ 58",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s1c2b30l2_03",
+    "question": "Taqqoslang: 70 __ 67",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s1c2b30l2_04",
+    "question": "Taqqoslang: 29 __ 92",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c2b30l2_05",
+    "question": "Taqqoslang: 81 __ 18",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s1c2b30l2_06",
+    "question": "Taqqoslang: 60 __ 60",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s1c2b30l2_07",
+    "question": "45, 54, 44 sonlaridan eng kattasi qaysi?",
+    "correctAnswer": 54,
+    "wrongAnswers": [
+      45,
+      44
+    ]
+  },
+  {
+    "id": "s1c2b30l2_08",
+    "question": "Ikki xonali sonlarni taqqoslaganda avval qaysi xonaga qaraymiz?",
+    "correctAnswer": "o'nliklar xonasiga",
+    "wrongAnswers": [
+      "birliklar xonasiga",
+      "farqi yo'q"
+    ]
+  },
+  {
+    "id": "s1c2b30l2_09",
+    "question": "63 dan katta, 65 dan kichik son qaysi?",
+    "correctAnswer": 64,
+    "wrongAnswers": [
+      62,
+      66
+    ]
+  },
+  {
+    "id": "s1c2b30l2_10",
+    "question": "Qaysi son eng kichik: 40, 14, 41, 4?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      14,
+      40
+    ]
+  }
+]

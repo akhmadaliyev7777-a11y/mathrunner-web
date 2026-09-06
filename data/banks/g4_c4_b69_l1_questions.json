@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak4_blok69_level1_fmas_01", "question": "Kubning bir qirrasi 3 sm. Uning barcha qirralari yig'indisi necha sm?", "correctAnswer": 36, "wrongAnswers": [12, 9]},
+  {"id": "sinf4_chorak4_blok69_level1_fmas_02", "question": "5 ta kubdan yasalgan minorada jami nechta kub yog'i bor (har kub 6 yoq)?", "correctAnswer": 30, "wrongAnswers": [11, 5]},
+  {"id": "sinf4_chorak4_blok69_level1_fmas_03", "question": "Kuboidning bo'yi 6 sm, eni 4 sm. Uning bir asos yuzasi (bo'y × en) necha sm²?", "correctAnswer": 24, "wrongAnswers": [12, 48]},
+  {"id": "sinf4_chorak4_blok69_level1_fmas_04", "question": "Uchburchakli prizmaning 2 ta uchburchak asosi va 3 ta to'rtburchak yon yoqi bor. Jami nechta yoq?", "correctAnswer": 5, "wrongAnswers": [6, 3]},
+  {"id": "sinf4_chorak4_blok69_level1_fmas_05", "question": "Kubning bir qirrasi 10 sm. Uning bir yog'ining (kvadrat) yuzasi necha sm²?", "correctAnswer": 100, "wrongAnswers": [40, 20]},
+  {"id": "sinf4_chorak4_blok69_level1_fmas_06", "question": "Sovg'a qutisini (kuboid) o'rash uchun material miqdori uning nimasiga bog'liq?", "correctAnswer": "Yuzasiga (barcha yoqlar yuzasi)", "wrongAnswers": ["Perimetriga", "Bir qirrasiga"]},
+  {"id": "sinf4_chorak4_blok69_level1_fmas_07", "question": "8 ta kichik kubdan bitta katta kub yasaldi. Katta kubning bir qirrasida nechta kichik kub bor?", "correctAnswer": 2, "wrongAnswers": [4, 8]},
+  {"id": "sinf4_chorak4_blok69_level1_fmas_08", "question": "Kvadrat asosli piramidaning 5 ta yog'i bor. Ulardan nechtasi uchburchak?", "correctAnswer": 4, "wrongAnswers": [1, 5]},
+  {"id": "sinf4_chorak4_blok69_level1_fmas_09", "question": "Bir qirrasi 4 sm bo'lgan kubning 6 ta yog'i yuzasi jami necha sm²?", "correctAnswer": 96, "wrongAnswers": [16, 24]},
+  {"id": "sinf4_chorak4_blok69_level1_fmas_10", "question": "Silindrning 2 ta doira asosi va 1 ta egri yon sirti bor. Jami nechta sirt?", "correctAnswer": 3, "wrongAnswers": [2, 6]}
+]

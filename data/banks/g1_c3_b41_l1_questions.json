@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b41l1_01",
+    "question": "Anvarda 12 ta, Sardorda 8 ta marka. Anvarda nechtaga ko'p?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      20,
+      5
+    ]
+  },
+  {
+    "id": "s1c3b41l1_02",
+    "question": "Bir daraxtda 20 ta olma, boshqasida 14 ta. Farqi qancha?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      34,
+      7
+    ]
+  },
+  {
+    "id": "s1c3b41l1_03",
+    "question": "10 ta qizil va 15 ta ko'k shar. Ko'k sharlar nechtaga ko'p?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      25,
+      6
+    ]
+  },
+  {
+    "id": "s1c3b41l1_04",
+    "question": "\"Qancha ko'p?\" degan savol qaysi amal bilan yechiladi?",
+    "correctAnswer": "ayirish",
+    "wrongAnswers": [
+      "qo'shish",
+      "taqqoslash belgisi bilan"
+    ]
+  },
+  {
+    "id": "s1c3b41l1_05",
+    "question": "Bir qutida 9 ta, boshqasida 9 ta qalam. Farqi qancha?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      18,
+      1
+    ]
+  },
+  {
+    "id": "s1c3b41l1_06",
+    "question": "Dilnozada 18 ta rasm, Malikada 12 ta. Malikada nechtaga kam?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      30,
+      7
+    ]
+  },
+  {
+    "id": "s1c3b41l1_07",
+    "question": "25 va 20 — farqi qancha?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      45,
+      6
+    ]
+  },
+  {
+    "id": "s1c3b41l1_08",
+    "question": "Bir sinfda 24, boshqasida 19 o'quvchi. Qaysi sinfda ko'p va nechtaga?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      43,
+      6
+    ]
+  },
+  {
+    "id": "s1c3b41l1_09",
+    "question": "Ikki sonning farqini topish uchun kattasidan kichigini ayiramiz.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b41l1_10",
+    "question": "Xato: \"15 va 10 farqi 25\" deyildi. To'g'ri farq qancha?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      25,
+      4
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok37_level1_per_01", "question": "Uchburchakning tomonlari 5, 7, 8 sm. Perimetri necha sm?", "correctAnswer": 20, "wrongAnswers": [40, 12]},
+  {"id": "sinf4_chorak2_blok37_level1_per_02", "question": "Kvadratning tomoni 9 sm. Perimetri necha sm?", "correctAnswer": 36, "wrongAnswers": [18, 81]},
+  {"id": "sinf4_chorak2_blok37_level1_per_03", "question": "To'g'ri to'rtburchakning tomonlari 12 sm va 4 sm. Perimetri necha sm?", "correctAnswer": 32, "wrongAnswers": [48, 16]},
+  {"id": "sinf4_chorak2_blok37_level1_per_04", "question": "Beshburchakning har tomoni 6 sm. Perimetri necha sm?", "correctAnswer": 30, "wrongAnswers": [11, 25]},
+  {"id": "sinf4_chorak2_blok37_level1_per_05", "question": "Uchburchakning perimetri 24 sm. Ikki tomoni 8 va 10 sm. Uchinchi tomoni necha sm?", "correctAnswer": 6, "wrongAnswers": [18, 42]},
+  {"id": "sinf4_chorak2_blok37_level1_per_06", "question": "Oltiburchakning har tomoni 5 sm. Perimetri necha sm?", "correctAnswer": 30, "wrongAnswers": [11, 25]},
+  {"id": "sinf4_chorak2_blok37_level1_per_07", "question": "Kvadratning perimetri 28 sm. Bir tomoni necha sm?", "correctAnswer": 7, "wrongAnswers": [4, 14]},
+  {"id": "sinf4_chorak2_blok37_level1_per_08", "question": "To'g'ri to'rtburchak uchastka bo'yi 20 m, eni 15 m. Uni to'siq bilan o'rash uchun necha metr to'siq kerak?", "correctAnswer": 70, "wrongAnswers": [35, 300]},
+  {"id": "sinf4_chorak2_blok37_level1_per_09", "question": "Teng tomonli uchburchakning perimetri 21 sm. Bir tomoni necha sm?", "correctAnswer": 7, "wrongAnswers": [3, 63]},
+  {"id": "sinf4_chorak2_blok37_level1_per_10", "question": "To'rtburchakning tomonlari 3, 5, 3, 5 sm. Perimetri necha sm?", "correctAnswer": 16, "wrongAnswers": [11, 8]}
+]

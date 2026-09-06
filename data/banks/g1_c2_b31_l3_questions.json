@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b31l3_01",
+    "question": "43 + 25 = ?",
+    "correctAnswer": 68,
+    "wrongAnswers": [
+      58,
+      78
+    ]
+  },
+  {
+    "id": "s1c2b31l3_02",
+    "question": "56 + 32 = ?",
+    "correctAnswer": 88,
+    "wrongAnswers": [
+      78,
+      98
+    ]
+  },
+  {
+    "id": "s1c2b31l3_03",
+    "question": "61 + 27 = ?",
+    "correctAnswer": 88,
+    "wrongAnswers": [
+      78,
+      98
+    ]
+  },
+  {
+    "id": "s1c2b31l3_04",
+    "question": "34 + 44 = ?",
+    "correctAnswer": 78,
+    "wrongAnswers": [
+      68,
+      88
+    ]
+  },
+  {
+    "id": "s1c2b31l3_05",
+    "question": "70 + 19 = ?",
+    "correctAnswer": 89,
+    "wrongAnswers": [
+      79,
+      99
+    ]
+  },
+  {
+    "id": "s1c2b31l3_06",
+    "question": "25 + 63 = ?",
+    "correctAnswer": 88,
+    "wrongAnswers": [
+      78,
+      98
+    ]
+  },
+  {
+    "id": "s1c2b31l3_07",
+    "question": "Bir qutida 24 ta, boshqasida 33 ta qalam. Jami nechta?",
+    "correctAnswer": 57,
+    "wrongAnswers": [
+      9,
+      67
+    ]
+  },
+  {
+    "id": "s1c2b31l3_08",
+    "question": "Sinfda 15 o'g'il va 12 qiz bor. Jami nechta o'quvchi?",
+    "correctAnswer": 27,
+    "wrongAnswers": [
+      3,
+      37
+    ]
+  },
+  {
+    "id": "s1c2b31l3_09",
+    "question": "40 + 30 + 20 = ?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      80,
+      100
+    ]
+  },
+  {
+    "id": "s1c2b31l3_10",
+    "question": "Xato: \"52 + 26 = 68\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 78,
+    "wrongAnswers": [
+      68,
+      88
+    ]
+  }
+]

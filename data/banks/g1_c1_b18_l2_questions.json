@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b18l2_01",
+    "question": "3 + 6 = 6 + 3. Bu qaysi xossa?",
+    "correctAnswer": "o'rin almashtirish xossasi",
+    "wrongAnswers": [
+      "guruhlash xossasi",
+      "ayirish xossasi"
+    ]
+  },
+  {
+    "id": "s1c1b18l2_02",
+    "question": "4 + 5 = 9 bo'lsa, 5 + 4 nechaga teng?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      1,
+      10
+    ]
+  },
+  {
+    "id": "s1c1b18l2_03",
+    "question": "7 + 2 = 9 bo'lsa, 2 + 7 nechaga teng?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      5,
+      14
+    ]
+  },
+  {
+    "id": "s1c1b18l2_04",
+    "question": "Qo'shiluvchilar o'rnini almashtirsak, yig'indi ...",
+    "correctAnswer": "o'zgarmaydi",
+    "wrongAnswers": [
+      "o'zgaradi",
+      "kattalashadi"
+    ]
+  },
+  {
+    "id": "s1c1b18l2_05",
+    "question": "6 + 1 = 1 + □. □ qancha?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      1,
+      7
+    ]
+  },
+  {
+    "id": "s1c1b18l2_06",
+    "question": "8 + 0 = 0 + □. □ qancha?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      0,
+      9
+    ]
+  },
+  {
+    "id": "s1c1b18l2_07",
+    "question": "3 + 5 va 5 + 3 ning natijalari teng.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b18l2_08",
+    "question": "Ayirishda ham o'rin almashtirish xossasi ishlaydi (9 - 4 = 4 - 9).",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b18l2_09",
+    "question": "Taqqoslang: 2 + 7 __ 7 + 2",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s1c1b18l2_10",
+    "question": "Xato: \"4 + 3 va 3 + 4 har xil\" deyildi. Aslida ular ...",
+    "correctAnswer": "teng",
+    "wrongAnswers": [
+      "har xil",
+      "1 ga farq qiladi"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b43l3_01",
+    "question": "16 : 2 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      6,
+      10
+    ]
+  },
+  {
+    "id": "s2c3b43l3_02",
+    "question": "20 : 2 = ?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      5,
+      12
+    ]
+  },
+  {
+    "id": "s2c3b43l3_03",
+    "question": "14 ta konfet 2 bolaga teng bo'lindi. Har biriga nechtadan?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      5,
+      12
+    ]
+  },
+  {
+    "id": "s2c3b43l3_04",
+    "question": "18 : 2 amalni tekshiring: 9 * 2 nechaga teng?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      11,
+      7
+    ]
+  },
+  {
+    "id": "s2c3b43l3_05",
+    "question": "Bir sonni 2 ga bo'ldim, 6 chiqdi. Qaysi son?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      3,
+      8
+    ]
+  },
+  {
+    "id": "s2c3b43l3_06",
+    "question": "10 : 2 + 3 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      5,
+      11
+    ]
+  },
+  {
+    "id": "s2c3b43l3_07",
+    "question": "12 : 2 = ?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      4,
+      8
+    ]
+  },
+  {
+    "id": "s2c3b43l3_08",
+    "question": "Taqqoslang: 16 : 2 __ 7",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s2c3b43l3_09",
+    "question": "Agar 8 : 2 = 4 bo'lsa, u holda 4 * 2 = 8.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c3b43l3_10",
+    "question": "Xato: \"18 : 2 = 8\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      10
+    ]
+  }
+]

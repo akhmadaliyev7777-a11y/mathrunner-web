@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok39_level2_yak_01", "question": "240 km yo'lni mashina 4 soatda bosdi. Uning tezligi qancha?", "correctAnswer": 60, "wrongAnswers": [244, 15]},
+  {"id": "sinf4_chorak2_blok39_level2_yak_02", "question": "Ikki piyoda bir-biriga qarab yuradi (4 va 6 km/soat), orasi 30 km. Necha soatda uchrashadi?", "correctAnswer": 3, "wrongAnswers": [10, 5]},
+  {"id": "sinf4_chorak2_blok39_level2_yak_03", "question": "Yuk mashinasi 40, avtobus 60 km/soat. Avtobus 40 km orqada. Necha soatda quvib yetadi?", "correctAnswer": 2, "wrongAnswers": [20, 80]},
+  {"id": "sinf4_chorak2_blok39_level2_yak_04", "question": "5 738 ni mingliklargacha yaxlitlang.", "correctAnswer": 6000, "wrongAnswers": [5000, 5700]},
+  {"id": "sinf4_chorak2_blok39_level2_yak_05", "question": "125 ta mehmon keladi, har stolda 8 kishi o'tiradi. Nechta stol kerak?", "correctAnswer": 16, "wrongAnswers": [15, 125]},
+  {"id": "sinf4_chorak2_blok39_level2_yak_06", "question": "Bog' 25 m × 15 m. Uni o'rash uchun necha metr to'siq kerak?", "correctAnswer": 80, "wrongAnswers": [40, 375]},
+  {"id": "sinf4_chorak2_blok39_level2_yak_07", "question": "Nostandart shakl 12 ta to'liq va 6 ta yarim katak. Taxminiy yuza necha sm²?", "correctAnswer": 15, "wrongAnswers": [18, 12]},
+  {"id": "sinf4_chorak2_blok39_level2_yak_08", "question": "Sonli nurda nuqta 15 da turibdi va 7 birlik chapga siljidi. Endi u qayerda?", "correctAnswer": 8, "wrongAnswers": [22, 105]},
+  {"id": "sinf4_chorak2_blok39_level2_yak_09", "question": "Ikki jism bir joydan qarama-qarshi yo'nalishda yurdi (10 va 15 km/soat). 3 soatdan keyin ular orasi qancha?", "correctAnswer": 75, "wrongAnswers": [25, 45]},
+  {"id": "sinf4_chorak2_blok39_level2_yak_10", "question": "Chamalang: 612 ÷ 3 taxminan qancha?", "correctAnswer": 200, "wrongAnswers": [20, 2000]}
+]

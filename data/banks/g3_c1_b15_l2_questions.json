@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b15l2_01",
+    "question": "32 * 12 = ?",
+    "correctAnswer": 384,
+    "wrongAnswers": [
+      352,
+      396
+    ]
+  },
+  {
+    "id": "s3c1b15l2_02",
+    "question": "24 * 25 = ?",
+    "correctAnswer": 600,
+    "wrongAnswers": [
+      576,
+      625
+    ]
+  },
+  {
+    "id": "s3c1b15l2_03",
+    "question": "52 * 55 = ?",
+    "correctAnswer": 2860,
+    "wrongAnswers": [
+      2808,
+      2915
+    ]
+  },
+  {
+    "id": "s3c1b15l2_04",
+    "question": "41 * 23 = ?",
+    "correctAnswer": 943,
+    "wrongAnswers": [
+      902,
+      966
+    ]
+  },
+  {
+    "id": "s3c1b15l2_05",
+    "question": "63 * 14 = ?",
+    "correctAnswer": 882,
+    "wrongAnswers": [
+      819,
+      896
+    ]
+  },
+  {
+    "id": "s3c1b15l2_06",
+    "question": "979 * 13 = ?",
+    "correctAnswer": 12727,
+    "wrongAnswers": [
+      12627,
+      12827
+    ]
+  },
+  {
+    "id": "s3c1b15l2_07",
+    "question": "115 * 25 = ?",
+    "correctAnswer": 2875,
+    "wrongAnswers": [
+      2775,
+      2975
+    ]
+  },
+  {
+    "id": "s3c1b15l2_08",
+    "question": "Hisoblamasdan taqqoslang:  456 * 320 __ 456 * 230",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s3c1b15l2_09",
+    "question": "204 * 12 = ?",
+    "correctAnswer": 2448,
+    "wrongAnswers": [
+      2438,
+      2458
+    ]
+  },
+  {
+    "id": "s3c1b15l2_10",
+    "question": "300 * 25 = ?",
+    "correctAnswer": 7500,
+    "wrongAnswers": [
+      7000,
+      8000
+    ]
+  }
+]

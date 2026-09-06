@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b24l2_01",
+    "question": "53 478 sonini 3 ga bo'lganda qoldiq qancha?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "s3c2b24l2_02",
+    "question": "83 654 sonini 5 ga bo'lganda qoldiq qancha?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": "s3c2b24l2_03",
+    "question": "64 129 sonini 8 ga bo'lganda qoldiq qancha?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c2b24l2_04",
+    "question": "72 025 sonini 10 ga bo'lganda qoldiq qancha?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      6,
+      7
+    ]
+  },
+  {
+    "id": "s3c2b24l2_05",
+    "question": "Bir yilda nechta kvartal bor?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      3,
+      2
+    ]
+  },
+  {
+    "id": "s3c2b24l2_06",
+    "question": "1 kvartal necha oydan iborat?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      4,
+      2
+    ]
+  },
+  {
+    "id": "s3c2b24l2_07",
+    "question": "1-kvartal qaysi oylarni o'z ichiga oladi?  (yanvar-fevral-mart = 1, aprel-may-iyun = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c2b24l2_08",
+    "question": "621 126 sonini 4 ga bo'lganda qoldiq qancha?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "s3c2b24l2_09",
+    "question": "Son 5 ga bo'lganda qanday qoldiqlar bo'lishi mumkin?  (0,1,2,3,4 = 1;  0,1,2,3,4,5 = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c2b24l2_10",
+    "question": "Yil boshidan 6 oy o'tdi. Bu nechta kvartal?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      3,
+      1
+    ]
+  }
+]

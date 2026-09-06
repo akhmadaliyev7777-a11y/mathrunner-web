@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b36l1_01",
+    "question": "2 kg necha g?",
+    "correctAnswer": 2000,
+    "wrongAnswers": [
+      2,
+      200
+    ]
+  },
+  {
+    "id": "s3c3b36l1_02",
+    "question": "5 t necha kg?",
+    "correctAnswer": 5000,
+    "wrongAnswers": [
+      5,
+      500
+    ]
+  },
+  {
+    "id": "s3c3b36l1_03",
+    "question": "4 kg necha g?",
+    "correctAnswer": 4000,
+    "wrongAnswers": [
+      4,
+      400
+    ]
+  },
+  {
+    "id": "s3c3b36l1_04",
+    "question": "3 t necha kg?",
+    "correctAnswer": 3000,
+    "wrongAnswers": [
+      3,
+      300
+    ]
+  },
+  {
+    "id": "s3c3b36l1_05",
+    "question": "7 kg necha g?",
+    "correctAnswer": 7000,
+    "wrongAnswers": [
+      7,
+      700
+    ]
+  },
+  {
+    "id": "s3c3b36l1_06",
+    "question": "3 000 g necha kg?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      30,
+      300
+    ]
+  },
+  {
+    "id": "s3c3b36l1_07",
+    "question": "1 tonna necha sentner (q)?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      100,
+      1000
+    ]
+  },
+  {
+    "id": "s3c3b36l1_08",
+    "question": "4 kg 300 g necha g?",
+    "correctAnswer": 4300,
+    "wrongAnswers": [
+      430,
+      43000
+    ]
+  },
+  {
+    "id": "s3c3b36l1_09",
+    "question": "Taqqoslang: 4 000 g __ 3 kg",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s3c3b36l1_10",
+    "question": "1 sentner necha kg?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      10,
+      1000
+    ]
+  }
+]

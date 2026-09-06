@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b38l2_01",
+    "question": "45 dm2 12 cm2 + 11 dm2 51 cm2 = ? cm2",
+    "correctAnswer": 5663,
+    "wrongAnswers": [
+      5653,
+      5673
+    ]
+  },
+  {
+    "id": "s3c3b38l2_02",
+    "question": "91 dm2 - 62 dm2 45 cm2 = ? cm2  (91 dm2 = 9100 cm2)",
+    "correctAnswer": 2855,
+    "wrongAnswers": [
+      2955,
+      2755
+    ]
+  },
+  {
+    "id": "s3c3b38l2_03",
+    "question": "7 m2 25 dm2 necha dm2?",
+    "correctAnswer": 725,
+    "wrongAnswers": [
+      75,
+      7025
+    ]
+  },
+  {
+    "id": "s3c3b38l2_04",
+    "question": "12 dm2 40 cm2 + 8 dm2 60 cm2 = ? cm2",
+    "correctAnswer": 2100,
+    "wrongAnswers": [
+      2000,
+      2200
+    ]
+  },
+  {
+    "id": "s3c3b38l2_05",
+    "question": "Xona yuzi 24 m2. Bu necha dm2?",
+    "correctAnswer": 2400,
+    "wrongAnswers": [
+      240,
+      24000
+    ]
+  },
+  {
+    "id": "s3c3b38l2_06",
+    "question": "9 m2 - 350 dm2 = ? dm2",
+    "correctAnswer": 550,
+    "wrongAnswers": [
+      650,
+      450
+    ]
+  },
+  {
+    "id": "s3c3b38l2_07",
+    "question": "Katak yuzi 4 dm2 50 cm2. 6 ta katak jami necha cm2?",
+    "correctAnswer": 2700,
+    "wrongAnswers": [
+      2600,
+      2800
+    ]
+  },
+  {
+    "id": "s3c3b38l2_08",
+    "question": "1 000 cm2 necha dm2?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      100,
+      1
+    ]
+  },
+  {
+    "id": "s3c3b38l2_09",
+    "question": "To'g'ri to'rtburchak: eni 12 dm, bo'yi 5 dm. Yuzi necha dm2?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      17,
+      34
+    ]
+  },
+  {
+    "id": "s3c3b38l2_10",
+    "question": "Taqqoslang: 5 m2 __ 505 dm2",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b23l2_01",
+    "question": "9 436 : 7 = ?",
+    "correctAnswer": 1348,
+    "wrongAnswers": [
+      1338,
+      1448
+    ]
+  },
+  {
+    "id": "s3c2b23l2_02",
+    "question": "3 084 : 6 = ?",
+    "correctAnswer": 514,
+    "wrongAnswers": [
+      504,
+      614
+    ]
+  },
+  {
+    "id": "s3c2b23l2_03",
+    "question": "84 848 : 8 = ?",
+    "correctAnswer": 10606,
+    "wrongAnswers": [
+      10596,
+      10706
+    ]
+  },
+  {
+    "id": "s3c2b23l2_04",
+    "question": "66 993 : 3 = ?",
+    "correctAnswer": 22331,
+    "wrongAnswers": [
+      22321,
+      22431
+    ]
+  },
+  {
+    "id": "s3c2b23l2_05",
+    "question": "75 150 : 6 = ?",
+    "correctAnswer": 12525,
+    "wrongAnswers": [
+      12515,
+      12625
+    ]
+  },
+  {
+    "id": "s3c2b23l2_06",
+    "question": "825 : 3 = ?",
+    "correctAnswer": 275,
+    "wrongAnswers": [
+      265,
+      285
+    ]
+  },
+  {
+    "id": "s3c2b23l2_07",
+    "question": "9 663 : 3 amalida javob nechta xonali son bo'ladi?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "s3c2b23l2_08",
+    "question": "Taqqoslang: 6 396 : 6 __ 8 408 : 8",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s3c2b23l2_09",
+    "question": "Namuna: 484 : 4 = 121. 848 : 4 = ?",
+    "correctAnswer": 212,
+    "wrongAnswers": [
+      202,
+      222
+    ]
+  },
+  {
+    "id": "s3c2b23l2_10",
+    "question": "3 728 : 4 = ?",
+    "correctAnswer": 932,
+    "wrongAnswers": [
+      922,
+      942
+    ]
+  }
+]

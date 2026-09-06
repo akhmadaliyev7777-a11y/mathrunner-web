@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b59l2_01",
+    "question": "Avtomobil 3 soatda 210 km yurdi. Xuddi shu tezlikda 350 km ni necha soatda bosadi?  (tezlik = 70)",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      6,
+      4
+    ]
+  },
+  {
+    "id": "s3c4b59l2_02",
+    "question": "Poyezd 1-soatda 60 km, keyingi har soatda 65 km dan yurdi. 3 soatda jami qancha?",
+    "correctAnswer": 190,
+    "wrongAnswers": [
+      195,
+      180
+    ]
+  },
+  {
+    "id": "s3c4b59l2_03",
+    "question": "Bola maktabga 12 minutda, uyiga 15 minutda qaytadi. Bir kunda maktabga borib-kelishga necha minut ketadi?",
+    "correctAnswer": 27,
+    "wrongAnswers": [
+      24,
+      30
+    ]
+  },
+  {
+    "id": "s3c4b59l2_04",
+    "question": "Avtobus 40 km/h. Qishloqlar orasi 120 km. Yo'lda 30 minut to'xtadi. Jami necha soat (to'xtash bilan)?  (3 soat yo'l + yarim soat)  javobni minutda: 210",
+    "correctAnswer": 210,
+    "wrongAnswers": [
+      180,
+      200
+    ]
+  },
+  {
+    "id": "s3c4b59l2_05",
+    "question": "Ikki shahar orasi 300 km. Poyezd 75 km/h. Necha soatda yetib boradi?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      5,
+      225
+    ]
+  },
+  {
+    "id": "s3c4b59l2_06",
+    "question": "Velosipedchi 5 soatda 75 km yurdi. Tezligini 3 km/h oshirsa, 6 soatda necha km yuradi?  (18 km/h * 6)",
+    "correctAnswer": 108,
+    "wrongAnswers": [
+      90,
+      105
+    ]
+  },
+  {
+    "id": "s3c4b59l2_07",
+    "question": "Sayyoh 2 soatda 8 km yurdi. Tezligi qancha (km/h)?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      6,
+      16
+    ]
+  },
+  {
+    "id": "s3c4b59l2_08",
+    "question": "Poyezd 84 km/h bilan 4 soat yurib, so'ng 100 km yana yurdi. Jami masofa qancha?",
+    "correctAnswer": 436,
+    "wrongAnswers": [
+      400,
+      336
+    ]
+  },
+  {
+    "id": "s3c4b59l2_09",
+    "question": "Yuk mashinasi 60 km/h. 4 soat 30 minutda necha km yuradi?  (4,5 soat)",
+    "correctAnswer": 270,
+    "wrongAnswers": [
+      240,
+      300
+    ]
+  },
+  {
+    "id": "s3c4b59l2_10",
+    "question": "Taqqoslang: 60 km/h tezlikda 3 soatda yurilgan yo'l __ 50 km/h tezlikda 3 soatda yurilgan yo'l",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c4b61l1_01",
+    "question": "a + b = b + a — bu qaysi xossa?",
+    "correctAnswer": "o'rin almashtirish xossasi",
+    "wrongAnswers": [
+      "guruhlash xossasi",
+      "ayirish xossasi"
+    ]
+  },
+  {
+    "id": "s1c4b61l1_02",
+    "question": "(a + b) + c = a + (b + c) — bu qaysi xossa?",
+    "correctAnswer": "guruhlash xossasi",
+    "wrongAnswers": [
+      "o'rin almashtirish xossasi",
+      "ayirish xossasi"
+    ]
+  },
+  {
+    "id": "s1c4b61l1_03",
+    "question": "7 + 12 = 12 + 7. Bu tenglik qaysi xossani ko'rsatadi?",
+    "correctAnswer": "o'rin almashtirish xossasi",
+    "wrongAnswers": [
+      "guruhlash xossasi",
+      "taqsimot"
+    ]
+  },
+  {
+    "id": "s1c4b61l1_04",
+    "question": "a + 5 = 5 + □. □ o'rniga nima qo'yamiz?",
+    "correctAnswer": "a",
+    "wrongAnswers": [
+      "5",
+      "0"
+    ]
+  },
+  {
+    "id": "s1c4b61l1_05",
+    "question": "(10 + a) + 20 = 10 + (a + 20). Bu qaysi xossa?",
+    "correctAnswer": "guruhlash xossasi",
+    "wrongAnswers": [
+      "o'rin almashtirish",
+      "ayirish"
+    ]
+  },
+  {
+    "id": "s1c4b61l1_06",
+    "question": "Qo'shiluvchilarni guruhlashni o'zgartirsak, yig'indi o'zgarmaydi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b61l1_07",
+    "question": "Ayirishda ham o'rin almashtirish xossasi ishlaydi.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c4b61l1_08",
+    "question": "Qulay hisoblang: 8 + 17 + 2 (8 va 2 avval).",
+    "correctAnswer": 27,
+    "wrongAnswers": [
+      25,
+      29
+    ]
+  },
+  {
+    "id": "s1c4b61l1_09",
+    "question": "Qulay hisoblang: 25 + 13 + 5.",
+    "correctAnswer": 43,
+    "wrongAnswers": [
+      33,
+      53
+    ]
+  },
+  {
+    "id": "s1c4b61l1_10",
+    "question": "b + 0 = 0 + b = ?",
+    "correctAnswer": "b",
+    "wrongAnswers": [
+      "0",
+      "1"
+    ]
+  }
+]

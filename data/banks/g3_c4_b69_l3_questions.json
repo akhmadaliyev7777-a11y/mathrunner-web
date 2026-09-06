@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b69l3_01",
+    "question": "504 kishi sayohatga otlandi. 28 kishilik avtobuslarda olib ketilsa, nechta avtobus kerak?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      17,
+      19
+    ]
+  },
+  {
+    "id": "s3c4b69l3_02",
+    "question": "504 kishi 12 kishilik mikroavtobuslarda olib ketilsa, nechta mikroavtobus kerak?",
+    "correctAnswer": 42,
+    "wrongAnswers": [
+      41,
+      43
+    ]
+  },
+  {
+    "id": "s3c4b69l3_03",
+    "question": "Avstraliyaga 24 ta quyon olib kelindi. Har 3 oyda ular 2 marta ko'paydi. 1 yildan (12 oy) keyin quyonlar soni qancha?  (24 -> 48 -> 96 -> 192 -> 384)",
+    "correctAnswer": 384,
+    "wrongAnswers": [
+      192,
+      288
+    ]
+  },
+  {
+    "id": "s3c4b69l3_04",
+    "question": "Madina ertalab 2 785 qadam, tush paytida 1 204 qadam ko'p yurdi. Jami 8 112 qadam yurgan bo'lsa, kechqurun necha qadam yurgan?  (8112 - 2785 - 3989)",
+    "correctAnswer": 1338,
+    "wrongAnswers": [
+      1438,
+      1238
+    ]
+  },
+  {
+    "id": "s3c4b69l3_05",
+    "question": "Jurnalist Afrikadan 324 ta rasm olib keldi. To'rtdan biri cho'lda, uchdan biri Nil bo'yida, qolgani shaharda olingan. Shahardagi rasmlar nechta?  (324 - 81 - 108)",
+    "correctAnswer": 135,
+    "wrongAnswers": [
+      125,
+      145
+    ]
+  },
+  {
+    "id": "s3c4b69l3_06",
+    "question": "Sayohatga 300 000 so'm ajratildi. Yo'l kirasi 85 000 so'm, ovqat 120 000 so'm. Qancha pul qoldi?",
+    "correctAnswer": 95000,
+    "wrongAnswers": [
+      105000,
+      205000
+    ]
+  },
+  {
+    "id": "s3c4b69l3_07",
+    "question": "Buyuk Xitoy devori maketi 8 000 sm. Uni 100 marta kichraytirilgan holda ko'rsatsak, necha sm bo'ladi?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      8,
+      800
+    ]
+  },
+  {
+    "id": "s3c4b69l3_08",
+    "question": "Sayohatchi 3 kun har kuni 45 km yurdi, keyin 2 kun har kuni 60 km yurdi. Jami necha km?",
+    "correctAnswer": 255,
+    "wrongAnswers": [
+      240,
+      270
+    ]
+  },
+  {
+    "id": "s3c4b69l3_09",
+    "question": "Velosipedchilar tezligi 18 km/h. 5 soatda necha km yurishadi?",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      23,
+      13
+    ]
+  },
+  {
+    "id": "s3c4b69l3_10",
+    "question": "Madina bir son o'yladi, unga 380 qo'shdi, natijani 20 ga bo'ldi, 26 chiqdi. O'ylagan son qancha?  (26 * 20 - 380)",
+    "correctAnswer": 140,
+    "wrongAnswers": [
+      520,
+      130
+    ]
+  }
+]

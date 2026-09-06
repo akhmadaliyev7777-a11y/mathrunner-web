@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b58l2_01",
+    "question": "Sayyoh 75 m/min tezlik bilan yuradi. 20 minutda necha metr yuradi?",
+    "correctAnswer": 1500,
+    "wrongAnswers": [
+      95,
+      55
+    ]
+  },
+  {
+    "id": "s3c4b58l2_02",
+    "question": "Qishloqdan bekatgacha 1 km 500 m. Sayyoh 75 m/min yuradi. Necha minutda yetadi?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      15,
+      25
+    ]
+  },
+  {
+    "id": "s3c4b58l2_03",
+    "question": "Avtomobil 2 soatda 130 km yurdi. Tezligi qancha?",
+    "correctAnswer": 65,
+    "wrongAnswers": [
+      128,
+      132
+    ]
+  },
+  {
+    "id": "s3c4b58l2_04",
+    "question": "Poyezd 80 km/h. 300 km yo'lni necha soatda bosib o'tadi?  (butun songa yaqinlashtiring: 300 : 80)",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      4,
+      240
+    ]
+  },
+  {
+    "id": "s3c4b58l2_05",
+    "question": "Yugurish tezligi 8 m/s. 200 m ni necha sekundda yuguradi?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      16,
+      40
+    ]
+  },
+  {
+    "id": "s3c4b58l2_06",
+    "question": "v = 90 km/h, t = 2 h. Qancha masofa?",
+    "correctAnswer": 180,
+    "wrongAnswers": [
+      92,
+      88
+    ]
+  },
+  {
+    "id": "s3c4b58l2_07",
+    "question": "Velosipedchi 4 soatda 60 km yurdi. Bir soatda o'rtacha necha km?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      16,
+      14
+    ]
+  },
+  {
+    "id": "s3c4b58l2_08",
+    "question": "s = 420 km, v = 70 km/h. Vaqt qancha?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      350,
+      490
+    ]
+  },
+  {
+    "id": "s3c4b58l2_09",
+    "question": "Taqqoslang: 3 soatda 15 km/h tezlik bilan yurilgan yo'l __ 5 soatda 9 km/h tezlik bilan yurilgan yo'l",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s3c4b58l2_10",
+    "question": "Piyoda 5 km/h. 15 km ni necha soatda bosib o'tadi?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      10,
+      20
+    ]
+  }
+]

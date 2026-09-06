@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b13l2_01",
+    "question": "1, 2, 3, ... , 10 — bu qanday tartib?",
+    "correctAnswer": "o'sish tartibi",
+    "wrongAnswers": [
+      "kamayish tartibi",
+      "tasodifiy"
+    ]
+  },
+  {
+    "id": "s1c1b13l2_02",
+    "question": "10, 9, 8, ... , 1 — bu qanday tartib?",
+    "correctAnswer": "kamayish tartibi",
+    "wrongAnswers": [
+      "o'sish tartibi",
+      "tasodifiy"
+    ]
+  },
+  {
+    "id": "s1c1b13l2_03",
+    "question": "Natural sonlar nechadan boshlanadi?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "s1c1b13l2_04",
+    "question": "0 soni natural sonlar qatoriga kiradimi?",
+    "correctAnswer": "yo'q",
+    "wrongAnswers": [
+      "ha",
+      "ba'zan"
+    ]
+  },
+  {
+    "id": "s1c1b13l2_05",
+    "question": "Taqqoslang: 7 __ 4",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s1c1b13l2_06",
+    "question": "Taqqoslang: 5 __ 9",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c1b13l2_07",
+    "question": "2, 4, 6, 8 — keyingi son qaysi (juft sonlar)?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      9,
+      11
+    ]
+  },
+  {
+    "id": "s1c1b13l2_08",
+    "question": "10 dan kichik eng katta natural son qaysi?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      10,
+      8
+    ]
+  },
+  {
+    "id": "s1c1b13l2_09",
+    "question": "3 va 8 orasidagi sonlar nechta (3 va 8 dan tashqari)?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      5,
+      3
+    ]
+  },
+  {
+    "id": "s1c1b13l2_10",
+    "question": "1 dan 10 gacha nechta natural son bor?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      9,
+      11
+    ]
+  }
+]

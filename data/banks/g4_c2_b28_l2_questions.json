@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok28_level2_qarshi_01", "question": "Ikki mashina bir joydan qarama-qarshi tomonga jo'nadi (50 va 40 km/soat). Ular soatiga qancha uzoqlashadi?", "correctAnswer": 90, "wrongAnswers": [10, 200]},
+  {"id": "sinf4_chorak2_blok28_level2_qarshi_02", "question": "Ikki piyoda bir nuqtadan qarama-qarshi yo'nalishda yurdi (4 va 5 km/soat). 3 soatdan keyin ular orasi qancha?", "correctAnswer": 27, "wrongAnswers": [9, 12]},
+  {"id": "sinf4_chorak2_blok28_level2_qarshi_03", "question": "Qarama-qarshi harakatda uzoqlashish tezligi 60 km/soat. 4 soatda ular orasi qancha bo'ladi?", "correctAnswer": 240, "wrongAnswers": [15, 64]},
+  {"id": "sinf4_chorak2_blok28_level2_qarshi_04", "question": "Ikki jism bir joydan qarama-qarshi yurdi: 20 va 30 km/soat. Aziz uzoqlashish tezligini 30 − 20 = 10 deb topdi. Xatosi nimada?", "correctAnswer": "Qarama-qarshi harakatda tezliklar QO'SHILADI: 20 + 30 = 50", "wrongAnswers": ["Xato yo'q", "Bo'lish kerak edi"]},
+  {"id": "sinf4_chorak2_blok28_level2_qarshi_05", "question": "Ikki poyezd bir stansiyadan qarama-qarshi tomonga jo'nadi (60 va 80 km/soat). Necha soatdan keyin ular orasi 420 km bo'ladi?", "correctAnswer": 3, "wrongAnswers": [140, 210]},
+  {"id": "sinf4_chorak2_blok28_level2_qarshi_06", "question": "Ikki velosipedchi bir nuqtadan qarama-qarshi yo'nalishda 10 va 12 km/soat bilan yo'lga chiqdi. 5 soatdan keyin ular orasi qancha?", "correctAnswer": 110, "wrongAnswers": [22, 60]},
+  {"id": "sinf4_chorak2_blok28_level2_qarshi_07", "question": "Uzoqlashish tezligi 45 km/soat. Ular orasi 180 km bo'lishi uchun necha soat kerak?", "correctAnswer": 4, "wrongAnswers": [135, 8]},
+  {"id": "sinf4_chorak2_blok28_level2_qarshi_08", "question": "Ikki mashina bir joydan qarama-qarshi tomonga jo'nadi. 2 soatda biri 100 km, ikkinchisi 90 km yurdi. Ular orasi qancha?", "correctAnswer": 190, "wrongAnswers": [10, 200]},
+  {"id": "sinf4_chorak2_blok28_level2_qarshi_09", "question": "Ikki jism bir nuqtadan qarama-qarshi yo'nalishda 8 va 8 km/soat bilan harakatlandi. 6 soatdan keyin ular orasi qancha?", "correctAnswer": 96, "wrongAnswers": [16, 48]},
+  {"id": "sinf4_chorak2_blok28_level2_qarshi_10", "question": "Ikki avtobus bir bekatdan qarama-qarshi tomonga jo'nadi (55 va 65 km/soat). 3 soatdan keyin ular orasi 360 km bo'ladimi?", "correctAnswer": "Ha, aynan 360 km", "wrongAnswers": ["Yo'q, kamroq", "Yo'q, ko'proq"]}
+]

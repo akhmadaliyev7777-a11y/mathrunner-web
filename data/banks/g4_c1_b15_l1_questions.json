@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok15_level1_chiz_01", "question": "Bir tekislikda yotgan, hech qachon kesishmaydigan ikki chiziq qanday nomlanadi?", "correctAnswer": "parallel", "wrongAnswers": ["perpendikular", "kesishuvchi"]},
+  {"id": "sinf4_chorak1_blok15_level1_chiz_02", "question": "To'g'ri burchak ostida kesishuvchi ikki chiziq qanday nomlanadi?", "correctAnswer": "perpendikular", "wrongAnswers": ["parallel", "og'ma"]},
+  {"id": "sinf4_chorak1_blok15_level1_chiz_03", "question": "Rost yoki yolg'on: parallel chiziqlar hech qachon kesishmaydi.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak1_blok15_level1_chiz_04", "question": "Rost yoki yolg'on: perpendikular chiziqlar 60° burchak hosil qiladi.", "correctAnswer": "Yolg'on", "wrongAnswers": ["Rost", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak1_blok15_level1_chiz_05", "question": "Kvadratning qarama-qarshi tomonlari o'zaro qanday joylashgan?", "correctAnswer": "parallel", "wrongAnswers": ["perpendikular", "kesishuvchi"]},
+  {"id": "sinf4_chorak1_blok15_level1_chiz_06", "question": "Kvadratning qo'shni tomonlari o'zaro qanday joylashgan?", "correctAnswer": "perpendikular", "wrongAnswers": ["parallel", "og'ma"]},
+  {"id": "sinf4_chorak1_blok15_level1_chiz_07", "question": "Rost yoki yolg'on: bitta chiziqqa perpendikular bo'lgan ikki chiziq o'zaro parallel bo'ladi.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak1_blok15_level1_chiz_08", "question": "Temir yo'l relslari qanday chiziqlarga misol bo'ladi?", "correctAnswer": "parallel", "wrongAnswers": ["perpendikular", "kesishuvchi"]},
+  {"id": "sinf4_chorak1_blok15_level1_chiz_09", "question": "Rost yoki yolg'on: parallel chiziqlar orasidagi masofa hamma joyda bir xil.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak1_blok15_level1_chiz_10", "question": "Perpendikular chiziqlar orasidagi burchak necha gradus?", "correctAnswer": 90, "wrongAnswers": [45, 180]}
+]

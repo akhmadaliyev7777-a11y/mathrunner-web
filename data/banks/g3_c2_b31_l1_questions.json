@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b31l1_01",
+    "question": "10 cm kesmaning teng yarmi necha cm?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "s3c2b31l1_02",
+    "question": "18 cm kesmani 3 teng bo'lakka bo'lsak, har biri necha cm?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": "s3c2b31l1_03",
+    "question": "24 cm kesmani teng 4 bo'lakka bo'lsak, har biri necha cm?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      5,
+      8
+    ]
+  },
+  {
+    "id": "s3c2b31l1_04",
+    "question": "Kesma 30 cm. Uning o'rtasidan nuqta qo'yildi. Har bo'lak necha cm?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      10,
+      20
+    ]
+  },
+  {
+    "id": "s3c2b31l1_05",
+    "question": "Kesma AB = 40 cm. Uni teng 8 bo'lakka bo'lsak, har biri necha cm?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "s3c2b31l1_06",
+    "question": "12 dm kesmani 6 teng bo'lakka bo'lsak, har biri necha dm?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      3,
+      1
+    ]
+  },
+  {
+    "id": "s3c2b31l1_07",
+    "question": "Kesmaning o'rtasi uni ikkita teng bo'lakka ajratadi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c2b31l1_08",
+    "question": "Kesma 100 cm. Uni teng 5 bo'lakka bo'ldik. 3 ta bo'lak birga necha cm?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      40,
+      50
+    ]
+  },
+  {
+    "id": "s3c2b31l1_09",
+    "question": "56 cm kesmani teng 7 bo'lakka bo'lsak, har biri necha cm?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      7,
+      9
+    ]
+  },
+  {
+    "id": "s3c2b31l1_10",
+    "question": "Yog'och 2 m 40 cm. Uni teng 4 bo'lakka arraladik. Har biri necha cm?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      50,
+      70
+    ]
+  }
+]

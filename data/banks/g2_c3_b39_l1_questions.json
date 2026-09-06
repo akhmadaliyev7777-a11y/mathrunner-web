@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b39l1_01",
+    "question": "1 dm2 necha cm2?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      10,
+      1000
+    ]
+  },
+  {
+    "id": "s2c3b39l1_02",
+    "question": "1 m2 necha dm2?",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      10,
+      1000
+    ]
+  },
+  {
+    "id": "s2c3b39l1_03",
+    "question": "3 dm2 necha cm2?",
+    "correctAnswer": 300,
+    "wrongAnswers": [
+      30,
+      3000
+    ]
+  },
+  {
+    "id": "s2c3b39l1_04",
+    "question": "5 m2 necha dm2?",
+    "correctAnswer": 500,
+    "wrongAnswers": [
+      50,
+      5000
+    ]
+  },
+  {
+    "id": "s2c3b39l1_05",
+    "question": "200 cm2 necha dm2?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      20,
+      200
+    ]
+  },
+  {
+    "id": "s2c3b39l1_06",
+    "question": "400 dm2 necha m2?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      40,
+      400
+    ]
+  },
+  {
+    "id": "s2c3b39l1_07",
+    "question": "Taqqoslang: 1 m2 __ 100 dm2",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s2c3b39l1_08",
+    "question": "Taqqoslang: 1 dm2 __ 90 cm2",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s2c3b39l1_09",
+    "question": "Eng kichik yuz birligi qaysi (cm2, dm2, m2 dan)?",
+    "correctAnswer": "cm2",
+    "wrongAnswers": [
+      "dm2",
+      "m2"
+    ]
+  },
+  {
+    "id": "s2c3b39l1_10",
+    "question": "Xona pol yuzini qaysi birlikda o'lchaymiz?",
+    "correctAnswer": "m2",
+    "wrongAnswers": [
+      "cm2",
+      "mm2"
+    ]
+  }
+]

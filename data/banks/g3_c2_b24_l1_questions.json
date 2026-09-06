@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b24l1_01",
+    "question": "(595 : 7 + 86) : 9 = ?",
+    "correctAnswer": 19,
+    "wrongAnswers": [
+      18,
+      20
+    ]
+  },
+  {
+    "id": "s3c2b24l1_02",
+    "question": "(87 + 15) : 6 = ?",
+    "correctAnswer": 17,
+    "wrongAnswers": [
+      16,
+      18
+    ]
+  },
+  {
+    "id": "s3c2b24l1_03",
+    "question": "24 000 : 8 : 5 = ?",
+    "correctAnswer": 600,
+    "wrongAnswers": [
+      500,
+      700
+    ]
+  },
+  {
+    "id": "s3c2b24l1_04",
+    "question": "15 <= x < 20 bo'lsa, x butun son. x ning eng katta qiymati qancha?",
+    "correctAnswer": 19,
+    "wrongAnswers": [
+      20,
+      15
+    ]
+  },
+  {
+    "id": "s3c2b24l1_05",
+    "question": "10 <= x <= 14 bo'lsa, x butun son. Bunday x lar nechta?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      6
+    ]
+  },
+  {
+    "id": "s3c2b24l1_06",
+    "question": "(720 : 8 - 40) : 5 = ?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      8,
+      12
+    ]
+  },
+  {
+    "id": "s3c2b24l1_07",
+    "question": "Amallar tartibi: 100 - 36 : 6 * 2 = ?",
+    "correctAnswer": 88,
+    "wrongAnswers": [
+      44,
+      68
+    ]
+  },
+  {
+    "id": "s3c2b24l1_08",
+    "question": "Taqqoslang: (30 + 12) : 6 __ 42 : 6",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s3c2b24l1_09",
+    "question": "36 : (4 + 5) = ?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      9,
+      5
+    ]
+  },
+  {
+    "id": "s3c2b24l1_10",
+    "question": "'<=' belgisi 'kichik yoki teng' degani.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak4_blok65_level2_pyoy_01", "question": "Kvadrat asosli piramidaning yoyilmasida nechta uchburchak bo'ladi?", "correctAnswer": 4, "wrongAnswers": [3, 6]},
+  {"id": "sinf4_chorak4_blok65_level2_pyoy_02", "question": "Kvadrat asosli piramidaning yoyilmasida nechta kvadrat bo'ladi?", "correctAnswer": 1, "wrongAnswers": [4, 2]},
+  {"id": "sinf4_chorak4_blok65_level2_pyoy_03", "question": "Uchburchakli piramidaning (tetraedr) yoyilmasida nechta uchburchak bo'ladi?", "correctAnswer": 4, "wrongAnswers": [3, 6]},
+  {"id": "sinf4_chorak4_blok65_level2_pyoy_04", "question": "Piramida yoyilmasini buklaganda uchburchaklarning uchlari qayerda uchrashadi?", "correctAnswer": "Bitta cho'qqida", "wrongAnswers": ["Asosda", "Har xil joyda"]},
+  {"id": "sinf4_chorak4_blok65_level2_pyoy_05", "question": "Beshburchakli piramidaning yoyilmasi nimalardan iborat?", "correctAnswer": "1 ta beshburchak va 5 ta uchburchak", "wrongAnswers": ["5 ta beshburchak", "6 ta kvadrat"]},
+  {"id": "sinf4_chorak4_blok65_level2_pyoy_06", "question": "Kvadrat asosli piramida yoyilmasidagi jami yoq soni nechi?", "correctAnswer": 5, "wrongAnswers": [4, 6]},
+  {"id": "sinf4_chorak4_blok65_level2_pyoy_07", "question": "Rost yoki yolg'on: piramida yoyilmasida yon yoqlar har doim uchburchak.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]},
+  {"id": "sinf4_chorak4_blok65_level2_pyoy_08", "question": "Kvadrat asosli piramidaning yoyilmasi qanday shaklga buklanadi?", "correctAnswer": "kvadrat asosli piramida", "wrongAnswers": ["kub", "prizma"]},
+  {"id": "sinf4_chorak4_blok65_level2_pyoy_09", "question": "Piramida va prizma yoyilmalarining farqi nimada?", "correctAnswer": "Piramidada 1 ta asos, prizmada 2 ta asos bor", "wrongAnswers": ["Farqi yo'q", "Prizmada uchburchaklar ko'p"]},
+  {"id": "sinf4_chorak4_blok65_level2_pyoy_10", "question": "Oltiburchakli piramidaning yoyilmasida nechta uchburchak bo'ladi?", "correctAnswer": 6, "wrongAnswers": [5, 7]}
+]

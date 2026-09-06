@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b41l2_01",
+    "question": "Shaklda 20 ta to'liq va 12 ta yarim katak. Yuza taxminan qancha?",
+    "correctAnswer": 26,
+    "wrongAnswers": [
+      20,
+      32
+    ]
+  },
+  {
+    "id": "s3c3b41l2_02",
+    "question": "To'liq kataklar 15, yarim kataklar 8. Yuza taxminan qancha?",
+    "correctAnswer": 19,
+    "wrongAnswers": [
+      15,
+      23
+    ]
+  },
+  {
+    "id": "s3c3b41l2_03",
+    "question": "Ikki shakl: 1-si 6 to'liq + 4 yarim, 2-si 8 to'liq + 2 yarim. Qaysi birining yuzi katta?  (1-si = 1, 2-si = 2, teng = 3)",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "s3c3b41l2_04",
+    "question": "Paletkada 11 to'liq va 6 yarim katak. Yuza taxminan qancha?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      11,
+      17
+    ]
+  },
+  {
+    "id": "s3c3b41l2_05",
+    "question": "Shakl yuzi 5 dan 9 gacha oralig'ida ekan. Bu shaklda nechta to'liq katak bor?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      9,
+      7
+    ]
+  },
+  {
+    "id": "s3c3b41l2_06",
+    "question": "To'liq 18, yarim 4. Yuza taxminan qancha?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      18,
+      22
+    ]
+  },
+  {
+    "id": "s3c3b41l2_07",
+    "question": "Yarim katak necha to'liq katakka teng deb olinadi?  (yarmiga = 0.5 -> ikki yarim = 1 to'liq)  (2 ta yarim = 1 to'liq = 1;  1 yarim = 1 to'liq = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b41l2_08",
+    "question": "To'liq 7, yarim 10. Yuza taxminan qancha?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      7,
+      17
+    ]
+  },
+  {
+    "id": "s3c3b41l2_09",
+    "question": "Doira shakli paletkada 24 to'liq va 16 yarim katak egallaydi. Yuza taxminan qancha?",
+    "correctAnswer": 32,
+    "wrongAnswers": [
+      24,
+      40
+    ]
+  },
+  {
+    "id": "s3c3b41l2_10",
+    "question": "Paletka kataklari qancha mayda bo'lsa, yuza shuncha aniqroq topiladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

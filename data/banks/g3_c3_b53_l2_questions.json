@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b53l2_01",
+    "question": "Simmetriya o'qi shaklni qanday bo'laklarga ajratadi?  (o'zaro teng va mos ikki bo'lakka = 1, har xil ikki bo'lakka = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b53l2_02",
+    "question": "Kapalak shaklining nechta simmetriya o'qi bor?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": "s3c3b53l2_03",
+    "question": "Kvadratning nechta simmetriya o'qi bor?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      2,
+      1
+    ]
+  },
+  {
+    "id": "s3c3b53l2_04",
+    "question": "Teng tomonli uchburchakning nechta simmetriya o'qi bor?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": "s3c3b53l2_05",
+    "question": "Doira nechta simmetriya o'qiga ega?  (cheksiz ko'p = 1, 4 ta = 2, 1 ta = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b53l2_06",
+    "question": "AB = 5 cm kesma. Markazlari A va B da bo'lgan 2 cm radiusli aylanalar kesishadimi?  (Yo'q = 1, Ha = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b53l2_07",
+    "question": "Har qanday shaklning kamida bitta simmetriya o'qi bo'ladi.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c3b53l2_08",
+    "question": "Harflardan qaysi biri simmetriya o'qiga ega: 'A' yoki 'F'?  (A = 1, F = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b53l2_09",
+    "question": "To'g'ri to'rtburchakning (kvadrat emas) nechta simmetriya o'qi bor?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      4,
+      1
+    ]
+  },
+  {
+    "id": "s3c3b53l2_10",
+    "question": "Simmetrik shaklning bir yarmini bilsak, ikkinchi yarmini qanday chizamiz?  (o'qqa nisbatan aks ettirib = 1, tasodifiy = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  }
+]

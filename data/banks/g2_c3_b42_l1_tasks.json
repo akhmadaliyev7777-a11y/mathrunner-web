@@ -1,0 +1,132 @@
+[
+  {
+    "id": "g2c3b42l1_grid_01",
+    "prompt": "Bo'sh katakni to'g'ri son bilan to'ldiring",
+    "equations": [
+      {
+        "a": 2,
+        "operator": "*",
+        "b": 3,
+        "result": 6,
+        "blankSlot": "result"
+      }
+    ]
+  },
+  {
+    "id": "g2c3b42l1_grid_02",
+    "prompt": "Bo'sh katakni to'g'ri son bilan to'ldiring",
+    "equations": [
+      {
+        "a": 2,
+        "operator": "*",
+        "b": 5,
+        "result": 10,
+        "blankSlot": "b"
+      }
+    ]
+  },
+  {
+    "id": "g2c3b42l1_grid_03",
+    "prompt": "Bo'sh katakni to'g'ri son bilan to'ldiring",
+    "equations": [
+      {
+        "a": 1,
+        "operator": "*",
+        "b": 8,
+        "result": 8,
+        "blankSlot": "result"
+      }
+    ]
+  },
+  {
+    "id": "g2c3b42l1_grid_04",
+    "prompt": "Bo'sh katakni to'g'ri son bilan to'ldiring",
+    "equations": [
+      {
+        "a": 2,
+        "operator": "*",
+        "b": 7,
+        "result": 14,
+        "blankSlot": "result"
+      }
+    ]
+  },
+  {
+    "id": "g2c3b42l1_grid_05",
+    "prompt": "Bo'sh katakni to'g'ri son bilan to'ldiring",
+    "equations": [
+      {
+        "a": 2,
+        "operator": "*",
+        "b": 9,
+        "result": 18,
+        "blankSlot": "a"
+      }
+    ]
+  },
+  {
+    "id": "g2c3b42l1_grid_06",
+    "prompt": "Bo'sh katakni to'g'ri son bilan to'ldiring",
+    "equations": [
+      {
+        "a": 2,
+        "operator": "*",
+        "b": 4,
+        "result": 8,
+        "blankSlot": "result"
+      }
+    ]
+  },
+  {
+    "id": "g2c3b42l1_grid_07",
+    "prompt": "Bo'sh katakni to'g'ri son bilan to'ldiring",
+    "equations": [
+      {
+        "a": 1,
+        "operator": "*",
+        "b": 6,
+        "result": 6,
+        "blankSlot": "b"
+      }
+    ]
+  },
+  {
+    "id": "g2c3b42l1_grid_08",
+    "prompt": "Bo'sh katakni to'g'ri son bilan to'ldiring",
+    "equations": [
+      {
+        "a": 2,
+        "operator": "*",
+        "b": 6,
+        "result": 12,
+        "blankSlot": "result"
+      }
+    ]
+  },
+  {
+    "id": "g2c3b42l1_grid_09",
+    "prompt": "Bo'sh katakni to'g'ri son bilan to'ldiring",
+    "equations": [
+      {
+        "a": 2,
+        "operator": "*",
+        "b": 8,
+        "result": 16,
+        "blankSlot": "b"
+      }
+    ]
+  },
+  {
+    "id": "g2c3b42l1_grid_10",
+    "prompt": "Bo'sh katakni to'g'ri son bilan to'ldiring",
+    "equations": [
+      {
+        "a": 2,
+        "operator": "*",
+        "b": 10,
+        "result": 20,
+        "blankSlot": "result"
+      }
+    ]
+  }
+]

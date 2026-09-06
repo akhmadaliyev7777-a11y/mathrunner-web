@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b27l3_01",
+    "question": "Xona bo'yi 6 m, eni 4 m. Perimetri necha m?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      10,
+      24
+    ]
+  },
+  {
+    "id": "s2c2b27l3_02",
+    "question": "Ip uzunligi 5 m. Undan 2 m 40 sm kesildi. Necha sm qoldi?",
+    "correctAnswer": 260,
+    "wrongAnswers": [
+      240,
+      740
+    ]
+  },
+  {
+    "id": "s2c2b27l3_03",
+    "question": "Bir bola 1 m 20 sm, akasi 1 m 55 sm. Aka nechta sm baland?",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      75,
+      25
+    ]
+  },
+  {
+    "id": "s2c2b27l3_04",
+    "question": "3 ta kesma: 4 dm, 25 sm, 3 dm. Jami necha sm?",
+    "correctAnswer": 95,
+    "wrongAnswers": [
+      12,
+      32
+    ]
+  },
+  {
+    "id": "s2c2b27l3_05",
+    "question": "Yo'l uzunligi 900 m. Bola 350 m yurdi. Yana necha m qoldi?",
+    "correctAnswer": 550,
+    "wrongAnswers": [
+      1250,
+      650
+    ]
+  },
+  {
+    "id": "s2c2b27l3_06",
+    "question": "To'g'ri to'rtburchak: eni 15 sm, bo'yi 20 sm. Perimetri necha sm?",
+    "correctAnswer": 70,
+    "wrongAnswers": [
+      35,
+      300
+    ]
+  },
+  {
+    "id": "s2c2b27l3_07",
+    "question": "Bir devor 12 m. Ikki xil bo'yoq bilan: 5 m ko'k, qolgani oq. Necha m oq?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      17,
+      5
+    ]
+  },
+  {
+    "id": "s2c2b27l3_08",
+    "question": "Taqqoslang: 6 m __ 60 dm",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s2c2b27l3_09",
+    "question": "1 m 5 dm = 15 dm.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c2b27l3_10",
+    "question": "Xatoni toping: 4 m = 40 sm. To'g'ri javob nechta sm?",
+    "correctAnswer": 400,
+    "wrongAnswers": [
+      40,
+      44
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "artboards": [
+    { "file": "Main.dc.html", "x": 0, "y": 0, "w": 1440, "h": 2500, "title": "Landing / Uy" },
+    { "file": "Mavzular.dc.html", "x": 1560, "y": 0, "w": 1440, "h": 1180, "title": "Mavzular brauzeri" },
+    { "file": "Test.dc.html", "x": 3120, "y": 0, "w": 1440, "h": 1040, "title": "Test pleyer" },
+    { "file": "Oyin.dc.html", "x": 4680, "y": 0, "w": 1440, "h": 1100, "title": "Mini-o'yin (To'plamlar)" },
+    { "file": "Natija.dc.html", "x": 6240, "y": 0, "w": 1440, "h": 1040, "title": "Natija ekrani" }
+  ],
+  "annotations": [
+    { "id": "note-main", "x": 0, "y": -150, "w": 320, "text": "Sayt ko'rinishi (ilova emas): yuqori navbar + futer, keng maket, responsiv.\nDo'kon bo'limi YO'Q. Uy/landing bor." },
+    { "id": "note-mavzular", "x": 1560, "y": -150, "w": 320, "text": "Barcha sinf → chorak → blok → level OCHIQ (qulf yo'q).\nTEST va O'YIN bloklari belgisi bilan farqlanadi." },
+    { "id": "note-test", "x": 3120, "y": -150, "w": 320, "text": "Statik test rejimi: 1 to'g'ri + 2 xato, vaqt chegarasi yo'q.\nRunner / Worm Crusher / Algoritm Konveyer YO'Q." },
+    { "id": "note-oyin", "x": 4680, "y": -150, "w": 320, "text": "Tezkor fikrlash jumboqlari brauzerda ishlaydi: to'plamlar/Venn, tartiblash, xona tarkibi, tarozi, simmetriya, yoyilma, jadval." }
+  ],
+  "launch": { "view": "canvas" }
+}

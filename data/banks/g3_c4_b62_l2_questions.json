@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b62l2_01",
+    "question": "O'g'il bolalar soatiga 11 ta daraxt ekdi, qizlar soatiga 4 ta oyna yuvdi. 3 soatda nechta daraxt ekiladi?",
+    "correctAnswer": 33,
+    "wrongAnswers": [
+      15,
+      44
+    ]
+  },
+  {
+    "id": "s3c4b62l2_02",
+    "question": "Ikki usta birga ishlab, 3 soatda 54 ta idish yasadi. Ularning birgalikdagi unumdorligi qancha?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      51,
+      57
+    ]
+  },
+  {
+    "id": "s3c4b62l2_03",
+    "question": "Bir dastgoh juma kuni 8 soat ishlab 296 m mato ishlab chiqardi. Shanba kuni 6 soat ishlasa, necha metr chiqaradi?  (w = 37)",
+    "correctAnswer": 222,
+    "wrongAnswers": [
+      212,
+      232
+    ]
+  },
+  {
+    "id": "s3c4b62l2_04",
+    "question": "Ustaxona kuniga 45 ta stul yasaydi. 7 kunda nechta stul yasaydi?",
+    "correctAnswer": 315,
+    "wrongAnswers": [
+      305,
+      325
+    ]
+  },
+  {
+    "id": "s3c4b62l2_05",
+    "question": "3 ta bir xil quvur birga 12 soatda basseynni to'ldiradi. Bitta quvur necha soatda to'ldiradi?  (12 * 3)",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      4,
+      15
+    ]
+  },
+  {
+    "id": "s3c4b62l2_06",
+    "question": "Kotib soatiga 6 sahifa yozadi. 42 sahifani necha soatda yozadi?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      36,
+      48
+    ]
+  },
+  {
+    "id": "s3c4b62l2_07",
+    "question": "Bir kombayn soatiga 3 ga bug'doy o'radi. 8 soatda necha ga o'radi?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      11,
+      5
+    ]
+  },
+  {
+    "id": "s3c4b62l2_08",
+    "question": "Ishchi 4 soatda 100 ta, keyingi 4 soatda 140 ta detal yasadi. 8 soatlik o'rtacha unumdorligi qancha?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      25,
+      35
+    ]
+  },
+  {
+    "id": "s3c4b62l2_09",
+    "question": "Tikuvchi kuniga 12 ta ko'ylak tikadi. 96 ta ko'ylakni necha kunda tikadi?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      84,
+      108
+    ]
+  },
+  {
+    "id": "s3c4b62l2_10",
+    "question": "Taqqoslang: Usta A: 5 soatda 40 detal __ Usta B: 3 soatda 24 detal  (unumdorlikni taqqoslang)",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  }
+]

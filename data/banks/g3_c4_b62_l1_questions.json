@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b62l1_01",
+    "question": "Ishchi 5 soatda 30 ta detal tayyorladi. Bir soatlik unumdorligi (w) qancha?  (w = A : t)",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      25,
+      35
+    ]
+  },
+  {
+    "id": "s3c4b62l1_02",
+    "question": "Usta soatiga 8 ta detal yasaydi. 4 soatda nechta detal yasaydi?  (A = w * t)",
+    "correctAnswer": 32,
+    "wrongAnswers": [
+      12,
+      4
+    ]
+  },
+  {
+    "id": "s3c4b62l1_03",
+    "question": "Usta 45 ta detalni 9 soatda yasadi. Unumdorligi qancha?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      36,
+      54
+    ]
+  },
+  {
+    "id": "s3c4b62l1_04",
+    "question": "Bir soatda 12 ta non yopiladi. 60 ta non necha soatda yopiladi?  (t = A : w)",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      48,
+      72
+    ]
+  },
+  {
+    "id": "s3c4b62l1_05",
+    "question": "O'qituvchi soatiga 15 ta ishni tekshiradi. 3 soatda nechta ishni tekshiradi?",
+    "correctAnswer": 45,
+    "wrongAnswers": [
+      12,
+      18
+    ]
+  },
+  {
+    "id": "s3c4b62l1_06",
+    "question": "Ish hajmi formulasi qaysi?  (A = w * t = 1, A = w : t = 2, A = w + t = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b62l1_07",
+    "question": "Ishchi 6 soatda 90 ta g'isht terdi. Bir soatda nechtadan?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      84,
+      96
+    ]
+  },
+  {
+    "id": "s3c4b62l1_08",
+    "question": "Bir nasos soatiga 200 litr suv tortadi. 5 soatda necha litr?",
+    "correctAnswer": 1000,
+    "wrongAnswers": [
+      205,
+      195
+    ]
+  },
+  {
+    "id": "s3c4b62l1_09",
+    "question": "Terimchi 8 soatda 240 kg paxta terdi. Bir soatlik unumdorligi qancha kg?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      232,
+      248
+    ]
+  },
+  {
+    "id": "s3c4b62l1_10",
+    "question": "Usta bir soatda 4 ta stul yasaydi. 20 ta stulni necha soatda yasaydi?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      16,
+      24
+    ]
+  }
+]

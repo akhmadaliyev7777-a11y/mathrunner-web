@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok59_level2_yak_01", "question": "Bir sonning 2/3 qismi 12. Bu son nechi?", "correctAnswer": 18, "wrongAnswers": [8, 4]},
+  {"id": "sinf4_chorak3_blok59_level2_yak_02", "question": "2 1/4 ni noto'g'ri kasrga aylantiring.", "correctAnswer": "9/4", "wrongAnswers": ["3/4", "5/4"]},
+  {"id": "sinf4_chorak3_blok59_level2_yak_03", "question": "2 3/8 + 1 4/8 = ?", "correctAnswer": "3 7/8", "wrongAnswers": ["3 1/8", "4 7/8"]},
+  {"id": "sinf4_chorak3_blok59_level2_yak_04", "question": "1/6 × 4 = ?", "correctAnswer": "4/6", "wrongAnswers": ["4/24", "5/6"]},
+  {"id": "sinf4_chorak3_blok59_level2_yak_05", "question": "Lagerda 40 bola bor, 1/4 qismi suzishga ketdi. Nechta bola ketdi?", "correctAnswer": 10, "wrongAnswers": [4, 160]},
+  {"id": "sinf4_chorak3_blok59_level2_yak_06", "question": "0,45 ni oddiy kasr shaklida yozing.", "correctAnswer": "45/100", "wrongAnswers": ["45/10", "4/5"]},
+  {"id": "sinf4_chorak3_blok59_level2_yak_07", "question": "40 kg ning 25% i necha kg?", "correctAnswer": 10, "wrongAnswers": [4, 100]},
+  {"id": "sinf4_chorak3_blok59_level2_yak_08", "question": "5 − 1 3/8 = ?", "correctAnswer": "3 5/8", "wrongAnswers": ["4 5/8", "3 3/8"]},
+  {"id": "sinf4_chorak3_blok59_level2_yak_09", "question": "0,3; 0,7; 0,5 — o'sish tartibida qaysi to'g'ri?", "correctAnswer": "0,3; 0,5; 0,7", "wrongAnswers": ["0,7; 0,5; 0,3", "0,5; 0,3; 0,7"]},
+  {"id": "sinf4_chorak3_blok59_level2_yak_10", "question": "Mashina 240 km ni 60 km/soat tezlikda necha soatda bosadi?", "correctAnswer": 4, "wrongAnswers": [180, 300]}
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b14l2_01",
+    "question": "Ustun ko'rinishida ayiring: 52 - 27 = ?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      35,
+      15
+    ]
+  },
+  {
+    "id": "s2c1b14l2_02",
+    "question": "Ustun ko'rinishida ayiring: 63 - 38 = ?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      35,
+      15
+    ]
+  },
+  {
+    "id": "s2c1b14l2_03",
+    "question": "Ustun ko'rinishida ayiring: 81 - 46 = ?",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      45,
+      25
+    ]
+  },
+  {
+    "id": "s2c1b14l2_04",
+    "question": "Ustun ko'rinishida ayiring: 70 - 24 = ?",
+    "correctAnswer": 46,
+    "wrongAnswers": [
+      56,
+      36
+    ]
+  },
+  {
+    "id": "s2c1b14l2_05",
+    "question": "Ustun ko'rinishida ayiring: 94 - 57 = ?",
+    "correctAnswer": 37,
+    "wrongAnswers": [
+      47,
+      27
+    ]
+  },
+  {
+    "id": "s2c1b14l2_06",
+    "question": "Ustun ko'rinishida ayiring: 60 - 33 = ?",
+    "correctAnswer": 27,
+    "wrongAnswers": [
+      37,
+      17
+    ]
+  },
+  {
+    "id": "s2c1b14l2_07",
+    "question": "Ustun ko'rinishida ayiring: 45 - 29 = ?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      26,
+      6
+    ]
+  },
+  {
+    "id": "s2c1b14l2_08",
+    "question": "Ustun ko'rinishida ayiring: 72 - 48 = ?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      34,
+      14
+    ]
+  },
+  {
+    "id": "s2c1b14l2_09",
+    "question": "Ustunli ayirishda birliklar yetmasa, nima qilamiz?",
+    "correctAnswer": "o'nliklar xonasidan 1 o'nlik qarz olamiz",
+    "wrongAnswers": [
+      "ayirishni to'xtatamiz",
+      "javobga 10 qo'shamiz"
+    ]
+  },
+  {
+    "id": "s2c1b14l2_10",
+    "question": "83 - 47 ni ustunda ayirganda birliklar xonasida qaysi raqam qoladi?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      4,
+      16
+    ]
+  }
+]

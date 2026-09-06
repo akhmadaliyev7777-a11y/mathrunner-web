@@ -1,0 +1,8 @@
+[
+  {"id": "sinf4_chorak4_blok68_level1_kyoy_01", "prompt": "Bu shaklning yoyilmasi qaysi?", "hint": "Konus yoyilmasi — doira sektori va kichik doira", "target": "cone", "options": ["cone", "cylinder", "cube"]},
+  {"id": "sinf4_chorak4_blok68_level1_kyoy_02", "prompt": "Bu shaklning yoyilmasi qaysi?", "hint": "Konusning bitta cho'qqisi va bitta doira asosi bor", "target": "cone", "options": ["cylinder", "cone", "squarePyramid"]},
+  {"id": "sinf4_chorak4_blok68_level1_kyoy_03", "prompt": "Bu shaklning yoyilmasi qaysi?", "hint": "Konus — muzqaymoq rojkasi shaklida", "target": "cone", "options": ["cone", "cuboid", "triangularPrism"]},
+  {"id": "sinf4_chorak4_blok68_level1_kyoy_04", "prompt": "Bu shaklning yoyilmasi qaysi?", "hint": "Silindrda 2 ta doira, konusda 1 ta doira", "target": "cylinder", "options": ["cylinder", "cone", "cube"]},
+  {"id": "sinf4_chorak4_blok68_level1_kyoy_05", "prompt": "Bu shaklning yoyilmasi qaysi?", "hint": "Konus asosi — bitta doira", "target": "cone", "options": ["cone", "squarePyramid", "cylinder"]},
+  {"id": "sinf4_chorak4_blok68_level1_kyoy_06", "prompt": "Bu shaklning yoyilmasi qaysi?", "hint": "Piramida asosi ko'pburchak, konusniki doira", "target": "squarePyramid", "options": ["squarePyramid", "cone", "cylinder"]}
+]

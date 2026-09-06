@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak1_blok10_level2_mas_01", "question": "40 ta konfetni 8 ta bolaga teng ulashdik, so'ng har biriga yana 2 tadan berdik. Har bir bola nechta konfet oldi?", "correctAnswer": 7, "wrongAnswers": [5, 42]},
+  {"id": "sinf4_chorak1_blok10_level2_mas_02", "question": "5 ta qutida 12 tadan pechene bor. Hammasi 10 ta bolaga teng ulashilsa, har biriga nechtadan tegadi?", "correctAnswer": 6, "wrongAnswers": [5, 60]},
+  {"id": "sinf4_chorak1_blok10_level2_mas_03", "question": "Karim: \"30 ta olma, 6 ta savat. Har savatga 30 × 6 = 180 ta olma\" dedi. Xatosi nimada?", "correctAnswer": "Bo'lish kerak: 30 : 6 = 5", "wrongAnswers": ["Qo'shish kerak", "Javob to'g'ri, 180 ta"]},
+  {"id": "sinf4_chorak1_blok10_level2_mas_04", "question": "Bir haftada 7 kun. 4 hafta va yana 3 kunda jami necha kun bor?", "correctAnswer": 31, "wrongAnswers": [28, 43]},
+  {"id": "sinf4_chorak1_blok10_level2_mas_05", "question": "Ustaxonada har kuni 8 ta stul yasaladi. 14 kunda nechta stul yasaladi?", "correctAnswer": 112, "wrongAnswers": [16, 22]},
+  {"id": "sinf4_chorak1_blok10_level2_mas_06", "question": "18 ta gulni 3 tadan bog'lamga bog'ladik, so'ng 2 ta bog'lamni sotdik. Nechta bog'lam qoldi?", "correctAnswer": 4, "wrongAnswers": [6, 16]},
+  {"id": "sinf4_chorak1_blok10_level2_mas_07", "question": "Do'konda 5 ta quti, har birida 6 ta shokolad. 8 ta shokolad sotildi. Nechta shokolad qoldi?", "correctAnswer": 22, "wrongAnswers": [30, 38]},
+  {"id": "sinf4_chorak1_blok10_level2_mas_08", "question": "62 ta daftarni 3 ta sinfga teng bo'lish mumkinmi?", "correctAnswer": "Yo'q, 62 soni 3 ga bo'linmaydi", "wrongAnswers": ["Ha, har biriga 20 tadan", "Ha, har biriga 21 tadan"]},
+  {"id": "sinf4_chorak1_blok10_level2_mas_09", "question": "Bir smena 60 daqiqa. Uch smena necha soatga teng?", "correctAnswer": 3, "wrongAnswers": [180, 20]},
+  {"id": "sinf4_chorak1_blok10_level2_mas_10", "question": "45 ta o'quvchini avtobusga chiqarish kerak. Har avtobusga 8 kishi sig'adi. Kamida nechta avtobus kerak?", "correctAnswer": 6, "wrongAnswers": [5, 40]}
+]

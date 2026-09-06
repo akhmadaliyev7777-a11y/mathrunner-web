@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b20l3_01",
+    "question": "Sayohatchi 1-kun 3 200 m, 2-kun undan 800 m ko'p, 3-kun 1-kundan 500 m kam yurdi. Jami necha metr yurdi?",
+    "correctAnswer": 9900,
+    "wrongAnswers": [
+      9870,
+      9920
+    ]
+  },
+  {
+    "id": "s3c1b20l3_02",
+    "question": "Do'konga 3 ta yuk keldi: 12 t 500 kg, 8 t 700 kg, 15 t 300 kg. Jami necha kg?",
+    "correctAnswer": 36500,
+    "wrongAnswers": [
+      36000,
+      37000
+    ]
+  },
+  {
+    "id": "s3c1b20l3_03",
+    "question": "Bir maktabda 640 o'quvchi. Ularning yarmi qizlar. Qizlarning to'rtdan biri sport to'garakida. Sportda nechta qiz bor?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      160,
+      320
+    ]
+  },
+  {
+    "id": "s3c1b20l3_04",
+    "question": "Kitob 6 000 so'm, ruchka 2 500 so'm. Anvar 4 kitob va 6 ruchka oldi. Jami qancha to'ladi?",
+    "correctAnswer": 39000,
+    "wrongAnswers": [
+      33000,
+      40000
+    ]
+  },
+  {
+    "id": "s3c1b20l3_05",
+    "question": "Bir son 5 marta orttirilsa, 45 000 bo'ladi. Bu son qancha?",
+    "correctAnswer": 9000,
+    "wrongAnswers": [
+      225000,
+      9050
+    ]
+  },
+  {
+    "id": "s3c1b20l3_06",
+    "question": "Taqqoslang: Hisoblamasdan:  (400 + 300) * 8 __ 400 * 8 + 300 * 8",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s3c1b20l3_07",
+    "question": "Anvar 1 200 * 5 + 300 ni hisoblab, 6 300 deb yozdi. To'g'rimi? To'g'ri javob qancha?",
+    "correctAnswer": 6300,
+    "wrongAnswers": [
+      6000,
+      6350
+    ]
+  },
+  {
+    "id": "s3c1b20l3_08",
+    "question": "Bir zavod 1-oy 45 600 ta, 2-oy 38 900 ta mahsulot chiqardi. 2-oy 1-oydan nechta kam?",
+    "correctAnswer": 6700,
+    "wrongAnswers": [
+      84500,
+      7700
+    ]
+  },
+  {
+    "id": "s3c1b20l3_09",
+    "question": "Ferma har kuni 850 litr sut yig'adi. 2 haftada (14 kun) necha litr?",
+    "correctAnswer": 11900,
+    "wrongAnswers": [
+      1700,
+      11800
+    ]
+  },
+  {
+    "id": "s3c1b20l3_10",
+    "question": "O'n ikki million sonini raqamlarda yozing.",
+    "correctAnswer": 12000000,
+    "wrongAnswers": [
+      1200000,
+      120000000
+    ]
+  }
+]

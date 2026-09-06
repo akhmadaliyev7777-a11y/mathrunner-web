@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak4_blok74_level1_mas_01", "question": "To'g'ri to'rtburchak stolning bo'yi 120 sm, eni 60 sm. Perimetri necha sm?", "correctAnswer": 360, "wrongAnswers": [180, 7200]},
+  {"id": "sinf4_chorak4_blok74_level1_mas_02", "question": "Kvadrat xonaning tomoni 5 m. Yuzasi necha m²?", "correctAnswer": 25, "wrongAnswers": [20, 10]},
+  {"id": "sinf4_chorak4_blok74_level1_mas_03", "question": "Kubning bir qirrasi 6 sm. Barcha qirralari yig'indisi necha sm?", "correctAnswer": 72, "wrongAnswers": [36, 24]},
+  {"id": "sinf4_chorak4_blok74_level1_mas_04", "question": "Bir burchak 30°, ikkinchisi 45°. Ular yig'indisi necha gradus?", "correctAnswer": 75, "wrongAnswers": [15, 90]},
+  {"id": "sinf4_chorak4_blok74_level1_mas_05", "question": "Diametri 14 sm bo'lgan doiraning radiusi necha sm?", "correctAnswer": 7, "wrongAnswers": [28, 14]},
+  {"id": "sinf4_chorak4_blok74_level1_mas_06", "question": "Nostandart shakl 15 ta to'liq va 8 ta yarim katak. Taxminiy yuza necha sm²?", "correctAnswer": 19, "wrongAnswers": [23, 15]},
+  {"id": "sinf4_chorak4_blok74_level1_mas_07", "question": "Kubning yoqlari, qirralari va uchlari soni jami nechi?", "correctAnswer": 26, "wrongAnswers": [24, 18]},
+  {"id": "sinf4_chorak4_blok74_level1_mas_08", "question": "Uchburchakning ikki burchagi 50° va 60°. Uchinchi burchak necha gradus?", "correctAnswer": 70, "wrongAnswers": [110, 170]},
+  {"id": "sinf4_chorak4_blok74_level1_mas_09", "question": "Kvadrat maydonning perimetri 40 m. Bir tomoni necha m?", "correctAnswer": 10, "wrongAnswers": [4, 20]},
+  {"id": "sinf4_chorak4_blok74_level1_mas_10", "question": "Silindr shaklidagi bochka to'nkarilsa, u qanday harakat qiladi?", "correctAnswer": "dumalaydi", "wrongAnswers": ["turgan joyida qoladi", "sirg'aladi, dumalamaydi"]}
+]

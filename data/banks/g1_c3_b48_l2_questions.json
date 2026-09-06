@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b48l2_01",
+    "question": "Bir qopda 30 kg, ikkinchisida 25 kg kartoshka. Jami necha kg?",
+    "correctAnswer": 55,
+    "wrongAnswers": [
+      5,
+      60
+    ]
+  },
+  {
+    "id": "s1c3b48l2_02",
+    "question": "Tarozida 40 kg yuk bor edi, 18 kg olindi. Necha kg qoldi?",
+    "correctAnswer": 22,
+    "wrongAnswers": [
+      58,
+      21
+    ]
+  },
+  {
+    "id": "s1c3b48l2_03",
+    "question": "Uchburchak shaklidagi maydonchaning tomonlari 6 m, 8 m, 10 m. Perimetri necha m?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      20,
+      28
+    ]
+  },
+  {
+    "id": "s1c3b48l2_04",
+    "question": "12 kg + 8 kg + 10 kg = ? kg",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      20,
+      40
+    ]
+  },
+  {
+    "id": "s1c3b48l2_05",
+    "question": "Katta qop 50 kg, kichigi 15 kg yengil. Kichigi necha kg?",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      65,
+      34
+    ]
+  },
+  {
+    "id": "s1c3b48l2_06",
+    "question": "3 ta bir xil qopda jami 30 kg un bor. Bitta qopda necha kg? (1-sinf: teng bo'lish emas — masala shartidan)",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      10,
+      33
+    ]
+  },
+  {
+    "id": "s1c3b48l2_07",
+    "question": "Taqqoslang: 20 kg + 15 kg __ 40 kg",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c3b48l2_08",
+    "question": "60 kg - 25 kg = ? kg",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      85,
+      34
+    ]
+  },
+  {
+    "id": "s1c3b48l2_09",
+    "question": "Kilogramm — massa o'lchov birligi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b48l2_10",
+    "question": "Xato: \"35 kg + 15 kg = 40 kg\" deyildi. To'g'ri javob necha kg?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      40,
+      60
+    ]
+  }
+]

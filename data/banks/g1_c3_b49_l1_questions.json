@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b49l1_01",
+    "question": "Suyuqlik hajmi o'lchov birligi qaysi?",
+    "correctAnswer": "litr (l)",
+    "wrongAnswers": [
+      "kilogramm (kg)",
+      "santimetr (sm)"
+    ]
+  },
+  {
+    "id": "s1c3b49l1_02",
+    "question": "Bir chelakda 8 l suv, boshqasida 5 l. Jami necha litr?",
+    "correctAnswer": 13,
+    "wrongAnswers": [
+      3,
+      40
+    ]
+  },
+  {
+    "id": "s1c3b49l1_03",
+    "question": "10 l sutdan 4 l ishlatildi. Necha litr qoldi?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      14,
+      5
+    ]
+  },
+  {
+    "id": "s1c3b49l1_04",
+    "question": "Qaysi ko'proq suv sig'diradi: chelak yoki stakan?",
+    "correctAnswer": "chelak",
+    "wrongAnswers": [
+      "stakan",
+      "teng"
+    ]
+  },
+  {
+    "id": "s1c3b49l1_05",
+    "question": "Bir bankaga 3 l kompot sig'adi. 4 ta bankaga jami necha litr? (3 + 3 + 3 + 3)",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      7,
+      34
+    ]
+  },
+  {
+    "id": "s1c3b49l1_06",
+    "question": "6 l + 9 l = ? l",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      3,
+      69
+    ]
+  },
+  {
+    "id": "s1c3b49l1_07",
+    "question": "Qozonda 20 l osh bor edi, 12 l tarqatildi. Necha litr qoldi?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      32,
+      7
+    ]
+  },
+  {
+    "id": "s1c3b49l1_08",
+    "question": "Taqqoslang: 5 l __ 7 l",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c3b49l1_09",
+    "question": "2 ta idishda 10 l dan suv bor. Jami necha litr?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      12,
+      5
+    ]
+  },
+  {
+    "id": "s1c3b49l1_10",
+    "question": "Xato: \"15 l - 5 l = 20 l\" deyildi. To'g'ri javob necha litr?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      20,
+      9
+    ]
+  }
+]

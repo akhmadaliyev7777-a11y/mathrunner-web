@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b34l1_01",
+    "question": "9 632 : 8 = ?",
+    "correctAnswer": 1204,
+    "wrongAnswers": [
+      1104,
+      1304
+    ]
+  },
+  {
+    "id": "s3c2b34l1_02",
+    "question": "7 200 : 90 = ?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      8,
+      800
+    ]
+  },
+  {
+    "id": "s3c2b34l1_03",
+    "question": "Muntazam 6-burchak tomoni 9 cm. Perimetri necha cm?",
+    "correctAnswer": 54,
+    "wrongAnswers": [
+      15,
+      45
+    ]
+  },
+  {
+    "id": "s3c2b34l1_04",
+    "question": "36 cm kesmani teng 4 bo'lakka bo'lsak, har biri necha cm?",
+    "correctAnswer": 9,
+    "wrongAnswers": [
+      8,
+      10
+    ]
+  },
+  {
+    "id": "s3c2b34l1_05",
+    "question": "Kvadratning nechta simmetriya o'qi bor?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      2,
+      8
+    ]
+  },
+  {
+    "id": "s3c2b34l1_06",
+    "question": "6 m2 necha dm2?",
+    "correctAnswer": 600,
+    "wrongAnswers": [
+      60,
+      6000
+    ]
+  },
+  {
+    "id": "s3c2b34l1_07",
+    "question": "20 cm tasmaning 1/4 qismi necha cm?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      4,
+      10
+    ]
+  },
+  {
+    "id": "s3c2b34l1_08",
+    "question": "Taqqoslang: 12 480 : 240 __ 50",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s3c2b34l1_09",
+    "question": "Bir sonni 129 ga bo'ldim, 6 chiqdi. O'ylagan son qancha?",
+    "correctAnswer": 774,
+    "wrongAnswers": [
+      135,
+      123
+    ]
+  },
+  {
+    "id": "s3c2b34l1_10",
+    "question": "Nostandart shakl yuzini uni to'g'ri to'rtburchak va uchburchaklarga bo'lib topsa bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

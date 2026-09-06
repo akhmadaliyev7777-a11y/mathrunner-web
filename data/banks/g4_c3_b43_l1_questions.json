@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok43_level1_tur_01", "question": "3/5 kasri qanday kasr?", "correctAnswer": "to'g'ri kasr", "wrongAnswers": ["noto'g'ri kasr", "aralash son"]},
+  {"id": "sinf4_chorak3_blok43_level1_tur_02", "question": "7/4 kasri qanday kasr?", "correctAnswer": "noto'g'ri kasr", "wrongAnswers": ["to'g'ri kasr", "aralash son"]},
+  {"id": "sinf4_chorak3_blok43_level1_tur_03", "question": "2 1/3 — bu nima?", "correctAnswer": "aralash son", "wrongAnswers": ["to'g'ri kasr", "noto'g'ri kasr"]},
+  {"id": "sinf4_chorak3_blok43_level1_tur_04", "question": "To'g'ri kasrda surat maxrajga nisbatan qanday bo'ladi?", "correctAnswer": "kichik", "wrongAnswers": ["katta", "teng"]},
+  {"id": "sinf4_chorak3_blok43_level1_tur_05", "question": "Quyidagilardan qaysi biri noto'g'ri kasr?", "correctAnswer": "9/8", "wrongAnswers": ["5/8", "1/8"]},
+  {"id": "sinf4_chorak3_blok43_level1_tur_06", "question": "5/5 kasri nimaga teng?", "correctAnswer": "1", "wrongAnswers": ["5", "0"]},
+  {"id": "sinf4_chorak3_blok43_level1_tur_07", "question": "Noto'g'ri kasr har doim qaysi sondan katta yoki unga teng bo'ladi?", "correctAnswer": "1", "wrongAnswers": ["0", "10"]},
+  {"id": "sinf4_chorak3_blok43_level1_tur_08", "question": "Quyidagilardan qaysi biri to'g'ri kasr?", "correctAnswer": "4/9", "wrongAnswers": ["9/4", "10/10"]},
+  {"id": "sinf4_chorak3_blok43_level1_tur_09", "question": "3 butun 1/2 ni aralash son ko'rinishida qanday yozamiz?", "correctAnswer": "3 1/2", "wrongAnswers": ["31/2", "3/2"]},
+  {"id": "sinf4_chorak3_blok43_level1_tur_10", "question": "Rost yoki yolg'on: 6/6 — bu to'g'ri kasr.", "correctAnswer": "Yolg'on", "wrongAnswers": ["Rost", "Aniqlab bo'lmaydi"]}
+]

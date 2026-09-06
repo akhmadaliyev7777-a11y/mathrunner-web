@@ -1,0 +1,92 @@
+[
+  {
+    "id": "sinf4_chorak1_blok6_level1_vaqt_01",
+    "question": "1 soat necha minut?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      100,
+      24
+    ]
+  },
+  {
+    "id": "sinf4_chorak1_blok6_level1_vaqt_02",
+    "question": "2 soat 30 minut necha minutga teng?",
+    "correctAnswer": 150,
+    "wrongAnswers": [
+      230,
+      90
+    ]
+  },
+  {
+    "id": "sinf4_chorak1_blok6_level1_vaqt_03",
+    "question": "1 sutka necha soat?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      12,
+      60
+    ]
+  },
+  {
+    "id": "sinf4_chorak1_blok6_level1_vaqt_04",
+    "question": "180 minut necha soatga teng?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      18,
+      60
+    ]
+  },
+  {
+    "id": "sinf4_chorak1_blok6_level1_vaqt_05",
+    "question": "Dars soat 9:00 da boshlandi va 45 minut davom etdi. Soat nechada tugadi?",
+    "correctAnswer": "9:45",
+    "wrongAnswers": [
+      "9:15",
+      "10:45"
+    ]
+  },
+  {
+    "id": "sinf4_chorak1_blok6_level1_vaqt_06",
+    "question": "1 hafta necha kun?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      5,
+      30
+    ]
+  },
+  {
+    "id": "sinf4_chorak1_blok6_level1_vaqt_07",
+    "question": "1 minut necha sekund?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      100,
+      30
+    ]
+  },
+  {
+    "id": "sinf4_chorak1_blok6_level1_vaqt_08",
+    "question": "Kabisa bo'lmagan yilda fevral oyida necha kun bo'ladi?",
+    "correctAnswer": 28,
+    "wrongAnswers": [
+      30,
+      31
+    ]
+  },
+  {
+    "id": "sinf4_chorak1_blok6_level1_vaqt_09",
+    "question": "Poyezd soat 14:00 da jo'nadi va 3 soatdan keyin manzilga yetib bordi. Soat nechada yetib bordi?",
+    "correctAnswer": "17:00",
+    "wrongAnswers": [
+      "11:00",
+      "18:00"
+    ]
+  },
+  {
+    "id": "sinf4_chorak1_blok6_level1_vaqt_10",
+    "question": "Yarim soat necha minut?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      50,
+      15
+    ]
+  }
+]

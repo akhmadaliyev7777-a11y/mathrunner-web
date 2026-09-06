@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c1b20l1_01",
+    "question": "a + 6 __ a + 3",
+    "correctAnswer": ">",
+    "wrongAnswers": [
+      "<",
+      "="
+    ]
+  },
+  {
+    "id": "s1c1b20l1_02",
+    "question": "b + 2 __ b + 5",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c1b20l1_03",
+    "question": "c + 0 __ c + 1",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s1c1b20l1_04",
+    "question": "d + 4 __ d + 4",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s1c1b20l1_05",
+    "question": "a + 5 va a + 2 ifodalardan qaysi biri katta (a bir xil son)?",
+    "correctAnswer": "a + 5",
+    "wrongAnswers": [
+      "a + 2",
+      "teng"
+    ]
+  },
+  {
+    "id": "s1c1b20l1_06",
+    "question": "Agar a = 3 bo'lsa, a + 4 ifodaning qiymati qancha?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      4,
+      3
+    ]
+  },
+  {
+    "id": "s1c1b20l1_07",
+    "question": "Agar b = 5 bo'lsa, b - 2 ifodaning qiymati qancha?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      7,
+      5
+    ]
+  },
+  {
+    "id": "s1c1b20l1_08",
+    "question": "a + 6 har doim a + 3 dan katta (a bir xil son).",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c1b20l1_09",
+    "question": "k + 1 va k + 1 ifodalar o'zaro ...",
+    "correctAnswer": "teng",
+    "wrongAnswers": [
+      "har xil",
+      "biri katta"
+    ]
+  },
+  {
+    "id": "s1c1b20l1_10",
+    "question": "Agar m = 4 bo'lsa, m + m ifoda qancha?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      4,
+      16
+    ]
+  }
+]

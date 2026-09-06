@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c2b26l3_01",
+    "question": "8 + 9 = ?",
+    "correctAnswer": 17,
+    "wrongAnswers": [
+      7,
+      18
+    ]
+  },
+  {
+    "id": "s1c2b26l3_02",
+    "question": "9 + 6 = ?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      5,
+      16
+    ]
+  },
+  {
+    "id": "s1c2b26l3_03",
+    "question": "7 + 9 = ?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      6,
+      17
+    ]
+  },
+  {
+    "id": "s1c2b26l3_04",
+    "question": "8 + 8 = ?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      6,
+      17
+    ]
+  },
+  {
+    "id": "s1c2b26l3_05",
+    "question": "6 + 9 = ?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      5,
+      16
+    ]
+  },
+  {
+    "id": "s1c2b26l3_06",
+    "question": "9 + 7 = ?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      6,
+      17
+    ]
+  },
+  {
+    "id": "s1c2b26l3_07",
+    "question": "Anvarda 8 ta, ukasida 7 ta olma. Jami nechta?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      1,
+      16
+    ]
+  },
+  {
+    "id": "s1c2b26l3_08",
+    "question": "Bir qutida 9 ta, boshqasida 9 ta shar. Jami nechta?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      0,
+      19
+    ]
+  },
+  {
+    "id": "s1c2b26l3_09",
+    "question": "7 + 4 + 3 = ?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      13,
+      15
+    ]
+  },
+  {
+    "id": "s1c2b26l3_10",
+    "question": "Xato: \"9 + 5 = 13\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      13,
+      15
+    ]
+  }
+]

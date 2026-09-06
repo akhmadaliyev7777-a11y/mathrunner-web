@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s1c3b42l2_01",
+    "question": "40 + (20 - 10) = ?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      70,
+      30
+    ]
+  },
+  {
+    "id": "s1c3b42l2_02",
+    "question": "(30 + 40) - (10 + 10) = ?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      90,
+      30
+    ]
+  },
+  {
+    "id": "s1c3b42l2_03",
+    "question": "90 - 30 + 20 = ?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      40,
+      100
+    ]
+  },
+  {
+    "id": "s1c3b42l2_04",
+    "question": "(50 - 20) + (10 + 5) = ?",
+    "correctAnswer": 45,
+    "wrongAnswers": [
+      65,
+      25
+    ]
+  },
+  {
+    "id": "s1c3b42l2_05",
+    "question": "100 - (60 + 20) = ?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      180,
+      40
+    ]
+  },
+  {
+    "id": "s1c3b42l2_06",
+    "question": "12 + 8 + 10 - 20 = ?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      30,
+      0
+    ]
+  },
+  {
+    "id": "s1c3b42l2_07",
+    "question": "Taqqoslang: (40 + 10) - 20 __ 30",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s1c3b42l2_08",
+    "question": "70 - (30 - 10) = ?",
+    "correctAnswer": 50,
+    "wrongAnswers": [
+      90,
+      30
+    ]
+  },
+  {
+    "id": "s1c3b42l2_09",
+    "question": "80 - 40 + 10 ifodaning qiymati 30 emas.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s1c3b42l2_10",
+    "question": "Xato: \"100 - (50 + 30) = 100\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      100,
+      80
+    ]
+  }
+]

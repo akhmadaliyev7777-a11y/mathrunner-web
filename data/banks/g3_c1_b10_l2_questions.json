@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b10l2_01",
+    "question": "Qulay usulda: 6 344 + 518 + 482 + 656 = ?",
+    "correctAnswer": 8000,
+    "wrongAnswers": [
+      7900,
+      8100
+    ]
+  },
+  {
+    "id": "s3c1b10l2_02",
+    "question": "Qulay usulda: 2 375 + 4 199 + 625 = ?",
+    "correctAnswer": 7199,
+    "wrongAnswers": [
+      7099,
+      7299
+    ]
+  },
+  {
+    "id": "s3c1b10l2_03",
+    "question": "Qulay usulda: 998 + 1 456 = ?",
+    "correctAnswer": 2454,
+    "wrongAnswers": [
+      2354,
+      2554
+    ]
+  },
+  {
+    "id": "s3c1b10l2_04",
+    "question": "Qulay usulda: 5 003 - 1 998 = ?",
+    "correctAnswer": 3005,
+    "wrongAnswers": [
+      3105,
+      2905
+    ]
+  },
+  {
+    "id": "s3c1b10l2_05",
+    "question": "25 + 137 + 75 + 63 = ?",
+    "correctAnswer": 300,
+    "wrongAnswers": [
+      290,
+      310
+    ]
+  },
+  {
+    "id": "s3c1b10l2_06",
+    "question": "1 200 + 3 456 + 800 + 544 = ?",
+    "correctAnswer": 6000,
+    "wrongAnswers": [
+      5900,
+      6100
+    ]
+  },
+  {
+    "id": "s3c1b10l2_07",
+    "question": "Qulay usulda: 4 * 27 * 25 = ?",
+    "correctAnswer": 2700,
+    "wrongAnswers": [
+      270,
+      27000
+    ]
+  },
+  {
+    "id": "s3c1b10l2_08",
+    "question": "Qulay usulda: 50 * 63 * 2 = ?",
+    "correctAnswer": 6300,
+    "wrongAnswers": [
+      630,
+      63000
+    ]
+  },
+  {
+    "id": "s3c1b10l2_09",
+    "question": "Taqqoslang: 125 * 8 __ 100 * 8 + 25 * 8",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s3c1b10l2_10",
+    "question": "Qulay usulda: 9 999 + 25 = ?",
+    "correctAnswer": 10024,
+    "wrongAnswers": [
+      9924,
+      10124
+    ]
+  }
+]

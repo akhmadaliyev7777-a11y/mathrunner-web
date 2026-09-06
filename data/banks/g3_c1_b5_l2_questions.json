@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b5l2_01",
+    "question": "XXV sonini arab raqamlarida yozing.",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      35,
+      24
+    ]
+  },
+  {
+    "id": "s3c1b5l2_02",
+    "question": "LIII sonini arab raqamlarida yozing.",
+    "correctAnswer": 53,
+    "wrongAnswers": [
+      63,
+      52
+    ]
+  },
+  {
+    "id": "s3c1b5l2_03",
+    "question": "XL sonini arab raqamlarida yozing.",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      50,
+      39
+    ]
+  },
+  {
+    "id": "s3c1b5l2_04",
+    "question": "XC sonini arab raqamlarida yozing.",
+    "correctAnswer": 90,
+    "wrongAnswers": [
+      80,
+      89
+    ]
+  },
+  {
+    "id": "s3c1b5l2_05",
+    "question": "CX sonini arab raqamlarida yozing.",
+    "correctAnswer": 110,
+    "wrongAnswers": [
+      100,
+      109
+    ]
+  },
+  {
+    "id": "s3c1b5l2_06",
+    "question": "XXXVII sonini arab raqamlarida yozing.",
+    "correctAnswer": 37,
+    "wrongAnswers": [
+      47,
+      36
+    ]
+  },
+  {
+    "id": "s3c1b5l2_07",
+    "question": "XC + LXXIX = ?  (arab raqamlarida)",
+    "correctAnswer": 169,
+    "wrongAnswers": [
+      160,
+      179
+    ]
+  },
+  {
+    "id": "s3c1b5l2_08",
+    "question": "Taqqoslang: XL __ 40",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s3c1b5l2_09",
+    "question": "14 sonini Rim raqamlarida qanday yoziladi?  (variantlar: XIV=1, XVI=2, IVX=3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c1b5l2_10",
+    "question": "Rim raqamlarida X harfi 10 ni, L harfi 50 ni bildiradi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

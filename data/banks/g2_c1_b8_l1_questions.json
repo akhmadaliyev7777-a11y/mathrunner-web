@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b8l1_01",
+    "question": "50 - 22 = ?",
+    "correctAnswer": 28,
+    "wrongAnswers": [
+      38,
+      18
+    ]
+  },
+  {
+    "id": "s2c1b8l1_02",
+    "question": "60 - 34 = ?",
+    "correctAnswer": 26,
+    "wrongAnswers": [
+      36,
+      16
+    ]
+  },
+  {
+    "id": "s2c1b8l1_03",
+    "question": "70 - 45 = ?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      35,
+      15
+    ]
+  },
+  {
+    "id": "s2c1b8l1_04",
+    "question": "80 - 27 = ?",
+    "correctAnswer": 53,
+    "wrongAnswers": [
+      63,
+      43
+    ]
+  },
+  {
+    "id": "s2c1b8l1_05",
+    "question": "40 - 18 = ?",
+    "correctAnswer": 22,
+    "wrongAnswers": [
+      32,
+      12
+    ]
+  },
+  {
+    "id": "s2c1b8l1_06",
+    "question": "90 - 53 = ?",
+    "correctAnswer": 37,
+    "wrongAnswers": [
+      47,
+      27
+    ]
+  },
+  {
+    "id": "s2c1b8l1_07",
+    "question": "100 - 40 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      50,
+      70
+    ]
+  },
+  {
+    "id": "s2c1b8l1_08",
+    "question": "100 - 65 = ?",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      45,
+      25
+    ]
+  },
+  {
+    "id": "s2c1b8l1_09",
+    "question": "55 - 25 = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      20,
+      40
+    ]
+  },
+  {
+    "id": "s2c1b8l1_10",
+    "question": "63 - 33 = ?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      20,
+      40
+    ]
+  }
+]

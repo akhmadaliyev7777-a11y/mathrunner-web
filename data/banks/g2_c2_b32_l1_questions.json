@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b32l1_01",
+    "question": "Do'konga 350 kg meva keltirildi. 128 kg olma, 95 kg nok, qolgani uzum. Necha kg uzum?",
+    "correctAnswer": 127,
+    "wrongAnswers": [
+      223,
+      573
+    ]
+  },
+  {
+    "id": "s2c2b32l1_02",
+    "question": "Maktab kutubxonasida 640 kitob. 215 tasi berilgan. Nechtasi javonda?",
+    "correctAnswer": 425,
+    "wrongAnswers": [
+      855,
+      435
+    ]
+  },
+  {
+    "id": "s2c2b32l1_03",
+    "question": "Bola 500 so'mdan 175 so'mga qalam va 120 so'mga o'chirg'ich oldi. Nechta so'm qaytim?",
+    "correctAnswer": 205,
+    "wrongAnswers": [
+      795,
+      305
+    ]
+  },
+  {
+    "id": "s2c2b32l1_04",
+    "question": "Sardor 300 sahifali kitobni o'qiyapti. 2 kunda 185 bet o'qidi. Necha bet qoldi?",
+    "correctAnswer": 115,
+    "wrongAnswers": [
+      485,
+      125
+    ]
+  },
+  {
+    "id": "s2c2b32l1_05",
+    "question": "Ikki avtobus: birida 45, ikkinchisida 38 yo'lovchi. 12 kishi tushdi. Nechta qoldi?",
+    "correctAnswer": 71,
+    "wrongAnswers": [
+      95,
+      83
+    ]
+  },
+  {
+    "id": "s2c2b32l1_06",
+    "question": "Film 1 soat 40 minut. 25 minut ko'rildi. Yana necha minut qoldi?",
+    "correctAnswer": 75,
+    "wrongAnswers": [
+      65,
+      85
+    ]
+  },
+  {
+    "id": "s2c2b32l1_07",
+    "question": "Bir uyda 6 xona, har birida 2 tadan deraza. Jami nechta deraza?",
+    "correctAnswer": 12,
+    "wrongAnswers": [
+      8,
+      14
+    ]
+  },
+  {
+    "id": "s2c2b32l1_08",
+    "question": "Bog'da 120 ta olma, 85 ta nok daraxti. Olma nechtaga ko'p?",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      205,
+      45
+    ]
+  },
+  {
+    "id": "s2c2b32l1_09",
+    "question": "\"Qancha qoldi?\" savoli ko'pincha ayirish bilan yechiladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c2b32l1_10",
+    "question": "Sinfda 30 o'quvchi bor. Ularning nechtasi 8 yoshda ekanini toping.",
+    "correctAnswer": "Aniqlab bo'lmaydi",
+    "wrongAnswers": [
+      "Rost",
+      "Yolg'on"
+    ]
+  }
+]

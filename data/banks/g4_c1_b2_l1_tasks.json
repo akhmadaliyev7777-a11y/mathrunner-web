@@ -1,0 +1,41 @@
+[
+  {"id": "sinf4_chorak1_blok2_level1_had_01", "prompt": "Bo'sh katakni to'g'ri son bilan to'ldiring", "equations": [
+    {"a": 560, "operator": "+", "b": 340, "result": 900, "blankSlot": "a"}
+  ]},
+  {"id": "sinf4_chorak1_blok2_level1_had_02", "prompt": "Bo'sh katakni to'g'ri son bilan to'ldiring", "equations": [
+    {"a": 1200, "operator": "-", "b": 450, "result": 750, "blankSlot": "b"}
+  ]},
+  {"id": "sinf4_chorak1_blok2_level1_had_03", "prompt": "Bo'sh katakni to'g'ri son bilan to'ldiring", "equations": [
+    {"a": 760, "operator": "-", "b": 260, "result": 500, "blankSlot": "a"}
+  ]},
+  {"id": "sinf4_chorak1_blok2_level1_had_04", "prompt": "Bo'sh katakni to'g'ri son bilan to'ldiring", "equations": [
+    {"a": 85, "operator": "+", "b": 115, "result": 200, "blankSlot": "b"}
+  ]},
+  {"id": "sinf4_chorak1_blok2_level1_had_05", "prompt": "Ikkala bo'sh katakni to'ldiring", "equations": [
+    {"a": 2500, "operator": "+", "b": 1500, "result": 4000, "blankSlot": "a"},
+    {"a": 8, "operator": "×", "b": 6, "result": 48, "blankSlot": "a"}
+  ]},
+  {"id": "sinf4_chorak1_blok2_level1_had_06", "prompt": "Ikkala bo'sh katakni to'ldiring", "equations": [
+    {"a": 900, "operator": "-", "b": 660, "result": 240, "blankSlot": "b"},
+    {"a": 7, "operator": "×", "b": 9, "result": 63, "blankSlot": "b"}
+  ]},
+  {"id": "sinf4_chorak1_blok2_level1_had_07", "prompt": "Ikkala bo'sh katakni to'ldiring", "equations": [
+    {"a": 750, "operator": "+", "b": 250, "result": 1000, "blankSlot": "a"},
+    {"a": 32, "operator": "÷", "b": 4, "result": 8, "blankSlot": "a"}
+  ]},
+  {"id": "sinf4_chorak1_blok2_level1_had_08", "prompt": "Uchala bo'sh katakni to'ldiring", "equations": [
+    {"a": 90, "operator": "+", "b": 60, "result": 150, "blankSlot": "a"},
+    {"a": 300, "operator": "-", "b": 180, "result": 120, "blankSlot": "b"},
+    {"a": 9, "operator": "×", "b": 5, "result": 45, "blankSlot": "a"}
+  ]},
+  {"id": "sinf4_chorak1_blok2_level1_had_09", "prompt": "Uchala bo'sh katakni to'ldiring", "equations": [
+    {"a": 800, "operator": "-", "b": 400, "result": 400, "blankSlot": "a"},
+    {"a": 12, "operator": "+", "b": 28, "result": 40, "blankSlot": "b"},
+    {"a": 21, "operator": "÷", "b": 3, "result": 7, "blankSlot": "a"}
+  ]},
+  {"id": "sinf4_chorak1_blok2_level1_had_10", "prompt": "Uchala bo'sh katakni to'ldiring", "equations": [
+    {"a": 1000, "operator": "-", "b": 450, "result": 550, "blankSlot": "b"},
+    {"a": 50, "operator": "+", "b": 80, "result": 130, "blankSlot": "a"},
+    {"a": 8, "operator": "×", "b": 8, "result": 64, "blankSlot": "b"}
+  ]}
+]

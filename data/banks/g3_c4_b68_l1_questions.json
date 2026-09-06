@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b68l1_01",
+    "question": "A = {2, 4, 6, 8}. Nechta element bor?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      3,
+      5
+    ]
+  },
+  {
+    "id": "s3c4b68l1_02",
+    "question": "A = {1, 2, 3}, B = {2, 3, 4}. Kesishmada nechta element?",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b68l1_03",
+    "question": "A = {1, 2}, B = {2, 3, 4}. Birlashmada nechta element?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      5,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b68l1_04",
+    "question": "Bo'sh to'plam nima deyiladi va qanday belgilanadi?  (elementsiz to'plam = 1, barcha sonlar = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b68l1_05",
+    "question": "Eyler-Venn diagrammasi nima uchun ishlatiladi?  (to'plamlar munosabatini ko'rsatish = 1, hisoblash = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b68l1_06",
+    "question": "10 kishidan 6 tasi choy, 5 tasi qahva ichadi. 1 tasi ikkalasini. Faqat choy ichadiganlar nechta?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      6,
+      1
+    ]
+  },
+  {
+    "id": "s3c4b68l1_07",
+    "question": "'2 * 2 = 4' rost mulohaza.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c4b68l1_08",
+    "question": "'Hafta 6 kundan iborat' rost mulohaza.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c4b68l1_09",
+    "question": "A = {toq sonlar}, B = {2 ga bo'linadigan sonlar}. A ∩ B qanday?  (bo'sh = 1, to'la = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c4b68l1_10",
+    "question": "{m, n} to'plamning nechta qismto'plami bor?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  }
+]

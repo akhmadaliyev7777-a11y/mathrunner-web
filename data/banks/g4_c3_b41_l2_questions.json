@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak3_blok41_level2_ulush_01", "question": "3/8 kasrida surat qaysi son?", "correctAnswer": 3, "wrongAnswers": [8, 5]},
+  {"id": "sinf4_chorak3_blok41_level2_ulush_02", "question": "3/8 kasrida maxraj qaysi son?", "correctAnswer": 8, "wrongAnswers": [3, 5]},
+  {"id": "sinf4_chorak3_blok41_level2_ulush_03", "question": "Bir butun 5 ta teng bo'lakka bo'lindi. Har bir bo'lak qanday kasr bilan ifodalanadi?", "correctAnswer": "1/5", "wrongAnswers": ["5/1", "1/4"]},
+  {"id": "sinf4_chorak3_blok41_level2_ulush_04", "question": "Kasrda maxraj nimani bildiradi?", "correctAnswer": "Butun nechta teng bo'lakka bo'linganini", "wrongAnswers": ["Nechta bo'lak olinganini", "Butun sonini"]},
+  {"id": "sinf4_chorak3_blok41_level2_ulush_05", "question": "Shokolad 6 bo'lakka bo'lindi, 5 tasi yeyildi. Qancha qismi yeyilgan?", "correctAnswer": "5/6", "wrongAnswers": ["6/5", "1/6"]},
+  {"id": "sinf4_chorak3_blok41_level2_ulush_06", "question": "1/4 va 1/2 dan qaysi biri kattaroq bo'lak?", "correctAnswer": "1/2", "wrongAnswers": ["1/4", "teng"]},
+  {"id": "sinf4_chorak3_blok41_level2_ulush_07", "question": "Bir tortni 8 kishiga teng bo'lsak, har biriga qancha qism tegadi?", "correctAnswer": "1/8", "wrongAnswers": ["8", "1/4"]},
+  {"id": "sinf4_chorak3_blok41_level2_ulush_08", "question": "2/7 kasrida qancha bo'lak olingan?", "correctAnswer": 2, "wrongAnswers": [7, 9]},
+  {"id": "sinf4_chorak3_blok41_level2_ulush_09", "question": "Butunning yarmi qanday kasr bilan yoziladi?", "correctAnswer": "1/2", "wrongAnswers": ["2/1", "1/4"]},
+  {"id": "sinf4_chorak3_blok41_level2_ulush_10", "question": "Rost yoki yolg'on: maxraj qancha katta bo'lsa, bo'laklar shuncha kichik bo'ladi.", "correctAnswer": "Rost", "wrongAnswers": ["Yolg'on", "Aniqlab bo'lmaydi"]}
+]

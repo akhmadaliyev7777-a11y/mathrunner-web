@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b63l1_01",
+    "question": "Tomoni 15 cm bo'lgan kvadratning perimetri necha cm?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      30,
+      45
+    ]
+  },
+  {
+    "id": "s3c4b63l1_02",
+    "question": "To'g'ri to'rtburchak: eni 8 cm, bo'yi 5 cm. Yuzi necha cm2?",
+    "correctAnswer": 40,
+    "wrongAnswers": [
+      13,
+      26
+    ]
+  },
+  {
+    "id": "s3c4b63l1_03",
+    "question": "Kuboid 3 x 4 x 5. Hajmi qancha?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      12,
+      24
+    ]
+  },
+  {
+    "id": "s3c4b63l1_04",
+    "question": "v = 20 km/h, t = 3 h. Masofa qancha?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      23,
+      17
+    ]
+  },
+  {
+    "id": "s3c4b63l1_05",
+    "question": "1 pud necha kg?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      10,
+      20
+    ]
+  },
+  {
+    "id": "s3c4b63l1_06",
+    "question": "Narx 5 000 so'm, miqdor 6 ta. Qiymat qancha?",
+    "correctAnswer": 30000,
+    "wrongAnswers": [
+      11000,
+      300000
+    ]
+  },
+  {
+    "id": "s3c4b63l1_07",
+    "question": "Ishchi 6 soatda 48 ta detal yasadi. Unumdorligi qancha?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      42,
+      54
+    ]
+  },
+  {
+    "id": "s3c4b63l1_08",
+    "question": "Taqqoslang: Kvadrat tomoni 6 cm perimetri __ 24 cm",
+    "correctAnswer": "=",
+    "wrongAnswers": [
+      ">",
+      "<"
+    ]
+  },
+  {
+    "id": "s3c4b63l1_09",
+    "question": "Bo'luvchi 5, to'liqsiz bo'linma 10, qoldiq 4. Bo'linuvchi qancha?",
+    "correctAnswer": 54,
+    "wrongAnswers": [
+      50,
+      58
+    ]
+  },
+  {
+    "id": "s3c4b63l1_10",
+    "question": "Kuboid hajmi V = a * b * c formulasi bilan topiladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

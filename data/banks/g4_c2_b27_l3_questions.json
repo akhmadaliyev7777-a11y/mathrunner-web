@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok27_level3_birga_01", "question": "Ikki poyezd bir-biriga qarab yo'lga chiqdi (60 va 40 km/soat), orasi 500 km. 3 soatdan keyin ular orasi qancha qoladi?", "correctAnswer": 200, "wrongAnswers": [300, 100]},
+  {"id": "sinf4_chorak2_blok27_level3_birga_02", "question": "A va B shaharlari orasi 120 km. Ikki mashina bir-biriga qarab chiqdi (30 va 30 km/soat). Uchrashuv joyi A dan necha km uzoqda?", "correctAnswer": 60, "wrongAnswers": [120, 40]},
+  {"id": "sinf4_chorak2_blok27_level3_birga_03", "question": "Ikki velosipedchi bir-biriga qarab 12 va 8 km/soat tezlikda yurdi va 3 soatdan keyin uchrashdi. Ular dastlab bir-biridan qancha uzoqda edi?", "correctAnswer": 60, "wrongAnswers": [12, 36]},
+  {"id": "sinf4_chorak2_blok27_level3_birga_04", "question": "Ikki mashina bir-biriga qarab yo'lga chiqdi. Biri 2 soatda 100 km, ikkinchisi 2 soatda 80 km yurib, aynan shunda uchrashdi. Ular dastlab qancha uzoqda edi?", "correctAnswer": 180, "wrongAnswers": [20, 200]},
+  {"id": "sinf4_chorak2_blok27_level3_birga_05", "question": "Ikki jism 45 km masofadan bir-biriga qarab yo'lga chiqdi (10 va 5 km/soat). 2 soatdan keyin ular uchrashganmi?", "correctAnswer": "Yo'q, hali 15 km qolgan", "wrongAnswers": ["Ha, allaqachon uchrashgan", "Aynan uchrashdi"]},
+  {"id": "sinf4_chorak2_blok27_level3_birga_06", "question": "Bir-biriga qarab kelayotgan ikki mashinaning yaqinlashish tezligi 80 km/soat. Yarim soatda ular qancha yaqinlashadi?", "correctAnswer": 40, "wrongAnswers": [80, 160]},
+  {"id": "sinf4_chorak2_blok27_level3_birga_07", "question": "A va B orasi 360 km. Bir mashina A dan 50 km/soat, ikkinchisi B dan 70 km/soat bilan bir-biriga qarab chiqdi. Uchrashuv joyi B dan necha km uzoqda?", "correctAnswer": 210, "wrongAnswers": [150, 180]},
+  {"id": "sinf4_chorak2_blok27_level3_birga_08", "question": "Ikki piyoda bir-biriga qarab yurib 4 soatda uchrashdi. Biri soatiga 5 km, ikkinchisi 6 km yurdi. Ular dastlab qancha uzoqda edi?", "correctAnswer": 44, "wrongAnswers": [24, 11]},
+  {"id": "sinf4_chorak2_blok27_level3_birga_09", "question": "Bir-biriga qarab kelayotgan ikki mashinaning tezligi 60 va 90 km/soat. Ular 4 soatdan keyin uchrashdi. Tezroq mashina qancha yo'l bosgan?", "correctAnswer": 360, "wrongAnswers": [240, 600]},
+  {"id": "sinf4_chorak2_blok27_level3_birga_10", "question": "Ikki jism bir-biridan 100 km uzoqlikda, bir-biriga qarab yo'lga chiqdi (20 va 30 km/soat). Necha soatdan keyin ular orasi 50 km bo'ladi?", "correctAnswer": 1, "wrongAnswers": [2, 5]}
+]

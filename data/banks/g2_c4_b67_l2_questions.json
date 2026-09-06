@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b67l2_01",
+    "question": "13 * 4 ni yoyib hisoblang: (10 + 3) * 4 = 40 + 12 = ?",
+    "correctAnswer": 52,
+    "wrongAnswers": [
+      42,
+      62
+    ]
+  },
+  {
+    "id": "s2c4b67l2_02",
+    "question": "12 * 5 = (10 + 2) * 5 = ?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      52,
+      70
+    ]
+  },
+  {
+    "id": "s2c4b67l2_03",
+    "question": "15 * 3 = (10 + 5) * 3 = ?",
+    "correctAnswer": 45,
+    "wrongAnswers": [
+      35,
+      55
+    ]
+  },
+  {
+    "id": "s2c4b67l2_04",
+    "question": "14 * 6 = (10 + 4) * 6 = ?",
+    "correctAnswer": 84,
+    "wrongAnswers": [
+      74,
+      94
+    ]
+  },
+  {
+    "id": "s2c4b67l2_05",
+    "question": "18 * 2 = (10 + 8) * 2 = ?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      26,
+      46
+    ]
+  },
+  {
+    "id": "s2c4b67l2_06",
+    "question": "16 * 5 = ?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      70,
+      90
+    ]
+  },
+  {
+    "id": "s2c4b67l2_07",
+    "question": "11 * 9 = ?",
+    "correctAnswer": 99,
+    "wrongAnswers": [
+      90,
+      108
+    ]
+  },
+  {
+    "id": "s2c4b67l2_08",
+    "question": "Xato: \"12 * 3 = 15\" deyildi. To'g'ri javob qancha?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      15,
+      39
+    ]
+  },
+  {
+    "id": "s2c4b67l2_09",
+    "question": "Taqqoslang: 13 * 4 __ 12 * 5",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s2c4b67l2_10",
+    "question": "17 * 3 = ?",
+    "correctAnswer": 51,
+    "wrongAnswers": [
+      41,
+      61
+    ]
+  }
+]

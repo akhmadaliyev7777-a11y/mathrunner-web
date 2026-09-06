@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c2b23l1_01",
+    "question": "300 + 400 = ?",
+    "correctAnswer": 700,
+    "wrongAnswers": [
+      600,
+      800
+    ]
+  },
+  {
+    "id": "s2c2b23l1_02",
+    "question": "250 + 130 = ?",
+    "correctAnswer": 380,
+    "wrongAnswers": [
+      280,
+      480
+    ]
+  },
+  {
+    "id": "s2c2b23l1_03",
+    "question": "420 + 360 = ?",
+    "correctAnswer": 780,
+    "wrongAnswers": [
+      680,
+      880
+    ]
+  },
+  {
+    "id": "s2c2b23l1_04",
+    "question": "505 + 273 = ?",
+    "correctAnswer": 778,
+    "wrongAnswers": [
+      678,
+      878
+    ]
+  },
+  {
+    "id": "s2c2b23l1_05",
+    "question": "610 + 145 = ?",
+    "correctAnswer": 755,
+    "wrongAnswers": [
+      655,
+      855
+    ]
+  },
+  {
+    "id": "s2c2b23l1_06",
+    "question": "234 + 152 = ?",
+    "correctAnswer": 386,
+    "wrongAnswers": [
+      286,
+      486
+    ]
+  },
+  {
+    "id": "s2c2b23l1_07",
+    "question": "700 + 208 = ?",
+    "correctAnswer": 908,
+    "wrongAnswers": [
+      808,
+      1008
+    ]
+  },
+  {
+    "id": "s2c2b23l1_08",
+    "question": "163 + 425 = ?",
+    "correctAnswer": 588,
+    "wrongAnswers": [
+      488,
+      688
+    ]
+  },
+  {
+    "id": "s2c2b23l1_09",
+    "question": "600 + 90 = ?",
+    "correctAnswer": 690,
+    "wrongAnswers": [
+      609,
+      700
+    ]
+  },
+  {
+    "id": "s2c2b23l1_10",
+    "question": "230 + 500 = ?",
+    "correctAnswer": 730,
+    "wrongAnswers": [
+      280,
+      630
+    ]
+  }
+]

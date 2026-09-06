@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c4b59l1_01",
+    "question": "Har qanday sonni 1 ga ko'paytirsak, ...",
+    "correctAnswer": "sonning o'zi chiqadi",
+    "wrongAnswers": [
+      "1 chiqadi",
+      "0 chiqadi"
+    ]
+  },
+  {
+    "id": "s2c4b59l1_02",
+    "question": "Har qanday sonni 0 ga ko'paytirsak, ...",
+    "correctAnswer": "0 chiqadi",
+    "wrongAnswers": [
+      "sonning o'zi chiqadi",
+      "1 chiqadi"
+    ]
+  },
+  {
+    "id": "s2c4b59l1_03",
+    "question": "0 ni har qanday songa bo'lsak, ...",
+    "correctAnswer": "0 chiqadi",
+    "wrongAnswers": [
+      "shu son chiqadi",
+      "1 chiqadi"
+    ]
+  },
+  {
+    "id": "s2c4b59l1_04",
+    "question": "8 * 1 = ?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      1,
+      9
+    ]
+  },
+  {
+    "id": "s2c4b59l1_05",
+    "question": "15 * 0 = ?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      15,
+      1
+    ]
+  },
+  {
+    "id": "s2c4b59l1_06",
+    "question": "7 : 1 = ?",
+    "correctAnswer": 7,
+    "wrongAnswers": [
+      1,
+      0
+    ]
+  },
+  {
+    "id": "s2c4b59l1_07",
+    "question": "0 : 9 = ?",
+    "correctAnswer": 0,
+    "wrongAnswers": [
+      9,
+      1
+    ]
+  },
+  {
+    "id": "s2c4b59l1_08",
+    "question": "Songa 0 ni bo'lish mumkin emas.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c4b59l1_09",
+    "question": "5 * 0 = 5.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c4b59l1_10",
+    "question": "12 * 1 : 12 = ?",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      12,
+      0
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak2_blok32_level2_yax_01", "question": "5 738 ni mingliklargacha yaxlitlang.", "correctAnswer": 6000, "wrongAnswers": [5000, 5700]},
+  {"id": "sinf4_chorak2_blok32_level2_yax_02", "question": "12 460 ni yuzliklargacha yaxlitlang.", "correctAnswer": 12500, "wrongAnswers": [12400, 12000]},
+  {"id": "sinf4_chorak2_blok32_level2_yax_03", "question": "Aziz: \"862 ni yuzliklargacha yaxlitlaganda 800 chiqadi, chunki yuzlar xonasida 8 turibdi\" dedi. Xatosi nimada?", "correctAnswer": "O'nlar xonasiga (6) qarab yaxlitlanadi: 6 ≥ 5, demak 900", "wrongAnswers": ["Xato yo'q, 800 to'g'ri", "862 → 862 bo'ladi"]},
+  {"id": "sinf4_chorak2_blok32_level2_yax_04", "question": "Bir sonni o'nliklargacha yaxlitlaganda 60 chiqdi. Bu son quyidagilardan qaysi biri BO'LMAYDI?", "correctAnswer": 67, "wrongAnswers": [58, 63]},
+  {"id": "sinf4_chorak2_blok32_level2_yax_05", "question": "34 872 ni mingliklargacha yaxlitlang.", "correctAnswer": 35000, "wrongAnswers": [34000, 34900]},
+  {"id": "sinf4_chorak2_blok32_level2_yax_06", "question": "\"748 ni yuzliklargacha yaxlitlash\" uchun qaysi raqamga qaraymiz?", "correctAnswer": "O'nlar xonasidagi 4 ga", "wrongAnswers": ["Yuzlar xonasidagi 7 ga", "Birlar xonasidagi 8 ga"]},
+  {"id": "sinf4_chorak2_blok32_level2_yax_07", "question": "6 950 ni yuzliklargacha yaxlitlang.", "correctAnswer": 7000, "wrongAnswers": [6900, 6000]},
+  {"id": "sinf4_chorak2_blok32_level2_yax_08", "question": "Dilnoza 428 ni o'nliklargacha yaxlitlab 420 dedi. To'g'rimi?", "correctAnswer": "Yo'q, 8 ≥ 5, demak 430", "wrongAnswers": ["Ha, to'g'ri", "Yaxlitlab 400 bo'ladi"]},
+  {"id": "sinf4_chorak2_blok32_level2_yax_09", "question": "Bir sonni yuzliklargacha yaxlitlaganda 500 chiqdi. Eng katta shunday son qaysi?", "correctAnswer": 549, "wrongAnswers": [551, 599]},
+  {"id": "sinf4_chorak2_blok32_level2_yax_10", "question": "89 999 ni mingliklargacha yaxlitlang.", "correctAnswer": 90000, "wrongAnswers": [89000, 100000]}
+]

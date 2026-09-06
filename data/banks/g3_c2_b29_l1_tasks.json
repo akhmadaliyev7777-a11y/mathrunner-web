@@ -1,0 +1,52 @@
+[
+  {
+    "id": "g3c2b29l1_alomat_01",
+    "text": "4 soni 12 ning bo'luvchisimi?",
+    "isTrue": true
+  },
+  {
+    "id": "g3c2b29l1_alomat_02",
+    "text": "5 soni 12 ning bo'luvchisimi?",
+    "isTrue": false
+  },
+  {
+    "id": "g3c2b29l1_alomat_03",
+    "text": "20 soni 4 ga karralimi?",
+    "isTrue": true
+  },
+  {
+    "id": "g3c2b29l1_alomat_04",
+    "text": "20 soni 3 ga karralimi?",
+    "isTrue": false
+  },
+  {
+    "id": "g3c2b29l1_alomat_05",
+    "text": "6 soni 36 ning bo'luvchisimi?",
+    "isTrue": true
+  },
+  {
+    "id": "g3c2b29l1_alomat_06",
+    "text": "7 soni 36 ning bo'luvchisimi?",
+    "isTrue": false
+  },
+  {
+    "id": "g3c2b29l1_alomat_07",
+    "text": "15 soni 5 ga karralimi?",
+    "isTrue": true
+  },
+  {
+    "id": "g3c2b29l1_alomat_08",
+    "text": "15 soni 6 ga karralimi?",
+    "isTrue": false
+  },
+  {
+    "id": "g3c2b29l1_alomat_09",
+    "text": "9 soni 27 ning bo'luvchisimi?",
+    "isTrue": true
+  },
+  {
+    "id": "g3c2b29l1_alomat_10",
+    "text": "8 soni 27 ning bo'luvchisimi?",
+    "isTrue": false
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b41l1_01",
+    "question": "Paletkada 6 ta to'liq va 4 ta yarim katak bo'yalgan. Shakl yuzi taxminan qancha (kvadrat birlik)?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      6,
+      10
+    ]
+  },
+  {
+    "id": "s3c3b41l1_02",
+    "question": "Paletkada 12 ta to'liq va 8 ta yarim katak bo'yalgan. Shakl yuzi taxminan qancha?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      12,
+      20
+    ]
+  },
+  {
+    "id": "s3c3b41l1_03",
+    "question": "Paletkada 5 ta to'liq va 6 ta yarim katak bor. Yuza taxminan qancha?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      5,
+      11
+    ]
+  },
+  {
+    "id": "s3c3b41l1_04",
+    "question": "Shaklda 9 ta to'liq va 2 ta yarim katak. Yuza taxminan qancha?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      9,
+      11
+    ]
+  },
+  {
+    "id": "s3c3b41l1_05",
+    "question": "Paletka bilan yuza qanday topiladi?  (to'liq + yarim kataklar hisoblanadi = 1, faqat to'liq kataklar = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b41l1_06",
+    "question": "Shakl yuzi kamida 7 (to'liq kataklar), ko'pi bilan 11 kvadrat birlik. Taxminiy yuza qaysi son bo'lishi mumkin?  (9 = 1, 15 = 2, 5 = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c3b41l1_07",
+    "question": "Paletka yordamida yuza aniq emas, taxminan topiladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c3b41l1_08",
+    "question": "To'liq kataklar 8 ta, yarim kataklar 0 ta. Yuza qancha?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      4,
+      16
+    ]
+  },
+  {
+    "id": "s3c3b41l1_09",
+    "question": "Barg chizmasida 14 to'liq va 10 yarim katak bor. Yuza taxminan qancha?",
+    "correctAnswer": 19,
+    "wrongAnswers": [
+      14,
+      24
+    ]
+  },
+  {
+    "id": "s3c3b41l1_10",
+    "question": "Paletka nima?  (shaffof katakli setka = 1, chizg'ich = 2, sirkul = 3)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  }
+]

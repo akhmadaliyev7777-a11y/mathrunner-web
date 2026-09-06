@@ -1,0 +1,12 @@
+[
+  {"id": "sinf4_chorak4_blok72_level2_olch_01", "question": "Transportir bilan o'lchashda burchak uchini transportirning qayeriga qo'yamiz?", "correctAnswer": "markaziga (nol nuqtasiga)", "wrongAnswers": ["chetiga", "180° belgisiga"]},
+  {"id": "sinf4_chorak4_blok72_level2_olch_02", "question": "Burchakning bir tomonini transportirning qaysi belgisiga to'g'rilaymiz?", "correctAnswer": "0° belgisiga", "wrongAnswers": ["90° belgisiga", "istalgan belgiga"]},
+  {"id": "sinf4_chorak4_blok72_level2_olch_03", "question": "Transportir shkalasi necha gradusgacha bo'lingan?", "correctAnswer": 180, "wrongAnswers": [90, 360]},
+  {"id": "sinf4_chorak4_blok72_level2_olch_04", "question": "Burchakning ikkinchi tomoni transportirda 70° ni ko'rsatdi. Burchak necha gradus?", "correctAnswer": 70, "wrongAnswers": [110, 7]},
+  {"id": "sinf4_chorak4_blok72_level2_olch_05", "question": "Bir burchak transportirda 90° ni ko'rsatdi. Bu qanday burchak?", "correctAnswer": "to'g'ri burchak", "wrongAnswers": ["o'tkir burchak", "o'tmas burchak"]},
+  {"id": "sinf4_chorak4_blok72_level2_olch_06", "question": "Transportirda burchak 135° ni ko'rsatdi. Bu qanday burchak?", "correctAnswer": "o'tmas burchak", "wrongAnswers": ["o'tkir burchak", "to'g'ri burchak"]},
+  {"id": "sinf4_chorak4_blok72_level2_olch_07", "question": "Transportir shkalasi nechta bo'linmadan iborat (har 1°)?", "correctAnswer": 180, "wrongAnswers": [90, 100]},
+  {"id": "sinf4_chorak4_blok72_level2_olch_08", "question": "Aziz burchak uchini transportirning chetiga qo'yib o'lchadi. Xatosi nimada?", "correctAnswer": "Burchak uchi transportirning MARKAZIGA qo'yilishi kerak", "wrongAnswers": ["Xato yo'q", "Chetiga qo'yish to'g'ri"]},
+  {"id": "sinf4_chorak4_blok72_level2_olch_09", "question": "Burchak transportirda 25° ni ko'rsatdi. Bu qanday burchak?", "correctAnswer": "o'tkir burchak", "wrongAnswers": ["o'tmas burchak", "yoyiq burchak"]},
+  {"id": "sinf4_chorak4_blok72_level2_olch_10", "question": "Transportirda ikkita shkala bor. Qaysinisidan o'qiymiz?", "correctAnswer": "Burchak tomoni 0° dan boshlangan tomonidan", "wrongAnswers": ["Har doim chapdan", "Har doim o'ngdan"]}
+]

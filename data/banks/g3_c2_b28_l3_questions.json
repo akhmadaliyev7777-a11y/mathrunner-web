@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b28l3_01",
+    "question": "880 kg va 730 kg olma terildi. Bir yashikka 35 kg sig'sa, nechta yashik kerak?  (1610 : 35)",
+    "correctAnswer": 46,
+    "wrongAnswers": [
+      45,
+      47
+    ]
+  },
+  {
+    "id": "s3c2b28l3_02",
+    "question": "12 480 metr yo'lni 240 metrlik bo'laklarga bo'lsak, nechta bo'lak chiqadi?",
+    "correctAnswer": 52,
+    "wrongAnswers": [
+      51,
+      53
+    ]
+  },
+  {
+    "id": "s3c2b28l3_03",
+    "question": "Bogdan 4 704 ta olma terilib, 336 tadan yashiklarga joylandi. Nechta yashik kerak bo'ldi?",
+    "correctAnswer": 14,
+    "wrongAnswers": [
+      13,
+      15
+    ]
+  },
+  {
+    "id": "s3c2b28l3_04",
+    "question": "Zavod 45 000 ta gishtni 150 talik paketlarga qadoqladi. Nechta paket chiqdi?",
+    "correctAnswer": 300,
+    "wrongAnswers": [
+      290,
+      310
+    ]
+  },
+  {
+    "id": "s3c2b28l3_05",
+    "question": "Anvar 774 : 129 ni hisoblab, 5 deb yozdi. To'g'ri javob qancha?",
+    "correctAnswer": 6,
+    "wrongAnswers": [
+      5,
+      7
+    ]
+  },
+  {
+    "id": "s3c2b28l3_06",
+    "question": "63 360 : 528 = ?",
+    "correctAnswer": 120,
+    "wrongAnswers": [
+      110,
+      130
+    ]
+  },
+  {
+    "id": "s3c2b28l3_07",
+    "question": "Bir maktabda 936 o'quvchi. Har sinfda 26 o'quvchi bo'lsa, nechta sinf bor?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      35,
+      37
+    ]
+  },
+  {
+    "id": "s3c2b28l3_08",
+    "question": "8 400 so'mdan bo'lgan bilet uchun 252 000 so'm to'landi. Nechta bilet olindi?",
+    "correctAnswer": 30,
+    "wrongAnswers": [
+      29,
+      31
+    ]
+  },
+  {
+    "id": "s3c2b28l3_09",
+    "question": "1 200 000 : 400 = ?",
+    "correctAnswer": 3000,
+    "wrongAnswers": [
+      300,
+      30000
+    ]
+  },
+  {
+    "id": "s3c2b28l3_10",
+    "question": "Uch xonali songa bo'lishda avval bo'linuvchining birinchi uch xonasi bo'luvchi bilan solishtiriladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

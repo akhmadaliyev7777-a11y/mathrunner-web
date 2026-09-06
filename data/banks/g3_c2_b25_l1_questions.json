@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c2b25l1_01",
+    "question": "4 072 : 4 = ?",
+    "correctAnswer": 1018,
+    "wrongAnswers": [
+      1008,
+      10180
+    ]
+  },
+  {
+    "id": "s3c2b25l1_02",
+    "question": "5 010 : 5 = ?",
+    "correctAnswer": 1002,
+    "wrongAnswers": [
+      992,
+      10020
+    ]
+  },
+  {
+    "id": "s3c2b25l1_03",
+    "question": "60 120 : 6 = ?",
+    "correctAnswer": 10020,
+    "wrongAnswers": [
+      10010,
+      100200
+    ]
+  },
+  {
+    "id": "s3c2b25l1_04",
+    "question": "80 240 : 8 = ?",
+    "correctAnswer": 10030,
+    "wrongAnswers": [
+      10020,
+      100300
+    ]
+  },
+  {
+    "id": "s3c2b25l1_05",
+    "question": "500 072 : 8 = ?",
+    "correctAnswer": 62509,
+    "wrongAnswers": [
+      62409,
+      62519
+    ]
+  },
+  {
+    "id": "s3c2b25l1_06",
+    "question": "To'liqsiz bo'linmada nol raqami qachon paydo bo'ladi?  (bo'linuvchining xonasi bo'luvchidan kichik bo'lsa = 1, katta bo'lsa = 2)",
+    "correctAnswer": 1,
+    "wrongAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": "s3c2b25l1_07",
+    "question": "6 042 : 6 amalida bo'linmada nol raqami bo'ladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s3c2b25l1_08",
+    "question": "9 045 : 9 = ?",
+    "correctAnswer": 1005,
+    "wrongAnswers": [
+      105,
+      1050
+    ]
+  },
+  {
+    "id": "s3c2b25l1_09",
+    "question": "4 080 : 4 = ?",
+    "correctAnswer": 1020,
+    "wrongAnswers": [
+      120,
+      1200
+    ]
+  },
+  {
+    "id": "s3c2b25l1_10",
+    "question": "7 070 : 7 = ?",
+    "correctAnswer": 1010,
+    "wrongAnswers": [
+      110,
+      1100
+    ]
+  }
+]

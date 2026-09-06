@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c3b38l2_01",
+    "question": "To'g'ri to'rtburchak yuzi 20 katak, eni 4 katak. Bo'yi necha katak?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      16,
+      24
+    ]
+  },
+  {
+    "id": "s2c3b38l2_02",
+    "question": "Kvadrat yuzi 16 katak. Tomoni necha katak?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      8,
+      2
+    ]
+  },
+  {
+    "id": "s2c3b38l2_03",
+    "question": "Shakl A 12 katak, shakl B 9 katak. A shakl B dan necha katak katta?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      21,
+      4
+    ]
+  },
+  {
+    "id": "s2c3b38l2_04",
+    "question": "To'g'ri to'rtburchak 6 qator, har qatorda 3 katak. Yuzi necha katak?",
+    "correctAnswer": 18,
+    "wrongAnswers": [
+      9,
+      12
+    ]
+  },
+  {
+    "id": "s2c3b38l2_05",
+    "question": "Yuzi 15 katak bo'lgan to'g'ri to'rtburchakning bo'yi 5 katak. Eni necha katak?",
+    "correctAnswer": 3,
+    "wrongAnswers": [
+      10,
+      20
+    ]
+  },
+  {
+    "id": "s2c3b38l2_06",
+    "question": "Bir shakl 8 butun va 6 yarim katak. Yuzi necha katak?",
+    "correctAnswer": 11,
+    "wrongAnswers": [
+      8,
+      14
+    ]
+  },
+  {
+    "id": "s2c3b38l2_07",
+    "question": "Taqqoslang: 3 qatorli 5 katakli shakl yuzi __ 4 qatorli 4 katakli shakl yuzi",
+    "correctAnswer": "<",
+    "wrongAnswers": [
+      ">",
+      "="
+    ]
+  },
+  {
+    "id": "s2c3b38l2_08",
+    "question": "Xato: 4 qator 4 katakli shakl yuzi 12 katak deyildi. To'g'ri yuz necha katak?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      12,
+      8
+    ]
+  },
+  {
+    "id": "s2c3b38l2_09",
+    "question": "Kvadrat tomoni 6 katak. Yuzi necha katak?",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      12,
+      24
+    ]
+  },
+  {
+    "id": "s2c3b38l2_10",
+    "question": "Yuzi teng ikki shaklning perimetri ham har doim teng.",
+    "correctAnswer": "Yolg'on",
+    "wrongAnswers": [
+      "Rost",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

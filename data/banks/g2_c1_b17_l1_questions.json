@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s2c1b17l1_01",
+    "question": "Bog'chada 34 ta bola bor edi, yana 18 ta bola keldi. Nechta bola bo'ldi?",
+    "correctAnswer": 52,
+    "wrongAnswers": [
+      16,
+      42
+    ]
+  },
+  {
+    "id": "s2c1b17l1_02",
+    "question": "Kitobda 80 bet. Sardor 45 betini o'qidi. Necha bet qoldi?",
+    "correctAnswer": 35,
+    "wrongAnswers": [
+      45,
+      125
+    ]
+  },
+  {
+    "id": "s2c1b17l1_03",
+    "question": "Bir qutida 25 ta, ikkinchisida 25 ta, uchinchisida 30 ta shokolad. Jami nechta?",
+    "correctAnswer": 80,
+    "wrongAnswers": [
+      70,
+      55
+    ]
+  },
+  {
+    "id": "s2c1b17l1_04",
+    "question": "Mashinada 60 ta quti bor edi. 28 tasi tushirildi. Nechta qoldi?",
+    "correctAnswer": 32,
+    "wrongAnswers": [
+      88,
+      42
+    ]
+  },
+  {
+    "id": "s2c1b17l1_05",
+    "question": "Anvar 12 yoshda, akasi undan 9 yosh katta. Akasi necha yoshda?",
+    "correctAnswer": 21,
+    "wrongAnswers": [
+      3,
+      20
+    ]
+  },
+  {
+    "id": "s2c1b17l1_06",
+    "question": "Zinada 40 ta pog'ona bor. Bola 15 tasiga chiqdi. Yana nechta pog'ona qoldi?",
+    "correctAnswer": 25,
+    "wrongAnswers": [
+      55,
+      35
+    ]
+  },
+  {
+    "id": "s2c1b17l1_07",
+    "question": "Do'konga 50 kg shakar keltirildi. Kunduzi 22 kg, kechqurun 13 kg sotildi. Nechta kg qoldi?",
+    "correctAnswer": 15,
+    "wrongAnswers": [
+      25,
+      35
+    ]
+  },
+  {
+    "id": "s2c1b17l1_08",
+    "question": "Hovlida 18 ta o'rdak va 26 ta g'oz bor. Qaysi biri ko'p va nechtaga ko'p?",
+    "correctAnswer": 8,
+    "wrongAnswers": [
+      44,
+      6
+    ]
+  },
+  {
+    "id": "s2c1b17l1_09",
+    "question": "\"Bor edi 30 ta, 12 tasi ketdi\" masalasi ayirish bilan yechiladi.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  },
+  {
+    "id": "s2c1b17l1_10",
+    "question": "5 ta stolda 4 tadan kitob bor. Jami nechta kitob? (4 + 4 + 4 + 4 + 4)",
+    "correctAnswer": 20,
+    "wrongAnswers": [
+      9,
+      16
+    ]
+  }
+]

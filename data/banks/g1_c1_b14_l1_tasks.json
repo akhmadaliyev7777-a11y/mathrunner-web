@@ -1,0 +1,52 @@
+[
+  {
+    "id": "g1c1b14l1_jt_01",
+    "text": "2 juft son",
+    "isTrue": true
+  },
+  {
+    "id": "g1c1b14l1_jt_02",
+    "text": "5 juft son",
+    "isTrue": false
+  },
+  {
+    "id": "g1c1b14l1_jt_03",
+    "text": "8 juft son",
+    "isTrue": true
+  },
+  {
+    "id": "g1c1b14l1_jt_04",
+    "text": "3 juft son",
+    "isTrue": false
+  },
+  {
+    "id": "g1c1b14l1_jt_05",
+    "text": "10 juft son",
+    "isTrue": true
+  },
+  {
+    "id": "g1c1b14l1_jt_06",
+    "text": "7 juft son",
+    "isTrue": false
+  },
+  {
+    "id": "g1c1b14l1_jt_07",
+    "text": "4 juft son",
+    "isTrue": true
+  },
+  {
+    "id": "g1c1b14l1_jt_08",
+    "text": "9 juft son",
+    "isTrue": false
+  },
+  {
+    "id": "g1c1b14l1_jt_09",
+    "text": "6 juft son",
+    "isTrue": true
+  },
+  {
+    "id": "g1c1b14l1_jt_10",
+    "text": "1 juft son",
+    "isTrue": false
+  }
+]

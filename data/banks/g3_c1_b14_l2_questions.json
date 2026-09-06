@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c1b14l2_01",
+    "question": "98 746 - (56 938 + 3 272 * 5) = ?",
+    "correctAnswer": 25448,
+    "wrongAnswers": [
+      25748,
+      25418
+    ]
+  },
+  {
+    "id": "s3c1b14l2_02",
+    "question": "517 699 - 380 000 = ?",
+    "correctAnswer": 137699,
+    "wrongAnswers": [
+      134699,
+      137799
+    ]
+  },
+  {
+    "id": "s3c1b14l2_03",
+    "question": "1 dollar 12 600 so'm bo'lsa, 8 dollar necha so'm?",
+    "correctAnswer": 100800,
+    "wrongAnswers": [
+      88200,
+      113400
+    ]
+  },
+  {
+    "id": "s3c1b14l2_04",
+    "question": "Bir hafta oldin 1 evro 13 000 so'm edi, endi 500 so'm oshdi. Endi 1 evro necha so'm?",
+    "correctAnswer": 13500,
+    "wrongAnswers": [
+      12500,
+      13000
+    ]
+  },
+  {
+    "id": "s3c1b14l2_05",
+    "question": "Grafikda tovar narxi 1-oy 40 000, 2-oy 46 000, 3-oy 43 000 so'm. Eng yuqori narx qaysi oyda edi?  (1, 2 yoki 3)",
+    "correctAnswer": 2,
+    "wrongAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "s3c1b14l2_06",
+    "question": "25 786 * 3 = ?",
+    "correctAnswer": 77358,
+    "wrongAnswers": [
+      76358,
+      78358
+    ]
+  },
+  {
+    "id": "s3c1b14l2_07",
+    "question": "(1 200 + 300) * 6 = ?",
+    "correctAnswer": 9000,
+    "wrongAnswers": [
+      900,
+      90000
+    ]
+  },
+  {
+    "id": "s3c1b14l2_08",
+    "question": "12 345 * 6 = ?",
+    "correctAnswer": 74070,
+    "wrongAnswers": [
+      74060,
+      74080
+    ]
+  },
+  {
+    "id": "s3c1b14l2_09",
+    "question": "Do'konga 4 ta yashik keldi, har birida 2 750 ta mix. Jami nechta mix?",
+    "correctAnswer": 11000,
+    "wrongAnswers": [
+      10750,
+      11250
+    ]
+  },
+  {
+    "id": "s3c1b14l2_10",
+    "question": "1 funt sterling 15 400 so'm. 5 funt necha so'm?",
+    "correctAnswer": 77000,
+    "wrongAnswers": [
+      76000,
+      78000
+    ]
+  }
+]

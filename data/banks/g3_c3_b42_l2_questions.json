@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c3b42l2_01",
+    "question": "Qirrasi 3 cm bo'lgan kubning barcha qirralari uzunliklari yig'indisi qancha?  (L = a * 12)",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      24,
+      30
+    ]
+  },
+  {
+    "id": "s3c3b42l2_02",
+    "question": "Qirrasi 5 cm bo'lgan kubning barcha qirralari yig'indisi qancha?",
+    "correctAnswer": 60,
+    "wrongAnswers": [
+      50,
+      55
+    ]
+  },
+  {
+    "id": "s3c3b42l2_03",
+    "question": "Parallelepiped: bo'yi 12 cm, eni 10 cm, balandligi 2 cm. Barcha qirralari yig'indisi qancha?  (L = 4 * (a + b + c))",
+    "correctAnswer": 96,
+    "wrongAnswers": [
+      48,
+      24
+    ]
+  },
+  {
+    "id": "s3c3b42l2_04",
+    "question": "Parallelepiped: bo'yi 8 cm, eni 5 cm, balandligi 6 cm. Qirralari yig'indisi qancha?",
+    "correctAnswer": 76,
+    "wrongAnswers": [
+      19,
+      38
+    ]
+  },
+  {
+    "id": "s3c3b42l2_05",
+    "question": "Kubning barcha qirralari yig'indisi 48 cm. Bir qirrasi necha cm?",
+    "correctAnswer": 4,
+    "wrongAnswers": [
+      6,
+      8
+    ]
+  },
+  {
+    "id": "s3c3b42l2_06",
+    "question": "Parallelepipedning qirralari yig'indisi 40 cm. (a + b + c) yig'indisi qancha?",
+    "correctAnswer": 10,
+    "wrongAnswers": [
+      4,
+      20
+    ]
+  },
+  {
+    "id": "s3c3b42l2_07",
+    "question": "Qirrasi 10 cm kubning qirralari yig'indisidan qirrasi 7 cm kubning qirralari yig'indisini ayiring.",
+    "correctAnswer": 36,
+    "wrongAnswers": [
+      30,
+      42
+    ]
+  },
+  {
+    "id": "s3c3b42l2_08",
+    "question": "Kubning bir yog'i kvadrat, tomoni 4 cm. Bir yog'ining yuzi necha cm2?",
+    "correctAnswer": 16,
+    "wrongAnswers": [
+      8,
+      12
+    ]
+  },
+  {
+    "id": "s3c3b42l2_09",
+    "question": "Qirrasi 2 dm kubning qirralari yig'indisi necha dm?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      12,
+      16
+    ]
+  },
+  {
+    "id": "s3c3b42l2_10",
+    "question": "Kubning qirralari yig'indisini topish uchun bir qirrani 12 ga ko'paytiramiz.",
+    "correctAnswer": "Rost",
+    "wrongAnswers": [
+      "Yolg'on",
+      "Aniqlab bo'lmaydi"
+    ]
+  }
+]

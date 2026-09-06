@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s3c4b56l3_01",
+    "question": "To'g'ri burchakli parallelepiped (kuboid): bo'yi 16, eni 15, balandligi 25. Hajmi necha kub birlik?  (V = a * b * c)",
+    "correctAnswer": 6000,
+    "wrongAnswers": [
+      56,
+      112
+    ]
+  },
+  {
+    "id": "s3c4b56l3_02",
+    "question": "To'g'ri burchakli parallelepiped (kuboid): bo'yi 4, eni 3, balandligi 2. Hajmi necha kub birlik?  (V = a * b * c)",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      9,
+      18
+    ]
+  },
+  {
+    "id": "s3c4b56l3_03",
+    "question": "To'g'ri burchakli parallelepiped (kuboid): bo'yi 10, eni 10, balandligi 10. Hajmi necha kub birlik?  (V = a * b * c)",
+    "correctAnswer": 1000,
+    "wrongAnswers": [
+      30,
+      60
+    ]
+  },
+  {
+    "id": "s3c4b56l3_04",
+    "question": "To'g'ri burchakli parallelepiped (kuboid): bo'yi 6, eni 5, balandligi 4. Hajmi necha kub birlik?  (V = a * b * c)",
+    "correctAnswer": 120,
+    "wrongAnswers": [
+      15,
+      30
+    ]
+  },
+  {
+    "id": "s3c4b56l3_05",
+    "question": "Kuboidning asos yuzi (S) 20 cm2, balandligi (h) 5 cm. Hajmi necha cm3?  (V = S * h)",
+    "correctAnswer": 100,
+    "wrongAnswers": [
+      25,
+      4
+    ]
+  },
+  {
+    "id": "s3c4b56l3_06",
+    "question": "Qirrasi 3 cm bo'lgan kubning hajmi necha cm3?",
+    "correctAnswer": 27,
+    "wrongAnswers": [
+      9,
+      12
+    ]
+  },
+  {
+    "id": "s3c4b56l3_07",
+    "question": "Kuboidning hajmi 60 cm3, asos yuzi 12 cm2. Balandligi necha cm?",
+    "correctAnswer": 5,
+    "wrongAnswers": [
+      6,
+      4
+    ]
+  },
+  {
+    "id": "s3c4b56l3_08",
+    "question": "865 ml, 5 marta kam va 320 ml ko'p idishlardagi suvning umumiy hajmi necha ml?  (865 + 173 + 1185)",
+    "correctAnswer": 2223,
+    "wrongAnswers": [
+      2123,
+      2323
+    ]
+  },
+  {
+    "id": "s3c4b56l3_09",
+    "question": "Kuboid 4 dm x 3 dm x 2 dm. Hajmi necha dm3?",
+    "correctAnswer": 24,
+    "wrongAnswers": [
+      9,
+      18
+    ]
+  },
+  {
+    "id": "s3c4b56l3_10",
+    "question": "Qirrasi 10 cm kubning hajmi necha cm3?",
+    "correctAnswer": 1000,
+    "wrongAnswers": [
+      100,
+      30
+    ]
+  }
+]
