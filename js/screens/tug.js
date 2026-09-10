@@ -80,24 +80,37 @@ export async function render(root, _params) {
 
   function play() {
     const pool = catId === 'all' ? allQ : (cats.find(c => c.id === catId)?.questions || allQ);
-    // ~30 raund: har raund ikkala jamoaga BIR XIL qiyinlikdagi ikki xil savol.
-    // Qiyinlik taqsimoti o'rtachaga og'ish: ko'proq d2.
+    // ~30 raund: har raund ikkala jamoaga BIR XIL qiyinlikdagi, lekin HAR XIL savol.
+    // usedAll — butun o'yin davomida (ikkala jamoa + qayta qurish) berilgan savollar;
+    // bank tugamaguncha hech bir savol takrorlanmaydi va bir raundda ikki jamoaga
+    // aynan bir xil misol hech qachon tushmaydi. Qiyinlik o'rtachaga og'ishgan (ko'pi d2).
+    const usedAll = new Set();
     function buildRounds(n) {
       const byD = { 1: [], 2: [], 3: [] };
       pool.forEach(q => (byD[q.d || 2] || byD[2]).push(q));
       const bag = [1, 2, 2, 2, 2, 3];
       const rounds = [];
-      const usedB = new Set(), usedR = new Set();
-      const take = (arr, used) => {
-        const cand = arr.filter(q => !used.has(q.q));
-        const q = (cand.length ? cand : arr)[Math.floor(Math.random() * (cand.length ? cand.length : arr.length))];
-        used.add(q.q);
+      const pick = (arr, banned) => {
+        // 1) shu qiyinlikdagi ishlatilmagan savol
+        let cand = arr.filter(q => !usedAll.has(q.q) && q.q !== banned);
+        // 2) tugagan bo'lsa — istalgan qiyinlikdagi ishlatilmagan savol (takrorni kechiktiramiz)
+        if (!cand.length) cand = pool.filter(q => !usedAll.has(q.q) && q.q !== banned);
+        // 3) butun bank tugadi — hisobni tozalab qaytadan, lekin shu raund juftini chetlaymiz
+        if (!cand.length) {
+          usedAll.clear();
+          cand = pool.filter(q => q.q !== banned);
+          if (!cand.length) cand = pool.slice();
+        }
+        const q = cand[Math.floor(Math.random() * cand.length)];
+        usedAll.add(q.q);
         return { ...q, order: shuffle([0, 1, 2, 3]) };
       };
       for (let k = 0; k < n; k++) {
         let t = bag[Math.floor(Math.random() * bag.length)];
         let arr = byD[t].length >= 2 ? byD[t] : (byD[2].length >= 2 ? byD[2] : pool);
-        rounds.push({ blue: take(arr, usedB), red: take(arr, usedR) });
+        const b = pick(arr, null);
+        const r = pick(arr, b.q);
+        rounds.push({ blue: b, red: r });
       }
       return rounds;
     }
