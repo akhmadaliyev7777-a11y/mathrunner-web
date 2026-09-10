@@ -84,10 +84,19 @@ export async function render(root, _params) {
     };
 
     // ----- DOM -----
-    const rig = el('div', { class: 'tug-rig' },
+    // Butun sahna bitta rasm (assets/tug-characters.png). Rasm topilmasa —
+    // SVG figuralarga qaytadi. Ballga qarab butun "rig" siljiydi, markazdagi
+    // qizil tugun semis chiziqqa nisbatan chapga/o'ngga o'tadi.
+    const svgFallback = () => [
       el('div', { class: 'tug-team tug-team--blue' }, el('span', { html: puller('#5C7FF5', 1) }), el('span', { html: puller('#8055EE', 1) })),
       el('div', { class: 'tug-rope' }, el('div', { class: 'tug-knot' })),
-      el('div', { class: 'tug-team tug-team--red' }, el('span', { html: puller('#FF5C5C', -1) }), el('span', { html: puller('#F8912F', -1) })));
+      el('div', { class: 'tug-team tug-team--red' }, el('span', { html: puller('#FF5C5C', -1) }), el('span', { html: puller('#F8912F', -1) })),
+    ];
+    const scene = el('img', {
+      class: 'tug-scene', src: 'assets/tug-characters.png', alt: 'Arqon tortayotgan jamoalar', draggable: 'false',
+      onerror: () => { scene.replaceWith(...svgFallback()); },
+    });
+    const rig = el('div', { class: 'tug-rig' }, scene);
     const arena = el('div', { class: 'tug-arena' }, el('div', { class: 'tug-centerline' }), rig);
     const timerEl = el('div', { class: 'tug-timer' }, el('span', { style: 'width:20px;height:20px', html: ICON.clock }), el('b', {}, fmt(state.left)));
     const scoreBlue = el('b', { class: 'tug-score' }, '0');

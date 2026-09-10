@@ -359,6 +359,7 @@ h1, h2, h3 { font-family: var(--f-head); font-weight: 800; margin: 0; }
 .tug-arena { position: relative; width: 100%; height: 320px; overflow: hidden; border-radius: var(--r-xl); background: #fff; border: 2px solid var(--line); box-shadow: var(--shadow-soft); }
 .tug-centerline { position: absolute; left: 50%; top: 24px; bottom: 24px; border-left: 2px dashed var(--line-strong); }
 .tug-rig { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); display: flex; align-items: center; gap: 0; transition: transform .45s cubic-bezier(.22,1,.36,1); }
+.tug-scene { height: 230px; width: auto; max-width: none; display: block; user-select: none; -webkit-user-drag: none; pointer-events: none; }
 .tug-team { display: flex; align-items: flex-end; }
 .tug-team--blue span:last-child { margin-right: -8px; }
 .tug-team--red span:first-child { margin-left: -8px; }
