@@ -37,7 +37,11 @@ export async function render(root, _params) {
     }, label);
     root.replaceChildren(nav(null),
       el('main', { class: 'wrap', style: 'max-width:640px' },
-        el('section', { class: 'section' },
+        el('div', { class: 'crumb', style: 'padding-top:18px' },
+          el('button', { onclick: () => { location.hash = '#/games'; } },
+            el('span', { style: 'width:15px;height:15px;vertical-align:-2px;display:inline-block', html: ICON.arrowLeft }),
+            ' Fikrlash o\'yinlari')),
+        el('section', { class: 'section', style: 'padding-top:16px' },
           el('h2', {}, 'Arqon tortish'),
           el('p', { class: 'section__lead' },
             'Ikki jamoa yonma-yon o\'ynaydi. Har jamoaga o\'z savoli va A–D variantlari. ' +
