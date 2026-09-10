@@ -402,6 +402,7 @@ h1, h2, h3 { font-family: var(--f-head); font-weight: 800; margin: 0; }
 .rstat span { font-weight: 700; font-size: 11px; opacity: .82; }
 .result__btns { display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; }
 .result__btns .btn { color: var(--ink); }
+.result__btns .btn--ink { color: var(--cream); }
 .result__next { margin-top: 20px; }
 .result__next a { color: var(--cream); text-decoration: underline; font-size: 14px; }
 .result__next a:hover { color: var(--yellow); }

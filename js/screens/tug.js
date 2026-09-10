@@ -33,17 +33,16 @@ export async function render(root, _params) {
 
   let names = { blue: 'Ko\'k jamoa', red: 'Qizil jamoa' };
   let durationSec = 180;
-  let catId = 'all'; // 'all' = aralash
+  let catId = 'all';   // 'all' = aralash
+  let goal = 15;       // birinchi shu ochkoga yetgan jamoa g'olib
 
   function config() {
-    const durBtn = (s, label) => el('button', {
-      class: 'chorak-tab' + (durationSec === s ? ' is-active' : ''),
-      onclick: () => { durationSec = s; config(); },
+    const chip = (active, on) => (label) => el('button', {
+      class: 'chorak-tab' + (active ? ' is-active' : ''), onclick: on,
     }, label);
-    const catBtn = (idv, label) => el('button', {
-      class: 'chorak-tab' + (catId === idv ? ' is-active' : ''),
-      onclick: () => { catId = idv; config(); },
-    }, label);
+    const durBtn = (s, label) => chip(durationSec === s, () => { durationSec = s; config(); })(label);
+    const catBtn = (idv, label) => chip(catId === idv, () => { catId = idv; config(); })(label);
+    const goalBtn = (g, label) => chip(goal === g, () => { goal = g; config(); })(label);
     root.replaceChildren(nav(null),
       el('main', { class: 'wrap', style: 'max-width:640px' },
         el('div', { class: 'crumb', style: 'padding-top:18px' },
@@ -55,7 +54,8 @@ export async function render(root, _params) {
           el('p', { class: 'section__lead' },
             'Ikki jamoa yonma-yon o\'ynaydi. Har jamoaga o\'z savoli va A–D variantlari. ' +
             'To\'g\'ri javob — arqonni o\'z tomoningga tortadi; xato — raqibga biroz yon beradi. ' +
-            'Vaqt tugaganda yoki arqon bir tomonga to\'liq o\'tganda g\'olib aniqlanadi.'),
+            'Birinchi bo\'lib maqsad ochkoga yetgan jamoa g\'olib; vaqt tugasa ochkosi ko\'p jamoa yutadi. ' +
+            'Ikkala jamoaga har raundda bir xil qiyinlikdagi misollar beriladi.'),
           el('div', { class: 'tug-cfg' },
             el('label', {}, 'Ko\'k jamoa nomi',
               el('input', { class: 'tug-input', value: names.blue, oninput: e => names.blue = e.target.value || 'Ko\'k jamoa' })),
@@ -65,7 +65,9 @@ export async function render(root, _params) {
           el('div', { class: 'chorak-tabs' },
             catBtn('all', `Aralash (${allQ.length})`),
             ...cats.map(c => catBtn(c.id, `${c.name} (${c.questions.length})`))),
-          el('div', { style: 'margin:18px 0 8px;font-weight:800;font-size:13px;color:var(--muted-soft)' }, 'DAVOMIYLIK'),
+          el('div', { style: 'margin:18px 0 8px;font-weight:800;font-size:13px;color:var(--muted-soft)' }, 'G\'OLIB BO\'LISH — MAQSAD OCHKO'),
+          el('div', { class: 'chorak-tabs' }, goalBtn(10, '10 ochko'), goalBtn(15, '15 ochko'), goalBtn(20, '20 ochko'), goalBtn(25, '25 ochko')),
+          el('div', { style: 'margin:18px 0 8px;font-weight:800;font-size:13px;color:var(--muted-soft)' }, 'VAQT CHEGARASI'),
           el('div', { class: 'chorak-tabs' }, durBtn(120, '2 daqiqa'), durBtn(180, '3 daqiqa'), durBtn(300, '5 daqiqa')),
           el('div', { style: 'margin-top:14px' },
             el('button', { class: 'btn btn--ink', onclick: play }, 'Boshlash',
@@ -78,16 +80,36 @@ export async function render(root, _params) {
 
   function play() {
     const pool = catId === 'all' ? allQ : (cats.find(c => c.id === catId)?.questions || allQ);
+    // ~30 raund: har raund ikkala jamoaga BIR XIL qiyinlikdagi ikki xil savol.
+    // Qiyinlik taqsimoti o'rtachaga og'ish: ko'proq d2.
+    function buildRounds(n) {
+      const byD = { 1: [], 2: [], 3: [] };
+      pool.forEach(q => (byD[q.d || 2] || byD[2]).push(q));
+      const bag = [1, 2, 2, 2, 2, 3];
+      const rounds = [];
+      const usedB = new Set(), usedR = new Set();
+      const take = (arr, used) => {
+        const cand = arr.filter(q => !used.has(q.q));
+        const q = (cand.length ? cand : arr)[Math.floor(Math.random() * (cand.length ? cand.length : arr.length))];
+        used.add(q.q);
+        return { ...q, order: shuffle([0, 1, 2, 3]) };
+      };
+      for (let k = 0; k < n; k++) {
+        let t = bag[Math.floor(Math.random() * bag.length)];
+        let arr = byD[t].length >= 2 ? byD[t] : (byD[2].length >= 2 ? byD[2] : pool);
+        rounds.push({ blue: take(arr, usedB), red: take(arr, usedR) });
+      }
+      return rounds;
+    }
+    let rounds = buildRounds(30);
     const state = {
-      blue: { correct: 0, wrong: 0, q: null, last: -1 },
-      red: { correct: 0, wrong: 0, q: null, last: -1 },
+      blue: { correct: 0, wrong: 0, q: null, i: 0 },
+      red: { correct: 0, wrong: 0, q: null, i: 0 },
       left: durationSec, over: false, locked: { blue: false, red: false },
     };
     const nextQ = (team) => {
-      let i;
-      do { i = Math.floor(Math.random() * pool.length); } while (pool.length > 1 && i === state[team].last);
-      state[team].last = i;
-      state[team].q = { ...pool[i], order: shuffle([0, 1, 2, 3]) };
+      if (state[team].i >= rounds.length) rounds = rounds.concat(buildRounds(15));
+      state[team].q = rounds[state[team].i++][team];
     };
     nextQ('blue'); nextQ('red');
 
@@ -148,6 +170,7 @@ export async function render(root, _params) {
       btn.classList.add(ok ? 'is-correct' : 'is-wrong');
       if (ok) state[team].correct++; else state[team].wrong++;
       paintRig();
+      if (state[team].correct >= goal) return finish(team);
       if (Math.abs(pos()) >= WIN) return finish();
       setTimeout(() => {
         state.locked[team] = false;
@@ -163,16 +186,29 @@ export async function render(root, _params) {
       if (state.left <= 0) finish();
     }, 1000);
 
-    function finish() {
+    function finish(reachedGoal) {
       if (state.over) return;
       state.over = true;
       clearInterval(tick);
       document.removeEventListener('keydown', onKey);
       const p = pos();
-      const winner = p < -0.001 ? 'blue' : p > 0.001 ? 'red' : null;
+      // g'olib: 1) maqsad ochkoga birinchi yetgan; 2) ochkosi ko'p; 3) arqon holati
+      let winner = reachedGoal || null;
+      if (!winner) {
+        if (state.blue.correct !== state.red.correct) {
+          winner = state.blue.correct > state.red.correct ? 'blue' : 'red';
+        } else {
+          winner = p < -0.001 ? 'blue' : p > 0.001 ? 'red' : null;
+        }
+      }
+      const headline = winner
+        ? `${names[winner]} — g'olib! 🎉`
+        : 'Durrang!';
       root.append(el('div', { class: 'tug-end' },
         el('div', { class: 'tug-end__card' },
-          el('h1', {}, winner ? `${names[winner]} — g'olib! 🎉` : 'Durrang!'),
+          el('h1', {}, headline),
+          el('p', { style: 'font-weight:700;color:var(--muted-soft);margin:-4px 0 4px' },
+            reachedGoal ? `${goal} ochkoga birinchi yetdi` : `Maqsad: ${goal} ochko · vaqt tugadi`),
           el('div', { class: 'tug-end__scores' },
             el('div', { class: 'tug-end__s tug-end__s--blue' }, names.blue, el('b', {}, state.blue.correct)),
             el('div', { class: 'tug-end__s tug-end__s--red' }, names.red, el('b', {}, state.red.correct))),
