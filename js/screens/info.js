@@ -58,6 +58,14 @@ function renderGames(root) {
         el('p', { class: 'section__lead' },
           'Yugurish va zarba o\'yinlari bu yerda yo\'q — faqat brauzerda silliq ishlaydigan jumboqlar. ' +
           'Har bir o\'yin tasodifiy bosqichdan boshlanadi; aniq mavzuni "Mavzular" bo\'limidan tanlang.'),
+        el('a', { class: 'hero__card', href: '#/tug', style: 'display:block;width:auto;text-decoration:none;color:inherit;margin-bottom:26px;background:linear-gradient(160deg,#5C7FF5,#8055EE 50%,#FF5C5C)' },
+          el('div', { class: 'qcard', style: 'display:flex;align-items:center;gap:18px;justify-content:space-between' },
+            el('div', {},
+              el('div', { style: 'font-family:var(--f-head);font-weight:800;font-size:20px' }, 'Arqon tortish — 2 jamoa'),
+              el('div', { style: 'font-weight:700;color:var(--muted);font-size:14px;margin-top:4px' },
+                'Sinf ikkiga bo\'linadi. To\'g\'ri javob — arqonni o\'z tomoningga tortadi. Vaqtli.')),
+            el('span', { class: 'btn btn--sm btn--ink' }, 'O\'ynash',
+              el('span', { style: 'width:15px;height:15px', html: ICON.arrowRight })))),
         el('div', { class: 'kingdoms', style: 'grid-template-columns:repeat(4,minmax(0,1fr))' },
           ...GAME_META.map(card)))),
     footer());

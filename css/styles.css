@@ -326,6 +326,67 @@ h1, h2, h3 { font-family: var(--f-head); font-weight: 800; margin: 0; }
 .conv__btns button.pick-no.on { background: var(--red); color: #4a0000; border-color: transparent; }
 
 /* ===================================================================
+   ARQON TORTISH (tug of war)
+   =================================================================== */
+.tug-cfg { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 10px; }
+.tug-cfg label { display: flex; flex-direction: column; gap: 6px; font-weight: 800; font-size: 12px; color: var(--muted-soft); }
+.tug-input { padding: 12px 14px; border-radius: var(--r-md); border: 2px solid var(--line); font-family: var(--f-body); font-weight: 700; font-size: 15px; color: var(--ink); background: #fff; }
+.tug-input:focus { outline: 3px solid var(--violet); outline-offset: 1px; }
+
+.tug-topbar { position: sticky; top: 0; z-index: 20; display: flex; align-items: center; justify-content: space-between; gap: 20px; padding: 14px 32px; background: var(--cream); border-bottom: 2px solid var(--line); }
+.tug-teamlabel { display: flex; align-items: center; gap: 12px; font-family: var(--f-head); font-weight: 800; font-size: 18px; }
+.tug-teamlabel--blue { color: var(--peri); }
+.tug-teamlabel--red { color: var(--red); }
+.tug-teamlabel .tug-score { font-size: 30px; }
+
+.tug-main { display: grid; grid-template-columns: 1fr 1.5fr 1fr; gap: 20px; max-width: 1180px; margin: 0 auto; padding: 22px 32px 60px; align-items: start; }
+.tug-panel { border-radius: var(--r-xl); background: #fff; border: 3px solid; box-shadow: var(--shadow-card); padding: 22px; min-height: 460px; display: flex; flex-direction: column; }
+.tug-panel--blue { border-color: color-mix(in srgb, var(--peri) 55%, #fff); }
+.tug-panel--red { border-color: color-mix(in srgb, var(--red) 55%, #fff); }
+.tug-q { font-family: var(--f-head); font-weight: 800; font-size: 30px; line-height: 1.15; flex: 1; }
+.tug-panel--blue .tug-q { color: var(--peri); }
+.tug-panel--red .tug-q { color: var(--red); }
+.tug-opts { display: flex; flex-direction: column; gap: 10px; margin-top: 16px; }
+.tug-opt { display: flex; align-items: center; gap: 12px; padding: 13px 16px; border-radius: var(--r-md); border: 2px solid var(--line); background: var(--cream); font-family: var(--f-head); font-weight: 800; font-size: 19px; color: var(--ink); cursor: pointer; text-align: left; transition: transform .07s ease, box-shadow .07s ease; box-shadow: 0 4px 0 rgba(22,18,64,.10); }
+.tug-opt i { width: 30px; height: 30px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; border-radius: 8px; background: rgba(22,18,64,.06); font-style: normal; font-size: 14px; }
+.tug-opt:hover:not(.is-correct):not(.is-wrong) { transform: translateY(-1px); }
+.tug-opt:active:not(.is-correct):not(.is-wrong) { transform: translateY(4px); box-shadow: 0 0 0 rgba(22,18,64,.10); }
+.tug-opt.is-correct { background: var(--green); color: #06351c; border-color: transparent; box-shadow: 0 4px 0 #2f9d57; }
+.tug-opt.is-wrong { background: var(--red); color: #4a0000; border-color: transparent; box-shadow: 0 4px 0 #c43b3b; }
+
+.tug-center { display: flex; flex-direction: column; align-items: center; gap: 18px; padding-top: 6px; }
+.tug-timer { display: inline-flex; align-items: center; gap: 10px; padding: 10px 22px; border-radius: var(--r-lg); background: #FFF7DF; border: 2px solid var(--yellow); font-family: var(--f-head); font-weight: 800; font-size: 26px; box-shadow: 0 5px 0 #e6c74e; }
+.tug-arena { position: relative; width: 100%; height: 320px; overflow: hidden; border-radius: var(--r-xl); background: #fff; border: 2px solid var(--line); box-shadow: var(--shadow-soft); }
+.tug-centerline { position: absolute; left: 50%; top: 24px; bottom: 24px; border-left: 2px dashed var(--line-strong); }
+.tug-rig { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); display: flex; align-items: center; gap: 0; transition: transform .45s cubic-bezier(.22,1,.36,1); }
+.tug-team { display: flex; align-items: flex-end; }
+.tug-team--blue span:last-child { margin-right: -8px; }
+.tug-team--red span:first-child { margin-left: -8px; }
+.tug-rope { position: relative; width: 150px; height: 8px; background: repeating-linear-gradient(90deg, #C9A26B 0 14px, #b98d54 14px 20px); border-radius: 6px; }
+.tug-knot { position: absolute; left: 50%; top: 50%; width: 16px; height: 34px; transform: translate(-50%, -50%); background: var(--red); border-radius: 4px; }
+
+.tug-end { position: fixed; inset: 0; background: rgba(22,18,64,.55); display: flex; align-items: center; justify-content: center; z-index: 60; }
+.tug-end__card { background: var(--cream); border-radius: var(--r-xl); padding: 36px 40px; text-align: center; box-shadow: 0 14px 0 rgba(22,18,64,.25); max-width: 460px; }
+.tug-end__card h1 { font-size: 30px; }
+.tug-end__scores { display: flex; gap: 16px; justify-content: center; margin: 20px 0 24px; }
+.tug-end__s { flex: 1; border-radius: var(--r-md); padding: 14px; font-weight: 800; font-size: 14px; }
+.tug-end__s b { display: block; font-family: var(--f-head); font-size: 30px; margin-top: 4px; }
+.tug-end__s--blue { background: color-mix(in srgb, var(--peri) 16%, #fff); color: var(--peri); }
+.tug-end__s--red { background: color-mix(in srgb, var(--red) 16%, #fff); color: var(--red); }
+
+@media (max-width: 960px) {
+  .tug-main { grid-template-columns: 1fr; }
+  .tug-center { order: -1; }
+  .tug-panel { min-height: 0; }
+  .tug-arena { height: 240px; }
+  .tug-cfg { grid-template-columns: 1fr; }
+  .tug-topbar { padding: 12px 16px; gap: 10px; }
+  .tug-teamlabel { font-size: 14px; }
+  .tug-teamlabel .tug-score { font-size: 22px; }
+  .tug-topbar .brand__name { display: none; }
+}
+
+/* ===================================================================
    RESULT
    =================================================================== */
 .result { min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 60px 20px; background: var(--k-head); }
