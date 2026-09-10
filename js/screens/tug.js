@@ -23,17 +23,26 @@ function puller(color, facing) {
 
 export async function render(root, _params) {
   applyKingdom(null);
-  let bank;
-  try { const j = await loadJSON('data/tug_questions.json'); bank = j.questions || j; }
-  catch (e) { root.innerHTML = '<div class="boot">Savol bankini yuklab bo\'lmadi.</div>'; return; }
+  let cats;
+  try {
+    const j = await loadJSON('data/tug_questions.json');
+    cats = j.categories || [{ id: 'all', name: 'Barcha savollar', questions: j.questions || j }];
+  } catch (e) { root.innerHTML = '<div class="boot">Savol bankini yuklab bo\'lmadi.</div>'; return; }
+  cats = cats.filter(c => c.questions && c.questions.length);
+  const allQ = cats.flatMap(c => c.questions);
 
   let names = { blue: 'Ko\'k jamoa', red: 'Qizil jamoa' };
   let durationSec = 180;
+  let catId = 'all'; // 'all' = aralash
 
   function config() {
     const durBtn = (s, label) => el('button', {
       class: 'chorak-tab' + (durationSec === s ? ' is-active' : ''),
       onclick: () => { durationSec = s; config(); },
+    }, label);
+    const catBtn = (idv, label) => el('button', {
+      class: 'chorak-tab' + (catId === idv ? ' is-active' : ''),
+      onclick: () => { catId = idv; config(); },
     }, label);
     root.replaceChildren(nav(null),
       el('main', { class: 'wrap', style: 'max-width:640px' },
@@ -52,6 +61,10 @@ export async function render(root, _params) {
               el('input', { class: 'tug-input', value: names.blue, oninput: e => names.blue = e.target.value || 'Ko\'k jamoa' })),
             el('label', {}, 'Qizil jamoa nomi',
               el('input', { class: 'tug-input', value: names.red, oninput: e => names.red = e.target.value || 'Qizil jamoa' }))),
+          el('div', { style: 'margin:18px 0 8px;font-weight:800;font-size:13px;color:var(--muted-soft)' }, 'MAVZU'),
+          el('div', { class: 'chorak-tabs' },
+            catBtn('all', `Aralash (${allQ.length})`),
+            ...cats.map(c => catBtn(c.id, `${c.name} (${c.questions.length})`))),
           el('div', { style: 'margin:18px 0 8px;font-weight:800;font-size:13px;color:var(--muted-soft)' }, 'DAVOMIYLIK'),
           el('div', { class: 'chorak-tabs' }, durBtn(120, '2 daqiqa'), durBtn(180, '3 daqiqa'), durBtn(300, '5 daqiqa')),
           el('div', { style: 'margin-top:14px' },
@@ -64,6 +77,7 @@ export async function render(root, _params) {
   }
 
   function play() {
+    const pool = catId === 'all' ? allQ : (cats.find(c => c.id === catId)?.questions || allQ);
     const state = {
       blue: { correct: 0, wrong: 0, q: null, last: -1 },
       red: { correct: 0, wrong: 0, q: null, last: -1 },
@@ -71,9 +85,9 @@ export async function render(root, _params) {
     };
     const nextQ = (team) => {
       let i;
-      do { i = Math.floor(Math.random() * bank.length); } while (bank.length > 1 && i === state[team].last);
+      do { i = Math.floor(Math.random() * pool.length); } while (pool.length > 1 && i === state[team].last);
       state[team].last = i;
-      state[team].q = { ...bank[i], order: shuffle([0, 1, 2, 3]) };
+      state[team].q = { ...pool[i], order: shuffle([0, 1, 2, 3]) };
     };
     nextQ('blue'); nextQ('red');
 
