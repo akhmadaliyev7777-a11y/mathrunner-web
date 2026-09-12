@@ -1,5 +1,5 @@
 import { el } from '../util.js';
-import { ICON, KINGDOM_ICON } from '../icons.js';
+import { ICON } from '../icons.js';
 import { nav, footer, curriculum, applyKingdom } from '../app.js';
 
 export function render(root, _params) {
@@ -18,11 +18,17 @@ export function render(root, _params) {
         el('div', { class: 'answer' }, '11'),
         el('div', { class: 'answer' }, '13'))));
 
+  const GRADE_BANNER = {
+    1: 'assets/grade-1-banner.jpg', 2: 'assets/grade-2-banner.jpg',
+    3: 'assets/grade-3-banner.jpg', 4: 'assets/grade-4-banner.jpg',
+  };
   const kcard = (g) => el('button', {
     class: 'kcard', onclick: () => { location.hash = `#/g/${g.grade}/c/1`; },
   },
-    el('div', { class: 'kcard__head', style: `background:${g.color.head}` },
-      el('span', { style: 'color:#FFF6E6;width:40px;height:40px', html: KINGDOM_ICON[g.kingdom] })),
+    el('div', {
+      class: 'kcard__head',
+      style: `background-color:${g.color.head};background-image:url(${GRADE_BANNER[g.grade]})`,
+    }),
     el('div', { class: 'kcard__body' },
       el('div', { class: 'kcard__title' }, `${g.grade}-sinf`),
       el('div', { class: 'kcard__meta' }, `${g.kingdomTitle} · ${g.levelCount} dars · ${g.choraks.length} chorak`),
