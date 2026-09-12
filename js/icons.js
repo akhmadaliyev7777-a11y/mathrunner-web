@@ -25,6 +25,8 @@ export const ICON = {
   map: s('<rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 10h18M9 4v16"/>'),
   clock: s('<circle cx="12" cy="13" r="8"/><path d="M12 13V9M12 5V3M9 3h6"/>'),
   flame: s('<path d="M12 2c1.5 3 4 4.5 4 8a4 4 0 0 1-8 0c0-1.2.4-2 1-3-.2 2 1 3 1 3s-.5-4 2-8Z"/><path d="M8 14c0 3 1.8 6 4 6s4-3 4-6"/>'),
+  search: s('<circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/>'),
+  chevronDown: s('<path d="M6 9l6 6 6-6"/>'),
 };
 
 export const KINGDOM_ICON = { forest: ICON.leaf, city: ICON.store, space: ICON.mountain, castle: ICON.sparkle };

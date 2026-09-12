@@ -35,14 +35,81 @@ export async function render(root, _params) {
   let durationSec = 180;
   let catId = 'all';   // 'all' = aralash
   let goal = 15;       // birinchi shu ochkoga yetgan jamoa g'olib
+  let grade = 'all';   // 'all' yoki sinf raqami — mavzular ro'yxatini filtrlaydi
+  let gradeOpen = false;
+  let topicOpen = false;
+  let topicSearch = '';
+  const grades = [...new Set(cats.map(c => c.grade))].filter(g => g != null).sort((a, b) => a - b);
 
   function config() {
-    const chip = (active, on) => (label) => el('button', {
-      class: 'chorak-tab' + (active ? ' is-active' : ''), onclick: on,
+    const catsInGrade = grade === 'all' ? cats : cats.filter(c => c.grade === grade);
+    const mixedCount = (grade === 'all' ? allQ : catsInGrade.flatMap(c => c.questions)).length;
+    const topicLabel = catId === 'all' ? `Aralash (${mixedCount})` : (cats.find(c => c.id === catId)?.name || 'Aralash');
+    const gradeLabel = grade === 'all' ? 'Barcha sinflar' : `${grade}-sinf`;
+
+    const durBtn = (s, label) => el('button', {
+      class: 'chorak-tab chorak-tab--sm' + (durationSec === s ? ' is-active' : ''),
+      onclick: () => { durationSec = s; config(); },
     }, label);
-    const durBtn = (s, label) => chip(durationSec === s, () => { durationSec = s; config(); })(label);
-    const catBtn = (idv, label) => chip(catId === idv, () => { catId = idv; config(); })(label);
-    const goalBtn = (g, label) => chip(goal === g, () => { goal = g; config(); })(label);
+    const goalBtn = (g, label) => el('button', {
+      class: 'chorak-tab chorak-tab--sm' + (goal === g ? ' is-active' : ''),
+      onclick: () => { goal = g; config(); },
+    }, label);
+
+    // ----- SINF selektori -----
+    const gradePop = !gradeOpen ? null : el('div', { class: 'tug-pop' },
+      el('button', {
+        class: 'tug-pop__item' + (grade === 'all' ? ' is-active' : ''),
+        onclick: () => { grade = 'all'; gradeOpen = false; config(); },
+      }, el('span', {}, 'Barcha sinflar')),
+      ...grades.map(g => el('button', {
+        class: 'tug-pop__item' + (grade === g ? ' is-active' : ''),
+        onclick: () => {
+          grade = g; gradeOpen = false;
+          const cur = cats.find(c => c.id === catId);
+          if (catId !== 'all' && cur && cur.grade !== g) catId = 'all';
+          config();
+        },
+      }, el('span', {}, `${g}-sinf`))));
+    const gradeSelect = el('div', { class: 'tug-select' + (gradeOpen ? ' is-open' : '') },
+      el('div', { class: 'tug-select__label' }, 'SINF'),
+      el('button', {
+        class: 'tug-select__btn', type: 'button',
+        onclick: () => { gradeOpen = !gradeOpen; topicOpen = false; config(); },
+      }, el('span', {}, gradeLabel), el('span', { class: 'tug-select__ico', html: ICON.chevronDown })),
+      gradePop);
+
+    // ----- MAVZU selektori (qidiruv bilan) -----
+    let searchVal = topicSearch;
+    const listBox = el('div', { class: 'tug-pop__list' });
+    function renderTopicList() {
+      const q = searchVal.trim().toLowerCase();
+      const items = [
+        { id: 'all', name: 'Aralash', count: (grade === 'all' ? allQ : catsInGrade.flatMap(c => c.questions)).length },
+        ...catsInGrade.map(c => ({ id: c.id, name: c.name, count: c.questions.length })),
+      ].filter(it => !q || it.name.toLowerCase().includes(q));
+      listBox.replaceChildren(...(items.length ? items.map(it => el('button', {
+        class: 'tug-pop__item' + (catId === it.id ? ' is-active' : ''),
+        onclick: () => { catId = it.id; topicOpen = false; config(); },
+      }, el('span', {}, it.name), el('i', {}, String(it.count)))) : [el('div', { class: 'tug-pop__empty' }, 'Mavzu topilmadi')]));
+    }
+    renderTopicList();
+    const topicPop = !topicOpen ? null : el('div', { class: 'tug-pop' },
+      el('div', { class: 'tug-pop__search' },
+        el('span', { class: 'tug-pop__search-ico', html: ICON.search }),
+        el('input', {
+          class: 'tug-pop__input', placeholder: 'Mavzu qidirish...', value: searchVal,
+          oninput: (e) => { searchVal = e.target.value; topicSearch = searchVal; renderTopicList(); },
+        })),
+      listBox);
+    const topicSelect = el('div', { class: 'tug-select tug-select--wide' + (topicOpen ? ' is-open' : '') },
+      el('div', { class: 'tug-select__label' }, 'MAVZU'),
+      el('button', {
+        class: 'tug-select__btn', type: 'button',
+        onclick: () => { topicOpen = !topicOpen; gradeOpen = false; config(); },
+      }, el('span', {}, topicLabel), el('span', { class: 'tug-select__ico', html: ICON.search })),
+      topicPop);
+
     root.replaceChildren(nav(null),
       el('main', { class: 'wrap', style: 'max-width:640px' },
         el('div', { class: 'crumb', style: 'padding-top:18px' },
@@ -61,25 +128,37 @@ export async function render(root, _params) {
               el('input', { class: 'tug-input', value: names.blue, oninput: e => names.blue = e.target.value || 'Ko\'k jamoa' })),
             el('label', {}, 'Qizil jamoa nomi',
               el('input', { class: 'tug-input', value: names.red, oninput: e => names.red = e.target.value || 'Qizil jamoa' }))),
-          el('div', { style: 'margin:18px 0 8px;font-weight:800;font-size:13px;color:var(--muted-soft)' }, 'MAVZU'),
-          el('div', { class: 'chorak-tabs' },
-            catBtn('all', `Aralash (${allQ.length})`),
-            ...cats.map(c => catBtn(c.id, `${c.name} (${c.questions.length})`))),
-          el('div', { style: 'margin:18px 0 8px;font-weight:800;font-size:13px;color:var(--muted-soft)' }, 'G\'OLIB BO\'LISH — MAQSAD OCHKO'),
-          el('div', { class: 'chorak-tabs' }, goalBtn(10, '10 ochko'), goalBtn(15, '15 ochko'), goalBtn(20, '20 ochko'), goalBtn(25, '25 ochko')),
-          el('div', { style: 'margin:18px 0 8px;font-weight:800;font-size:13px;color:var(--muted-soft)' }, 'VAQT CHEGARASI'),
-          el('div', { class: 'chorak-tabs' }, durBtn(120, '2 daqiqa'), durBtn(180, '3 daqiqa'), durBtn(300, '5 daqiqa')),
-          el('div', { style: 'margin-top:14px' },
-            el('button', { class: 'btn btn--ink', onclick: play }, 'Boshlash',
-              el('span', { style: 'width:20px;height:20px', html: ICON.arrowRight }))),
+          el('div', { class: 'tug-selrow' }, gradeSelect, topicSelect),
+          el('div', { class: 'tug-optrow' },
+            el('div', { class: 'tug-optcol' },
+              el('div', { class: 'tug-optcol__label' }, 'G\'OLIB — MAQSAD OCHKO'),
+              el('div', { class: 'chorak-tabs' }, goalBtn(10, '10'), goalBtn(15, '15'), goalBtn(20, '20'), goalBtn(25, '25'))),
+            el('div', { class: 'tug-optcol' },
+              el('div', { class: 'tug-optcol__label' }, 'VAQT CHEGARASI'),
+              el('div', { class: 'chorak-tabs' }, durBtn(120, '2 daq'), durBtn(180, '3 daq'), durBtn(300, '5 daq')))),
+          el('div', { class: 'tug-startrow' },
+            el('button', { class: 'btn btn--tug-start', onclick: play }, 'Boshlash',
+              el('span', { style: 'width:22px;height:22px', html: ICON.arrowRight }))),
           el('p', { style: 'font-weight:600;font-size:13px;color:var(--muted-soft);margin-top:22px' },
             'Klaviatura: ko\'k jamoa — 1 2 3 4 · qizil jamoa — 7 8 9 0. Sensorli ekranda variantni bosing. ' +
             'Savollarni tahrirlash: data/tug_questions.json.'))),
       footer());
+
+    if (topicOpen) {
+      const inp = root.querySelector('.tug-pop__input');
+      if (inp) { inp.focus(); const v = inp.value; inp.setSelectionRange(v.length, v.length); }
+    }
   }
 
+  document.addEventListener('click', (e) => {
+    if (e.target.closest('.tug-select')) return;
+    if (gradeOpen || topicOpen) { gradeOpen = false; topicOpen = false; config(); }
+  });
+
   function play() {
-    const pool = catId === 'all' ? allQ : (cats.find(c => c.id === catId)?.questions || allQ);
+    const gradedCats = grade === 'all' ? cats : cats.filter(c => c.grade === grade);
+    const gradedPool = grade === 'all' ? allQ : gradedCats.flatMap(c => c.questions);
+    const pool = catId === 'all' ? gradedPool : (cats.find(c => c.id === catId)?.questions || gradedPool);
     // ~30 raund: har raund ikkala jamoaga BIR XIL qiyinlikdagi, lekin HAR XIL savol.
     // usedAll — butun o'yin davomida (ikkala jamoa + qayta qurish) berilgan savollar;
     // bank tugamaguncha hech bir savol takrorlanmaydi va bir raundda ikki jamoaga
@@ -118,7 +197,7 @@ export async function render(root, _params) {
     const state = {
       blue: { correct: 0, wrong: 0, q: null, i: 0 },
       red: { correct: 0, wrong: 0, q: null, i: 0 },
-      left: durationSec, over: false, locked: { blue: false, red: false },
+      left: durationSec, over: false, starting: true, locked: { blue: false, red: false },
     };
     const nextQ = (team) => {
       if (state[team].i >= rounds.length) rounds = rounds.concat(buildRounds(15));
@@ -177,7 +256,7 @@ export async function render(root, _params) {
     }
 
     function answer(team, optIdx, btn, box, side) {
-      if (state.over || state.locked[team]) return;
+      if (state.over || state.starting || state.locked[team]) return;
       state.locked[team] = true;
       const ok = optIdx === state[team].q.correct;
       btn.classList.add(ok ? 'is-correct' : 'is-wrong');
@@ -192,17 +271,20 @@ export async function render(root, _params) {
       }, ok ? 320 : 600);
     }
 
-    const tick = setInterval(() => {
-      if (state.over) return;
-      state.left--;
-      timerEl.querySelector('b').textContent = fmt(state.left);
-      if (state.left <= 0) finish();
-    }, 1000);
+    let tick = null;
+    function startTimer() {
+      tick = setInterval(() => {
+        if (state.over) return;
+        state.left--;
+        timerEl.querySelector('b').textContent = fmt(state.left);
+        if (state.left <= 0) finish();
+      }, 1000);
+    }
 
     function finish(reachedGoal) {
       if (state.over) return;
       state.over = true;
-      clearInterval(tick);
+      if (tick) clearInterval(tick);
       document.removeEventListener('keydown', onKey);
       const p = pos();
       // g'olib: 1) maqsad ochkoga birinchi yetgan; 2) ochkosi ko'p; 3) arqon holati
@@ -241,16 +323,35 @@ export async function render(root, _params) {
     }
     document.addEventListener('keydown', onKey);
 
+    const mainEl = el('main', { class: 'tug-main is-starting' },
+      bluePanel,
+      el('div', { class: 'tug-center' }, timerEl, arena),
+      redPanel);
     root.replaceChildren(
       el('div', { class: 'tug-topbar' },
         el('div', { class: 'tug-teamlabel tug-teamlabel--blue' }, el('span', {}, names.blue), scoreBlue),
         el('div', { class: 'brand__name', style: 'color:var(--violet)' }, 'MathRunner'),
         el('div', { class: 'tug-teamlabel tug-teamlabel--red' }, scoreRed, el('span', {}, names.red))),
-      el('main', { class: 'tug-main' },
-        bluePanel,
-        el('div', { class: 'tug-center' }, timerEl, arena),
-        redPanel));
+      mainEl);
     paintRig();
+
+    // O'yin boshlanishidan avval 3 soniyalik sanoq — shu vaqtda javob berib bo'lmaydi.
+    let n = 3;
+    const numEl = el('div', { class: 'tug-countdown__num' }, String(n));
+    const cd = el('div', { class: 'tug-countdown' }, numEl);
+    root.appendChild(cd);
+    const cdTick = setInterval(() => {
+      n--;
+      if (n > 0) {
+        numEl.textContent = String(n);
+      } else {
+        clearInterval(cdTick);
+        cd.remove();
+        mainEl.classList.remove('is-starting');
+        state.starting = false;
+        startTimer();
+      }
+    }, 1000);
   }
 
   const fmt = (s) => `${Math.max(0, Math.floor(s / 60))}:${String(Math.max(0, s % 60)).padStart(2, '0')}`;

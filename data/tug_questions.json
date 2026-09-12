@@ -5,6 +5,7 @@
   {
    "id": "karra",
    "name": "Karra jadvali (×)",
+   "grade": 3,
    "questions": [
     {
      "q": "4 × 7 = ?",
@@ -495,6 +496,7 @@
   {
    "id": "bolish",
    "name": "Karra jadvali asosida bo'lish",
+   "grade": 3,
    "questions": [
     {
      "q": "60 : 5 = ?",
@@ -985,6 +987,7 @@
   {
    "id": "qoshish",
    "name": "100 ichida qo'shish / ayirish",
+   "grade": 2,
    "questions": [
     {
      "q": "69 + 32 = ?",
@@ -1475,6 +1478,7 @@
   {
    "id": "kasr_teng",
    "name": "Bir xil maxrajli kasrlar: + va −",
+   "grade": 4,
    "questions": [
     {
      "q": "3/12 − 1/12 = ?",
@@ -1965,6 +1969,7 @@
   {
    "id": "kasr_aralash",
    "name": "Aralash sonlar: + va −",
+   "grade": 4,
    "questions": [
     {
      "q": "4 6/10 + 3 1/10 = ?",
@@ -2455,6 +2460,7 @@
   {
    "id": "kasr_kopaytirish",
    "name": "Kasrni songa ko'paytirish",
+   "grade": 4,
    "questions": [
     {
      "q": "7/9 × 3 = ?",

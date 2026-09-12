@@ -194,12 +194,12 @@ def cat_kasr_kop():
     return dedup_cap(rows)
 
 CATS = [
-    ("karra", "Karra jadvali (×)", cat_karra),
-    ("bolish", "Karra jadvali asosida bo'lish", cat_bolish),
-    ("qoshish", "100 ichida qo'shish / ayirish", cat_qoshish),
-    ("kasr_teng", "Bir xil maxrajli kasrlar: + va −", cat_kasr_teng),
-    ("kasr_aralash", "Aralash sonlar: + va −", cat_kasr_aralash),
-    ("kasr_kopaytirish", "Kasrni songa ko'paytirish", cat_kasr_kop),
+    ("karra", "Karra jadvali (×)", 3, cat_karra),
+    ("bolish", "Karra jadvali asosida bo'lish", 3, cat_bolish),
+    ("qoshish", "100 ichida qo'shish / ayirish", 2, cat_qoshish),
+    ("kasr_teng", "Bir xil maxrajli kasrlar: + va −", 4, cat_kasr_teng),
+    ("kasr_aralash", "Aralash sonlar: + va −", 4, cat_kasr_aralash),
+    ("kasr_kopaytirish", "Kasrni songa ko'paytirish", 4, cat_kasr_kop),
 ]
 
 def valid(rows):
@@ -217,8 +217,8 @@ data = {
              "Har o'yinda ~30 juft savol tanlanadi, ikki jamoaga bir xil qiyinlikda. "
              "Qo'lda tahrirlash mumkin."),
     "categories": [
-        {"id": cid, "name": name, "questions": valid(fn())}
-        for cid, name, fn in CATS
+        {"id": cid, "name": name, "grade": grade, "questions": valid(fn())}
+        for cid, name, grade, fn in CATS
     ],
 }
 
