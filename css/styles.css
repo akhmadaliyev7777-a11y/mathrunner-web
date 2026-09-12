@@ -133,9 +133,9 @@ h1, h2, h3 { font-family: var(--f-head); font-weight: 800; margin: 0; }
 .section__lead { font-weight: 600; color: var(--muted); margin: 0 0 26px; }
 
 .kingdoms { display: grid; grid-template-columns: repeat(4, minmax(0,1fr)); gap: 22px; }
-.kcard { border-radius: var(--r-xl); overflow: hidden; background: #fff; border: 2px solid var(--line); box-shadow: var(--shadow-card); text-align: left; cursor: pointer; padding: 0; font: inherit; color: inherit; transition: transform .1s ease; }
+.kcard { border-radius: 40px; overflow: hidden; background: #fff; border: 2px solid var(--line); box-shadow: var(--shadow-card); text-align: left; cursor: pointer; padding: 0; font: inherit; color: inherit; transition: transform .1s ease; }
 .kcard:hover { transform: translateY(-3px); }
-.kcard__head { height: 120px; background-size: cover; background-position: center; }
+.kcard__head { height: 120px; background-size: auto 100%; background-repeat: no-repeat; background-position: -14px top; }
 .kcard__body { padding: 18px; }
 .kcard__title { font-family: var(--f-head); font-weight: 800; font-size: 21px; }
 .kcard__meta { font-weight: 700; font-size: 12px; color: var(--muted); margin: 4px 0 12px; }

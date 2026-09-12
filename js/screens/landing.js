@@ -27,7 +27,7 @@ export function render(root, _params) {
   },
     el('div', {
       class: 'kcard__head',
-      style: `background-color:${g.color.head};background-image:url(${GRADE_BANNER[g.grade]})`,
+      style: `background-image:url(${GRADE_BANNER[g.grade]}),${g.color.head}`,
     }),
     el('div', { class: 'kcard__body' },
       el('div', { class: 'kcard__title' }, `${g.grade}-sinf`),
