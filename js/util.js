@@ -56,3 +56,15 @@ export function starsFor(correct, total) {
   if (correct > 0) return 1;
   return 0;
 }
+
+// localStorage — Arqon tortish uchun Excel'dan yuklangan savollar to'plami (bitta slot)
+const CUSTOM_TUG_KEY = 'mrw.tugCustom.v1';
+export function readCustomTug() {
+  try { return JSON.parse(localStorage.getItem(CUSTOM_TUG_KEY) || 'null'); } catch { return null; }
+}
+export function saveCustomTug(data) {
+  try { localStorage.setItem(CUSTOM_TUG_KEY, JSON.stringify(data)); } catch { /* private mode */ }
+}
+export function clearCustomTug() {
+  try { localStorage.removeItem(CUSTOM_TUG_KEY); } catch { /* ignore */ }
+}

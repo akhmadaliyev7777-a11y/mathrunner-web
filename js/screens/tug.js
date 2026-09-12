@@ -1,6 +1,7 @@
-import { el, shuffle, loadJSON } from '../util.js';
+import { el, shuffle, loadJSON, readCustomTug, saveCustomTug, clearCustomTug } from '../util.js';
 import { ICON } from '../icons.js';
 import { nav, footer, applyKingdom } from '../app.js';
+import { loadXLSXLib, parseQuestionsWorkbook } from '../xlsxImport.js';
 
 const WIN = 12;        // shu farqda o'yin tugaydi (bir tomon arqonni tortib oladi)
 const STEP_PX = 13;    // farqning har bir birligi uchun arqon siljishi
@@ -41,10 +42,17 @@ export async function render(root, _params) {
   let topicSearch = '';
   const grades = [...new Set(cats.map(c => c.grade))].filter(g => g != null).sort((a, b) => a - b);
 
+  let customSet = readCustomTug();   // null yoki {name, type, optionCount, questions, savedAt}
+  let uploadForm = { topicName: '', type: 'regular', optCount: 4, expectedCount: '', file: null };
+  let uploadStatus = null;           // {kind:'success'|'warning'|'error', message, rowErrors}
+  let uploadBusy = false;
+
   function config() {
     const catsInGrade = grade === 'all' ? cats : cats.filter(c => c.grade === grade);
     const mixedCount = (grade === 'all' ? allQ : catsInGrade.flatMap(c => c.questions)).length;
-    const topicLabel = catId === 'all' ? `Aralash (${mixedCount})` : (cats.find(c => c.id === catId)?.name || 'Aralash');
+    const topicLabel = catId === 'custom' && customSet ? customSet.name
+      : catId === 'all' ? `Aralash (${mixedCount})`
+      : (cats.find(c => c.id === catId)?.name || 'Aralash');
     const gradeLabel = grade === 'all' ? 'Barcha sinflar' : `${grade}-sinf`;
 
     const durBtn = (s, label) => el('button', {
@@ -67,7 +75,7 @@ export async function render(root, _params) {
         onclick: () => {
           grade = g; gradeOpen = false;
           const cur = cats.find(c => c.id === catId);
-          if (catId !== 'all' && cur && cur.grade !== g) catId = 'all';
+          if (catId !== 'all' && catId !== 'custom' && cur && cur.grade !== g) catId = 'all';
           config();
         },
       }, el('span', {}, `${g}-sinf`))));
@@ -86,12 +94,14 @@ export async function render(root, _params) {
       const q = searchVal.trim().toLowerCase();
       const items = [
         { id: 'all', name: 'Aralash', count: (grade === 'all' ? allQ : catsInGrade.flatMap(c => c.questions)).length },
+        ...(customSet ? [{ id: 'custom', name: customSet.name, count: customSet.questions.length, custom: true }] : []),
         ...catsInGrade.map(c => ({ id: c.id, name: c.name, count: c.questions.length })),
       ].filter(it => !q || it.name.toLowerCase().includes(q));
       listBox.replaceChildren(...(items.length ? items.map(it => el('button', {
         class: 'tug-pop__item' + (catId === it.id ? ' is-active' : ''),
         onclick: () => { catId = it.id; topicOpen = false; config(); },
-      }, el('span', {}, it.name), el('i', {}, String(it.count)))) : [el('div', { class: 'tug-pop__empty' }, 'Mavzu topilmadi')]));
+      }, el('span', {}, it.name, it.custom ? el('span', { class: 'tug-pop__badge' }, 'Yuklangan') : null),
+         el('i', {}, String(it.count)))) : [el('div', { class: 'tug-pop__empty' }, 'Mavzu topilmadi')]));
     }
     renderTopicList();
     const topicPop = !topicOpen ? null : el('div', { class: 'tug-pop' },
@@ -110,8 +120,123 @@ export async function render(root, _params) {
       }, el('span', {}, topicLabel), el('span', { class: 'tug-select__ico', html: ICON.search })),
       topicPop);
 
+    // ----- O'YIN YUKLASH (Excel) -----
+    function statusBox() {
+      if (!uploadStatus) return null;
+      const cls = 'tug-upload__status tug-upload__status--' +
+        (uploadStatus.kind === 'error' ? 'err' : uploadStatus.kind === 'warning' ? 'warn' : 'ok');
+      const shown = (uploadStatus.rowErrors || []).slice(0, 20);
+      const extra = (uploadStatus.rowErrors || []).length - shown.length;
+      return el('div', { class: cls },
+        el('p', {}, uploadStatus.message),
+        shown.length ? el('ul', { class: 'tug-upload__errlist' },
+          ...shown.map(re => el('li', {}, `${re.row}-qator: ${re.message}`)),
+          extra > 0 ? el('li', {}, `... va yana ${extra} ta xato`) : null) : null);
+    }
+
+    async function onUploadClick() {
+      if (uploadBusy) return;
+      const name = uploadForm.topicName.trim();
+      if (!name) { uploadStatus = { kind: 'error', message: 'Mavzu nomini kiriting.' }; config(); return; }
+      const file = uploadForm.file;
+      if (!file) { uploadStatus = { kind: 'error', message: "Fayl tanlanmagan. Iltimos, .xlsx faylni tanlang." }; config(); return; }
+      if (!/\.xlsx$/i.test(file.name)) {
+        uploadStatus = { kind: 'error', message: 'Faqat .xlsx formatidagi fayllar qabul qilinadi.' };
+        config(); return;
+      }
+      const optionCount = uploadForm.type === 'tf' ? 2 : uploadForm.optCount;
+      uploadBusy = true; uploadStatus = null; config();
+      try {
+        await loadXLSXLib();
+      } catch (e) {
+        uploadBusy = false;
+        uploadStatus = { kind: 'error', message: 'Excel kutubxonasini yuklab bo\'lmadi. Internet aloqasini tekshiring.' };
+        config(); return;
+      }
+      let result;
+      try {
+        result = await parseQuestionsWorkbook(file, optionCount);
+      } catch (e) {
+        uploadBusy = false;
+        uploadStatus = { kind: 'error', message: "Faylni o'qib bo'lmadi. Fayl buzilgan yoki noto'g'ri formatda bo'lishi mumkin." };
+        config(); return;
+      }
+      uploadBusy = false;
+      if (result.totalDataRows === 0) {
+        uploadStatus = { kind: 'error', message: "Faylda savollar topilmadi. Birinchi qator sarlavha, 2-qatordan savollar boshlanishi kerak." };
+        config(); return;
+      }
+      if (result.questions.length === 0) {
+        uploadStatus = { kind: 'error', message: "Birorta ham savol to'g'ri o'qilmadi. Quyidagi xatolarni tuzating:", rowErrors: result.rowErrors };
+        config(); return;
+      }
+      customSet = { name, type: uploadForm.type, optionCount, questions: result.questions, savedAt: Date.now() };
+      saveCustomTug(customSet);
+      catId = 'custom';
+      let message = `${result.questions.length} ta savol muvaffaqiyatli yuklandi.`;
+      const expected = Number(uploadForm.expectedCount);
+      if (expected > 0 && expected !== result.questions.length) {
+        message += ` Diqqat: siz ${expected} ta savol kiritgan edingiz, lekin faylda ${result.questions.length} ta savol topildi.`;
+      }
+      uploadStatus = {
+        kind: result.rowErrors.length ? 'warning' : 'success',
+        message, rowErrors: result.rowErrors,
+      };
+      config();
+    }
+
+    function onRemoveCustom() {
+      clearCustomTug();
+      customSet = null;
+      if (catId === 'custom') catId = 'all';
+      uploadStatus = null;
+      config();
+    }
+
+    function uploadPanel() {
+      const typeBtn = (t, label) => el('button', {
+        class: 'chorak-tab chorak-tab--sm' + (uploadForm.type === t ? ' is-active' : ''),
+        onclick: () => { uploadForm.type = t; config(); },
+      }, label);
+      const optBtn = (n, label) => el('button', {
+        class: 'chorak-tab chorak-tab--sm' + (uploadForm.optCount === n ? ' is-active' : ''),
+        onclick: () => { uploadForm.optCount = n; config(); },
+      }, label);
+
+      return el('div', { class: 'tug-setup__col tug-setup__col--upload' },
+        el('h3', { class: 'tug-upload__title' }, "O'yin yuklash"),
+        el('p', { class: 'tug-upload__hint' }, "Tayyor Excel (.xlsx) fayldan o'z savollaringizni yuklang."),
+        el('label', { class: 'tug-field' }, 'Mavzu nomi',
+          el('input', {
+            class: 'tug-input', value: uploadForm.topicName, placeholder: 'Masalan: Geometriya asoslari',
+            oninput: e => uploadForm.topicName = e.target.value,
+          })),
+        el('div', { class: 'tug-field' }, 'SAVOL TURI',
+          el('div', { class: 'chorak-tabs' }, typeBtn('regular', 'Oddiy savollar'), typeBtn('tf', "Rost yoki Yolg'on"))),
+        uploadForm.type === 'regular' ? el('div', { class: 'tug-field' }, 'JAVOBLAR SONI',
+          el('div', { class: 'chorak-tabs' }, optBtn(3, '3'), optBtn(4, '4'))) : null,
+        el('label', { class: 'tug-field' }, 'Savollar soni (taxminiy)',
+          el('input', {
+            class: 'tug-input', type: 'number', min: '1', value: uploadForm.expectedCount,
+            oninput: e => uploadForm.expectedCount = e.target.value,
+          })),
+        el('label', { class: 'tug-field' }, 'Excel fayl (.xlsx)',
+          el('input', {
+            class: 'tug-input', type: 'file',
+            accept: '.xlsx,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
+            onchange: e => { uploadForm.file = e.target.files[0] || null; uploadStatus = null; config(); },
+          })),
+        el('div', { class: 'tug-field', style: 'margin-top:4px' },
+          el('button', { class: 'btn btn--ink btn--sm', onclick: onUploadClick },
+            uploadBusy ? 'Yuklanmoqda…' : 'Yuklash')),
+        statusBox(),
+        customSet ? el('div', { class: 'tug-upload__current' },
+          el('span', {}, `Joriy yuklangan: ${customSet.name} (${customSet.questions.length} ta savol)`),
+          el('button', { class: 'btn btn--sm', onclick: onRemoveCustom }, "O'chirish")) : null);
+    }
+
     root.replaceChildren(nav(null),
-      el('main', { class: 'wrap', style: 'max-width:640px' },
+      el('main', { class: 'wrap tug-setup' },
         el('div', { class: 'crumb', style: 'padding-top:18px' },
           el('button', { onclick: () => { location.hash = '#/games'; } },
             el('span', { style: 'width:15px;height:15px;vertical-align:-2px;display:inline-block', html: ICON.arrowLeft }),
@@ -123,25 +248,28 @@ export async function render(root, _params) {
             'To\'g\'ri javob — arqonni o\'z tomoningga tortadi; xato — raqibga biroz yon beradi. ' +
             'Birinchi bo\'lib maqsad ochkoga yetgan jamoa g\'olib; vaqt tugasa ochkosi ko\'p jamoa yutadi. ' +
             'Ikkala jamoaga har raundda bir xil qiyinlikdagi misollar beriladi.'),
-          el('div', { class: 'tug-cfg' },
-            el('label', {}, 'Ko\'k jamoa nomi',
-              el('input', { class: 'tug-input', value: names.blue, oninput: e => names.blue = e.target.value || 'Ko\'k jamoa' })),
-            el('label', {}, 'Qizil jamoa nomi',
-              el('input', { class: 'tug-input', value: names.red, oninput: e => names.red = e.target.value || 'Qizil jamoa' }))),
-          el('div', { class: 'tug-selrow' }, gradeSelect, topicSelect),
-          el('div', { class: 'tug-optrow' },
-            el('div', { class: 'tug-optcol' },
-              el('div', { class: 'tug-optcol__label' }, 'G\'OLIB — MAQSAD OCHKO'),
-              el('div', { class: 'chorak-tabs' }, goalBtn(10, '10'), goalBtn(15, '15'), goalBtn(20, '20'), goalBtn(25, '25'))),
-            el('div', { class: 'tug-optcol' },
-              el('div', { class: 'tug-optcol__label' }, 'VAQT CHEGARASI'),
-              el('div', { class: 'chorak-tabs' }, durBtn(120, '2 daq'), durBtn(180, '3 daq'), durBtn(300, '5 daq')))),
-          el('div', { class: 'tug-startrow' },
-            el('button', { class: 'btn btn--tug-start', onclick: play }, 'Boshlash',
-              el('span', { style: 'width:22px;height:22px', html: ICON.arrowRight }))),
-          el('p', { style: 'font-weight:600;font-size:13px;color:var(--muted-soft);margin-top:22px' },
-            'Klaviatura: ko\'k jamoa — 1 2 3 4 · qizil jamoa — 7 8 9 0. Sensorli ekranda variantni bosing. ' +
-            'Savollarni tahrirlash: data/tug_questions.json.'))),
+          el('div', { class: 'tug-setup__grid' },
+            el('div', { class: 'tug-setup__col' },
+              el('div', { class: 'tug-cfg' },
+                el('label', {}, 'Ko\'k jamoa nomi',
+                  el('input', { class: 'tug-input', value: names.blue, oninput: e => names.blue = e.target.value || 'Ko\'k jamoa' })),
+                el('label', {}, 'Qizil jamoa nomi',
+                  el('input', { class: 'tug-input', value: names.red, oninput: e => names.red = e.target.value || 'Qizil jamoa' }))),
+              el('div', { class: 'tug-selrow' }, gradeSelect, topicSelect),
+              el('div', { class: 'tug-optrow' },
+                el('div', { class: 'tug-optcol' },
+                  el('div', { class: 'tug-optcol__label' }, 'G\'OLIB — MAQSAD OCHKO'),
+                  el('div', { class: 'chorak-tabs' }, goalBtn(10, '10'), goalBtn(15, '15'), goalBtn(20, '20'), goalBtn(25, '25'))),
+                el('div', { class: 'tug-optcol' },
+                  el('div', { class: 'tug-optcol__label' }, 'VAQT CHEGARASI'),
+                  el('div', { class: 'chorak-tabs' }, durBtn(120, '2 daq'), durBtn(180, '3 daq'), durBtn(300, '5 daq')))),
+              el('div', { class: 'tug-startrow' },
+                el('button', { class: 'btn btn--tug-start', onclick: play }, 'Boshlash',
+                  el('span', { style: 'width:22px;height:22px', html: ICON.arrowRight }))),
+              el('p', { style: 'font-weight:600;font-size:13px;color:var(--muted-soft);margin-top:22px' },
+                'Klaviatura: ko\'k jamoa — 1 2 3 4 · qizil jamoa — 7 8 9 0. Sensorli ekranda variantni bosing. ' +
+                'Savollarni tahrirlash: data/tug_questions.json.')),
+            uploadPanel()))),
       footer());
 
     if (topicOpen) {
@@ -158,7 +286,9 @@ export async function render(root, _params) {
   function play() {
     const gradedCats = grade === 'all' ? cats : cats.filter(c => c.grade === grade);
     const gradedPool = grade === 'all' ? allQ : gradedCats.flatMap(c => c.questions);
-    const pool = catId === 'all' ? gradedPool : (cats.find(c => c.id === catId)?.questions || gradedPool);
+    const pool = catId === 'custom' && customSet ? customSet.questions
+      : catId === 'all' ? gradedPool
+      : (cats.find(c => c.id === catId)?.questions || gradedPool);
     // ~30 raund: har raund ikkala jamoaga BIR XIL qiyinlikdagi, lekin HAR XIL savol.
     // usedAll — butun o'yin davomida (ikkala jamoa + qayta qurish) berilgan savollar;
     // bank tugamaguncha hech bir savol takrorlanmaydi va bir raundda ikki jamoaga
@@ -182,7 +312,7 @@ export async function render(root, _params) {
         }
         const q = cand[Math.floor(Math.random() * cand.length)];
         usedAll.add(q.q);
-        return { ...q, order: shuffle([0, 1, 2, 3]) };
+        return { ...q, order: shuffle(q.options.map((_, i) => i)) };
       };
       for (let k = 0; k < n; k++) {
         let t = bag[Math.floor(Math.random() * bag.length)];
