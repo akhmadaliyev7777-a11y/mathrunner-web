@@ -42,7 +42,7 @@ def mixed(w, n, d):
         return frac(n, d)
     return f"{w} {n}/{d}"
 
-def dedup_cap(rows):
+def dedup_cap(rows, per_cat=PER_CAT):
     seen, out = set(), []
     random.shuffle(rows)
     for r in rows:
@@ -52,7 +52,7 @@ def dedup_cap(rows):
         out.append(r)
     # qiyinlik bo'yicha muvozanat: ~20% d1, ~55% d2, ~25% d3
     by = {1: [x for x in out if x["d"] == 1], 2: [x for x in out if x["d"] == 2], 3: [x for x in out if x["d"] == 3]}
-    want = {1: round(PER_CAT * 0.22), 2: round(PER_CAT * 0.54), 3: round(PER_CAT * 0.24)}
+    want = {1: round(per_cat * 0.22), 2: round(per_cat * 0.54), 3: round(per_cat * 0.24)}
     picked = []
     for t in (1, 2, 3):
         random.shuffle(by[t])
@@ -60,9 +60,9 @@ def dedup_cap(rows):
     # yetmasa — qolganidan to'ldirish
     pool = [x for x in out if x not in picked]
     random.shuffle(pool)
-    picked += pool[:max(0, PER_CAT - len(picked))]
+    picked += pool[:max(0, per_cat - len(picked))]
     random.shuffle(picked)
-    return picked[:PER_CAT]
+    return picked[:per_cat]
 
 # ---------- KARRA JADVALI (×) ----------
 def cat_karra():
@@ -193,6 +193,41 @@ def cat_kasr_kop():
         rows.append({"q": f"{frac(n, dn)} × {k} = ?", "options": o, "correct": o.index(ans), "d": d})
     return dedup_cap(rows)
 
+# ---------- 2 AMALLI QO'SHISH/AYIRISH (BIR XIL MAXRAJLI KASRLAR) ----------
+def cat_kasr_ikki_amal():
+    rows = []
+    for _ in range(900):
+        dn = random.choice([4, 5, 6, 7, 8, 9, 10, 12])
+        op1, op2 = random.choice(["+", "-"]), random.choice(["+", "-"])
+        a = random.randint(1, dn - 2)
+        if op1 == "+":
+            b = random.randint(1, max(1, dn - 1 - a))
+        else:
+            b = random.randint(1, max(1, a - 1))
+        v1 = a + b if op1 == "+" else a - b
+        if v1 < 1 or v1 > dn - 1:
+            continue
+        if op2 == "+":
+            c = random.randint(1, max(1, dn - 1 - v1))
+        else:
+            c = random.randint(1, max(1, v1 - 1))
+        v2 = v1 + c if op2 == "+" else v1 - c
+        if v2 < 1 or v2 > dn - 1:
+            continue
+        sym = {"+": "+", "-": "−"}
+        text = f"{frac(a, dn)} {sym[op1]} {frac(b, dn)} {sym[op2]} {frac(c, dn)} = ?"
+        ans = frac(v2, dn)
+        d = 2 if dn <= 7 else 3
+        wr = [frac(v1, dn), frac(min(dn - 1, v2 + 1), dn), frac(max(1, v2 - 1), dn)]
+        o = list(dict.fromkeys([ans] + wr))
+        while len(o) < 4:
+            o.append(frac(random.randint(1, dn), dn))
+            o = list(dict.fromkeys(o))
+        o = o[:4]
+        random.shuffle(o)
+        rows.append({"q": text, "options": o, "correct": o.index(ans), "d": d})
+    return dedup_cap(rows, 30)
+
 CATS = [
     ("karra", "Karra jadvali (×)", 3, cat_karra),
     ("bolish", "Karra jadvali asosida bo'lish", 3, cat_bolish),
@@ -200,6 +235,7 @@ CATS = [
     ("kasr_teng", "Bir xil maxrajli kasrlar: + va −", 4, cat_kasr_teng),
     ("kasr_aralash", "Aralash sonlar: + va −", 4, cat_kasr_aralash),
     ("kasr_kopaytirish", "Kasrni songa ko'paytirish", 4, cat_kasr_kop),
+    ("kasr_ikki_amal", "2 amalli qo'shish/ayirish (kasr)", 4, cat_kasr_ikki_amal),
 ]
 
 def valid(rows):
